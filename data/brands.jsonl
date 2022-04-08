@@ -7,7 +7,7 @@
 {"id": "ATLETIC", "alias": [], "regex": [], "models": []}
 {"id": "AUDI", "alias": ["ауди"], "regex": [], "models": []}
 {"id": "AVTOMASH", "alias": [], "regex": [], "models": []}
-{"id": "AYATS", "alias": [], "regex": [], "models": []}
+{"id": "AYATS", "alias": ["BARYVAL"], "regex": [], "models": []}
 {"id": "BAW", "alias": [], "regex": [], "models": []}
 {"id": "BECEMA", "alias": [], "regex": [], "models": []}
 {"id": "BELAZ", "alias": ["белаз"], "regex": [], "models": []}
@@ -20,7 +20,7 @@
 {"id": "BSS-METACO", "alias": [], "regex": [], "models": []}
 {"id": "BUNGE", "alias": [], "regex": [], "models": []}
 {"id": "BYD", "alias": [], "regex": [], "models": []}
-{"id": "CADILLAC", "alias": ["кадилак"], "regex": [], "models": []}
+{"id": "CADILLAC", "alias": ["кадилак","КАДИЛЛАК"], "regex": [], "models": []}
 {"id": "CAMC", "alias": [], "regex": [], "models": []}
 {"id": "CAT", "alias": ["сат","caterpillar","сaterpillar","catarpillar"], "regex": [], "models": []}
 {"id": "CHAIKA-SERVIS", "alias": ["chaika servis"], "regex": [], "models": []}
@@ -71,18 +71,19 @@
 {"id": "IZH", "alias": ["иж"], "regex": [], "models": []}
 {"id": "ISUZU", "alias": [], "regex": [], "models": []}
 {"id": "JAGUAR", "alias": ["ягуар"], "regex": [], "models": []}
-{"id": "JEEP", "alias": [], "regex": [], "models": []}
+{"id": "JCB", "alias": [], "regex": [], "models": []}
+{"id": "JEEP", "alias": ["ДЖИП ГРАНД ЧИРОКИ"], "regex": [], "models": []}
 {"id": "JMC", "alias": [], "regex": [], "models": []}
 {"id": "JOHN DEERE", "alias": ["джон дир"], "regex": [], "models": []}
 {"id": "KAESSBOHRER", "alias": [], "regex": [], "models": []}
-{"id": "KAMAZ", "alias": ["камаз"], "regex": [], "models": []}
+{"id": "KAMAZ", "alias": ["камаз","НЕФАЗ"], "regex": [], "models": []}
 {"id": "KAVZ", "alias": ["краз"], "regex": [], "models": []}
 {"id": "KELBERG", "alias": [], "regex": [], "models": []}
 {"id": "KENWORTH", "alias": [], "regex": [], "models": []}
 {"id": "KIA", "alias": ["киа"], "regex": [], "models": []}
 {"id": "KMZ", "alias": [], "regex": [], "models": []}
 {"id": "KOEGEL", "alias": ["kogel"], "regex": [], "models": []}
-{"id": "KOMATSU", "alias": ["коматцу"], "regex": [], "models": []}
+{"id": "KOMATSU", "alias": ["коматцу","Каматцу"], "regex": [], "models": []}
 {"id": "KRAZ", "alias": [], "regex": [], "models": []}
 {"id": "KRONE", "alias": [], "regex": [], "models": []}
 {"id": "LADA", "alias": ["ваз"], "regex": [], "models": []}
@@ -91,47 +92,38 @@
 {"id": "LEXUS", "alias": ["лексус"], "regex": [], "models": []}
 {"id": "LIFAN", "alias": [], "regex": [], "models": []}
 {"id": "LINCOLN", "alias": [], "regex": [], "models": []}
+{"id": "МАСDON", "alias": ["Мак Дон"], "regex": [], "models": []}
 {"id": "MAN", "alias": [], "regex": [], "models": []}
 {"id": "MASERATI", "alias": [], "regex": [], "models": []}
 {"id": "MAZ", "alias": ["маз"], "regex": [], "models": []}
 {"id": "MAZDA", "alias": ["мазда"], "regex": [], "models": []}
 {"id": "MENCI", "alias": [], "regex": [], "models": []}
-{"id": "MERCEDES-BENZ", "alias": [
-    "mercedes benz",
-    "mersedes benz", 
-    "mercedes bens",
-    "mersedes bens",
-    "mercedes-benz",
-    "mersedes-benz", 
-    "mercedes-bens",
-    "mersedes-bens",
-    "mersedesbens",
-    "мерседес бенц",
-    "мерседес-бенц",
-    ], "regex": [], "models": []}
+{"id": "MERCEDES-BENZ", "alias": ["mercedes benz","mersedes benz","mercedes bens","mersedes bens","mercedes-benz","mersedes-benz", "mercedes-bens","mersedes-bens","mersedesbens","мерседес бенц","мерседес-бенц"], "regex": [], "models": []}
 {"id": "MERKER", "alias": [], "regex": [], "models": []}
 {"id": "MG", "alias": [], "regex": [], "models": []}
 {"id": "MITSUBISHI", "alias": ["мицубисси","мицубиси"], "regex": [], "models": []}
 {"id": "NISSAN", "alias": ["nisan","issan","ниссан","нисан"], "regex": [], "models": []}
+{"id": "NEW-HOLLAND", "alias": [], "regex": [], "models": []}
 {"id": "OPEL", "alias": ["опель"], "regex": [], "models": []}
+{"id": "OZGUL", "alias": [], "regex": [], "models": []}
 {"id": "PACTON", "alias": [], "regex": [], "models": []}
 {"id": "PETERBILT", "alias": [], "regex": [], "models": []}
 {"id": "PEUGEOT", "alias": ["пежо"], "regex": [], "models": []}
 {"id": "PIACENZA", "alias": [], "regex": [], "models": []}
 {"id": "PONTIAC", "alias": ["понтиак"], "regex": [], "models": []}
 {"id": "PORSCHE", "alias": ["porshe","порш","порше"], "regex": [], "models": []}
-{"id": "RENAULT", "alias": ["рено"], "regex": [], "models": []}
+{"id": "RENAULT", "alias": ["рено","RANAULT"], "regex": [], "models": []}
 {"id": "SAAB", "alias": [], "regex": [], "models": []}
 {"id": "SAMRO", "alias": [], "regex": [], "models": []}
 {"id": "SATURN", "alias": [], "regex": [], "models": []}
 {"id": "SCANIA", "alias": [], "regex": [], "models": []}
 {"id": "SCHMITZ CARGOBULL", "alias": ["schmitz"], "regex": [], "models": []}
 {"id": "SCHWARZMULLER", "alias": [], "regex": [], "models": []}
+{"id": "SCODA", "alias": ["SКОDA","шкода","shkoda"], "regex": [], "models": []}
 {"id": "SEAT", "alias": [], "regex": [], "models": []}
 {"id": "SESPEL", "alias": ["сеспель"], "regex": [], "models": []}
-{"id": "SHACMAN (SHAANXI)", "alias": ["shaanxi"], "regex": [], "models": []}
+{"id": "SHACMAN", "alias": ["shaanxi", "SHAANQI"], "regex": [], "models": []}
 {"id": "SHTURMAN KREDO+", "alias": [], "regex": [], "models": []}
-{"id": "SKODA", "alias": ["шкода","shkoda"], "regex": [], "models": []}
 {"id": "SMART", "alias": [], "regex": [], "models": []}
 {"id": "SSANGYONG", "alias": ["sangyong","ssanyong","ссанг енг","ssang yong","sang yong","санг енг"], "regex": [], "models": []}
 {"id": "SUBARU", "alias": ["субару"], "regex": [], "models": []}
@@ -150,7 +142,9 @@
 {"id": "XCMG", "alias": [], "regex": [], "models": []}
 {"id": "YAMAHA", "alias": ["yamaxa","ямаха"], "regex": [], "models": []}
 {"id": "ZIL", "alias": ["зил"], "regex": [], "models": []}
-{"id": "БУЛАРУС", "alias": ["белорус"], "regex": [], "models": []}
-{"id": "БУЛАРУС", "alias": ["белорус"], "regex": [], "models": []}
+{"id": "БЕЛАРУС", "alias": ["белорус"], "regex": [], "models": []}
 {"id": "КИРОВЕЦ", "alias": [], "regex": [], "models": []}
 {"id": "ГЕОМАШ", "alias": ["бкм"], "regex": [], "models": []}
+{"id": "РОССЕЛЬХОММАШ", "alias": ["РСМ", "Versatile","Acros"], "regex": [], "models": []}
+{"id": "СЗАП", "alias": [], "regex": [], "models": []}
+{"id": "ЧМЗАП", "alias": [], "regex": [], "models": []}
