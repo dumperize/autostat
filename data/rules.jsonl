@@ -1,4 +1,3 @@
-{"label": "BRAND", "pattern": [{"LOWER": "5tsarz"}], "id": "5tsarz"}
 {"label": "BRAND", "pattern": [{"LOWER": "acura"}], "id": "acura"}
 {"label": "BRAND", "pattern": [{"LOWER": "adr"}, {"LOWER": "grup"}], "id": "adr grup"}
 {"label": "BRAND", "pattern": [{"LOWER": "alloy"}], "id": "alloy"}
@@ -9,6 +8,7 @@
 {"label": "BRAND", "pattern": [{"LOWER": "ауди"}], "id": "audi"}
 {"label": "BRAND", "pattern": [{"LOWER": "avtomash"}], "id": "avtomash"}
 {"label": "BRAND", "pattern": [{"LOWER": "ayats"}], "id": "ayats"}
+{"label": "BRAND", "pattern": [{"LOWER": "baryval"}], "id": "ayats"}
 {"label": "BRAND", "pattern": [{"LOWER": "baw"}], "id": "baw"}
 {"label": "BRAND", "pattern": [{"LOWER": "becema"}], "id": "becema"}
 {"label": "BRAND", "pattern": [{"LOWER": "belaz"}], "id": "belaz"}
@@ -18,6 +18,7 @@
 {"label": "BRAND", "pattern": [{"LOWER": "bmw"}], "id": "bmw"}
 {"label": "BRAND", "pattern": [{"LOWER": "бмв"}], "id": "bmw"}
 {"label": "BRAND", "pattern": [{"LOWER": "bogdan"}], "id": "bogdan"}
+{"label": "BRAND", "pattern": [{"LOWER": "богдан"}], "id": "bogdan"}
 {"label": "BRAND", "pattern": [{"LOWER": "bova"}], "id": "bova"}
 {"label": "BRAND", "pattern": [{"LOWER": "brilliance"}], "id": "brilliance"}
 {"label": "BRAND", "pattern": [{"LOWER": "bss"}, {"IS_PUNCT": true}, {"LOWER": "metaco"}], "id": "bss-metaco"}
@@ -37,12 +38,15 @@
 {"label": "BRAND", "pattern": [{"LOWER": "changan"}], "id": "changan"}
 {"label": "BRAND", "pattern": [{"LOWER": "changfeng"}], "id": "changfeng"}
 {"label": "BRAND", "pattern": [{"LOWER": "chereau"}], "id": "chereau"}
-{"label": "BRAND", "pattern": [{"LOWER": "chery"}], "id": "chery"}
-{"label": "BRAND", "pattern": [{"LOWER": "черри"}], "id": "chery"}
-{"label": "BRAND", "pattern": [{"LOWER": "чери"}], "id": "chery"}
+{"label": "BRAND", "pattern": [{"LOWER": "cherry"}], "id": "cherry"}
+{"label": "BRAND", "pattern": [{"LOWER": "черри"}], "id": "cherry"}
+{"label": "BRAND", "pattern": [{"LOWER": "чери"}], "id": "cherry"}
+{"label": "BRAND", "pattern": [{"LOWER": "chery"}], "id": "cherry"}
 {"label": "BRAND", "pattern": [{"LOWER": "chevrolet"}], "id": "chevrolet"}
 {"label": "BRAND", "pattern": [{"LOWER": "шевроле"}], "id": "chevrolet"}
 {"label": "BRAND", "pattern": [{"LOWER": "chmzap"}], "id": "chmzap"}
+{"label": "BRAND", "pattern": [{"LOWER": "чмзап"}], "id": "chmzap"}
+{"label": "BRAND", "pattern": [{"LOWER": "чмза"}], "id": "chmzap"}
 {"label": "BRAND", "pattern": [{"LOWER": "chrysler"}], "id": "chrysler"}
 {"label": "BRAND", "pattern": [{"LOWER": "citroen"}], "id": "citroen"}
 {"label": "BRAND", "pattern": [{"LOWER": "ситроен"}], "id": "citroen"}
@@ -50,6 +54,7 @@
 {"label": "BRAND", "pattern": [{"LOWER": "daewoo"}], "id": "daewoo"}
 {"label": "BRAND", "pattern": [{"LOWER": "dawoo"}], "id": "daewoo"}
 {"label": "BRAND", "pattern": [{"LOWER": "део"}], "id": "daewoo"}
+{"label": "BRAND", "pattern": [{"LOWER": "дэу"}], "id": "daewoo"}
 {"label": "BRAND", "pattern": [{"LOWER": "daf"}], "id": "daf"}
 {"label": "BRAND", "pattern": [{"LOWER": "dnestr"}], "id": "dnestr"}
 {"label": "BRAND", "pattern": [{"LOWER": "dodge"}], "id": "dodge"}
@@ -90,7 +95,9 @@
 {"label": "BRAND", "pattern": [{"LOWER": "howo"}], "id": "howo"}
 {"label": "BRAND", "pattern": [{"LOWER": "hummer"}], "id": "hummer"}
 {"label": "BRAND", "pattern": [{"LOWER": "hammer"}], "id": "hummer"}
+{"label": "BRAND", "pattern": [{"LOWER": "хаммер"}], "id": "hummer"}
 {"label": "BRAND", "pattern": [{"LOWER": "hyundai"}], "id": "hyundai"}
+{"label": "BRAND", "pattern": [{"LOWER": "хундай"}], "id": "hyundai"}
 {"label": "BRAND", "pattern": [{"LOWER": "hyundai"}], "id": "hyundai"}
 {"label": "BRAND", "pattern": [{"LOWER": "hyndai"}], "id": "hyundai"}
 {"label": "BRAND", "pattern": [{"LOWER": "hyunday"}], "id": "hyundai"}
@@ -113,9 +120,12 @@
 {"label": "BRAND", "pattern": [{"LOWER": "jmc"}], "id": "jmc"}
 {"label": "BRAND", "pattern": [{"LOWER": "john"}, {"LOWER": "deere"}], "id": "john deere"}
 {"label": "BRAND", "pattern": [{"LOWER": "джон"}, {"LOWER": "дир"}], "id": "john deere"}
+{"label": "BRAND", "pattern": [{"LOWER": "jonh"}, {"LOWER": "deere"}], "id": "john deere"}
+{"label": "BRAND", "pattern": [{"LOWER": "john"}, {"LOWER": "derre"}], "id": "john deere"}
 {"label": "BRAND", "pattern": [{"LOWER": "kaessbohrer"}], "id": "kaessbohrer"}
 {"label": "BRAND", "pattern": [{"LOWER": "kamaz"}], "id": "kamaz"}
 {"label": "BRAND", "pattern": [{"LOWER": "камаз"}], "id": "kamaz"}
+{"label": "BRAND", "pattern": [{"LOWER": "нефаз"}], "id": "kamaz"}
 {"label": "BRAND", "pattern": [{"LOWER": "kavz"}], "id": "kavz"}
 {"label": "BRAND", "pattern": [{"LOWER": "краз"}], "id": "kavz"}
 {"label": "BRAND", "pattern": [{"LOWER": "kelberg"}], "id": "kelberg"}
@@ -127,10 +137,12 @@
 {"label": "BRAND", "pattern": [{"LOWER": "kogel"}], "id": "koegel"}
 {"label": "BRAND", "pattern": [{"LOWER": "komatsu"}], "id": "komatsu"}
 {"label": "BRAND", "pattern": [{"LOWER": "коматцу"}], "id": "komatsu"}
+{"label": "BRAND", "pattern": [{"LOWER": "каматцу"}], "id": "komatsu"}
 {"label": "BRAND", "pattern": [{"LOWER": "kraz"}], "id": "kraz"}
 {"label": "BRAND", "pattern": [{"LOWER": "krone"}], "id": "krone"}
 {"label": "BRAND", "pattern": [{"LOWER": "lada"}], "id": "lada"}
 {"label": "BRAND", "pattern": [{"LOWER": "ваз"}], "id": "lada"}
+{"label": "BRAND", "pattern": [{"LOWER": "лада"}], "id": "lada"}
 {"label": "BRAND", "pattern": [{"LOWER": "lamberet"}], "id": "lamberet"}
 {"label": "BRAND", "pattern": [{"LOWER": "land"}, {"LOWER": "rover"}], "id": "land rover"}
 {"label": "BRAND", "pattern": [{"LOWER": "ленд"}, {"LOWER": "ровер"}], "id": "land rover"}
@@ -149,19 +161,14 @@
 {"label": "BRAND", "pattern": [{"LOWER": "мазда"}], "id": "mazda"}
 {"label": "BRAND", "pattern": [{"LOWER": "menci"}], "id": "menci"}
 {"label": "BRAND", "pattern": [{"LOWER": "mercedes"}, {"IS_PUNCT": true}, {"LOWER": "benz"}], "id": "mercedes-benz"}
-{"label": "BRAND", "pattern": [{"LOWER": "mercedes"}, {"LOWER": "benz"}], "id": "mercedes-benz"}
-{"label": "BRAND", "pattern": [{"LOWER": "mersedes"}, {"LOWER": "benz"}], "id": "mercedes-benz"}
-{"label": "BRAND", "pattern": [{"LOWER": "mercedes"}, {"LOWER": "bens"}], "id": "mercedes-benz"}
-{"label": "BRAND", "pattern": [{"LOWER": "mersedes"}, {"LOWER": "bens"}], "id": "mercedes-benz"}
-{"label": "BRAND", "pattern": [{"LOWER": "mercedes"}, {"IS_PUNCT": true}, {"LOWER": "benz"}], "id": "mercedes-benz"}
-{"label": "BRAND", "pattern": [{"LOWER": "mersedes"}, {"IS_PUNCT": true}, {"LOWER": "benz"}], "id": "mercedes-benz"}
-{"label": "BRAND", "pattern": [{"LOWER": "mercedes"}, {"IS_PUNCT": true}, {"LOWER": "bens"}], "id": "mercedes-benz"}
-{"label": "BRAND", "pattern": [{"LOWER": "mersedes"}, {"IS_PUNCT": true}, {"LOWER": "bens"}], "id": "mercedes-benz"}
-{"label": "BRAND", "pattern": [{"LOWER": "mersedesbens"}], "id": "mercedes-benz"}
-{"label": "BRAND", "pattern": [{"LOWER": "мерседес"}, {"LOWER": "бенц"}], "id": "mercedes-benz"}
-{"label": "BRAND", "pattern": [{"LOWER": "мерседес"}, {"IS_PUNCT": true}, {"LOWER": "бенц"}], "id": "mercedes-benz"}
+{"label": "BRAND", "pattern": [{"LOWER": "мерседес"}], "id": "mercedes-benz"}
+{"label": "BRAND", "pattern": [{"LOWER": {"REGEX": "^мерседес$"}}, {"IS_PUNCT": true}, {"LOWER": {"REGEX": "^бен[цc]$"}}], "id": "mercedes-benz"}
+{"label": "BRAND", "pattern": [{"LOWER": {"REGEX": "^мерседес$"}}, {"LOWER": {"REGEX": "^бен[цc]$"}}], "id": "mercedes-benz"}
+{"label": "BRAND", "pattern": [{"LOWER": {"REGEX": "^[mм]er[сcs]edes$"}}, {"LOWER": {"REGEX": "^ben[sz]$"}}], "id": "mercedes-benz"}
+{"label": "BRAND", "pattern": [{"LOWER": {"REGEX": "^[mм]er[сcs]edes$"}}, {"IS_PUNCT": true}, {"LOWER": {"REGEX": "^ben[sz]$"}}], "id": "mercedes-benz"}
+{"label": "BRAND", "pattern": [{"LOWER": {"REGEX": "[mм]er[сcs]edesben[zs]"}}], "id": "mercedes-benz"}
+{"label": "BRAND", "pattern": [{"LOWER": {"REGEX": "[mм]er[cs]edes"}}], "id": "mercedes-benz"}
 {"label": "BRAND", "pattern": [{"LOWER": "merker"}], "id": "merker"}
-{"label": "BRAND", "pattern": [{"LOWER": "mg"}], "id": "mg"}
 {"label": "BRAND", "pattern": [{"LOWER": "mitsubishi"}], "id": "mitsubishi"}
 {"label": "BRAND", "pattern": [{"LOWER": "мицубисси"}], "id": "mitsubishi"}
 {"label": "BRAND", "pattern": [{"LOWER": "мицубиси"}], "id": "mitsubishi"}
@@ -187,6 +194,7 @@
 {"label": "BRAND", "pattern": [{"LOWER": "порше"}], "id": "porsche"}
 {"label": "BRAND", "pattern": [{"LOWER": "renault"}], "id": "renault"}
 {"label": "BRAND", "pattern": [{"LOWER": "рено"}], "id": "renault"}
+{"label": "BRAND", "pattern": [{"LOWER": "ranault"}], "id": "renault"}
 {"label": "BRAND", "pattern": [{"LOWER": "saab"}], "id": "saab"}
 {"label": "BRAND", "pattern": [{"LOWER": "samro"}], "id": "samro"}
 {"label": "BRAND", "pattern": [{"LOWER": "saturn"}], "id": "saturn"}
@@ -195,6 +203,10 @@
 {"label": "BRAND", "pattern": [{"LOWER": "schmitz"}], "id": "schmitz cargobull"}
 {"label": "BRAND", "pattern": [{"LOWER": "schwarzmuller"}], "id": "schwarzmuller"}
 {"label": "BRAND", "pattern": [{"LOWER": "scoda"}], "id": "scoda"}
+{"label": "BRAND", "pattern": [{"LOWER": "sкоda"}], "id": "scoda"}
+{"label": "BRAND", "pattern": [{"LOWER": "шкода"}], "id": "scoda"}
+{"label": "BRAND", "pattern": [{"LOWER": "shkoda"}], "id": "scoda"}
+{"label": "BRAND", "pattern": [{"LOWER": "skoda"}], "id": "scoda"}
 {"label": "BRAND", "pattern": [{"LOWER": "seat"}], "id": "seat"}
 {"label": "BRAND", "pattern": [{"LOWER": "sespel"}], "id": "sespel"}
 {"label": "BRAND", "pattern": [{"LOWER": "сеспель"}], "id": "sespel"}
@@ -202,9 +214,6 @@
 {"label": "BRAND", "pattern": [{"LOWER": "shaanxi"}], "id": "shacman"}
 {"label": "BRAND", "pattern": [{"LOWER": "shaanqi"}], "id": "shacman"}
 {"label": "BRAND", "pattern": [{"LOWER": "shturman"}, {"LOWER": "kredo+"}], "id": "shturman kredo+"}
-{"label": "BRAND", "pattern": [{"LOWER": "skoda"}], "id": "skoda"}
-{"label": "BRAND", "pattern": [{"LOWER": "шкода"}], "id": "skoda"}
-{"label": "BRAND", "pattern": [{"LOWER": "shkoda"}], "id": "skoda"}
 {"label": "BRAND", "pattern": [{"LOWER": "smart"}], "id": "smart"}
 {"label": "BRAND", "pattern": [{"LOWER": "ssangyong"}], "id": "ssangyong"}
 {"label": "BRAND", "pattern": [{"LOWER": "sangyong"}], "id": "ssangyong"}
@@ -222,11 +231,14 @@
 {"label": "BRAND", "pattern": [{"LOWER": "tagaz"}], "id": "tagaz"}
 {"label": "BRAND", "pattern": [{"LOWER": "tatra"}], "id": "tatra"}
 {"label": "BRAND", "pattern": [{"LOWER": "toyota"}], "id": "toyota"}
+{"label": "BRAND", "pattern": [{"LOWER": "oyota"}], "id": "toyota"}
 {"label": "BRAND", "pattern": [{"LOWER": "toyta"}], "id": "toyota"}
 {"label": "BRAND", "pattern": [{"LOWER": "тайота"}], "id": "toyota"}
 {"label": "BRAND", "pattern": [{"LOWER": "тойота"}], "id": "toyota"}
+{"label": "BRAND", "pattern": [{"LOWER": "тоyota"}], "id": "toyota"}
 {"label": "BRAND", "pattern": [{"LOWER": "tsm"}], "id": "tsm"}
 {"label": "BRAND", "pattern": [{"LOWER": "tsp"}], "id": "tsp"}
+{"label": "BRAND", "pattern": [{"LOWER": "тсп"}], "id": "tsp"}
 {"label": "BRAND", "pattern": [{"LOWER": "turbo"}, {"LOWER": "s"}, {"LOWER": "hoet"}], "id": "turbo s hoet"}
 {"label": "BRAND", "pattern": [{"LOWER": "uaz"}], "id": "uaz"}
 {"label": "BRAND", "pattern": [{"LOWER": "уаз"}], "id": "uaz"}
@@ -252,5 +264,16 @@
 {"label": "BRAND", "pattern": [{"LOWER": "россельхоммаш"}], "id": "россельхоммаш"}
 {"label": "BRAND", "pattern": [{"LOWER": "рсм"}], "id": "россельхоммаш"}
 {"label": "BRAND", "pattern": [{"LOWER": "versatile"}], "id": "россельхоммаш"}
+{"label": "BRAND", "pattern": [{"LOWER": "acros"}], "id": "россельхоммаш"}
 {"label": "BRAND", "pattern": [{"LOWER": "сзап"}], "id": "сзап"}
-{"label": "BRAND", "pattern": [{"LOWER": "чмзап"}], "id": "чмзап"}
+{"label": "BRAND", "pattern": [{"LOWER": "hafei"}], "id": "hafei"}
+{"label": "BRAND", "pattern": [{"LOWER": "palesse"}], "id": "palesse"}
+{"label": "BRAND", "pattern": [{"LOWER": "полесье"}], "id": "palesse"}
+{"label": "BRAND", "pattern": [{"LOWER": "палессе"}], "id": "palesse"}
+{"label": "BRAND", "pattern": [{"LOWER": "кзс"}], "id": "palesse"}
+{"label": "BRAND", "pattern": [{"LOWER": "liebherr"}], "id": "liebherr"}
+{"label": "BRAND", "pattern": [{"LOWER": "лиаз"}], "id": "лиаз"}
+{"label": "BRAND", "pattern": [{"LOWER": "hitachi"}], "id": "hitachi"}
+{"label": "BRAND", "pattern": [{"LOWER": "ural"}], "id": "ural"}
+{"label": "BRAND", "pattern": [{"LOWER": "урал"}], "id": "ural"}
+{"label": "BRAND", "pattern": [{"LOWER": "паз"}], "id": "паз"}

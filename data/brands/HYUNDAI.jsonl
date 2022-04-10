@@ -1,0 +1,29 @@
+{"id": "PORTER", "alias": ["ПОРТЕР","Н-100"], "regex": []}
+{"id": "COUNTY", "alias": [], "regex": []}
+{"id": "ACCENT", "alias": ["Акцент"], "regex": []}
+{"id": "TUCSON", "alias": [], "regex": []}
+{"id": "TRAJET", "alias": [], "regex": []}
+{"id": "MIGHTY", "alias": [], "regex": []}
+{"id": "EQUUS", "alias": [], "regex": []}
+{"id": "TERRACAN", "alias": [], "regex": []}
+{"id": "MATRIX", "alias": [], "regex": []}
+{"id": "GETZ", "alias": [], "regex": []}
+{"id": "GRANDEUR", "alias": [], "regex": []}
+{"id": "SONATA", "alias": ["Соната"], "regex": []}
+{"id": "SOLARIS", "alias": [], "regex": []}
+{"id": "GALLOPER", "alias": [], "regex": []}
+{"id": "SANTA FE", "alias": [], "regex": []}
+{"id": "GENESIS", "alias": [], "regex": []}
+{"id": "LAVITA", "alias": [], "regex": []}
+{"id": "VERNA", "alias": [], "regex": []}
+{"id": "STAREX", "alias": ["H-1", "H1","Н-1"], "regex": []}
+{"id": "ELANTRA", "alias": ["ЭЛАНТРА"], "regex": []}
+{"id": "ROBEX", "alias": [], "regex": []} 
+{"id": "R180W", "alias": [], "regex": []}
+{"id": "I30", "alias": ["i 30", "i-30"], "regex": []}
+{"id": "HL770-9S", "alias": [], "regex": []}
+{"id": "Libero", "alias": [], "regex": []}
+{"id": "IX 35", "alias": ["IX-35"], "regex": []}
+{"id": "HD-72", "alias": ["HD 722006"], "regex": ["^HD-72"]}
+{"id": "AERO EXPRESS", "alias": [], "regex": []}
+{"id": "R140W-9S", "alias": ["R140W"], "regex": []}

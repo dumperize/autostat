@@ -1,0 +1,71 @@
+{"label": "MODEL", "pattern": [{"LOWER": "previa"}], "id": "previa"}
+{"label": "MODEL", "pattern": [{"LOWER": "corolla"}], "id": "corolla"}
+{"label": "MODEL", "pattern": [{"LOWER": "королла"}], "id": "corolla"}
+{"label": "MODEL", "pattern": [{"LOWER": "picnic"}], "id": "picnic"}
+{"label": "MODEL", "pattern": [{"LOWER": "crown"}], "id": "crown"}
+{"label": "MODEL", "pattern": [{"LOWER": "land"}, {"LOWER": "cruiser"}], "id": "land cruiser"}
+{"label": "MODEL", "pattern": [{"LOWER": "ленд"}, {"LOWER": "круизер"}], "id": "land cruiser"}
+{"label": "MODEL", "pattern": [{"LOWER": "land"}, {"LOWER": "cruzer"}], "id": "land cruiser"}
+{"label": "MODEL", "pattern": [{"LOWER": "landcruiser"}], "id": "land cruiser"}
+{"label": "MODEL", "pattern": [{"LOWER": "lc"}], "id": "land cruiser"}
+{"label": "MODEL", "pattern": [{"LOWER": "ленд"}, {"LOWER": "крузер"}], "id": "land cruiser"}
+{"label": "MODEL", "pattern": [{"LOWER": "land"}, {"LOWER": "cruser"}], "id": "land cruiser"}
+{"label": "MODEL", "pattern": [{"LOWER": "ленд"}, {"LOWER": "круйзер"}], "id": "land cruiser"}
+{"label": "MODEL", "pattern": [{"LOWER": "hiace"}], "id": "hiace"}
+{"label": "MODEL", "pattern": [{"LOWER": "camry"}], "id": "camry"}
+{"label": "MODEL", "pattern": [{"LOWER": "камри"}], "id": "camry"}
+{"label": "MODEL", "pattern": [{"LOWER": "camri"}], "id": "camry"}
+{"label": "MODEL", "pattern": [{"LOWER": "hilux"}], "id": "hilux"}
+{"label": "MODEL", "pattern": [{"LOWER": "rav4"}], "id": "rav4"}
+{"label": "MODEL", "pattern": [{"LOWER": "rav"}, {"LOWER": "4"}], "id": "rav4"}
+{"label": "MODEL", "pattern": [{"LOWER": "raf"}, {"LOWER": "4"}], "id": "rav4"}
+{"label": "MODEL", "pattern": [{"LOWER": "avensis"}], "id": "avensis"}
+{"label": "MODEL", "pattern": [{"LOWER": "авенсис"}], "id": "avensis"}
+{"label": "MODEL", "pattern": [{"LOWER": "yaris"}], "id": "yaris"}
+{"label": "MODEL", "pattern": [{"LOWER": "ярис"}], "id": "yaris"}
+{"label": "MODEL", "pattern": [{"LOWER": "auris"}], "id": "auris"}
+{"label": "MODEL", "pattern": [{"LOWER": "matrix"}], "id": "matrix"}
+{"label": "MODEL", "pattern": [{"LOWER": "celica"}], "id": "celica"}
+{"label": "MODEL", "pattern": [{"LOWER": "isis"}], "id": "isis"}
+{"label": "MODEL", "pattern": [{"LOWER": "vitz"}], "id": "vitz"}
+{"label": "MODEL", "pattern": [{"LOWER": "mark"}], "id": "mark"}
+{"label": "MODEL", "pattern": [{"LOWER": "марк"}], "id": "mark"}
+{"label": "MODEL", "pattern": [{"LOWER": "echo"}], "id": "echo"}
+{"label": "MODEL", "pattern": [{"LOWER": "siena"}], "id": "siena"}
+{"label": "MODEL", "pattern": [{"LOWER": "sienna"}], "id": "siena"}
+{"label": "MODEL", "pattern": [{"LOWER": "prius"}], "id": "prius"}
+{"label": "MODEL", "pattern": [{"LOWER": "harrier"}], "id": "harrier"}
+{"label": "MODEL", "pattern": [{"LOWER": "ipsum"}], "id": "ipsum"}
+{"label": "MODEL", "pattern": [{"LOWER": "lite"}, {"LOWER": "ace"}], "id": "lite ace"}
+{"label": "MODEL", "pattern": [{"LOWER": "probox"}], "id": "probox"}
+{"label": "MODEL", "pattern": [{"LOWER": "tundra"}], "id": "tundra"}
+{"label": "MODEL", "pattern": [{"LOWER": "wish"}], "id": "wish"}
+{"label": "MODEL", "pattern": [{"LOWER": "corona"}], "id": "corona"}
+{"label": "MODEL", "pattern": [{"LOWER": "carina"}], "id": "carina"}
+{"label": "MODEL", "pattern": [{"LOWER": "карина"}], "id": "carina"}
+{"label": "MODEL", "pattern": [{"LOWER": "fortuner"}], "id": "fortuner"}
+{"label": "MODEL", "pattern": [{"LOWER": "dyna"}], "id": "dyna"}
+{"label": "MODEL", "pattern": [{"LOWER": "nadia"}], "id": "nadia"}
+{"label": "MODEL", "pattern": [{"LOWER": "sequoia"}], "id": "sequoia"}
+{"label": "MODEL", "pattern": [{"LOWER": "aygo"}], "id": "aygo"}
+{"label": "MODEL", "pattern": [{"LOWER": "succeed"}], "id": "succeed"}
+{"label": "MODEL", "pattern": [{"LOWER": "platz"}], "id": "platz"}
+{"label": "MODEL", "pattern": [{"LOWER": "gala"}], "id": "gala"}
+{"label": "MODEL", "pattern": [{"LOWER": "avalon"}], "id": "avalon"}
+{"label": "MODEL", "pattern": [{"LOWER": "verso"}], "id": "verso"}
+{"label": "MODEL", "pattern": [{"LOWER": "will"}, {"LOWER": "cypha"}], "id": "will cypha"}
+{"label": "MODEL", "pattern": [{"LOWER": "vista"}, {"LOWER": "ardeo"}], "id": "vista ardeo"}
+{"label": "MODEL", "pattern": [{"LOWER": "ardeo"}], "id": "vista ardeo"}
+{"label": "MODEL", "pattern": [{"LOWER": "виста"}], "id": "vista ardeo"}
+{"label": "MODEL", "pattern": [{"LOWER": "caldina"}], "id": "caldina"}
+{"label": "MODEL", "pattern": [{"LOWER": "калдина"}], "id": "caldina"}
+{"label": "MODEL", "pattern": [{"LOWER": "cresta"}], "id": "cresta"}
+{"label": "MODEL", "pattern": [{"LOWER": "креста"}], "id": "cresta"}
+{"label": "MODEL", "pattern": [{"LOWER": "venza"}], "id": "venza"}
+{"label": "MODEL", "pattern": [{"LOWER": "венза"}], "id": "venza"}
+{"label": "MODEL", "pattern": [{"LOWER": "sprinter"}], "id": "sprinter"}
+{"label": "MODEL", "pattern": [{"LOWER": "спринтер"}], "id": "sprinter"}
+{"label": "MODEL", "pattern": [{"LOWER": "highlander"}], "id": "highlander"}
+{"label": "MODEL", "pattern": [{"LOWER": "high"}, {"LOWER": "lander"}], "id": "highlander"}
+{"label": "MODEL", "pattern": [{"LOWER": "town"}, {"LOWER": "ace"}], "id": "town ace"}
+{"label": "MODEL", "pattern": [{"LOWER": "townace"}], "id": "town ace"}

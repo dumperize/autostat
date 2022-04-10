@@ -1,0 +1,22 @@
+{"id": "S-MAX", "alias": [], "regex": []}
+{"id": "FOCUS", "alias": ["ФОКУС","FUCUS","FOKUS"], "regex": []}
+{"id": "FUSION", "alias": ["ФЬЮЖН"], "regex": []}
+{"id": "TRANSIT", "alias": ["Транзит"], "regex": []}
+{"id": "P-100", "alias": ["P100"], "regex": []}
+{"id": "MONDEO", "alias": ["МОНДЕО"], "regex": []}
+{"id": "ESCORT", "alias": [], "regex": []}
+{"id": "C-MAX", "alias": [], "regex": []}
+{"id": "RANGER", "alias": [], "regex": []}
+{"id": "F-250", "alias": ["F250"], "regex": []}
+{"id": "F-150", "alias": ["F150"], "regex": []}
+{"id": "CARGO", "alias": [], "regex": []}
+{"id": "ESCAPE", "alias": [], "regex": []}
+{"id": "Explorer", "alias": [], "regex": []}
+{"id": "FIESTA", "alias": [], "regex": []}
+{"id": "EXCURSION", "alias": [], "regex": []}
+{"id": "KUGA", "alias": [], "regex": []}
+{"id": "TOURNEO", "alias": [], "regex": []}
+{"id": "MAVERICK", "alias": [], "regex": []}
+{"id": "GALAXY", "alias": [], "regex": []}
+{"id": "IVECO", "alias": [], "regex": []}
+{"id": "F550", "alias": ["DAMON DAYBREAK"], "regex": []} 
