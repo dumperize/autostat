@@ -8,3 +8,6 @@
 {"id": "NITRO", "alias": [], "regex": []}
 {"id": "CHALLENGER", "alias": [], "regex": []}
 {"id": "CALIBER", "alias": [], "regex": []}
+{"id": "CARAV", "alias": [], "regex": []}
+{"id": "Magnum", "alias": ["МАГНУМ"], "regex": []}
+{"id": "Intrepid", "alias": ["ERPID"], "regex": []}

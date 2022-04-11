@@ -62,6 +62,8 @@
 {"label": "BRAND", "pattern": [{"LOWER": "doosan"}], "id": "doosan"}
 {"label": "BRAND", "pattern": [{"LOWER": "dong"}, {"LOWER": "feng"}], "id": "dong feng"}
 {"label": "BRAND", "pattern": [{"LOWER": "донг"}, {"LOWER": "фенг"}], "id": "dong feng"}
+{"label": "BRAND", "pattern": [{"LOWER": "dongfeng"}], "id": "dong feng"}
+{"label": "BRAND", "pattern": [{"LOWER": "dfm"}], "id": "dong feng"}
 {"label": "BRAND", "pattern": [{"LOWER": "enxin"}], "id": "enxin"}
 {"label": "BRAND", "pattern": [{"LOWER": "erf"}], "id": "erf"}
 {"label": "BRAND", "pattern": [{"LOWER": "ermz"}], "id": "ermz"}
@@ -97,6 +99,7 @@
 {"label": "BRAND", "pattern": [{"LOWER": "hammer"}], "id": "hummer"}
 {"label": "BRAND", "pattern": [{"LOWER": "хаммер"}], "id": "hummer"}
 {"label": "BRAND", "pattern": [{"LOWER": "hyundai"}], "id": "hyundai"}
+{"label": "BRAND", "pattern": [{"LOWER": "huyndai"}], "id": "hyundai"}
 {"label": "BRAND", "pattern": [{"LOWER": "хундай"}], "id": "hyundai"}
 {"label": "BRAND", "pattern": [{"LOWER": "hyundai"}], "id": "hyundai"}
 {"label": "BRAND", "pattern": [{"LOWER": "hyndai"}], "id": "hyundai"}
@@ -138,6 +141,7 @@
 {"label": "BRAND", "pattern": [{"LOWER": "komatsu"}], "id": "komatsu"}
 {"label": "BRAND", "pattern": [{"LOWER": "коматцу"}], "id": "komatsu"}
 {"label": "BRAND", "pattern": [{"LOWER": "каматцу"}], "id": "komatsu"}
+{"label": "BRAND", "pattern": [{"LOWER": "комацу"}], "id": "komatsu"}
 {"label": "BRAND", "pattern": [{"LOWER": "kraz"}], "id": "kraz"}
 {"label": "BRAND", "pattern": [{"LOWER": "krone"}], "id": "krone"}
 {"label": "BRAND", "pattern": [{"LOWER": "lada"}], "id": "lada"}
@@ -277,3 +281,4 @@
 {"label": "BRAND", "pattern": [{"LOWER": "ural"}], "id": "ural"}
 {"label": "BRAND", "pattern": [{"LOWER": "урал"}], "id": "ural"}
 {"label": "BRAND", "pattern": [{"LOWER": "паз"}], "id": "паз"}
+{"label": "BRAND", "pattern": [{"LOWER": "lefan"}], "id": "lefan"}

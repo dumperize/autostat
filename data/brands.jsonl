@@ -37,7 +37,7 @@
 {"id": "DNESTR", "alias": [], "regex": [], "models": []}
 {"id": "DODGE", "alias": ["додж"], "regex": [], "models": []}
 {"id": "DOOSAN", "alias": [], "regex": [], "models": []}
-{"id": "DONG FENG", "alias": ["донг фенг","DONGFENG"], "regex": [], "models": []}
+{"id": "DONG FENG", "alias": ["донг фенг","DONGFENG", "DFM"], "regex": [], "models": []}
 {"id": "ENXIN", "alias": [], "regex": [], "models": []}
 {"id": "ERF", "alias": [], "regex": [], "models": []}
 {"id": "ERMZ", "alias": [], "regex": [], "models": []}

@@ -12,19 +12,19 @@ def list_lower(words_list):
             list_rules.append({"LOWER": word.lower()})
     return list_rules
 
-def create_rules(brands, label='BRAND'):
+def create_rules(data, label='BRAND', prefix=''):
     rules = []
-    for brand in brands:
-            id_brand = brand['id'].lower()
+    for item in data:
+            id_item = prefix + item['id'].lower()
             
-            parrern_list = list_lower(brand['id'])
-            rules.append({"label": label, "pattern": parrern_list, "id": id_brand})
+            parrern_list = list_lower(item['id'])
+            rules.append({"label": label, "pattern": parrern_list, "id": id_item})
             
-            for alias in (brand['alias']):
+            for alias in (item['alias']):
                 alias_list = list_lower(alias)
-                rules.append({"label": label, "pattern": alias_list, "id": id_brand})
+                rules.append({"label": label, "pattern": alias_list, "id": id_item})
                 
-            for reg in (brand['regex']):
+            for reg in (item['regex']):
                 pattern = []
                 if isinstance(reg, list):
                     for x in reg:
@@ -34,6 +34,6 @@ def create_rules(brands, label='BRAND'):
                             pattern.append({"LOWER": {"REGEX": x.lower()}})
                 else:
                     pattern = [{"LOWER": {"REGEX": reg.lower()}}]
-                rules.append({"label": label, "pattern": pattern, "id": id_brand})
+                rules.append({"label": label, "pattern": pattern, "id": id_item})
                 
     return rules
