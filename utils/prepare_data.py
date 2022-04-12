@@ -1,4 +1,6 @@
+import pandas as pd
 import re
+import jsonlines
 from functools import cmp_to_key
 
 
@@ -20,6 +22,10 @@ def create_prepare_file(brands,data):
 
     str_with_space = []
     for row in data:
-        str_with_space.append(' '.join(re.split(reg, row, flags=re.IGNORECASE)))
+        string = ' '.join(re.split(reg, row, flags=re.IGNORECASE))
+        string = re.sub(r'([0-9])(год|гос)', r'\1 \2', string)
+        string = re.sub(r'(\))([\s\w\d]*)(\))', r'\1 \2', string)
+        string = re.sub(r'(\()([\d\s\w]*)(\))', r' \1\2\3 ', string)
+        str_with_space.append(string)
         
     return str_with_space

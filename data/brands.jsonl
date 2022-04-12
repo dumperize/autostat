@@ -92,6 +92,7 @@
 {"id": "LIFAN", "alias": [], "regex": [], "models": []}
 {"id": "LINCOLN", "alias": [], "regex": [], "models": []}
 {"id": "МАСDON", "alias": ["Мак Дон"], "regex": [], "models": []}
+{"id": "MAGYAR", "alias": [], "regex": [], "models": []}
 {"id": "MAN", "alias": [], "regex": [], "models": []}
 {"id": "MASERATI", "alias": [], "regex": [], "models": []}
 {"id": "MAZ", "alias": ["маз"], "regex": [], "models": []}

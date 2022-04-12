@@ -1,6 +1,6 @@
 {"id": "FE", "alias": [], "regex": []}
 {"id": "S80", "alias": [], "regex": []}
-{"id": "FH", "alias": [], "regex": []}
+{"id": "FH", "alias": ["FH460", "FH12"], "regex": []}
 {"id": "F12", "alias": [], "regex": []}
 {"id": "FM", "alias": [], "regex": []}
 {"id": "FL", "alias": [], "regex": []}
@@ -9,3 +9,13 @@
 {"id": "F10", "alias": [], "regex": []}
 {"id": "S60", "alias": [], "regex": []}
 {"id": "700 SERIES", "alias": [], "regex": []}
+{"id": "XC60", "alias": ["XC 60","XC-60"], "regex": []}
+{"id": "XC90", "alias": ["XC 90","XC-90"], "regex": []}
+{"id": "XC70", "alias": ["XC 70","XC-70"], "regex": []}
+{"id": "V40", "alias": ["V 40"], "regex": []}
+{"id": "S40", "alias": ["S 40"], "regex": []}
+{"id": "VNL", "alias": ["VNL"], "regex": []}
+{"id": "L90F", "alias": [], "regex": []}
+{"id": "L120E", "alias": [], "regex": []}
+{"id": "BL71", "alias": ["BL 71"], "regex": []}
+{"id": "EC210", "alias": ["EC 210"], "regex": []}

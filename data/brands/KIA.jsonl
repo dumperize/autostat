@@ -1,24 +1,25 @@
-{"id": "SPORTAGE 3", "alias": [], "regex": []}
-{"id": "OPIRUS", "alias": [], "regex": []}
+{"id": "SPORTAGE", "alias": ["SPORTAG","СПОРТЕЙДЖ"], "regex": []}
+{"id": "OPIRUS", "alias": ["ОПИРУС"], "regex": []}
 {"id": "CERATO", "alias": [], "regex": []}
 {"id": "K-SERIES", "alias": [], "regex": []}
-{"id": "SPORTAGE 1", "alias": [], "regex": []}
-{"id": "VENGA", "alias": [], "regex": []}
-{"id": "CARNIVAL", "alias": [], "regex": []}
-{"id": "CARENS", "alias": [], "regex": []}
+{"id": "VENGA", "alias": ["VENGА"], "regex": []}
+{"id": "CARNIVAL", "alias": ["КАРНИВА"], "regex": []}
+{"id": "CARENS", "alias": ["КАРЕНС"], "regex": []}
 {"id": "BESTA", "alias": [], "regex": []}
-{"id": "SPECTRA", "alias": [], "regex": []}
-{"id": "RIO", "alias": [], "regex": []}
+{"id": "SPECTRA", "alias": ["Спектра"], "regex": []}
+{"id": "RIO", "alias": ["РИО"], "regex": []}
 {"id": "SORENTO", "alias": [], "regex": []}
 {"id": "MOHAVE", "alias": [], "regex": []}
-{"id": "SPORTAGE 4", "alias": [], "regex": []}
 {"id": "CLARUS", "alias": [], "regex": []}
-{"id": "SPORTAGE 2", "alias": [], "regex": []}
 {"id": "K900", "alias": [], "regex": []}
-{"id": "MAGENTIS", "alias": [], "regex": []}
+{"id": "MAGENTIS", "alias": ["МАДЖЕНТИС"], "regex": []}
 {"id": "AVELLA", "alias": [], "regex": []}
 {"id": "OPTIMA", "alias": [], "regex": []}
-{"id": "CEED", "alias": [], "regex": []}
+{"id": "CEED", "alias": ["Cee'd", "Cee d","Ceе'd","Cee`d"], "regex": []}
 {"id": "SOUL", "alias": [], "regex": []}
 {"id": "MAGENTIS/OPTIMA", "alias": [], "regex": []}
 {"id": "SEPHIA", "alias": [], "regex": []}
+{"id": "BONGO", "alias": [], "regex": []}
+{"id": "Picanto", "alias": [], "regex": []}
+{"id": "COSMOS", "alias": [], "regex": []}
+{"id": "K-3000S2", "alias": ["K3000S2"], "regex": []}
