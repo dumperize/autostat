@@ -3,3 +3,4 @@ __pycache__
 /data/rules
 /data/gibdd_*
 /data/pledges_prepare.csv
+/data/rules.jsonl

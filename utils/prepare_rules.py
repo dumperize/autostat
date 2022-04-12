@@ -1,5 +1,3 @@
-import jsonlines
-
 def list_lower(words_list):
     list_rules = []
     for word in words_list.split():
