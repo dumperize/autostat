@@ -1,5 +1,6 @@
 from spacy.language import Language
 import re
+import numpy as np
 
 
 def brand_1_model_one_or_many(brand, models, doc):
@@ -50,5 +51,4 @@ def expand_model(doc):
     if len(name_brands_set) == 1 and len(name_models_set):
         brand_1_model_one_or_many(ent_brands[0], ent_models, doc)
             
-
     return doc

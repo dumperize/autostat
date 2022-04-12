@@ -53,7 +53,6 @@
 {"id": "GAZ", "alias": ["газ", "луидор"], "regex": [], "models": []}
 {"id": "GEELY", "alias": [], "regex": [], "models": []}
 {"id": "GENERAL TRAILERS", "alias": [], "regex": [], "models": []}
-{"id": "GENESIS", "alias": [], "regex": [], "models": []}
 {"id": "GKB", "alias": [], "regex": [], "models": []}
 {"id": "GMC", "alias": [], "regex": [], "models": []}
 {"id": "GREAT WALL", "alias": [], "regex": [], "models": []}
