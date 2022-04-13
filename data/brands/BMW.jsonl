@@ -1,11 +1,15 @@
-{"id": "5 SERIES", "alias": [], "regex": []}
-{"id": "3 SERIES", "alias": [], "regex": []}
+{"id": "1 SERIES", "alias": ["120D","116I","135I","118 I"], "regex": []}
+{"id": "3 SERIES", "alias": ["320i","325I","325XI","318D","316i","318I","318"], "regex": []}
+{"id": "5 SERIES", "alias": ["5281", "525", "525i","520I","520D","530d","525 i","528","523I","525D","525 XI"], "regex": []}
+{"id": "6 SERIES", "alias": ["630"], "regex": []}
+{"id": "7 SERIES", "alias": ["740LI","750LI","730I","750 Li","745I","745 LI","735I"], "regex": []}
 {"id": "X6", "alias": [], "regex": []}
 {"id": "5 GT", "alias": [], "regex": []}
-{"id": "X5", "alias": [], "regex": []}
+{"id": "X1", "alias": [], "regex": []}
+{"id": "X5", "alias": ["Х5"], "regex": []}
+{"id": "X6", "alias": ["Х6"], "regex": []}
 {"id": "X3", "alias": [], "regex": []}
 {"id": "X4", "alias": [], "regex": []}
-{"id": "7 SERIES", "alias": [], "regex": []}
 {"id": "R NINE T", "alias": [], "regex": []}
 {"id": "3 GT", "alias": [], "regex": []}
 {"id": "F650GS", "alias": [], "regex": []}

@@ -31,6 +31,7 @@
 {"id": "CHMZAP", "alias": ["ЧМЗАП", "ЧМЗА"], "regex": [], "models": []}
 {"id": "CHRYSLER", "alias": [], "regex": [], "models": []}
 {"id": "CITROEN", "alias": ["ситроен"], "regex": [], "models": []}
+{"id": "CUKUROVA", "alias": [], "regex": [], "models": []}
 {"id": "DACIA", "alias": [], "regex": [], "models": []}
 {"id": "DAEWOO", "alias": ["dawoo","део","ДЭУ"], "regex": [], "models": []}
 {"id": "DAF", "alias": [], "regex": [], "models": []}
@@ -117,7 +118,7 @@
 {"id": "SCANIA", "alias": [], "regex": [], "models": []}
 {"id": "SCHMITZ CARGOBULL", "alias": ["schmitz"], "regex": [], "models": []}
 {"id": "SCHWARZMULLER", "alias": [], "regex": [], "models": []}
-{"id": "SCODA", "alias": ["SКОDA","шкода","shkoda","SKODA"], "regex": [], "models": []}
+{"id": "SKODA", "alias": ["SКОDA","шкода","shkoda","SCODA"], "regex": [], "models": []}
 {"id": "SEAT", "alias": [], "regex": [], "models": []}
 {"id": "SESPEL", "alias": ["сеспель"], "regex": [], "models": []}
 {"id": "SHACMAN", "alias": ["shaanxi", "SHAANQI"], "regex": [], "models": []}

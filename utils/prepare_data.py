@@ -23,7 +23,9 @@ def create_prepare_file(brands,data):
     str_with_space = []
     for row in data:
         string = ' '.join(re.split(reg, row, flags=re.IGNORECASE))
-        string = re.sub(r'([0-9A-Z])(год|гос|белый|легк|г.в|цвет)', r'\1 \2', string, flags=re.IGNORECASE)
+        string = re.sub(r'([0-9A-Z])(год|гос|белый|легк|г.в|цвет|тип)', r'\1 \2', string, flags=re.IGNORECASE)
+        string = re.sub(r'(максима) (льная)', r'\1\2', string, flags=re.IGNORECASE)
+        string = re.sub(r'([0-9])(VIN)', r'\1 \2', string, flags=re.IGNORECASE)
         string = re.sub(r'(\))([\s\w\d]*)(\))', r'\1 \2', string)
         string = re.sub(r'(\()([\d\s\w]*)(\))', r' \1\2\3 ', string)
         str_with_space.append(string)
