@@ -1,6 +1,1 @@
 volta
-pandas
-spacy
-matplotlib
-jsonlines
-tqdm
