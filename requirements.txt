@@ -1,5 +1,4 @@
 volta
-numpy
 pandas
 spacy
 matplotlib
