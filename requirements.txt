@@ -1,4 +1,3 @@
-bsl-py==1.0.0
 aiohttp==3.8.1
 aiosignal==1.2.0
 alembic==1.7.6
