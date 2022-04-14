@@ -1,0 +1,7 @@
+volta
+numpy
+pandas
+spacy
+matplotlib
+jsonlines
+tqdm
