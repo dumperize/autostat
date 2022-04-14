@@ -1,1 +1,1 @@
-web: voila --port=$PORT --Voila.ip=0.0.0.0 --no-browser index.ipynb
+web: voila --port=$PORT --Voila.ip=10.1.26.210 --no-browser index.ipynb
