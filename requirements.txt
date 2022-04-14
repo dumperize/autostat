@@ -5,4 +5,4 @@ spacy
 matplotlib
 jsonlines
 tqdm
-jupyter_server
+jupyter
