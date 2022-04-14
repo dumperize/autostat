@@ -1,1 +1,1 @@
-web: voila --no-browser --enable_nbextensions=True index.ipynb
+web: voila --port=3000 --no-browser --enable_nbextensions=True index.ipynb
