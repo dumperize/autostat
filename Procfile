@@ -1,1 +1,1 @@
-web: voila --port=$PORT --ip=0.0.0.0 --no-browser --enable_nbextensions=True index.ipynb
+web: voila --port=$PORT --Voila.ip=0.0.0.0 --no-browser --enable_nbextensions=True index.ipynb
