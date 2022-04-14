@@ -1,6 +1,6 @@
 .ipynb_checkpoints
 __pycache__
-/data/rules
+/data/rules/*.jsonl
 /data/gibdd_*
 /data/pledges_prepare.csv
 /data/rules.jsonl
