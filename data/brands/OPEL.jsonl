@@ -1,12 +1,12 @@
-{"id": "VECTRA", "alias": [], "regex": []}
+{"id": "VECTRA", "alias": ["Вектра"], "regex": []}
 {"id": "MERIVA", "alias": [], "regex": []}
-{"id": "ASTRA", "alias": [], "regex": []}
-{"id": "ZAFIRA", "alias": [], "regex": []}
+{"id": "ASTRA", "alias": ["Астра"], "regex": []}
+{"id": "ZAFIRA", "alias": ["Зафира"], "regex": []}
 {"id": "COMBO", "alias": [], "regex": []}
 {"id": "MOKKA", "alias": [], "regex": []}
-{"id": "OMEGA", "alias": [], "regex": []}
+{"id": "OMEGA", "alias": ["Омега"], "regex": []}
 {"id": "FRONTERA", "alias": [], "regex": []}
-{"id": "TIGRA", "alias": [], "regex": []}
+{"id": "TIGRA", "alias": ["Тигра"], "regex": []}
 {"id": "VIVARO", "alias": [], "regex": []}
 {"id": "MOVANO", "alias": [], "regex": []}
 {"id": "INSIGNIA", "alias": [], "regex": []}

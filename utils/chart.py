@@ -40,7 +40,7 @@ def show_bar_model(data, start = 0, end = 40):
 
     df = df[['count_brands', 'count_models','have_fit_model']][start:end]
 
-
+    plt.figure(figsize=(20, 10))
     for i in df.columns:
         plt.bar(df.index, df[i])
 
@@ -51,4 +51,3 @@ def show_bar_model(data, start = 0, end = 40):
     plt.xlabel('марки')
     plt.legend(df.columns)
     plt.tight_layout()
-    df
