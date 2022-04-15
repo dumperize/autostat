@@ -85,7 +85,7 @@
 {"id": "KOMATSU", "alias": ["коматцу","Каматцу","КОМАЦУ"], "regex": [], "models": []}
 {"id": "KRAZ", "alias": [], "regex": [], "models": []}
 {"id": "KRONE", "alias": [], "regex": [], "models": []}
-{"id": "LADA", "alias": ["ваз","Лада"], "regex": [], "models": []}
+{"id": "LADA", "alias": ["ваз","Лада"], "regex": ["^LADA[0-9а-я]"], "models": []}
 {"id": "LAMBERET", "alias": [], "regex": [], "models": []}
 {"id": "LAND ROVER", "alias": ["ленд ровер","лэнд ровер"], "regex": [], "models": []}
 {"id": "LEXUS", "alias": ["лексус"], "regex": [], "models": []}
@@ -112,6 +112,7 @@
 {"id": "PONTIAC", "alias": ["понтиак"], "regex": [], "models": []}
 {"id": "PORSCHE", "alias": ["porshe","порш","порше"], "regex": [], "models": []}
 {"id": "RENAULT", "alias": ["рено","RANAULT"], "regex": [], "models": []}
+{"id": "ROPa", "alias": [], "regex": [], "models": []}
 {"id": "SAAB", "alias": [], "regex": [], "models": []}
 {"id": "SAMRO", "alias": [], "regex": [], "models": []}
 {"id": "SATURN", "alias": [], "regex": [], "models": []}
@@ -123,6 +124,7 @@
 {"id": "SESPEL", "alias": ["сеспель"], "regex": [], "models": []}
 {"id": "SHACMAN", "alias": ["shaanxi", "SHAANQI"], "regex": [], "models": []}
 {"id": "SHTURMAN KREDO+", "alias": [], "regex": [], "models": []}
+{"id": "Shantui", "alias": [], "regex": [], "models": []}
 {"id": "SMART", "alias": [], "regex": [], "models": []}
 {"id": "SSANGYONG", "alias": ["sangyong","ssanyong","ссанг енг","ssang yong","sang yong","санг енг"], "regex": [], "models": []}
 {"id": "SUBARU", "alias": ["субару"], "regex": [], "models": []}
