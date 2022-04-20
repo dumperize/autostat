@@ -1,9 +1,14 @@
 # autostat
 
 Установка зависимостей
+```
 pip install -r requirements.txt
+```
 
+Запускаем юпитер ноутбук
+```
 python -m notebook
+```
 
 Откроется файловая структура
 нас интересует файл index.ipynb
