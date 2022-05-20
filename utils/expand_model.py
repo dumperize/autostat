@@ -27,20 +27,35 @@ def brand_many_model_one_or_many(brands, models, doc):
 def expand_model(doc):
     ent_brands = []
     ent_models = []
+    ent_years = []
     for ent in doc.ents:
         if ent.label_ == 'BRAND': ent_brands.append(ent)
         if ent.label_ == 'MODEL': ent_models.append(ent)
+        if ent.label_ == 'YEAR': 
+            prev_token = None if ent.start - 1 < 0 else doc[ent.start - 1]
+            next_token = None if ent.start < len(doc) else doc[ent.start + 1]
+
+            prev_result = re.search(r'г.|года|год|выпуска|в.', str(prev_token))
+            next_result = re.search(r'г.|года|год|выпуска|в.', str(next_token))
+            print(prev_result, prev_token, next_result, next_token)
+
+            if prev_result or next_result:
+                ent_years.append(ent)
+
+
     
-    doc.ents = ent_brands + ent_models
+    doc.ents = ent_brands + ent_models + ent_years
     
     name_brands_set = list(set([x.ent_id_.lower() for x in ent_brands]))
     name_models_set = list(set([x.ent_id_.lower() for x in ent_models]))
+    name_years_set = list(set([x.text.lower() for x in ent_years]))
     
     doc.user_data['count_brands'] = len(name_brands_set) # сколько всего найдено брендов
     doc.user_data['count_models'] = len(name_models_set) # сколько всего найдено моделей
     doc.user_data['first_brand'] = name_brands_set[0] if len(name_brands_set) else None # самый первый бренд
     doc.user_data['brands'] = ', '.join(name_brands_set)
     doc.user_data['models'] = ', '.join(name_models_set)
+    doc.user_data['years'] = ', '.join(name_years_set)
     doc.user_data['have_fit_model'] = False
     
     # есть бренды и модели
