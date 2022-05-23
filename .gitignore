@@ -6,3 +6,5 @@ __pycache__
 /data/rules.jsonl
 mlflow
 venv
+.snakemake
+data/interim/*

@@ -1,0 +1,50 @@
+import jsonlines
+import os
+
+
+BRANDS = os.listdir("data/raw/brands")
+
+
+rule all:
+    input:
+        "data/interim/rules/brands.jsonl",
+        expand("data/interim/rules/brands/{brand}", brand=BRANDS),
+        "data/interim/pledges_with_spaces.xls",
+        "data/interim/pledges_ner.xls"
+
+rule create_rules_brands:
+    input:
+        "data/raw/brands.jsonl",
+    output:
+        "data/interim/rules/brands.jsonl"
+    shell:
+        "python src/data/prepare_rules_brands.py '{input}' '{output}'"
+
+
+rule create_rules_models:
+    input:
+        "data/raw/brands/{brand}"
+    output:
+        "data/interim/rules/brands/{brand}"
+    shell:
+        "python src/data/prepare_rules_models.py '{input}' '{output}'"
+
+rule add_spaces:
+    input:
+        "data/raw/pledges.csv",
+        "data/raw/brands.jsonl",
+        "data/raw/brands",
+    output:
+        "data/interim/pledges_with_spaces.xls"
+    shell:
+        "python src/data/add_spaces.py {input} {output}"
+
+rule add_ner:
+    input:
+        "data/interim/pledges_with_spaces.xls",
+        "data/interim/rules/brands.jsonl",
+        "data/interim/rules/brands",
+    output:
+        "data/interim/pledges_ner.xls"
+    shell:
+        "python src/models/NER.py {input} {output}"
