@@ -7,11 +7,10 @@ from src.models.NER.model import create_ner_model
 
 @click.command()
 @click.argument("data_input_file", type=click.Path(exists=True))
-@click.argument("brands_rules_file", type=click.Path(exists=True))
-@click.argument("models_rules_path", type=click.Path(exists=True))
+@click.argument("rules_file", type=click.Path(exists=True))
 @click.argument("output_file")
-def find_ner(data_input_file, brands_rules_file: str, models_rules_path: str, output_file):
-    nlp = create_ner_model(brands_rules_file, models_rules_path)
+def find_ner(data_input_file, rules_file: str, output_file):
+    nlp = create_ner_model(rules_file)
 
     df = pd.read_excel(data_input_file)
     ents_info = []

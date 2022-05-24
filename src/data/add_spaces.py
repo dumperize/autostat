@@ -40,16 +40,11 @@ def create_prepare_file(brands, data):
 
 @click.command()
 @click.argument("data_input_file", type=click.Path(exists=True))
-@click.argument("brands_input_file", type=click.Path(exists=True))
-@click.argument("path_to_models", type=click.Path(exists=True))
+@click.argument("raw_rules", type=click.Path(exists=True))
 @click.argument("output_file")
-def add_spaces(data_input_file: str, brands_input_file:str, path_to_models:str, output_file: str):
-    BRANDS = os.listdir(path_to_models)
-    list_rules = list(jsonlines.open(brands_input_file))
-    for x in BRANDS:
-        reader = jsonlines.open(path_to_models + '/' + x)
-        list_rules = list_rules + list(reader)  
-    
+def add_spaces(data_input_file: str, raw_rules:str, output_file: str):
+    list_rules = list(jsonlines.open(raw_rules))
+
     data = pd.read_csv(data_input_file, delimiter='|')
     str_with_space = create_prepare_file(data=data['vehicleproperty_description_short'].values, brands=list_rules)
 
