@@ -4,3 +4,7 @@ __pycache__
 /data/gibdd_*
 /data/pledges_prepare.csv
 /data/rules.jsonl
+mlflow
+venv
+.snakemake
+data/interim/*

@@ -1,0 +1,15 @@
+{"id": "CRAFTER", "alias": [], "regex": []}
+{"id": "CADDY", "alias": [], "regex": []}
+{"id": "POLO", "alias": ["Поло"], "regex": []}
+{"id": "PASSAT", "alias": ["ПАССАТ"], "regex": []}
+{"id": "SHARAN", "alias": [], "regex": []}
+{"id": "BORA", "alias": ["Бора"], "regex": []}
+{"id": "JETTA", "alias": [], "regex": []}
+{"id": "TRANSPORTER", "alias": [], "regex": []}
+{"id": "CARAVELLE", "alias": [], "regex": []}
+{"id": "TOUAREG", "alias": ["Туарег"], "regex": []}
+{"id": "TIGUAN", "alias": [], "regex": []}
+{"id": "LT", "alias": [], "regex": []}
+{"id": "GOLF", "alias": ["Гольф"], "regex": []}
+{"id": "TOURAN", "alias": [], "regex": []}
+{"id": "РЫЦАРЬ", "alias": [], "regex": []}

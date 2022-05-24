@@ -1,0 +1,33 @@
+{"id": "MURANO", "alias": [], "regex": []}
+{"id": "BLUEBIRD", "alias": [], "regex": []}
+{"id": "PRIMERA", "alias": ["ПРИМЕРА"], "regex": []}
+{"id": "ALMERA", "alias": ["АЛЬМЕРА"], "regex": []}
+{"id": "QASHQAI", "alias": ["КАШКАЙ"], "regex": []}
+{"id": "NAVARA", "alias": [], "regex": []}
+{"id": "TIIDA", "alias": [], "regex": []}
+{"id": "MICRA", "alias": [], "regex": []}
+{"id": "MAXIMA", "alias": ["МАКСИМА"], "regex": []}
+{"id": "SERENA", "alias": ["VANETTE"], "regex": []}
+{"id": "TERRANO", "alias": [], "regex": []}
+{"id": "PATROL", "alias": ["ПАТРОЛ","ПАТРУЛЬ"], "regex": []}
+{"id": "JUKE", "alias": [], "regex": []}
+{"id": "PATHFINDER", "alias": ["Pathfiender"], "regex": []}
+{"id": "TEANA", "alias": ["ТЕАНА"], "regex": []}
+{"id": "X-TRAIL", "alias": [], "regex": []}
+{"id": "NOTE", "alias": [], "regex": []}
+{"id": "CABSTAR", "alias": [], "regex": []}
+{"id": "SAFARI", "alias": ["Сафари"], "regex": []}
+{"id": "PRESAGE", "alias": [], "regex": []}
+{"id": "WINGROAD", "alias": [], "regex": []} 
+{"id": "SANNY", "alias": ["SAUNNY", "SUNNY"], "regex": []}
+{"id": "CUBE", "alias": [], "regex": []}
+{"id": "URVAN", "alias": [], "regex": []}
+{"id": "ATLAS", "alias": [], "regex": []}
+{"id": "UZA", "alias": [], "regex": []}
+{"id": "CARAVAN", "alias": [], "regex": []}
+{"id": "Cefiro", "alias": ["ЦЕФИРО"], "regex": []}
+{"id": "BASSARA", "alias": [], "regex": []}
+{"id": "FUGA", "alias": [], "regex": []}
+{"id": "PICK-UP", "alias": ["NP300", "NP 300", "PICK UP"], "regex": []}
+{"id": "DIESEL-UP", "alias": ["DIESEL UP"], "regex": []}
+{"id": "EXPERT", "alias": [], "regex": []}

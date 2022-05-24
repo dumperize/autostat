@@ -1,0 +1,22 @@
+{"id": "PREMIUM", "alias": [], "regex": []}
+{"id": "SANDERO", "alias": ["Сандеро"], "regex": []}
+{"id": "MIDLUM", "alias": [], "regex": []}
+{"id": "TRAFIC", "alias": [], "regex": []}
+{"id": "DUSTER", "alias": ["Дастер","Дустер"], "regex": []}
+{"id": "SYMBOL", "alias": ["СИМБОЛ"], "regex": []}
+{"id": "MEGANE", "alias": ["МЕГАН"], "regex": []}
+{"id": "MASTER", "alias": [], "regex": []}
+{"id": "KANGOO", "alias": [], "regex": []}
+{"id": "MIDLINER", "alias": [], "regex": []}
+{"id": "MAGNUM", "alias": ["Магнум"], "regex": []}
+{"id": "CLIO", "alias": [], "regex": []}
+{"id": "LOGAN", "alias": ["Логан"], "regex": []}
+{"id": "KERAX", "alias": [], "regex": []}
+{"id": "LAGUNA", "alias": [], "regex": []}
+{"id": "SCENIC", "alias": [], "regex": []}
+{"id": "VEL SATIS", "alias": [], "regex": []}
+{"id": "MASCOTT", "alias": [], "regex": []}
+{"id": "KOLEOS", "alias": ["Колеос"], "regex": []}
+{"id": "SR", "alias": [], "regex": []}
+{"id": "FLUENCE", "alias": [], "regex": []}
+{"id": "MODUS", "alias": [], "regex": []}
