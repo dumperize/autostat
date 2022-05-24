@@ -47,4 +47,4 @@ rule add_ner:
     output:
         "data/interim/pledges_ner.xls"
     shell:
-        "python src/models/NER.py {input} {output}"
+        "python src/models/find_NER.py {input} {output}"

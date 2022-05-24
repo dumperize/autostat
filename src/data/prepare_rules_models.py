@@ -9,7 +9,7 @@ from src.data.utils import create_rules
 @click.argument("output_file")
 def prepare_rules_models(input_file: str, output_file: str):
     models = jsonlines.open(input_file)
-    brand = str.split('.jsonl')[0]
+    brand = input_file.split('/')[-1].split('.jsonl')[0]
     rules_model = create_rules(models, label='MODEL', prefix=brand+'_')
     with jsonlines.open(output_file, mode='w') as writer:
         writer.write_all(rules_model)

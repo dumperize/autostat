@@ -23,8 +23,13 @@ def create_prepare_file(brands, data):
 
     str_with_space = []
     for row in data:
+        big_words = r'цвет|рама|двигатель|двигателя|шасси|модель|наименование|марка|белый|выпуска|адрес|коробка'
+        small_words = r'год|гос|легк|г.в|г.'
         string = ' '.join(re.split(reg, row, flags=re.IGNORECASE))
-        string = re.sub(r'([0-9A-Z])(год|гос|белый|легк|г.в|цвет|тип)', r'\1 \2', string, flags=re.IGNORECASE)
+        string = re.sub(r'([0-9A-Z])({}|{})'.format(small_words, big_words), r'\1 \2', string, flags=re.IGNORECASE)
+        string = re.sub(r'({}|{})([0-9A-Z])'.format(small_words, big_words), r'\1 \2', string, flags=re.IGNORECASE)
+        string = re.sub(r'([А-я])(г.в|{})'.format(big_words), r'\1 \2', string, flags=re.IGNORECASE)
+        string = re.sub(r'({})([А-я])'.format(big_words), r'\1 \2', string, flags=re.IGNORECASE)
         string = re.sub(r'(максима) (льная)', r'\1\2', string, flags=re.IGNORECASE)
         string = re.sub(r'([0-9])(VIN)', r'\1 \2', string, flags=re.IGNORECASE)
         string = re.sub(r'(\))([\s\w\d]*)(\))', r'\1 \2', string)
