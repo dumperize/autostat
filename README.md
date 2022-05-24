@@ -4,7 +4,9 @@
 ```
 pip install -r requirements.txt
 ```
+также нужно уснатовить snakemake - https://snakemake.readthedocs.io/en/stable/getting_started/installation.html
 
+--- 
 Сырые данные лежат в data/raw
 - исходный файл - pledges.csv
 - список правил для брендов - brands.jsonl
