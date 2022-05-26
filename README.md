@@ -14,7 +14,9 @@ pip install -r requirements.txt
 
 ----
 Чтобы запустить весь процесс обсчета исходного файла пишем в консоли
-может понадобится `export PYTHONPATH="${PYTHONPATH}:path/to/project` разрулить это нормально потом
+
+может понадобится `export PYTHONPATH="${PYTHONPATH}:path/to/project` (разрулить это нормально потом)
+
 ```
 snakemake --cores all
 ```
