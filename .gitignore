@@ -8,3 +8,7 @@ mlflow
 venv
 .snakemake
 data/interim/*
+
+mlruns
+Docker/minio
+Docker/pgadmin
