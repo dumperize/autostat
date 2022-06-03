@@ -12,3 +12,4 @@ xlwt
 mlflow
 python-dotenv
 fastapi
+python-multipart

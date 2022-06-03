@@ -65,10 +65,7 @@ def find_ner(data_input_file, rules_file: str, output_file):
             registered_model_name="autostat_ner", 
             signature=signature)
 
-        # mlflow.pyfunc.save_model(
-        #     path="test2", 
-        #     python_model=NerModel("spacy"))
-        mlflow.log_artifact('requirements.txt')
+        mlflow.log_artifact('src/models/NER/expand_model.py')
 
         mlflow.log_metric('count brands', df.count()['brands'])
         mlflow.log_metric('count models', df.count()['models'])
