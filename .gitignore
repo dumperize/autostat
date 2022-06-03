@@ -12,3 +12,4 @@ data/interim/*
 mlruns
 Docker/minio
 Docker/pgadmin
+tmp
