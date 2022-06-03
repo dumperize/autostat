@@ -1,5 +1,13 @@
 # autostat
 
+через докер (чуть позже напишу как)
+
+snakemake --cores all -R add_ner  
+uvicorn src.app.inference:app --host 0.0.0.0 --port 5040  
+
+docker build -f Docker/fast_api/Dockerfile -t fast_api .     
+
+
 Установка зависимостей
 ```
 pip install -r requirements.txt

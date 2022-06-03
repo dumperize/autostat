@@ -1,0 +1,17 @@
+voila
+numpy
+pandas
+spacy==3.2.4
+matplotlib
+jsonlines
+tqdm
+jupyter
+https://github.com/explosion/spacy-models/releases/download/ru_core_news_sm-3.2.0/ru_core_news_sm-3.2.0.tar.gz#egg=ru_core_news_sm==3.2.0
+xlrd
+xlwt
+mlflow
+python-dotenv
+fastapi
+uvicorn
+python-multipart
+boto3
