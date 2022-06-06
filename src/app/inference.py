@@ -19,6 +19,25 @@ app = FastAPI()
 
 os.environ['MLFLOW_S3_ENDPOINT_URL'] = os.getenv('MLFLOW_S3_ENDPOINT_URL')
 
+
+def simplify_multiple(objects):
+    for obj in objects:
+        if obj['brand'].find(',') > -1:
+            arr = [obj | {"brand": x} for x in obj['brand'].split(',')]
+            return simplify_multiple(arr)
+        
+        if obj['model'].find(',') > -1:
+            arr = [obj | {"model": x}  for x in obj['model'].split(',')]
+            return simplify_multiple(arr)
+        
+        if obj['year'].find(',') > -1:
+            arr = [obj | {"year": x}  for x in obj['year'].split(',')]
+            return simplify_multiple(arr)
+    return objects
+
+def flatten(xss):
+    return [x for xs in xss for x in xs]
+
 class Model:
     def __init__(self, model_name, model_stage) -> None:
         client = mlflow.tracking.MlflowClient()
@@ -37,11 +56,16 @@ class Model:
         self.model = mlflow.spacy.load_model(model_uri=f'models:/{model_name}/{model_stage}')
 
     def predict(self, data):
-        result = {}
+        result = []
         for index, row in data.iterrows():
             doc = self.model(str(row['text']))
-            result[index] = doc.user_data
-        return result
+            result = result + simplify_multiple([{
+                "id": index,
+                "brand": doc.user_data['brands'],
+                "model": doc.user_data['models'],
+                "year": doc.user_data['years'],
+            }])
+        return  result
 
     
 model = Model('autostat_ner', 'staging')
