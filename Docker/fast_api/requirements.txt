@@ -13,3 +13,7 @@ fastapi
 uvicorn
 python-multipart
 boto3
+uvicorn[standard]
+wsproto
+websockets
+

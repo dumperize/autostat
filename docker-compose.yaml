@@ -21,6 +21,18 @@ services:
       retries: 3
     volumes:
       - ./Docker/minio/:/data
+   
+  createbuckets:
+    image: minio/mc
+    depends_on:
+      - minio
+    entrypoint: >
+      /bin/sh -c "
+      /usr/bin/mc alias set myminio http://minio:9000 ${AWS_ACCESS_KEY_ID} ${AWS_SECRET_ACCESS_KEY};
+      /usr/bin/mc mb myminio/ner;
+      /usr/bin/mc policy set public myminio/ner;
+      exit 0;
+      "
 
   nginx:
     image: nginx:1.19.2-alpine
@@ -62,7 +74,7 @@ services:
     volumes:
       - ./Docker/pgadmin/:/var/lib/pgadmin
     ports:
-      - "5050:80"
+      - "5050:5050"
     networks:
       - postgres
 
@@ -85,7 +97,7 @@ services:
     image: fast_api
     container_name: fast_api
     ports:
-      - "8003:80"
+      - "8003:8003"
     networks:
       - s3
     environment:
