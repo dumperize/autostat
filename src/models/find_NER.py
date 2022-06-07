@@ -4,7 +4,7 @@ import os
 import pandas as pd
 import mlflow
 import mlflow.spacy
-# from mlflow.models.signature import infer_signature
+from mlflow.models.signature import infer_signature
 
 from src.models.NER.model import create_ner_model
 
@@ -38,14 +38,14 @@ def find_ner(data_input_file, rules_file: str, important_names_file: str, output
         df = df.join(ents_info_df,on='order') 
         df.to_excel(output_file, index=False, encoding='utf-8')
 
-        # signature = infer_signature(df['vehicleproperty_description_short'], df['brands'])
+        signature = infer_signature(df['vehicleproperty_description_short'], df['brands'])
 
         mlflow.set_tag('model_flavor', 'spacy')
-        # mlflow.spacy.log_model(
-        #     spacy_model=nlp, 
-        #     artifact_path='model',
-        #     registered_model_name="autostat_ner", 
-        #     signature=signature)
+        mlflow.spacy.log_model(
+            spacy_model=nlp, 
+            artifact_path='model',
+            registered_model_name="autostat_ner", 
+            signature=signature)
 
         mlflow.log_artifact(rules_file)
         mlflow.log_artifact(important_names_file)
