@@ -1,15 +1,15 @@
 import jsonlines
 import os
 import json
+from functools import cmp_to_key
 
 BRANDS = os.listdir("data/raw/brands")
-
 
 rule all:
     input:
         "data/interim/rules/brands.jsonl",
         expand("data/interim/rules/brands/{brand}", brand=BRANDS),
-        "data/interim/pledges_with_spaces.xls",
+        "data/interim/important_names.jsonl",
         "data/interim/rules/all_rules.jsonl",
         "data/interim/all_raw_rules.jsonl",
         "data/processed/pledges_ner.xls",
@@ -61,19 +61,33 @@ rule concat_rules:
             for entry in l:
                 writer.write(entry)
 
-rule add_spaces:
+
+
+rule create_important_names:
     input:
-        "data/raw/pledges.csv",
         "data/interim/all_raw_rules.jsonl"
     output:
-        "data/interim/pledges_with_spaces.xls"
-    shell:
-        "python src/data/add_spaces.py {input} {output}"
+        "data/interim/important_names.jsonl"
+    run:
+        def condition(word): return not(len(word) < 3 or word.isdecimal())
+        raw_rules = list(jsonlines.open(input[0]))
+        main_entities = []
+        for rule in raw_rules:
+            if condition(rule['id']): main_entities.append(rule['id'])    
+            for alias in rule['alias']:
+                if condition(alias): main_entities.append(alias)
+        main_entities = [x.lower() for x in main_entities]
+        main_entities = sorted(main_entities, key=cmp_to_key(lambda item1, item2: -1 if len(item2) - len(item1) < 0 else 1))
+
+        with jsonlines.open(output[0], mode='w') as writer:
+            for entry in main_entities:
+                writer.write(entry)
 
 rule add_ner:
     input:
-        "data/interim/pledges_with_spaces.xls",
-        "data/interim/rules/all_rules.jsonl"
+        "data/raw/pledges.csv",
+        "data/interim/rules/all_rules.jsonl",
+        "data/interim/important_names.jsonl"
     output:
         "data/processed/pledges_ner.xls"
     shell:

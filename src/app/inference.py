@@ -1,4 +1,3 @@
-from gettext import find
 from http.client import HTTPException
 import os
 import pandas as pd
@@ -7,10 +6,9 @@ from dotenv import load_dotenv
 from fastapi import FastAPI, UploadFile
 from fastapi.encoders import jsonable_encoder
 from fastapi.responses import JSONResponse
-from spacy import Language
-from mlflow.store.artifact.models_artifact_repo import ModelsArtifactRepository
 
-# from src.models.NER.expand_model import expand_model
+from src.models.NER.model import create_ner_model
+
 
 load_dotenv()
 
@@ -45,15 +43,12 @@ class Model:
         model = next(x for x in models.latest_versions if x.current_stage == 'Staging')
         run_id=model.run_id
 
-        # делаю жестюгу, потому как spacy не умеет упаковывать свои компоненты.... =((
-        client = mlflow.tracking.MlflowClient()
         local_dir = os.path.abspath(os.getcwd()) + "/tmp/artifact_downloads"
-        if not os.path.exists(local_dir):
-            os.makedirs(local_dir)
-        local_path = client.download_artifacts(run_id, "expand_model.py", local_dir)
-        exec(open(local_path).read())
+        if not os.path.exists(local_dir): os.makedirs(local_dir)
 
-        self.model = mlflow.spacy.load_model(model_uri=f'models:/{model_name}/{model_stage}')
+        important_names_file = client.download_artifacts(run_id, "important_names.jsonl", local_dir)
+        rules_file = client.download_artifacts(run_id, "all_rules.jsonl", local_dir)
+        self.model = create_ner_model(rules_file, important_names_file)
 
     def predict(self, data):
         result = []
