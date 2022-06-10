@@ -1,0 +1,23 @@
+[
+    {
+        "id": "DAEWOO",
+        "names": ["DAEWOO", "ДЕУ","ДАЕВУ"],
+        "models": [
+            {
+                "id": "BC SERIES",
+                "names": ["BC"],
+                "prefix": true
+            },
+            {
+                "id": "BH SERIES",
+                "names": ["BH"],
+                "prefix": true
+            },
+            {
+                "id": "BW SERIES",
+                "names": ["BW"],
+                "prefix": true
+            },
+        ]
+    }
+]
