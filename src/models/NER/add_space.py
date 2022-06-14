@@ -14,6 +14,8 @@ class CustomTokenizer(Tokenizer):
         big_words = r'цвет|рама|двигатель|двигателя|шасси|модель|наименование|марка|белый|выпуска|адрес|коробка'
         small_words = r'год|гос|легк|г.в|г.'
 
+
+        string = string.lower()
         string = ' '.join(re.split(reg, string, flags=re.IGNORECASE))
         string = re.sub(r'([0-9A-Z])({}|{})'.format(small_words, big_words), r'\1 \2', string, flags=re.IGNORECASE)
         string = re.sub(r'({}|{})([0-9A-Z])'.format(small_words, big_words), r'\1 \2', string, flags=re.IGNORECASE)
