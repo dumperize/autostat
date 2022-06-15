@@ -27,24 +27,27 @@ def brand_many_model_one_or_many(brands, models, doc):
 @Language.component("expand_model")
 def expand_model(doc):
         ent_brands = []
+        ent_brands_sim = []
         ent_models = []
         ent_years = []
+        
+
         for ent in doc.ents:
             if ent.label_ == 'BRAND': ent_brands.append(ent)
             if ent.label_ == 'MODEL': ent_models.append(ent)
             if ent.label_ == 'YEAR'and ent_year(doc, ent): ent_years.append(ent)
 
-        # if len(ent_brands) == 0:
-        #     new_ent = set_similar_model(doc)
-        #     if new_ent: ent_brands.append(new_ent)
-        # else:
-        #     print('!!!!')
+        if len(ent_brands) == 0:
+            new_ent = set_similar_model(doc)
+            if new_ent: ent_brands_sim.append(new_ent)
+
         # print(ent_brands)
         # print([(x.label_, x.ent_id_, x.kb_id_, x.text) for x in doc.ents])
 
         # doc.ents = ent_brands + ent_models + ent_years
 
         name_brands_set = list(set([x.ent_id_.lower() for x in ent_brands]))
+        name_brands_set_sim = list(set([x.kb_id_.lower() for x in ent_brands_sim]))
         name_models_set = list(set([x.ent_id_.lower() for x in ent_models]))
         name_years_set = list(set([re.search(r'{}'.format(currentYearReg), x.text).group() for x in ent_years]))
         
@@ -53,6 +56,7 @@ def expand_model(doc):
         doc.user_data['count_years'] = len(name_years_set) # сколько всего найдено годов
         doc.user_data['first_brand'] = name_brands_set[0] if len(name_brands_set) else None # самый первый бренд
         doc.user_data['brands'] = ', '.join(name_brands_set)
+        doc.user_data['brands_sim'] = ', '.join(name_brands_set_sim)
         doc.user_data['models'] = ', '.join(name_models_set)
         doc.user_data['years'] = ', '.join(name_years_set)
         doc.user_data['have_fit_model'] = False

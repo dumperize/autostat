@@ -1,4 +1,5 @@
 from src.models.NER.utils.jaro import get_most_likely_word
+from src.models.NER.utils.normalize_dictionary import normalize_brand_dictionary
 import json
 from spacy.tokens import Span
 
@@ -6,6 +7,7 @@ from spacy.tokens import Span
 def set_similar_model(doc):
     with open('data/raw/model.json', 'r') as outfile:
         models = json.load(outfile)
+        dictionary = normalize_brand_dictionary(models)
         
         max_rate = 0.0
         most_likely_brand = ''
@@ -13,7 +15,7 @@ def set_similar_model(doc):
 
         for index, token in enumerate(doc):
             if len(token) > 3:
-                rate, word = get_most_likely_word(str(token), models)
+                rate, word = get_most_likely_word(str(token), dictionary)
                 if max_rate < rate:
                     max_rate = rate
                     most_likely_brand = word

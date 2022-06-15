@@ -8,7 +8,6 @@ from src.models.NER.add_space import CustomTokenizer
 
 
 def create_ner_model(rules_file: str, important_names_file: str):
-
     rules = list(jsonlines.open(rules_file))
     important_names = list(jsonlines.open(important_names_file))
     nlp = spacy.blank("ru")
@@ -20,13 +19,12 @@ def create_ner_model(rules_file: str, important_names_file: str):
 
     # TODO вынести
     rules.append({"label": "YEAR", "pattern": [{"LOWER": {"REGEX": "[1][9][6-9][0-9]|(20)[0-1][0-9]|(20)[2][0-2]"}}], "id": "4-digits"})
-    rules.append({'label': 'BRAND', 'pattern': 'YAMAHA', 'id': 'YAMAHA'}),
     ruler.add_patterns(rules)
     nlp.add_pipe("expand_model")
     # nlp.add_pipe("levenshtain", before="expand_model")
-    print(rules)
+    # print(rules)
 
-    doc = nlp('марка YAMAHA 32007 года выпуска№ кузова JMZBK12F681713003№ шасси отсутствуетцвет серебристый№ двигателя LF 10473621г/н А830АМ124')
+    doc = nlp('Комбайн зерноуборочный самоходный КЗС-1218-29 Полесье-1218 в том числе: - КЗК-12-0100000Б молотилка самоходная - ЖЗК-7-5 жатка для зерновых культур - Комплект принадлежностей для ремонта и обслуживания Комбайна КПДР-1-11 - КЗК-12-0013200В Упаковка ЗИП и демонтированных частей - КЗК-12-0013200В-04 Упаковка ЗИП и демонтированных частей')
     print([x.label_ for x in doc.ents])
 
     return nlp
