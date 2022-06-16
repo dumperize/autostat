@@ -26,6 +26,7 @@ def find_ner(data_input_file, rules_file: str, important_names_file: str, output
         nlp = create_ner_model(rules_file, important_names_file)
 
         df = pd.read_csv(data_input_file, delimiter='|')
+        # df = df[:10]
         ents_info = []
         
         for article in tqdm(df['vehicleproperty_description_short']):

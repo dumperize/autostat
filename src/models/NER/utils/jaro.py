@@ -24,15 +24,16 @@ def get_jaro_with_threshold(word, similar_word, threshold):
     return -1.0 if jaro < threshold else jaro
 
 
-def get_most_likely_word(word, brands_dictionary): 
+def get_most_likely_word(word, dictionary): 
     if len(word) < 3: return None
 
     rate = 0.0
     most_likely_word = ''
-    for brand in brands_dictionary:
-        jaro = max(get_jaro_with_threshold(word, item['name'], item['threshold']) for item in brand['names'])
+    for key in dictionary.keys():
+        item = dictionary[key]
+        jaro = max(get_jaro_with_threshold(word, x['name'], x['threshold']) for x in item['names'])
         if jaro > rate:
             rate = jaro
-            most_likely_word = brand['id']
+            most_likely_word = item['id']
 
     return (rate, most_likely_word)

@@ -9,7 +9,7 @@ class CustomTokenizer(Tokenizer):
     
     def add_spaces(self, string):
         reg = '('+'|'.join(self.important_names)+')'
-
+  
         # TODO в конфиг и через артифакты
         big_words = r'передвижной|цвет|рама|двигатель|двигателя|шасси|модель|наименование|марка|белый|выпуска|адрес|коробка|бензиновый|дизельный|кузов|легковой|черный'
         small_words = r'год|гос|легк|г.в|г.'
@@ -30,6 +30,8 @@ class CustomTokenizer(Tokenizer):
         string = re.sub(r'-'," ", string)
         string = re.sub(r'([ ]+)|([ ]){2,}'," ", string)
 
+
+        # print(string)
         return string
 
     def __call__(self, string):
