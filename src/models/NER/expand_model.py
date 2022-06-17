@@ -1,5 +1,4 @@
 from spacy.language import Language
-import Levenshtein
 import re
 import numpy as np
 from src.models.NER.ent_year import ent_year, currentYearReg
@@ -36,9 +35,6 @@ def brand_many_model_one_or_many(brands, models, doc):
 def expand_model(doc):
         brands = set()
         models = set()
-        ent_brands = []
-        ent_brands_sim = []
-        ent_models = []
         ent_years = []
 
         for ent in doc.ents:
@@ -78,8 +74,7 @@ def expand_model(doc):
         doc.user_data['brands'] = ', '.join(list(brands)) if len(brands) else np.nan
         # doc.user_data['brands_sim'] = ', '.join(name_brands_set_sim)
         doc.user_data['models'] = ', '.join(list(models)) if len(models) else np.nan
-        doc.user_data['years'] = ', '.join(name_years_set)
-        doc.user_data['have_fit_model'] = False
+        doc.user_data['years'] = ', '.join(name_years_set) if len(name_years_set) else np.nan
         
         # есть бренды и модели
         # if len(name_brands_set) > 1 and len(name_models_set):
