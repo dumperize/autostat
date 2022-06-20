@@ -1,0 +1,1 @@
+{"id": "STROIMASHSERVIS", "names": [{"name": "STROIMASHSERVIS", "threshold": 0.85}, {"name": "СТРОИМАСХСЕРВИС", "threshold": 0.85}], "models": {"899030": {"id": "899030", "names": [{"name": "899030", "threshold": 1}]}, "OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}}}

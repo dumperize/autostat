@@ -1,0 +1,1 @@
+{"id": "GRYPHON", "names": [{"name": "GRYPHON", "threshold": 0.85}, {"name": "ГРЫПХОН", "threshold": 0.85}], "models": {"ORION": {"id": "ORION", "names": [{"name": "ORION", "threshold": 0.85}, {"name": "ОРИОН", "threshold": 0.85}]}, "ROCKET": {"id": "ROCKET", "names": [{"name": "ROCKET", "threshold": 0.85}, {"name": "РОЦКЕТ", "threshold": 0.85}]}}}

@@ -1,0 +1,1 @@
+{"id": "KOME", "names": [{"name": "KOME", "threshold": 0.93}, {"name": "КОМЕ", "threshold": 0.93}], "models": {"JPPV4": {"id": "JPPV4", "names": [{"name": "JPPV 4", "threshold": 1}]}, "PPV4": {"id": "PPV4", "names": [{"name": "PPV 4", "threshold": 1}]}, "TPV3KPK": {"id": "TPV3KPK", "names": [{"name": "TPV 3KPK", "threshold": 1}]}}}

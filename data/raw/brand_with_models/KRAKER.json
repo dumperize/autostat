@@ -1,0 +1,1 @@
+{"id": "KRAKER", "names": [{"name": "KRAKER", "threshold": 0.85}, {"name": "КРАКЕР", "threshold": 0.85}], "models": {"CFZ": {"id": "CFZ", "names": [{"name": "CF Z", "threshold": 0.93}, {"name": "ЦФ З", "threshold": 0.93}]}}}

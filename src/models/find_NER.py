@@ -5,8 +5,8 @@ import pandas as pd
 import mlflow
 import mlflow.spacy
 from mlflow.models.signature import infer_signature
-from sklearn.metrics import f1_score
-from sklearn.preprocessing import MultiLabelBinarizer
+from sklearn.metrics import accuracy_score
+from sklearn.preprocessing import LabelBinarizer
 
 from src.models.NER.model import create_ner_model
 
@@ -30,6 +30,11 @@ def find_ner(data_input_file, rules_file: str, important_names_file: str, output
         df = pd.read_excel(data_input_file)
         ents_info = []
         
+
+        doc = nlp("CAT CS-583E заводской № машины (рамы) CATCS583TDAJ00678")
+        print([(x.label_, x.text, x.ent_id_, x.kb_id_) for x in  doc.ents])
+        print(doc.user_data)
+
         for article in tqdm(df['vehicleproperty_description_short']):
             article = str(article)
             doc = nlp(article)
@@ -56,26 +61,30 @@ def find_ner(data_input_file, rules_file: str, important_names_file: str, output
         mlflow.log_metric('count models', df.count()['models'])
         mlflow.log_metric('count years', df.count()['years'])
 
-        binarizer = MultiLabelBinarizer()
+        binarizer = LabelBinarizer()
 
         df1 = df[df['Brand'].notna()]
         df1.loc[df1['brands'].isna(), 'brands'] = ''
-        binarizer.fit(df1['Brand'])
+        
+        all_val = list(df1['Brand'].values) + list(df1['brands'].values)
+        binarizer.fit(list(set(all_val)))
 
-        f1 = f1_score(binarizer.transform(df1['Brand']), 
-                binarizer.transform(df1['brands']), 
-                average='macro')
-        mlflow.log_metric('f1 brands', f1)
+        accuracy = accuracy_score(
+                binarizer.transform(df1['Brand']), 
+                binarizer.transform(df1['brands']))
+        mlflow.log_metric('accuracy brands', accuracy)
 
         df1 = df[df['Brand2'].notna()]
         df1.loc[df1['models'].isna(), 'models'] = ''
         df1['models'] = df1['models'].apply(lambda x: x.split('_')[1].upper() if len(x.split('_'))>1 else x)
-        binarizer.fit(df1['Brand2'])
 
-        f1 = f1_score(binarizer.transform(df1['Brand2']), 
-                binarizer.transform(df1['models']), 
-                average='macro')
-        mlflow.log_metric('f1 models', f1)
+        all_val = list(df1['Brand2'].values) + list(df1['models'].values)
+        binarizer.fit(list(set(all_val)))
+
+        accuracy = accuracy_score(
+            binarizer.transform(df1['Brand2']), 
+                binarizer.transform(df1['models']))
+        mlflow.log_metric('accuracy models', accuracy)
 
  
 if __name__ == "__main__":

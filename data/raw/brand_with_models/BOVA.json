@@ -1,0 +1,1 @@
+{"id": "BOVA", "names": [{"name": "BOVA", "threshold": 0.93}, {"name": "БОВА", "threshold": 0.93}], "models": {"FUTURA": {"id": "FUTURA", "names": [{"name": "FUTURA", "threshold": 0.85}, {"name": "ФУТУРА", "threshold": 0.85}]}, "MAGIQ": {"id": "MAGIQ", "names": [{"name": "MAGIQ", "threshold": 0.85}, {"name": "МАГИQ", "threshold": 0.85}]}}}

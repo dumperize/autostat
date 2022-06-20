@@ -1,0 +1,1 @@
+{"id": "VARZ", "names": [{"name": "VARZ", "threshold": 0.93}, {"name": "ВАРЗ", "threshold": 0.93}], "models": {"500": {"id": "500", "names": [{"name": "500", "threshold": 1}]}, "500A": {"id": "500A", "names": [{"name": "500A", "threshold": 1}]}, "M2": {"id": "M2", "names": [{"name": "M2", "threshold": 1}]}}}

@@ -23,6 +23,6 @@ def create_ner_model(rules_file: str, important_names_file: str):
     ruler.add_patterns(rules)
     nlp.add_pipe("expand_model")
     # nlp.add_pipe("levenshtain", before="expand_model")
-    # print(rules)
+
 
     return nlp

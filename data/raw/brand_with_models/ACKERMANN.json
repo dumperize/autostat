@@ -1,0 +1,41 @@
+{
+    "id": "ACKERMANN",
+    "names": [
+        {
+            "name": "ACKERMANN",
+            "threshold": 0.85
+        },
+        {
+            "name": "АКЕРМАНН",
+            "threshold": 0.85
+        }
+    ],
+    "models": {
+        "FRUEHAUF": {
+            "id": "FRUEHAUF",
+            "names": [
+                {
+                    "name": "FRUEHAUF",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ФРУЕХАУФ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "ZPA": {
+            "id": "ZPA",
+            "names": [
+                {
+                    "name": "Z PA",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "З ПА",
+                    "threshold": 0.93
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1 @@
+{"id": "HUMMER", "names": [{"name": "HUMMER", "threshold": 0.85}, {"name": "ХУММЕР", "threshold": 0.85}], "models": {"H1": {"id": "H1", "names": [{"name": "H1", "threshold": 1}]}, "H2": {"id": "H2", "names": [{"name": "H2", "threshold": 1}]}, "H3": {"id": "H3", "names": [{"name": "H3", "threshold": 1}]}}}

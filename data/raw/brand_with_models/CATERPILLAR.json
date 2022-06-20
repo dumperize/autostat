@@ -1,0 +1,6 @@
+{
+    "id": "CATERPILLAR", 
+    "names": [{"name": "CATERPILLAR", "threshold": 0.85}, {"name": "CAT", "threshold": 0.95}, {"name": "САТ", "threshold": 0.95}], 
+    "models": {"D6Т": {"id": "D6Т", "names": [{"name": "D6Т", "threshold": 1}]}
+    }
+}

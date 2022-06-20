@@ -1,0 +1,1 @@
+{"id": "ASTAIS", "names": [{"name": "ASTAIS", "threshold": 0.85}, {"name": "АСТАИС", "threshold": 0.85}], "models": {"900900": {"id": "900900", "names": [{"name": "900900", "threshold": 1}]}, "900910": {"id": "900910", "names": [{"name": "900910", "threshold": 1}]}, "900912": {"id": "900912", "names": [{"name": "900912", "threshold": 1}]}}}

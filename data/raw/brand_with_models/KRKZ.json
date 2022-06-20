@@ -1,0 +1,1 @@
+{"id": "KRKZ", "names": [{"name": "KRKZ", "threshold": 0.93}, {"name": "КРКЗ", "threshold": 0.93}], "models": {"100": {"id": "100", "names": [{"name": "100", "threshold": 1}]}, "150": {"id": "150", "names": [{"name": "150", "threshold": 1}]}}}

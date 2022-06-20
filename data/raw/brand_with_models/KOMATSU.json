@@ -1,0 +1,33 @@
+{
+    "id": "KOMATSU",
+    "names": [
+        {
+            "name": "KOMATSU",
+            "threshold": 0.85
+        },
+        {
+            "name": "КОМАТЦУ",
+            "threshold": 0.85
+        }
+    ],
+    "models": {
+        "870600": {
+            "id": "PC35MR",
+            "names": [
+                {
+                    "name": "PC35MR",
+                    "threshold": 1
+                }
+            ]
+        },
+        "870612": {
+            "id": "PC130",
+            "names": [
+                {
+                    "name": "PC130",
+                    "threshold": 1
+                }
+            ]
+        }
+    }
+}

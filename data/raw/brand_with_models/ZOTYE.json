@@ -1,0 +1,1 @@
+{"id": "ZOTYE", "names": [{"name": "ZOTYE", "threshold": 0.85}, {"name": "ЗОТЫЕ", "threshold": 0.85}], "models": {"COUPA": {"id": "COUPA", "names": [{"name": "COUPA", "threshold": 0.85}, {"name": "ЦОУПА", "threshold": 0.85}]}, "T600": {"id": "T600", "names": [{"name": "T600", "threshold": 1}]}}}

@@ -1,0 +1,24 @@
+{
+    "id": "ALLOY",
+    "names": [
+        {
+            "name": "ALLOY",
+            "threshold": 0.85
+        },
+        {
+            "name": "АЛЛОЫ",
+            "threshold": 0.85
+        }
+    ],
+    "models": {
+        "ATVT533": {
+            "id": "ATVT533",
+            "names": [
+                {
+                    "name": "ATVT 53 3",
+                    "threshold": 1
+                }
+            ]
+        }
+    }
+}

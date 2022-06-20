@@ -1,0 +1,1 @@
+{"id": "AVIA", "names": [{"name": "AVIA", "threshold": 0.93}, {"name": "АВИА", "threshold": 0.93}], "models": {"A20": {"id": "A20", "names": [{"name": "A20", "threshold": 1}]}, "A21": {"id": "A21", "names": [{"name": "A21", "threshold": 1}]}, "A31": {"id": "A31", "names": [{"name": "A31", "threshold": 1}]}, "D120": {"id": "D120", "names": [{"name": "D120", "threshold": 1}]}}}

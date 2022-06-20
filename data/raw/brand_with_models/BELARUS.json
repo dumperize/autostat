@@ -1,0 +1,33 @@
+{
+    "id": "BELARUS",
+    "names": [
+        {
+            "name": "BELARUS",
+            "threshold": 0.85
+        },
+        {
+            "name": "БЕЛАРУС",
+            "threshold": 0.85
+        }
+    ],
+    "models": {
+        "1221.2": {
+            "id": "1221.2",
+            "names": [
+                {
+                    "name": "1221.2",
+                    "threshold": 1
+                }
+            ]
+        },
+        "82.1": {
+            "id": "82.1",
+            "names": [
+                {
+                    "name": "82.1",
+                    "threshold": 1
+                }
+            ]
+        }
+    }
+}
