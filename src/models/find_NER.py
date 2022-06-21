@@ -31,7 +31,7 @@ def find_ner(data_input_file, rules_file: str, important_names_file: str, output
         ents_info = []
         
 
-        doc = nlp("CAT CS-583E заводской № машины (рамы) CATCS583TDAJ00678")
+        doc = nlp("Новый автомобиль AUDI A7")
         print([(x.label_, x.text, x.ent_id_, x.kb_id_) for x in  doc.ents])
         print(doc.user_data)
 
@@ -76,6 +76,8 @@ def find_ner(data_input_file, rules_file: str, important_names_file: str, output
 
         df1 = df[df['Brand2'].notna()]
         df1.loc[df1['models'].isna(), 'models'] = ''
+        df1['Brand2'] = df1['Brand2'].apply(str)
+        df1['models'] = df1['models'].apply(str)
         df1['models'] = df1['models'].apply(lambda x: x.split('_')[1].upper() if len(x.split('_'))>1 else x)
 
         all_val = list(df1['Brand2'].values) + list(df1['models'].values)

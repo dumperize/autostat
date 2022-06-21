@@ -2,7 +2,7 @@ from spacy.language import Language
 import re
 import numpy as np
 from src.models.NER.ent_year import ent_year, currentYearReg
-from src.models.NER.ent_brand_leven import get_similar_model, set_similar_brand
+from src.models.NER.ent_brand_leven import set_similar_model, set_similar_brand
 
 
 def brand_1_model_one_or_many(brand, models, doc):
@@ -35,28 +35,31 @@ def brand_many_model_one_or_many(brands, models, doc):
 def expand_model(doc):
         brands = set()
         models = set()
-        ent_years = []
 
         for ent in doc.ents:
             if ent.label_ == 'BRAND': brands.add(ent.ent_id_) # ent_brands.append(ent)
             if ent.label_ == 'MODEL': models.add(ent.ent_id_) # ent_models.append(ent)
-            if ent.label_ == 'YEAR'and ent_year(doc, ent): ent_years.append(ent)
 
         if len(brands) == 0:
-            new_ent = set_similar_brand(doc)
-            if new_ent: brands.add(new_ent.kb_id_)
-            # if new_ent: ent_brands_sim.append(new_ent)
-        
+            set_similar_brand(doc)
+
+        if len(brands) > 0 and len(models) == 0:
+            set_similar_model(doc)
+
+
+
+        brands = set()
+        models = set()
+        ent_years = []
+        for ent in doc.ents:
+            if ent.label_ == 'BRAND': brands.add(ent.ent_id_ or ent.kb_id_) # ent_brands.append(ent)
+            if ent.label_ == 'MODEL': models.add(ent.ent_id_ or ent.kb_id_) # ent_models.append(ent)
+            if ent.label_ == 'YEAR'and ent_year(doc, ent): ent_years.append(ent)
+
         # есть 1 бренд и модели
         if len(brands) == 1 and len(models) > 1:
             brand = list(brands)[0]
             models = brand_1_model_one_or_many(brand, models, doc)
-
-        if len(brands) == 1 and len(models) == 0:
-            brand = list(brands)[0]
-            model = get_similar_model(brand, doc)
-            if model: models.add(model.kb_id_)
-
 
         # print([(x.label_, x.ent_id_, x.kb_id_, x.text) for x in doc.ents])
 
