@@ -39,13 +39,14 @@ def expand_model(doc):
         for ent in doc.ents:
             if ent.label_ == 'BRAND': brands.add(ent.ent_id_) # ent_brands.append(ent)
             if ent.label_ == 'MODEL': models.add(ent.ent_id_) # ent_models.append(ent)
+            if ent.label_ == 'YEAR': ent_year(doc, ent)
 
+        print('before', [(x, x.label_, x.ent_id_) for x in doc.ents])
         if len(brands) == 0:
             set_similar_brand(doc)
 
         if len(brands) > 0 and len(models) == 0:
             set_similar_model(doc)
-
 
 
         brands = set()
@@ -54,7 +55,7 @@ def expand_model(doc):
         for ent in doc.ents:
             if ent.label_ == 'BRAND': brands.add(ent.ent_id_ or ent.kb_id_) # ent_brands.append(ent)
             if ent.label_ == 'MODEL': models.add(ent.ent_id_ or ent.kb_id_) # ent_models.append(ent)
-            if ent.label_ == 'YEAR'and ent_year(doc, ent): ent_years.append(ent)
+            if ent.label_ == 'YEAR': ent_years.append(ent)
 
         # есть 1 бренд и модели
         if len(brands) == 1 and len(models) > 1:

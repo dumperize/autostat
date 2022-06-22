@@ -1,5 +1,7 @@
 import re
 
+from src.models.NER.utils.retokenizer import split_token_by_2, split_token_by_3
+
 
 # TODO 2023 год уже не попадет - надо написать через переменную
 currentYearReg = '[1][9][6-9][0-9]|(20)[0-1][0-9]|(20)[2][0-2]'
@@ -43,5 +45,23 @@ def ent_year(doc, ent):
                 pos_digits = only_digits and not prev_neg_result and not next_neg_result # это просто 4 цифры и ничего негативного вокруг
 
                 if not neg_data and (pos_token or pos_digits):
+                     
+                    for match in re.finditer(currentYearReg, ent.text):
+                        index = match.start() 
+                        year = match.group()
+
+                        if ent.text.startswith(year):
+                            split_token_by_2(doc, ent.start, 4)
+                        elif ent.text.endswith(year):
+                            split_token_by_2(doc, ent.start, index)
+                        else:
+                            split_token_by_3(doc, ent.start, index, index + 4)
+                        
+                        span = doc.char_span(ent.start_char + index, ent.start_char + index + 4, label="YEAR")
+ 
+                        ents = [x for x in doc.ents if x != ent]
+                        ents.append(span)
+
+                        doc.set_ents(ents)
                     return True
                 return False
