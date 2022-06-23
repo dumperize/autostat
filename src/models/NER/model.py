@@ -1,9 +1,7 @@
 import jsonlines
 import spacy
-import ru_core_news_sm
 
 from src.models.NER.expand_model import expand_model
-from src.models.NER.levenshtain import levenshtain
 from src.models.NER.add_space import CustomTokenizer
 
 
@@ -22,7 +20,5 @@ def create_ner_model(rules_file: str, important_names_file: str):
 
     ruler.add_patterns(rules)
     nlp.add_pipe("expand_model")
-    # nlp.add_pipe("levenshtain", before="expand_model")
-
 
     return nlp

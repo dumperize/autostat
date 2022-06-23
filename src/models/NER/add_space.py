@@ -31,6 +31,8 @@ class CustomTokenizer(Tokenizer):
         string = re.sub(r'(\))([\s\w\d]*)(\))', r'\1 \2', string)
         string = re.sub(r'(\()([\d\s\w]*)(\))', r' \1\2\3 ', string)
         string = re.sub(r'-'," ", string)
+        string = re.sub(r'\?'," ", string)
+        string = re.sub(r'\!'," ", string)
         string = re.sub(r'([ ]+)|([ ]){2,}'," ", string)
 
 

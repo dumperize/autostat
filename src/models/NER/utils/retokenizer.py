@@ -1,19 +1,13 @@
-def split_token_by_2(doc, num_token, pos_str):
-    with doc.retokenize() as retokenizer:
-        heads = [(doc[num_token], 1), doc[num_token - 1]]
-        retokenizer.split(
-            doc[num_token], 
-            [doc[num_token].text[:pos_str], doc[num_token].text[pos_str:]], 
-            heads=heads, 
-            attrs={}
-        )
+def split_token_by_n(doc, num_token, *pos_str):
+    pos_str_with_border = sorted(list(set([0] + list(pos_str) + [len(doc[num_token].text)])))
+    pair = pos_str_with_border[:-1], pos_str_with_border[1:]
+    words = [doc[num_token].text[prev:curr]  for prev, curr in list(zip(*pair))]
+    heads = [(doc[num_token], 1) for _ in range(len(pos_str_with_border) - 1)]
 
-def split_token_by_3(doc, num_token, pos_str_1, pos_str_2):
     with doc.retokenize() as retokenizer:
-        heads = [(doc[num_token], 2), doc[num_token - 1]]
         retokenizer.split(
             doc[num_token], 
-            [doc[num_token].text[:pos_str_1], doc[num_token].text[pos_str_1:pos_str_2], doc[num_token].text[:pos_str_2]], 
+            words, 
             heads=heads, 
             attrs={}
         )

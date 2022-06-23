@@ -1,6 +1,7 @@
 import re
+from src.models.NER.utils.add_del_span import add_span_in_doc, del_span_in_doc
 
-from src.models.NER.utils.retokenizer import split_token_by_2, split_token_by_3
+from src.models.NER.utils.retokenizer import split_token_by_n
 
 
 # TODO 2023 год уже не попадет - надо написать через переменную
@@ -20,6 +21,7 @@ def get_neighbor(doc, ent, next: bool):
             return token
 
 def ent_year(doc, ent):
+                # print(ent)
                 prev_token = get_neighbor(doc, ent, False) 
                 next_token = get_neighbor(doc, ent, True)
 
@@ -44,24 +46,20 @@ def ent_year(doc, ent):
                 pos_token = pos_prev or pos_next or pos_inner # в токенах вокруг что-то позитивное
                 pos_digits = only_digits and not prev_neg_result and not next_neg_result # это просто 4 цифры и ничего негативного вокруг
 
+                # print(neg_data, pos_token, pos_digits)
                 if not neg_data and (pos_token or pos_digits):
-                     
-                    for match in re.finditer(currentYearReg, ent.text):
-                        index = match.start() 
-                        year = match.group()
+                    if len(ent.text) == 4: return True
 
-                        if ent.text.startswith(year):
-                            split_token_by_2(doc, ent.start, 4)
-                        elif ent.text.endswith(year):
-                            split_token_by_2(doc, ent.start, index)
-                        else:
-                            split_token_by_3(doc, ent.start, index, index + 4)
-                        
-                        span = doc.char_span(ent.start_char + index, ent.start_char + index + 4, label="YEAR")
- 
-                        ents = [x for x in doc.ents if x != ent]
-                        ents.append(span)
+                    points_start = [match.start() for match in re.finditer(currentYearReg, ent.text)]
+                    points_end = [x + 4 for x in points_start]
+                    points = points_start + points_end
+                    split_token_by_n(doc, ent.start, *points)
 
-                        doc.set_ents(ents)
+                    spans = [doc.char_span(ent.start_char + point, ent.start_char + point + 4, label="YEAR") for point in points_start]
+
+                    del_span_in_doc(doc, ent)
+                    for span in spans:
+                        add_span_in_doc(doc, span)
                     return True
+                del_span_in_doc(doc, ent)
                 return False

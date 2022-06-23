@@ -31,10 +31,11 @@ def find_ner(data_input_file, rules_file: str, important_names_file: str, output
         ents_info = []
         
 
-        doc = nlp("Новый автомобиль AUDI A7")
+        doc = nlp("Модель автомобиля: RENAULT MEGANE SCENICгод выпуска:2008")
+        print([x for x in doc])
         print([(x.label_, x.text, x.ent_id_, x.kb_id_) for x in  doc.ents])
         print(doc.user_data)
-
+        # return 
         for article in tqdm(df['vehicleproperty_description_short']):
             article = str(article)
             doc = nlp(article)
@@ -43,6 +44,7 @@ def find_ner(data_input_file, rules_file: str, important_names_file: str, output
         ents_info_df = pd.DataFrame.from_records(ents_info)
         df.index.name = 'order'
         df = df.join(ents_info_df,on='order') 
+        df['models'] = df['models'].apply(lambda x: x.split('_')[1].upper() if not pd.isna(x) and len(x.split('_'))>1 else x)
         df.to_excel(output_file, index=False, encoding='utf-8')
 
         signature = infer_signature(df['vehicleproperty_description_short'], df['brands'])

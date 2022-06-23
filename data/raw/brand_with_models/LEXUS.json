@@ -1,1 +1,171 @@
-{"id": "LEXUS", "names": [{"name": "LEXUS", "threshold": 0.85}, {"name": "ЛЕXУС", "threshold": 0.85}], "models": {"CT": {"id": "CT", "names": [{"name": "CT", "threshold": 1}, {"name": "ЦТ", "threshold": 1}]}, "ES": {"id": "ES", "names": [{"name": "ES", "threshold": 1}, {"name": "ЕС", "threshold": 1}]}, "GS": {"id": "GS", "names": [{"name": "GS", "threshold": 1}, {"name": "ГС", "threshold": 1}]}, "GX": {"id": "GX", "names": [{"name": "GX", "threshold": 1}, {"name": "ГX", "threshold": 1}]}, "IS": {"id": "IS", "names": [{"name": "IS", "threshold": 1}, {"name": "ИС", "threshold": 1}]}, "LS": {"id": "LS", "names": [{"name": "LS", "threshold": 1}, {"name": "ЛС", "threshold": 1}]}, "LX": {"id": "LX", "names": [{"name": "LX", "threshold": 1}, {"name": "ЛX", "threshold": 1}]}, "NX": {"id": "NX", "names": [{"name": "NX", "threshold": 1}, {"name": "НX", "threshold": 1}]}, "RC": {"id": "RC", "names": [{"name": "RC", "threshold": 1}, {"name": "РЦ", "threshold": 1}]}, "RX": {"id": "RX", "names": [{"name": "RX", "threshold": 1}, {"name": "РX", "threshold": 1}]}, "SC": {"id": "SC", "names": [{"name": "SC", "threshold": 1}, {"name": "СЦ", "threshold": 1}]}, "UX": {"id": "UX", "names": [{"name": "UX", "threshold": 1}, {"name": "УX", "threshold": 1}]}}}
+{
+    "id": "LEXUS",
+    "names": [
+        {
+            "name": "LEXUS",
+            "threshold": 0.85
+        },
+        {
+            "name": "ЛЕXУС",
+            "threshold": 0.85
+        }
+    ],
+    "models": {
+        "CT": {
+            "id": "CT",
+            "names": [
+                {
+                    "name": "CT",
+                    "threshold": 1
+                },
+                {
+                    "name": "ЦТ",
+                    "threshold": 1
+                }
+            ]
+        },
+        "ES": {
+            "id": "ES",
+            "names": [
+                {
+                    "name": "ES",
+                    "threshold": 1
+                },
+                {
+                    "name": "ЕС",
+                    "threshold": 1
+                }
+            ]
+        },
+        "GS": {
+            "id": "GS",
+            "names": [
+                {
+                    "name": "GS",
+                    "threshold": 1
+                },
+                {
+                    "name": "ГС",
+                    "threshold": 1
+                }
+            ]
+        },
+        "GX": {
+            "id": "GX",
+            "names": [
+                {
+                    "name": "GX",
+                    "threshold": 1
+                },
+                {
+                    "name": "ГX",
+                    "threshold": 1
+                }
+            ]
+        },
+        "IS": {
+            "id": "IS",
+            "names": [
+                {
+                    "name": "IS",
+                    "threshold": 1
+                },
+                {
+                    "name": "ИС",
+                    "threshold": 1
+                }
+            ]
+        },
+        "LS": {
+            "id": "LS",
+            "names": [
+                {
+                    "name": "LS",
+                    "threshold": 1
+                },
+                {
+                    "name": "ЛС",
+                    "threshold": 1
+                }
+            ]
+        },
+        "LX": {
+            "id": "LX",
+            "names": [
+                {
+                    "name": "LX",
+                    "threshold": 1
+                },
+                {
+                    "name": "ЛX",
+                    "threshold": 1
+                }
+            ]
+        },
+        "NX": {
+            "id": "NX",
+            "names": [
+                {
+                    "name": "NX",
+                    "threshold": 1
+                },
+                {
+                    "name": "НX",
+                    "threshold": 1
+                }
+            ]
+        },
+        "RC": {
+            "id": "RC",
+            "names": [
+                {
+                    "name": "RC",
+                    "threshold": 1
+                },
+                {
+                    "name": "РЦ",
+                    "threshold": 1
+                }
+            ]
+        },
+        "RX": {
+            "id": "RX",
+            "names": [
+                {
+                    "name": "RX",
+                    "threshold": 1
+                },
+                {
+                    "name": "РX",
+                    "threshold": 1
+                }
+            ]
+        },
+        "SC": {
+            "id": "SC",
+            "names": [
+                {
+                    "name": "SC",
+                    "threshold": 1
+                },
+                {
+                    "name": "СЦ",
+                    "threshold": 1
+                }
+            ]
+        },
+        "UX": {
+            "id": "UX",
+            "names": [
+                {
+                    "name": "UX",
+                    "threshold": 1
+                },
+                {
+                    "name": "УX",
+                    "threshold": 1
+                }
+            ]
+        }
+    }
+}

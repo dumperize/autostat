@@ -1,18 +1,8 @@
 import Levenshtein
 
-def replace_rus_to_eng_char(sample_string):
-    sample_string = sample_string.upper()
-    char_to_replace = {'А': 'A',
-                       'В': 'B',
-                       'С': 'C',
-                       'Е': 'E',
-                       'Н': 'H',
-                       'К': 'K',
-                       'О': 'O',
-                       'Р': 'P',
-                       'Т': 'T',
-                       'Х': 'X'}
-    return sample_string.translate(str.maketrans(char_to_replace))
+from src.models.NER.utils.operation import replace_rus_to_eng_char
+
+
 
 def get_jaro(word, similar_word): 
     word = replace_rus_to_eng_char(word)
@@ -32,8 +22,8 @@ def get_most_likely_word(word, dictionary):
     for key in dictionary.keys():
         item = dictionary[key]
         jaro = max(get_jaro_with_threshold(word, x['name'], x['threshold']) for x in item['names'])
+
         if jaro > rate:
             rate = jaro
             most_likely_word = item['id']
-
     return (rate, most_likely_word)
