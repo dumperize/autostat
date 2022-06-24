@@ -1,0 +1,24 @@
+{
+    "id": "ZOOMLION",
+    "names": [
+        {
+            "name": "ZOOMLION",
+            "threshold": 1
+        },
+        {
+            "name": "ЗУМИЛОН",
+            "threshold": 1
+        }
+    ],
+    "models": {
+        "GRANDTIGER": {
+            "id": "ZD",
+            "names": [
+                {
+                    "name": "ZD",
+                    "threshold": 0.98
+                }
+            ]
+        }
+    }
+}

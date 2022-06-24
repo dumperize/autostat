@@ -1,1 +1,562 @@
-{"id": "KIA", "names": [{"name": "KIA", "threshold": 0.97}, {"name": "КИА", "threshold": 0.97}], "models": {"AVELLA": {"id": "AVELLA", "names": [{"name": "AVELLA", "threshold": 0.85}, {"name": "АВЕЛЛА", "threshold": 0.85}]}, "BESTA": {"id": "BESTA", "names": [{"name": "BESTA", "threshold": 0.85}, {"name": "БЕСТА", "threshold": 0.85}]}, "BONGO": {"id": "BONGO", "names": [{"name": "BONGO", "threshold": 0.85}, {"name": "БОНГО", "threshold": 0.85}]}, "CARENS": {"id": "CARENS", "names": [{"name": "CARENS", "threshold": 0.85}, {"name": "ЦАРЕНС", "threshold": 0.85}]}, "CARNIVAL": {"id": "CARNIVAL", "names": [{"name": "CARNIVAL", "threshold": 0.85}, {"name": "ЦАРНИВАЛ", "threshold": 0.85}]}, "CARNIVAL/SEDONA": {"id": "CARNIVAL/SEDONA", "names": [{"name": "CARNIVAL/SEDONA", "threshold": 0.85}, {"name": "ЦАРНИВАЛ/СЕДОНА", "threshold": 0.85}]}, "CEED": {"id": "CEED", "names": [{"name": "CEED", "threshold": 0.93}, {"name": "ЦЕЕД", "threshold": 0.93}]}, "CERATO": {"id": "CERATO", "names": [{"name": "CERATO", "threshold": 0.85}, {"name": "ЦЕРАТО", "threshold": 0.85}]}, "CLARUS": {"id": "CLARUS", "names": [{"name": "CLARUS", "threshold": 0.85}, {"name": "ЦЛАРУС", "threshold": 0.85}]}, "GRANBIRD": {"id": "GRANBIRD", "names": [{"name": "GRANBIRD", "threshold": 0.85}, {"name": "ГРАНБИРД", "threshold": 0.85}]}, "GRANTO": {"id": "GRANTO", "names": [{"name": "GRANTO", "threshold": 0.85}, {"name": "ГРАНТО", "threshold": 0.85}]}, "JOICE": {"id": "JOICE", "names": [{"name": "JOICE", "threshold": 0.85}, {"name": "ЙОИЦЕ", "threshold": 0.85}]}, "KSERIES": {"id": "KSERIES", "names": [{"name": "K SERIES", "threshold": 0.85}, {"name": "К СЕРИЕС", "threshold": 0.85}]}, "K5": {"id": "K5", "names": [{"name": "K5", "threshold": 1}]}, "K900": {"id": "K900", "names": [{"name": "K900", "threshold": 1}]}, "MAGENTIS": {"id": "MAGENTIS", "names": [{"name": "MAGENTIS", "threshold": 0.85}, {"name": "МАГЕНТИС", "threshold": 0.85}]}, "MAGENTIS/OPTIMA": {"id": "MAGENTIS/OPTIMA", "names": [{"name": "MAGENTIS/OPTIMA", "threshold": 0.85}, {"name": "МАГЕНТИС/ОПТИМА", "threshold": 0.85}]}, "MOHAVE": {"id": "MOHAVE", "names": [{"name": "MOHAVE", "threshold": 0.85}, {"name": "МОХАВЕ", "threshold": 0.85}]}, "NIRO": {"id": "NIRO", "names": [{"name": "NIRO", "threshold": 0.93}, {"name": "НИРО", "threshold": 0.93}]}, "OPIRUS": {"id": "OPIRUS", "names": [{"name": "OPIRUS", "threshold": 0.85}, {"name": "ОПИРУС", "threshold": 0.85}]}, "OPTIMA": {"id": "OPTIMA", "names": [{"name": "OPTIMA", "threshold": 0.85}, {"name": "ОПТИМА", "threshold": 0.85}]}, "OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}, "PICANTO": {"id": "PICANTO", "names": [{"name": "PICANTO", "threshold": 0.85}, {"name": "ПИЦАНТО", "threshold": 0.85}]}, "PREGIO": {"id": "PREGIO", "names": [{"name": "PREGIO", "threshold": 0.85}, {"name": "ПРЕГИО", "threshold": 0.85}]}, "PRIDE": {"id": "PRIDE", "names": [{"name": "PRIDE", "threshold": 0.85}, {"name": "ПРИДЕ", "threshold": 0.85}]}, "PROCEED": {"id": "PROCEED", "names": [{"name": "PROCEED", "threshold": 0.85}, {"name": "ПРОЦЕЕД", "threshold": 0.85}]}, "QUORIS": {"id": "QUORIS", "names": [{"name": "QUORIS", "threshold": 0.85}, {"name": "QУОРИС", "threshold": 0.85}]}, "RETONA": {"id": "RETONA", "names": [{"name": "RETONA", "threshold": 0.85}, {"name": "РЕТОНА", "threshold": 0.85}]}, "RHINO": {"id": "RHINO", "names": [{"name": "RHINO", "threshold": 0.85}, {"name": "РХИНО", "threshold": 0.85}]}, "RIO": {"id": "RIO", "names": [{"name": "RIO", "threshold": 0.97}, {"name": "РИО", "threshold": 0.97}]}, "SEDONA": {"id": "SEDONA", "names": [{"name": "SEDONA", "threshold": 0.85}, {"name": "СЕДОНА", "threshold": 0.85}]}, "SELTOS": {"id": "SELTOS", "names": [{"name": "SELTOS", "threshold": 0.85}, {"name": "СЕЛТОС", "threshold": 0.85}]}, "SEPHIA": {"id": "SEPHIA", "names": [{"name": "SEPHIA", "threshold": 0.85}, {"name": "СЕПХИА", "threshold": 0.85}]}, "SHUMA": {"id": "SHUMA", "names": [{"name": "SHUMA", "threshold": 0.85}, {"name": "СХУМА", "threshold": 0.85}]}, "SORENTO": {"id": "SORENTO", "names": [{"name": "SORENTO", "threshold": 0.85}, {"name": "СОРЕНТО", "threshold": 0.85}]}, "SOUL": {"id": "SOUL", "names": [{"name": "SOUL", "threshold": 0.93}, {"name": "СОУЛ", "threshold": 0.93}]}, "SPECTRA": {"id": "SPECTRA", "names": [{"name": "SPECTRA", "threshold": 0.85}, {"name": "СПЕЦТРА", "threshold": 0.85}]}, "SPECTRA/SEPHIA/SHUMA": {"id": "SPECTRA/SEPHIA/SHUMA", "names": [{"name": "SPECTRA/SEPHIA/SHUMA", "threshold": 0.85}, {"name": "СПЕЦТРА/СЕПХИА/СХУМА", "threshold": 0.85}]}, "SPORTAGE": {"id": "SPORTAGE", "names": [{"name": "SPORTAGE", "threshold": 0.85}, {"name": "СПОРТАГЕ", "threshold": 0.85}]}, "SPORTAGE1": {"id": "SPORTAGE1", "names": [{"name": "SPORTAGE 1", "threshold": 1}]}, "SPORTAGE2": {"id": "SPORTAGE2", "names": [{"name": "SPORTAGE 2", "threshold": 1}]}, "SPORTAGE3": {"id": "SPORTAGE3", "names": [{"name": "SPORTAGE 3", "threshold": 1}]}, "SPORTAGE4": {"id": "SPORTAGE4", "names": [{"name": "SPORTAGE 4", "threshold": 1}]}, "STINGER": {"id": "STINGER", "names": [{"name": "STINGER", "threshold": 0.85}, {"name": "СТИНГЕР", "threshold": 0.85}]}, "VENGA": {"id": "VENGA", "names": [{"name": "VENGA", "threshold": 0.85}, {"name": "ВЕНГА", "threshold": 0.85}]}, "XCEED": {"id": "XCEED", "names": [{"name": "XCEED", "threshold": 0.85}, {"name": "XЦЕЕД", "threshold": 0.85}]}}}
+{
+    "id": "KIA",
+    "names": [
+        {
+            "name": "KIA",
+            "threshold": 0.97
+        },
+        {
+            "name": "КИА",
+            "threshold": 0.97
+        }
+    ],
+    "models": {
+        "AVELLA": {
+            "id": "AVELLA",
+            "names": [
+                {
+                    "name": "AVELLA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АВЕЛЛА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "BESTA": {
+            "id": "BESTA",
+            "names": [
+                {
+                    "name": "BESTA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "БЕСТА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "BONGO": {
+            "id": "BONGO",
+            "names": [
+                {
+                    "name": "BONGO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "БОНГО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "CARENS": {
+            "id": "CARENS",
+            "names": [
+                {
+                    "name": "CARENS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КАРЕНС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "CARNIVAL": {
+            "id": "CARNIVAL",
+            "names": [
+                {
+                    "name": "CARNIVAL",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЦАРНИВАЛ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "CEED": {
+            "id": "CEED",
+            "names": [
+                {
+                    "name": "CEED",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "СИД",
+                    "threshold": 0.93
+                }
+            ]
+        },
+        "CERATO": {
+            "id": "CERATO",
+            "names": [
+                {
+                    "name": "CERATO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЦЕРАТО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "CLARUS": {
+            "id": "CLARUS",
+            "names": [
+                {
+                    "name": "CLARUS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КЛАРУС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "GRANBIRD": {
+            "id": "GRANBIRD",
+            "names": [
+                {
+                    "name": "GRANBIRD",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ГРАНБЕРД",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "GRANTO": {
+            "id": "GRANTO",
+            "names": [
+                {
+                    "name": "GRANTO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ГРАНТО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "JOICE": {
+            "id": "JOICE",
+            "names": [
+                {
+                    "name": "JOICE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ДЖУС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "KSERIES": {
+            "id": "KSERIES",
+            "names": [
+                {
+                    "name": "K SERIES",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "К СЕРИЕС",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "K",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "K5": {
+            "id": "K5",
+            "names": [
+                {
+                    "name": "K5",
+                    "threshold": 1
+                }
+            ]
+        },
+        "K900": {
+            "id": "K900",
+            "names": [
+                {
+                    "name": "K900",
+                    "threshold": 1
+                }
+            ]
+        },
+        "MAGENTIS": {
+            "id": "MAGENTIS",
+            "names": [
+                {
+                    "name": "MAGENTIS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МАГЕНТИС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MOHAVE": {
+            "id": "MOHAVE",
+            "names": [
+                {
+                    "name": "MOHAVE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МОХАВЕ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "NIRO": {
+            "id": "NIRO",
+            "names": [
+                {
+                    "name": "NIRO",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "НИРО",
+                    "threshold": 0.93
+                }
+            ]
+        },
+        "OPIRUS": {
+            "id": "OPIRUS",
+            "names": [
+                {
+                    "name": "OPIRUS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ОПИРУС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "OPTIMA": {
+            "id": "OPTIMA",
+            "names": [
+                {
+                    "name": "OPTIMA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ОПТИМА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "PICANTO": {
+            "id": "PICANTO",
+            "names": [
+                {
+                    "name": "PICANTO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ПИКАНТО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "PREGIO": {
+            "id": "PREGIO",
+            "names": [
+                {
+                    "name": "PREGIO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ПРЕЖИО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "PRIDE": {
+            "id": "PRIDE",
+            "names": [
+                {
+                    "name": "PRIDE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ПРАЙД",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "PROCEED": {
+            "id": "PROCEED",
+            "names": [
+                {
+                    "name": "PROCEED",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ПРОСИД",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "QUORIS": {
+            "id": "QUORIS",
+            "names": [
+                {
+                    "name": "QUORIS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КВОРИС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "RETONA": {
+            "id": "RETONA",
+            "names": [
+                {
+                    "name": "RETONA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "РЕТОНА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "RHINO": {
+            "id": "RHINO",
+            "names": [
+                {
+                    "name": "RHINO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "РХИНО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "RIO": {
+            "id": "RIO",
+            "names": [
+                {
+                    "name": "RIO",
+                    "threshold": 0.97
+                },
+                {
+                    "name": "РИО",
+                    "threshold": 0.97
+                }
+            ]
+        },
+        "SEDONA": {
+            "id": "SEDONA",
+            "names": [
+                {
+                    "name": "SEDONA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СЕДОНА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SELTOS": {
+            "id": "SELTOS",
+            "names": [
+                {
+                    "name": "SELTOS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СЕЛТОС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SEPHIA": {
+            "id": "SEPHIA",
+            "names": [
+                {
+                    "name": "SEPHIA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СЕПХИА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SHUMA": {
+            "id": "SHUMA",
+            "names": [
+                {
+                    "name": "SHUMA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СХУМА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SORENTO": {
+            "id": "SORENTO",
+            "names": [
+                {
+                    "name": "SORENTO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СОРЕНТО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SOUL": {
+            "id": "SOUL",
+            "names": [
+                {
+                    "name": "SOUL",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "СОУЛ",
+                    "threshold": 0.93
+                }
+            ]
+        },
+        "SPECTRA": {
+            "id": "SPECTRA",
+            "names": [
+                {
+                    "name": "SPECTRA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СПЕКТРА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SEPHIA/SHUMA": {
+            "id": "SEPHIA/SHUMA",
+            "names": [
+                {
+                    "name": "SEPHIA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "SHUMA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СЕПХИА",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СХУМА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SPORTAGE": {
+            "id": "SPORTAGE",
+            "names": [
+                {
+                    "name": "SPORTAGE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СПОРТАДЖ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SPORTAGE1": {
+            "id": "SPORTAGE1",
+            "names": [
+                {
+                    "name": "SPORTAGE 1",
+                    "threshold": 1
+                }
+            ]
+        },
+        "SPORTAGE2": {
+            "id": "SPORTAGE2",
+            "names": [
+                {
+                    "name": "SPORTAGE 2",
+                    "threshold": 1
+                }
+            ]
+        },
+        "SPORTAGE3": {
+            "id": "SPORTAGE3",
+            "names": [
+                {
+                    "name": "SPORTAGE 3",
+                    "threshold": 1
+                }
+            ]
+        },
+        "SPORTAGE4": {
+            "id": "SPORTAGE4",
+            "names": [
+                {
+                    "name": "SPORTAGE 4",
+                    "threshold": 1
+                }
+            ]
+        },
+        "STINGER": {
+            "id": "STINGER",
+            "names": [
+                {
+                    "name": "STINGER",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СТИНГЕР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "VENGA": {
+            "id": "VENGA",
+            "names": [
+                {
+                    "name": "VENGA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ВЕНГА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "XCEED": {
+            "id": "XCEED",
+            "names": [
+                {
+                    "name": "XCEED",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "XСИД",
+                    "threshold": 0.85
+                }
+            ]
+        }
+    }
+}

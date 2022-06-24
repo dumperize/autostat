@@ -28,6 +28,7 @@
         "L200": {"id": "L200", "names": [{"name": "L200", "threshold": 1}]}, 
         "L300": {"id": "L300", "names": [{"name": "L300", "threshold": 1}]},
         "L400": {"id": "L400", "names": [{"name": "L400", "threshold": 1}]}, 
+        "LANCER": {"id": "LANCER", "names": [{"name": "LANCER", "threshold": 0.85}, {"name": "ЛАНСЕР", "threshold": 0.85}]}, 
         "LEGNUM": {"id": "LEGNUM", "names": [{"name": "LEGNUM", "threshold": 0.85}, {"name": "ЛЕГНУМ", "threshold": 0.85}]}, 
         "MIGHTYMAX": {"id": "MIGHTYMAX", "names": [{"name": "MIGHTY MAX", "threshold": 0.85}, {"name": "МАЙТИ МАX", "threshold": 0.85}]}, 
         "MIRAGE": {"id": "MIRAGE", "names": [{"name": "MIRAGE", "threshold": 0.85}, {"name": "МИРАЖ", "threshold": 0.85}]}, 

@@ -1,1 +1,207 @@
-{"id": "FOTON", "names": [{"name": "FOTON", "threshold": 0.85}, {"name": "ФОТОН", "threshold": 0.85}], "models": {"BJ1039": {"id": "BJ1039", "names": [{"name": "BJ 1039", "threshold": 1}]}, "BJ1041": {"id": "BJ1041", "names": [{"name": "BJ 1041", "threshold": 1}]}, "BJ1051": {"id": "BJ1051", "names": [{"name": "BJ 1051", "threshold": 1}]}, "BJ1061": {"id": "BJ1061", "names": [{"name": "BJ 1061", "threshold": 1}]}, "BJ1069": {"id": "BJ1069", "names": [{"name": "BJ 1069", "threshold": 1}]}, "BJ1093": {"id": "BJ1093", "names": [{"name": "BJ 1093", "threshold": 1}]}, "BJ1099": {"id": "BJ1099", "names": [{"name": "BJ 1099", "threshold": 1}]}, "BJ1121": {"id": "BJ1121", "names": [{"name": "BJ 1121", "threshold": 1}]}, "BJ1138": {"id": "BJ1138", "names": [{"name": "BJ 1138", "threshold": 1}]}, "BJ1151": {"id": "BJ1151", "names": [{"name": "BJ 1151", "threshold": 1}]}, "BJ1251": {"id": "BJ1251", "names": [{"name": "BJ 1251", "threshold": 1}]}, "BJ3251": {"id": "BJ3251", "names": [{"name": "BJ 3251", "threshold": 1}]}, "BJ3313": {"id": "BJ3313", "names": [{"name": "BJ 3313", "threshold": 1}]}, "BJ4181": {"id": "BJ4181", "names": [{"name": "BJ 4181", "threshold": 1}]}, "BJ4251": {"id": "BJ4251", "names": [{"name": "BJ 4251", "threshold": 1}]}, "BJ5369": {"id": "BJ5369", "names": [{"name": "BJ 5369", "threshold": 1}]}, "S120": {"id": "S120", "names": [{"name": "S120", "threshold": 1}]}, "SAUVANA": {"id": "SAUVANA", "names": [{"name": "SAUVANA", "threshold": 0.85}, {"name": "САУВАНА", "threshold": 0.85}]}, "TUNLAND": {"id": "TUNLAND", "names": [{"name": "TUNLAND", "threshold": 0.85}, {"name": "ТУНЛАНД", "threshold": 0.85}]}, "VIEW": {"id": "VIEW", "names": [{"name": "VIEW", "threshold": 0.93}, {"name": "ВИЕW", "threshold": 0.93}]}}}
+{
+    "id": "FOTON",
+    "names": [
+        {
+            "name": "FOTON",
+            "threshold": 0.85
+        },
+        {
+            "name": "ФОТОН",
+            "threshold": 0.85
+        }
+    ],
+    "models": {
+        "BJ1039": {
+            "id": "BJ1039",
+            "names": [
+                {
+                    "name": "BJ 1039",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BJ1041": {
+            "id": "BJ1041",
+            "names": [
+                {
+                    "name": "BJ 1041",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BJ1051": {
+            "id": "BJ1051",
+            "names": [
+                {
+                    "name": "BJ 1051",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BJ1061": {
+            "id": "BJ1061",
+            "names": [
+                {
+                    "name": "BJ 1061",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BJ1069": {
+            "id": "BJ1069",
+            "names": [
+                {
+                    "name": "BJ 1069",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BJ1093": {
+            "id": "BJ1093",
+            "names": [
+                {
+                    "name": "BJ 1093",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BJ1099": {
+            "id": "BJ1099",
+            "names": [
+                {
+                    "name": "BJ 1099",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BJ1121": {
+            "id": "BJ1121",
+            "names": [
+                {
+                    "name": "BJ 1121",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BJ1138": {
+            "id": "BJ1138",
+            "names": [
+                {
+                    "name": "BJ 1138",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BJ1151": {
+            "id": "BJ1151",
+            "names": [
+                {
+                    "name": "BJ 1151",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BJ1251": {
+            "id": "BJ1251",
+            "names": [
+                {
+                    "name": "BJ 1251",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BJ3251": {
+            "id": "BJ3251",
+            "names": [
+                {
+                    "name": "BJ 3251",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BJ3313": {
+            "id": "BJ3313",
+            "names": [
+                {
+                    "name": "BJ 3313",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BJ4181": {
+            "id": "BJ4181",
+            "names": [
+                {
+                    "name": "BJ 4181",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BJ4251": {
+            "id": "BJ4251",
+            "names": [
+                {
+                    "name": "BJ 4251",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BJ5369": {
+            "id": "BJ5369",
+            "names": [
+                {
+                    "name": "BJ 5369",
+                    "threshold": 1
+                }
+            ]
+        },
+        "S120": {
+            "id": "S120",
+            "names": [
+                {
+                    "name": "S120",
+                    "threshold": 1
+                }
+            ]
+        },
+        "SAUVANA": {
+            "id": "SAUVANA",
+            "names": [
+                {
+                    "name": "SAUVANA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "САУВАНА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "TUNLAND": {
+            "id": "TUNLAND",
+            "names": [
+                {
+                    "name": "TUNLAND",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТУНЛАНД",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "VIEW": {
+            "id": "VIEW",
+            "names": [
+                {
+                    "name": "VIEW",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "ВИЕW",
+                    "threshold": 0.93
+                }
+            ]
+        }
+    }
+}

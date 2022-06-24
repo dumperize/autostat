@@ -1,1 +1,949 @@
-{"id": "HYUNDAI", "names": [{"name": "HYUNDAI", "threshold": 0.85}, {"name": "ХЕНДАИ", "threshold": 0.85}, {"name": "ХЕНДЭ", "threshold": 0.85}], "models": {"ACCENT": {"id": "ACCENT", "names": [{"name": "ACCENT", "threshold": 0.85}, {"name": "АКЦЕНТ", "threshold": 0.85}]}, "AERO": {"id": "AERO", "names": [{"name": "AERO", "threshold": 0.93}, {"name": "АЕРО", "threshold": 0.93}]}, "AEROCITY": {"id": "AEROCITY", "names": [{"name": "AERO CITY", "threshold": 0.85}, {"name": "АЕРО ЦИТЫ", "threshold": 0.85}]}, "AEROEXPRESS": {"id": "AEROEXPRESS", "names": [{"name": "AERO EXPRESS", "threshold": 0.85}, {"name": "АЕРО ЕXПРЕСС", "threshold": 0.85}]}, "AEROQUEEN": {"id": "AEROQUEEN", "names": [{"name": "AERO QUEEN", "threshold": 0.85}, {"name": "АЕРО КВИН", "threshold": 0.85}]}, "AEROSPACE": {"id": "AEROSPACE", "names": [{"name": "AERO SPACE", "threshold": 0.85}, {"name": "АЕРО СПАЦЕ", "threshold": 0.85}]}, "AEROTOWN": {"id": "AEROTOWN", "names": [{"name": "AERO TOWN", "threshold": 0.85}, {"name": "АЕРО ТОWН", "threshold": 0.85}]}, "ATOS": {"id": "ATOS", "names": [{"name": "ATOS", "threshold": 0.93}, {"name": "АТОС", "threshold": 0.93}]}, "AVANTE": {"id": "AVANTE", "names": [{"name": "AVANTE", "threshold": 0.85}, {"name": "АВАНТЕ", "threshold": 0.85}]}, "CHORUS": {"id": "CHORUS", "names": [{"name": "CHORUS", "threshold": 0.85}, {"name": "ЧОРУС", "threshold": 0.85}]}, "COUNTY": {"id": "COUNTY", "names": [{"name": "COUNTY", "threshold": 0.85}, {"name": "КАУНТИ", "threshold": 0.85}]}, "COUPE": {"id": "COUPE", "names": [{"name": "COUPE", "threshold": 0.85}, {"name": "КУПЕ", "threshold": 0.85}]}, "COUPE/TIBURON/TUSCANI": {"id": "COUPE/TIBURON/TUSCANI", "names": [{"name": "TIBURON", "threshold": 0.85}, {"name": "TUSCANI", "threshold": 0.85}, {"name": "ТИБУРОН", "threshold": 0.85}, {"name": "ТУСКАНИ", "threshold": 0.85}]}, "CRETA": {"id": "CRETA", "names": [{"name": "CRETA", "threshold": 0.85}, {"name": "КРЕТА", "threshold": 0.85}]}, "DINASTY": {"id": "DINASTY", "names": [{"name": "DINASTY", "threshold": 0.85}, {"name": "ДИНАСТИ", "threshold": 0.85}]}, "ELANTRA": {"id": "ELANTRA", "names": [{"name": "ELANTRA", "threshold": 0.85}, {"name": "ЕЛАНТРА", "threshold": 0.85}]}, "EQUUS": {"id": "EQUUS", "names": [{"name": "EQUUS", "threshold": 0.85}, {"name": "ЕКУУС", "threshold": 0.85}]}, "EXCEL": {"id": "EXCEL", "names": [{"name": "EXCEL", "threshold": 0.85}, {"name": "ЕXСЕЛ", "threshold": 0.85}]}, "GALLOPER": {"id": "GALLOPER", "names": [{"name": "GALLOPER", "threshold": 0.85}, {"name": "ГАЛЛОПЕР", "threshold": 0.85}]}, "GENESIS": {"id": "GENESIS", "names": [{"name": "GENESIS", "threshold": 0.85}, {"name": "ГЕНЕСИС", "threshold": 0.85}]}, "GENESISCOUPE": {"id": "GENESISCOUPE", "names": [{"name": "GENESIS COUPE", "threshold": 0.85}, {"name": "ГЕНЕСИС КУПЕ", "threshold": 0.85}]}, "GETZ": {"id": "GETZ", "names": [{"name": "GETZ", "threshold": 0.93}, {"name": "ГЕТЗ", "threshold": 0.93}]}, "GOLD": {"id": "GOLD", "names": [{"name": "GOLD", "threshold": 0.93}, {"name": "ГОЛД", "threshold": 0.93}]}, "GRACE": {"id": "GRACE", "names": [{"name": "GRACE", "threshold": 0.85}, {"name": "ГРАЦЕ", "threshold": 0.85}]}, "GRANDSANTAFE": {"id": "GRANDSANTAFE", "names": [{"name": "GRAND SANTA FE", "threshold": 0.85}, {"name": "ГРАНД САНТА ФЕ", "threshold": 0.85}]}, "GRANDEUR": {"id": "GRANDEUR", "names": [{"name": "GRANDEUR", "threshold": 0.85}, {"name": "ГРАНДЕУР", "threshold": 0.85}]}, "H1": {"id": "H1", "names": [{"name": "H 1", "threshold": 1}]}, "H200": {"id": "H200", "names": [{"name": "H 200", "threshold": 1}]}, "HD120": {"id": "HD120", "names": [{"name": "HD 120", "threshold": 1}]}, "HD170": {"id": "HD170", "names": [{"name": "HD 170", "threshold": 1}]}, "HD250": {"id": "HD250", "names": [{"name": "HD 250", "threshold": 1}]}, "HD260": {"id": "HD260", "names": [{"name": "HD 260", "threshold": 1}]}, "HD270": {"id": "HD270", "names": [{"name": "HD 270", "threshold": 1}]}, "HD35": {"id": "HD35", "names": [{"name": "HD 35", "threshold": 1}]}, "HD370": {"id": "HD370", "names": [{"name": "HD 370", "threshold": 1}]}, "HD450": {"id": "HD450", "names": [{"name": "HD 450", "threshold": 1}]}, "HD500": {"id": "HD500", "names": [{"name": "HD 500", "threshold": 1}]}, "HD65": {"id": "HD65", "names": [{"name": "HD 65", "threshold": 1}]}, "HD700": {"id": "HD700", "names": [{"name": "HD 700", "threshold": 1}]}, "HD72": {"id": "HD72", "names": [{"name": "HD 72", "threshold": 1}]}, "HD78": {"id": "HD78", "names": [{"name": "HD 78", "threshold": 1}]}, "I10": {"id": "I10", "names": [{"name": "I10", "threshold": 1}]}, "I20": {"id": "I20", "names": [{"name": "I20", "threshold": 1}]}, "I30": {"id": "I30", "names": [{"name": "I30", "threshold": 1}]}, "I40": {"id": "I40", "names": [{"name": "I40", "threshold": 1}]}, "IONIQ": {"id": "IONIQ", "names": [{"name": "IONIQ", "threshold": 0.85}, {"name": "ИОНИQ", "threshold": 0.85}]}, "IX35": {"id": "IX35", "names": [{"name": "IX35", "threshold": 1}]}, "IX55": {"id": "IX55", "names": [{"name": "IX55", "threshold": 1}]}, "KONA": {"id": "KONA", "names": [{"name": "KONA", "threshold": 0.93}, {"name": "КОНА", "threshold": 0.93}]}, "LANTRA": {"id": "LANTRA", "names": [{"name": "LANTRA", "threshold": 0.85}, {"name": "ЛАНТРА", "threshold": 0.85}]}, "LAVITA": {"id": "LAVITA", "names": [{"name": "LAVITA", "threshold": 0.85}, {"name": "ЛАВИТА", "threshold": 0.85}]}, "MARCIA": {"id": "MARCIA", "names": [{"name": "MARCIA", "threshold": 0.85}, {"name": "МАРЦИА", "threshold": 0.85}]}, "MATRIX": {"id": "MATRIX", "names": [{"name": "MATRIX", "threshold": 0.85}, {"name": "МАТРИX", "threshold": 0.85}]}, "MEGATRUCK": {"id": "MEGATRUCK", "names": [{"name": "MEGATRUCK", "threshold": 0.85}, {"name": "МЕГАТРУЦК", "threshold": 0.85}]}, "MIGHTY": {"id": "MIGHTY", "names": [{"name": "MIGHTY", "threshold": 0.85}, {"name": "МИГХТЫ", "threshold": 0.85}]}, "OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}, "PALISADE": {"id": "PALISADE", "names": [{"name": "PALISADE", "threshold": 0.85}, {"name": "ПАЛИСАДЕ", "threshold": 0.85}]}, "PONY": {"id": "PONY", "names": [{"name": "PONY", "threshold": 0.93}, {"name": "ПОНЫ", "threshold": 0.93}]}, "PORTER/H100": {"id": "PORTER/H100", "names": [{"name": "PORTER/H 100", "threshold": 1}]}, "SANTAFE": {"id": "SANTAFE", "names": [{"name": "SANTA FE", "threshold": 0.85}, {"name": "САНТА ФЕ", "threshold": 0.85}]}, "SANTAMO": {"id": "SANTAMO", "names": [{"name": "SANTAMO", "threshold": 0.85}, {"name": "САНТАМО", "threshold": 0.85}]}, "SCOUPE": {"id": "SCOUPE", "names": [{"name": "SCOUPE", "threshold": 0.85}, {"name": "СЦОУПЕ", "threshold": 0.85}]}, "SOLARIS": {"id": "SOLARIS", "names": [{"name": "SOLARIS", "threshold": 0.85}, {"name": "СОЛАРИС", "threshold": 0.85}]}, "SONATA": {"id": "SONATA", "names": [{"name": "SONATA", "threshold": 0.85}, {"name": "СОНАТА", "threshold": 0.85}]}, "STAREX": {"id": "STAREX", "names": [{"name": "STAREX", "threshold": 0.85}, {"name": "СТАРЕX", "threshold": 0.85}]}, "STELLAR": {"id": "STELLAR", "names": [{"name": "STELLAR", "threshold": 0.85}, {"name": "СТЕЛЛАР", "threshold": 0.85}]}, "TERRACAN": {"id": "TERRACAN", "names": [{"name": "TERRACAN", "threshold": 0.85}, {"name": "ТЕРРАЦАН", "threshold": 0.85}]}, "TIBURON": {"id": "TIBURON", "names": [{"name": "TIBURON", "threshold": 0.85}, {"name": "ТИБУРОН", "threshold": 0.85}]}, "TRAJET": {"id": "TRAJET", "names": [{"name": "TRAJET", "threshold": 0.85}, {"name": "ТРАЙЕТ", "threshold": 0.85}]}, "TUCSON": {"id": "TUCSON", "names": [{"name": "TUCSON", "threshold": 0.85}, {"name": "ТУЦСОН", "threshold": 0.85}]}, "TUSCANI": {"id": "TUSCANI", "names": [{"name": "TUSCANI", "threshold": 0.85}, {"name": "ТУСЦАНИ", "threshold": 0.85}]}, "UNIVERSE": {"id": "UNIVERSE", "names": [{"name": "UNIVERSE", "threshold": 0.85}, {"name": "УНИВЕРСЕ", "threshold": 0.85}]}, "VELOSTER": {"id": "VELOSTER", "names": [{"name": "VELOSTER", "threshold": 0.85}, {"name": "ВЕЛОСТЕР", "threshold": 0.85}]}, "VERACRUZ": {"id": "VERACRUZ", "names": [{"name": "VERACRUZ", "threshold": 0.85}, {"name": "ВЕРАЦРУЗ", "threshold": 0.85}]}, "VERNA": {"id": "VERNA", "names": [{"name": "VERNA", "threshold": 0.85}, {"name": "ВЕРНА", "threshold": 0.85}]}, "XCIENT": {"id": "XCIENT", "names": [{"name": "XCIENT", "threshold": 0.85}, {"name": "XЦИЕНТ", "threshold": 0.85}]}, "XG": {"id": "XG", "names": [{"name": "XG", "threshold": 1}, {"name": "XГ", "threshold": 1}]}}}
+{
+    "id": "HYUNDAI",
+    "names": [
+        {
+            "name": "HYUNDAI",
+            "threshold": 0.85
+        },
+        {
+            "name": "ХЕНДАИ",
+            "threshold": 0.85
+        },
+        {
+            "name": "ХЕНДЭ",
+            "threshold": 0.85
+        }
+    ],
+    "models": {
+        "15G7M": {
+            "id": "15G7M",
+            "names": [
+                {
+                    "name": "15G7M",
+                    "threshold": 1
+                }
+            ]
+        },
+        "ACCENT": {
+            "id": "ACCENT",
+            "names": [
+                {
+                    "name": "ACCENT",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АКЦЕНТ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "AERO": {
+            "id": "AERO",
+            "names": [
+                {
+                    "name": "AERO",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "АЕРО",
+                    "threshold": 0.93
+                }
+            ]
+        },
+        "AEROCITY": {
+            "id": "AEROCITY",
+            "names": [
+                {
+                    "name": "AERO CITY",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АЕРО СИТИ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "AEROEXPRESS": {
+            "id": "AEROEXPRESS",
+            "names": [
+                {
+                    "name": "AERO EXPRESS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АЕРО ЭКСПРЕСС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "AEROQUEEN": {
+            "id": "AEROQUEEN",
+            "names": [
+                {
+                    "name": "AERO QUEEN",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АЕРО КВИН",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "AEROSPACE": {
+            "id": "AEROSPACE",
+            "names": [
+                {
+                    "name": "AERO SPACE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АЕРО СПАЙС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "AEROTOWN": {
+            "id": "AEROTOWN",
+            "names": [
+                {
+                    "name": "AERO TOWN",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АЕРО ТАУН",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "ATOS": {
+            "id": "ATOS",
+            "names": [
+                {
+                    "name": "ATOS",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "АТОС",
+                    "threshold": 0.93
+                }
+            ]
+        },
+        "AVANTE": {
+            "id": "AVANTE",
+            "names": [
+                {
+                    "name": "AVANTE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АВАНТЕ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "CHORUS": {
+            "id": "CHORUS",
+            "names": [
+                {
+                    "name": "CHORUS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЧОРУС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "COUNTY": {
+            "id": "COUNTY",
+            "names": [
+                {
+                    "name": "COUNTY",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КАУНТИ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "COUPE": {
+            "id": "COUPE",
+            "names": [
+                {
+                    "name": "COUPE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КУПЕ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "COUPE/TIBURON/TUSCANI": {
+            "id": "COUPE/TIBURON/TUSCANI",
+            "names": [
+                {
+                    "name": "TIBURON",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "TUSCANI",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТИБУРОН",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТУСКАНИ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "CRETA": {
+            "id": "CRETA",
+            "names": [
+                {
+                    "name": "CRETA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КРЕТА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "DINASTY": {
+            "id": "DINASTY",
+            "names": [
+                {
+                    "name": "DINASTY",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ДИНАСТИ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "ELANTRA": {
+            "id": "ELANTRA",
+            "names": [
+                {
+                    "name": "ELANTRA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЕЛАНТРА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "EQUUS": {
+            "id": "EQUUS",
+            "names": [
+                {
+                    "name": "EQUUS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЕКУУС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "EXCEL": {
+            "id": "EXCEL",
+            "names": [
+                {
+                    "name": "EXCEL",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЭКСЕЛЬ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "GALLOPER": {
+            "id": "GALLOPER",
+            "names": [
+                {
+                    "name": "GALLOPER",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ГАЛЛОПЕР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "GENESIS": {
+            "id": "GENESIS",
+            "names": [
+                {
+                    "name": "GENESIS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ГЕНЕСИС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "GENESISCOUPE": {
+            "id": "GENESISCOUPE",
+            "names": [
+                {
+                    "name": "GENESIS COUPE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ГЕНЕСИС КУПЕ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "GETZ": {
+            "id": "GETZ",
+            "names": [
+                {
+                    "name": "GETZ",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "ГЕТЗ",
+                    "threshold": 0.93
+                }
+            ]
+        },
+        "GOLD": {
+            "id": "GOLD",
+            "names": [
+                {
+                    "name": "GOLD",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "ГОЛД",
+                    "threshold": 0.93
+                }
+            ]
+        },
+        "GRACE": {
+            "id": "GRACE",
+            "names": [
+                {
+                    "name": "GRACE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ГРАЦЕ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "GRANDSANTAFE": {
+            "id": "GRANDSANTAFE",
+            "names": [
+                {
+                    "name": "GRAND SANTA FE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ГРАНД САНТА ФЕ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "GRANDEUR": {
+            "id": "GRANDEUR",
+            "names": [
+                {
+                    "name": "GRANDEUR",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ГРАНДЕУР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "names": [
+                {
+                    "name": "H 1",
+                    "threshold": 1
+                }
+            ]
+        },
+        "H200": {
+            "id": "H200",
+            "names": [
+                {
+                    "name": "H 200",
+                    "threshold": 1
+                }
+            ]
+        },
+        "HD120": {
+            "id": "HD120",
+            "names": [
+                {
+                    "name": "HD 120",
+                    "threshold": 1
+                }
+            ]
+        },
+        "HD170": {
+            "id": "HD170",
+            "names": [
+                {
+                    "name": "HD 170",
+                    "threshold": 1
+                }
+            ]
+        },
+        "HD250": {
+            "id": "HD250",
+            "names": [
+                {
+                    "name": "HD 250",
+                    "threshold": 1
+                }
+            ]
+        },
+        "HD260": {
+            "id": "HD260",
+            "names": [
+                {
+                    "name": "HD 260",
+                    "threshold": 1
+                }
+            ]
+        },
+        "HD270": {
+            "id": "HD270",
+            "names": [
+                {
+                    "name": "HD 270",
+                    "threshold": 1
+                }
+            ]
+        },
+        "HD35": {
+            "id": "HD35",
+            "names": [
+                {
+                    "name": "HD 35",
+                    "threshold": 1
+                }
+            ]
+        },
+        "HD370": {
+            "id": "HD370",
+            "names": [
+                {
+                    "name": "HD 370",
+                    "threshold": 1
+                }
+            ]
+        },
+        "HD450": {
+            "id": "HD450",
+            "names": [
+                {
+                    "name": "HD 450",
+                    "threshold": 1
+                }
+            ]
+        },
+        "HD500": {
+            "id": "HD500",
+            "names": [
+                {
+                    "name": "HD 500",
+                    "threshold": 1
+                }
+            ]
+        },
+        "HD65": {
+            "id": "HD65",
+            "names": [
+                {
+                    "name": "HD 65",
+                    "threshold": 1
+                }
+            ]
+        },
+        "HD700": {
+            "id": "HD700",
+            "names": [
+                {
+                    "name": "HD 700",
+                    "threshold": 1
+                }
+            ]
+        },
+        "HD72": {
+            "id": "HD72",
+            "names": [
+                {
+                    "name": "HD 72",
+                    "threshold": 1
+                }
+            ]
+        },
+        "HD78": {
+            "id": "HD78",
+            "names": [
+                {
+                    "name": "HD 78",
+                    "threshold": 1
+                }
+            ]
+        },
+        "I10": {
+            "id": "I10",
+            "names": [
+                {
+                    "name": "I10",
+                    "threshold": 1
+                }
+            ]
+        },
+        "I20": {
+            "id": "I20",
+            "names": [
+                {
+                    "name": "I20",
+                    "threshold": 1
+                }
+            ]
+        },
+        "I30": {
+            "id": "I30",
+            "names": [
+                {
+                    "name": "I30",
+                    "threshold": 1
+                }
+            ]
+        },
+        "I40": {
+            "id": "I40",
+            "names": [
+                {
+                    "name": "I40",
+                    "threshold": 1
+                }
+            ]
+        },
+        "IONIQ": {
+            "id": "IONIQ",
+            "names": [
+                {
+                    "name": "IONIQ",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ИОНИQ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "IX35": {
+            "id": "IX35",
+            "names": [
+                {
+                    "name": "IX35",
+                    "threshold": 1
+                }
+            ]
+        },
+        "IX55": {
+            "id": "IX55",
+            "names": [
+                {
+                    "name": "IX55",
+                    "threshold": 1
+                }
+            ]
+        },
+        "KONA": {
+            "id": "KONA",
+            "names": [
+                {
+                    "name": "KONA",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "КОНА",
+                    "threshold": 0.93
+                }
+            ]
+        },
+        "LANTRA": {
+            "id": "LANTRA",
+            "names": [
+                {
+                    "name": "LANTRA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЛАНТРА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "LAVITA": {
+            "id": "LAVITA",
+            "names": [
+                {
+                    "name": "LAVITA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЛАВИТА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MARCIA": {
+            "id": "MARCIA",
+            "names": [
+                {
+                    "name": "MARCIA",
+                    "threshold": 1
+                },
+                {
+                    "name": "МАРКИА",
+                    "threshold": 1
+                }
+            ]
+        },
+        "MATRIX": {
+            "id": "MATRIX",
+            "names": [
+                {
+                    "name": "MATRIX",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МАТРИX",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MEGATRUCK": {
+            "id": "MEGATRUCK",
+            "names": [
+                {
+                    "name": "MEGATRUCK",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МЕГАТРУЦК",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MIGHTY": {
+            "id": "MIGHTY",
+            "names": [
+                {
+                    "name": "MIGHTY",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МИГХТЫ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "PALISADE": {
+            "id": "PALISADE",
+            "names": [
+                {
+                    "name": "PALISADE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ПАЛИСАДЕ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "PONY": {
+            "id": "PONY",
+            "names": [
+                {
+                    "name": "PONY",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "ПОНЫ",
+                    "threshold": 0.93
+                }
+            ]
+        },
+        "PORTER/H100": {
+            "id": "PORTER/H100",
+            "names": [
+                {
+                    "name": "PORTER",
+                    "threshold": 1
+                },
+                {
+                    "name": "H 100",
+                    "threshold": 1
+                }
+            ]
+        },
+        "R160LC": {
+            "id": "R160LC",
+            "names": [
+                {
+                    "name": "R160LC",
+                    "threshold": 1
+                }
+            ]
+        },
+        "SANTAFE": {
+            "id": "SANTAFE",
+            "names": [
+                {
+                    "name": "SANTA FE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "САНТА ФЕ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SANTAMO": {
+            "id": "SANTAMO",
+            "names": [
+                {
+                    "name": "SANTAMO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "САНТАМО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SCOUPE": {
+            "id": "SCOUPE",
+            "names": [
+                {
+                    "name": "SCOUPE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СКОУПЕ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SOLARIS": {
+            "id": "SOLARIS",
+            "names": [
+                {
+                    "name": "SOLARIS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СОЛАРИС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SONATA": {
+            "id": "SONATA",
+            "names": [
+                {
+                    "name": "SONATA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СОНАТА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "STAREX": {
+            "id": "STAREX",
+            "names": [
+                {
+                    "name": "STAREX",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СТАРЕКС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "STELLAR": {
+            "id": "STELLAR",
+            "names": [
+                {
+                    "name": "STELLAR",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СТЕЛЛАР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "TERRACAN": {
+            "id": "TERRACAN",
+            "names": [
+                {
+                    "name": "TERRACAN",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТЕРРАКАН",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "TIBURON": {
+            "id": "TIBURON",
+            "names": [
+                {
+                    "name": "TIBURON",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТИБУРОН",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "TRAJET": {
+            "id": "TRAJET",
+            "names": [
+                {
+                    "name": "TRAJET",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТРАЙЕТ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "TUCSON": {
+            "id": "TUCSON",
+            "names": [
+                {
+                    "name": "TUCSON",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТУКСОН",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "TUSCANI": {
+            "id": "TUSCANI",
+            "names": [
+                {
+                    "name": "TUSCANI",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТУСКАНИ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "UNIVERSE": {
+            "id": "UNIVERSE",
+            "names": [
+                {
+                    "name": "UNIVERSE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "УНИВЕРСЕ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "VELOSTER": {
+            "id": "VELOSTER",
+            "names": [
+                {
+                    "name": "VELOSTER",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ВЕЛОСТЕР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "VERACRUZ": {
+            "id": "VERACRUZ",
+            "names": [
+                {
+                    "name": "VERACRUZ",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ВЕРАКРУЗ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "VERNA": {
+            "id": "VERNA",
+            "names": [
+                {
+                    "name": "VERNA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ВЕРНА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "XCIENT": {
+            "id": "XCIENT",
+            "names": [
+                {
+                    "name": "XCIENT",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ИКСКИЕНТ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "XG": {
+            "id": "XG",
+            "names": [
+                {
+                    "name": "XG",
+                    "threshold": 1
+                },
+                {
+                    "name": "XГ",
+                    "threshold": 1
+                }
+            ]
+        }
+    }
+}

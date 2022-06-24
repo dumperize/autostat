@@ -1,1 +1,762 @@
-{"id": "KAMAZ", "names": [{"name": "KAMAZ", "threshold": 0.85}, {"name": "КАМАЗ", "threshold": 0.85}], "models": {"4237": {"id": "4237", "names": [{"name": "4237", "threshold": 1}]}, "4308": {"id": "4308", "names": [{"name": "4308", "threshold": 1}]}, "4310": {"id": "4310", "names": [{"name": "4310", "threshold": 1}]}, "43101": {"id": "43101", "names": [{"name": "43101", "threshold": 1}]}, "43105": {"id": "43105", "names": [{"name": "43105", "threshold": 1}]}, "43106": {"id": "43106", "names": [{"name": "43106", "threshold": 1}]}, "4311": {"id": "4311", "names": [{"name": "4311", "threshold": 1}]}, "43114": {"id": "43114", "names": [{"name": "43114", "threshold": 1}]}, "43118": {"id": "43118", "names": [{"name": "43118", "threshold": 1}]}, "4325": {"id": "4325", "names": [{"name": "4325", "threshold": 1}]}, "43253": {"id": "43253", "names": [{"name": "43253", "threshold": 1}]}, "43255": {"id": "43255", "names": [{"name": "43255", "threshold": 1}]}, "4326": {"id": "4326", "names": [{"name": "4326", "threshold": 1}]}, "43265": {"id": "43265", "names": [{"name": "43265", "threshold": 1}]}, "43269": {"id": "43269", "names": [{"name": "43269", "threshold": 1}]}, "4350": {"id": "4350", "names": [{"name": "4350", "threshold": 1}]}, "43501": {"id": "43501", "names": [{"name": "43501", "threshold": 1}]}, "43502": {"id": "43502", "names": [{"name": "43502", "threshold": 1}]}, "4410": {"id": "4410", "names": [{"name": "4410", "threshold": 1}]}, "44108": {"id": "44108", "names": [{"name": "44108", "threshold": 1}]}, "4425": {"id": "4425", "names": [{"name": "4425", "threshold": 1}]}, "4510": {"id": "4510", "names": [{"name": "4510", "threshold": 1}]}, "4514": {"id": "4514", "names": [{"name": "4514", "threshold": 1}]}, "4925": {"id": "4925", "names": [{"name": "4925", "threshold": 1}]}, "5308": {"id": "5308", "names": [{"name": "5308", "threshold": 1}]}, "5320": {"id": "5320", "names": [{"name": "5320", "threshold": 1}]}, "5321": {"id": "5321", "names": [{"name": "5321", "threshold": 1}]}, "53211": {"id": "53211", "names": [{"name": "53211", "threshold": 1}]}, "53212": {"id": "53212", "names": [{"name": "53212", "threshold": 1}]}, "53213": {"id": "53213", "names": [{"name": "53213", "threshold": 1}]}, "53215": {"id": "53215", "names": [{"name": "53215", "threshold": 1}]}, "5322": {"id": "5322", "names": [{"name": "5322", "threshold": 1}]}, "53228": {"id": "53228", "names": [{"name": "53228", "threshold": 1}]}, "53229": {"id": "53229", "names": [{"name": "53229", "threshold": 1}]}, "5325": {"id": "5325", "names": [{"name": "5325", "threshold": 1}]}, "53253": {"id": "53253", "names": [{"name": "53253", "threshold": 1}]}, "5350": {"id": "5350", "names": [{"name": "5350", "threshold": 1}]}, "53501": {"id": "53501", "names": [{"name": "53501", "threshold": 1}]}, "53504": {"id": "53504", "names": [{"name": "53504", "threshold": 1}]}, "5360": {"id": "5360", "names": [{"name": "5360", "threshold": 1}]}, "53605": {"id": "53605", "names": [{"name": "53605", "threshold": 1}]}, "5387": {"id": "5387", "names": [{"name": "5387", "threshold": 1}]}, "5410": {"id": "5410", "names": [{"name": "5410", "threshold": 1}]}, "5411": {"id": "5411", "names": [{"name": "5411", "threshold": 1}]}, "54112": {"id": "54112", "names": [{"name": "54112", "threshold": 1}]}, "54115": {"id": "54115", "names": [{"name": "54115", "threshold": 1}]}, "54118": {"id": "54118", "names": [{"name": "54118", "threshold": 1}]}, "5460": {"id": "5460", "names": [{"name": "5460", "threshold": 1}]}, "5490": {"id": "5490", "names": [{"name": "5490", "threshold": 1}]}, "5510": {"id": "5510", "names": [{"name": "5510", "threshold": 1}]}, "55102": {"id": "55102", "names": [{"name": "55102", "threshold": 1}]}, "5511": {"id": "5511", "names": [{"name": "5511", "threshold": 1}]}, "55111": {"id": "55111", "names": [{"name": "55111", "threshold": 1}]}, "6282": {"id": "6282", "names": [{"name": "6282", "threshold": 1}]}, "6350": {"id": "6350", "names": [{"name": "6350", "threshold": 1}]}, "63501": {"id": "63501", "names": [{"name": "63501", "threshold": 1}]}, "63505": {"id": "63505", "names": [{"name": "63505", "threshold": 1}]}, "6360": {"id": "6360", "names": [{"name": "6360", "threshold": 1}]}, "6426": {"id": "6426", "names": [{"name": "6426", "threshold": 1}]}, "6460": {"id": "6460", "names": [{"name": "6460", "threshold": 1}]}, "6511": {"id": "6511", "names": [{"name": "6511", "threshold": 1}]}, "65111": {"id": "65111", "names": [{"name": "65111", "threshold": 1}]}, "65115": {"id": "65115", "names": [{"name": "65115", "threshold": 1}]}, "65116": {"id": "65116", "names": [{"name": "65116", "threshold": 1}]}, "65117": {"id": "65117", "names": [{"name": "65117", "threshold": 1}]}, "6520": {"id": "6520", "names": [{"name": "6520", "threshold": 1}]}, "65201": {"id": "65201", "names": [{"name": "65201", "threshold": 1}]}, "65207": {"id": "65207", "names": [{"name": "65207", "threshold": 1}]}, "6522": {"id": "6522", "names": [{"name": "6522", "threshold": 1}]}, "65221": {"id": "65221", "names": [{"name": "65221", "threshold": 1}]}, "65222": {"id": "65222", "names": [{"name": "65222", "threshold": 1}]}, "65224": {"id": "65224", "names": [{"name": "65224", "threshold": 1}]}, "65225": {"id": "65225", "names": [{"name": "65225", "threshold": 1}]}, "65226": {"id": "65226", "names": [{"name": "65226", "threshold": 1}]}, "6540": {"id": "6540", "names": [{"name": "6540", "threshold": 1}]}, "6560": {"id": "6560", "names": [{"name": "6560", "threshold": 1}]}, "65659": {"id": "65659", "names": [{"name": "65659", "threshold": 1}]}, "6580": {"id": "6580", "names": [{"name": "6580", "threshold": 1}]}, "65806": {"id": "65806", "names": [{"name": "65806", "threshold": 1}]}, "6595": {"id": "6595", "names": [{"name": "6595", "threshold": 1}]}, "7330": {"id": "7330", "names": [{"name": "7330", "threshold": 1}]}, "8120": {"id": "8120", "names": [{"name": "8120", "threshold": 1}]}, "8125": {"id": "8125", "names": [{"name": "8125", "threshold": 1}]}, "OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}}}
+{
+    "id": "KAMAZ",
+    "names": [
+        {
+            "name": "KAMAZ",
+            "threshold": 0.85
+        },
+        {
+            "name": "КАМАЗ",
+            "threshold": 0.85
+        }
+    ],
+    "models": {
+        "4237": {
+            "id": "4237",
+            "names": [
+                {
+                    "name": "4237",
+                    "threshold": 1
+                }
+            ]
+        },
+        "4308": {
+            "id": "4308",
+            "names": [
+                {
+                    "name": "4308",
+                    "threshold": 1
+                }
+            ]
+        },
+        "4310": {
+            "id": "4310",
+            "names": [
+                {
+                    "name": "4310",
+                    "threshold": 1
+                }
+            ]
+        },
+        "43101": {
+            "id": "43101",
+            "names": [
+                {
+                    "name": "43101",
+                    "threshold": 1
+                }
+            ]
+        },
+        "43105": {
+            "id": "43105",
+            "names": [
+                {
+                    "name": "43105",
+                    "threshold": 1
+                }
+            ]
+        },
+        "43106": {
+            "id": "43106",
+            "names": [
+                {
+                    "name": "43106",
+                    "threshold": 1
+                }
+            ]
+        },
+        "4311": {
+            "id": "4311",
+            "names": [
+                {
+                    "name": "4311",
+                    "threshold": 1
+                }
+            ]
+        },
+        "43114": {
+            "id": "43114",
+            "names": [
+                {
+                    "name": "43114",
+                    "threshold": 1
+                }
+            ]
+        },
+        "43118": {
+            "id": "43118",
+            "names": [
+                {
+                    "name": "43118",
+                    "threshold": 1
+                }
+            ]
+        },
+        "4325": {
+            "id": "4325",
+            "names": [
+                {
+                    "name": "4325",
+                    "threshold": 1
+                }
+            ]
+        },
+        "43253": {
+            "id": "43253",
+            "names": [
+                {
+                    "name": "43253",
+                    "threshold": 1
+                }
+            ]
+        },
+        "43255": {
+            "id": "43255",
+            "names": [
+                {
+                    "name": "43255",
+                    "threshold": 1
+                }
+            ]
+        },
+        "4326": {
+            "id": "4326",
+            "names": [
+                {
+                    "name": "4326",
+                    "threshold": 1
+                }
+            ]
+        },
+        "43265": {
+            "id": "43265",
+            "names": [
+                {
+                    "name": "43265",
+                    "threshold": 1
+                }
+            ]
+        },
+        "43269": {
+            "id": "43269",
+            "names": [
+                {
+                    "name": "43269",
+                    "threshold": 1
+                }
+            ]
+        },
+        "4350": {
+            "id": "4350",
+            "names": [
+                {
+                    "name": "4350",
+                    "threshold": 1
+                }
+            ]
+        },
+        "43501": {
+            "id": "43501",
+            "names": [
+                {
+                    "name": "43501",
+                    "threshold": 1
+                }
+            ]
+        },
+        "43502": {
+            "id": "43502",
+            "names": [
+                {
+                    "name": "43502",
+                    "threshold": 1
+                }
+            ]
+        },
+        "4410": {
+            "id": "4410",
+            "names": [
+                {
+                    "name": "4410",
+                    "threshold": 1
+                }
+            ]
+        },
+        "44108": {
+            "id": "44108",
+            "names": [
+                {
+                    "name": "44108",
+                    "threshold": 1
+                }
+            ]
+        },
+        "4425": {
+            "id": "4425",
+            "names": [
+                {
+                    "name": "4425",
+                    "threshold": 1
+                }
+            ]
+        },
+        "4510": {
+            "id": "4510",
+            "names": [
+                {
+                    "name": "4510",
+                    "threshold": 1
+                }
+            ]
+        },
+        "4514": {
+            "id": "4514",
+            "names": [
+                {
+                    "name": "4514",
+                    "threshold": 1
+                }
+            ]
+        },
+        "4925": {
+            "id": "4925",
+            "names": [
+                {
+                    "name": "4925",
+                    "threshold": 1
+                }
+            ]
+        },
+        "5308": {
+            "id": "5308",
+            "names": [
+                {
+                    "name": "5308",
+                    "threshold": 1
+                }
+            ]
+        },
+        "5320": {
+            "id": "5320",
+            "names": [
+                {
+                    "name": "5320",
+                    "threshold": 1
+                }
+            ]
+        },
+        "5321": {
+            "id": "5321",
+            "names": [
+                {
+                    "name": "5321",
+                    "threshold": 1
+                }
+            ]
+        },
+        "53211": {
+            "id": "53211",
+            "names": [
+                {
+                    "name": "53211",
+                    "threshold": 1
+                }
+            ]
+        },
+        "53212": {
+            "id": "53212",
+            "names": [
+                {
+                    "name": "53212",
+                    "threshold": 1
+                }
+            ]
+        },
+        "53213": {
+            "id": "53213",
+            "names": [
+                {
+                    "name": "53213",
+                    "threshold": 1
+                }
+            ]
+        },
+        "53215": {
+            "id": "53215",
+            "names": [
+                {
+                    "name": "53215",
+                    "threshold": 1
+                }
+            ]
+        },
+        "5322": {
+            "id": "5322",
+            "names": [
+                {
+                    "name": "5322",
+                    "threshold": 1
+                }
+            ]
+        },
+        "53228": {
+            "id": "53228",
+            "names": [
+                {
+                    "name": "53228",
+                    "threshold": 1
+                }
+            ]
+        },
+        "53229": {
+            "id": "53229",
+            "names": [
+                {
+                    "name": "53229",
+                    "threshold": 1
+                }
+            ]
+        },
+        "5325": {
+            "id": "5325",
+            "names": [
+                {
+                    "name": "5325",
+                    "threshold": 1
+                }
+            ]
+        },
+        "53253": {
+            "id": "53253",
+            "names": [
+                {
+                    "name": "53253",
+                    "threshold": 1
+                }
+            ]
+        },
+        "5350": {
+            "id": "5350",
+            "names": [
+                {
+                    "name": "5350",
+                    "threshold": 1
+                }
+            ]
+        },
+        "53501": {
+            "id": "53501",
+            "names": [
+                {
+                    "name": "53501",
+                    "threshold": 1
+                }
+            ]
+        },
+        "53504": {
+            "id": "53504",
+            "names": [
+                {
+                    "name": "53504",
+                    "threshold": 1
+                }
+            ]
+        },
+        "5360": {
+            "id": "5360",
+            "names": [
+                {
+                    "name": "5360",
+                    "threshold": 1
+                }
+            ]
+        },
+        "53605": {
+            "id": "53605",
+            "names": [
+                {
+                    "name": "53605",
+                    "threshold": 1
+                }
+            ]
+        },
+        "5387": {
+            "id": "5387",
+            "names": [
+                {
+                    "name": "5387",
+                    "threshold": 1
+                }
+            ]
+        },
+        "5410": {
+            "id": "5410",
+            "names": [
+                {
+                    "name": "5410",
+                    "threshold": 1
+                }
+            ]
+        },
+        "5411": {
+            "id": "5411",
+            "names": [
+                {
+                    "name": "5411",
+                    "threshold": 1
+                }
+            ]
+        },
+        "54112": {
+            "id": "54112",
+            "names": [
+                {
+                    "name": "54112",
+                    "threshold": 1
+                }
+            ]
+        },
+        "54115": {
+            "id": "54115",
+            "names": [
+                {
+                    "name": "54115",
+                    "threshold": 1
+                }
+            ]
+        },
+        "54118": {
+            "id": "54118",
+            "names": [
+                {
+                    "name": "54118",
+                    "threshold": 1
+                }
+            ]
+        },
+        "5460": {
+            "id": "5460",
+            "names": [
+                {
+                    "name": "5460",
+                    "threshold": 1
+                }
+            ]
+        },
+        "5490": {
+            "id": "5490",
+            "names": [
+                {
+                    "name": "5490",
+                    "threshold": 1
+                }
+            ]
+        },
+        "5510": {
+            "id": "5510",
+            "names": [
+                {
+                    "name": "5510",
+                    "threshold": 1
+                }
+            ]
+        },
+        "55102": {
+            "id": "55102",
+            "names": [
+                {
+                    "name": "55102",
+                    "threshold": 1
+                }
+            ]
+        },
+        "5511": {
+            "id": "5511",
+            "names": [
+                {
+                    "name": "5511",
+                    "threshold": 1
+                }
+            ]
+        },
+        "55111": {
+            "id": "55111",
+            "names": [
+                {
+                    "name": "55111",
+                    "threshold": 1
+                }
+            ]
+        },
+        "6282": {
+            "id": "6282",
+            "names": [
+                {
+                    "name": "6282",
+                    "threshold": 1
+                }
+            ]
+        },
+        "6350": {
+            "id": "6350",
+            "names": [
+                {
+                    "name": "6350",
+                    "threshold": 1
+                }
+            ]
+        },
+        "63501": {
+            "id": "63501",
+            "names": [
+                {
+                    "name": "63501",
+                    "threshold": 1
+                }
+            ]
+        },
+        "63505": {
+            "id": "63505",
+            "names": [
+                {
+                    "name": "63505",
+                    "threshold": 1
+                }
+            ]
+        },
+        "6360": {
+            "id": "6360",
+            "names": [
+                {
+                    "name": "6360",
+                    "threshold": 1
+                }
+            ]
+        },
+        "6426": {
+            "id": "6426",
+            "names": [
+                {
+                    "name": "6426",
+                    "threshold": 1
+                }
+            ]
+        },
+        "6460": {
+            "id": "6460",
+            "names": [
+                {
+                    "name": "6460",
+                    "threshold": 1
+                }
+            ]
+        },
+        "6511": {
+            "id": "6511",
+            "names": [
+                {
+                    "name": "6511",
+                    "threshold": 1
+                }
+            ]
+        },
+        "65111": {
+            "id": "65111",
+            "names": [
+                {
+                    "name": "65111",
+                    "threshold": 1
+                }
+            ]
+        },
+        "65115": {
+            "id": "65115",
+            "names": [
+                {
+                    "name": "65115",
+                    "threshold": 1
+                }
+            ]
+        },
+        "65116": {
+            "id": "65116",
+            "names": [
+                {
+                    "name": "65116",
+                    "threshold": 1
+                }
+            ]
+        },
+        "65117": {
+            "id": "65117",
+            "names": [
+                {
+                    "name": "65117",
+                    "threshold": 1
+                }
+            ]
+        },
+        "6520": {
+            "id": "6520",
+            "names": [
+                {
+                    "name": "6520",
+                    "threshold": 1
+                }
+            ]
+        },
+        "65201": {
+            "id": "65201",
+            "names": [
+                {
+                    "name": "65201",
+                    "threshold": 1
+                }
+            ]
+        },
+        "65207": {
+            "id": "65207",
+            "names": [
+                {
+                    "name": "65207",
+                    "threshold": 1
+                }
+            ]
+        },
+        "6522": {
+            "id": "6522",
+            "names": [
+                {
+                    "name": "6522",
+                    "threshold": 1
+                }
+            ]
+        },
+        "65221": {
+            "id": "65221",
+            "names": [
+                {
+                    "name": "65221",
+                    "threshold": 1
+                }
+            ]
+        },
+        "65222": {
+            "id": "65222",
+            "names": [
+                {
+                    "name": "65222",
+                    "threshold": 1
+                }
+            ]
+        },
+        "65224": {
+            "id": "65224",
+            "names": [
+                {
+                    "name": "65224",
+                    "threshold": 1
+                }
+            ]
+        },
+        "65225": {
+            "id": "65225",
+            "names": [
+                {
+                    "name": "65225",
+                    "threshold": 1
+                }
+            ]
+        },
+        "65226": {
+            "id": "65226",
+            "names": [
+                {
+                    "name": "65226",
+                    "threshold": 1
+                }
+            ]
+        },
+        "6540": {
+            "id": "6540",
+            "names": [
+                {
+                    "name": "6540",
+                    "threshold": 1
+                }
+            ]
+        },
+        "6560": {
+            "id": "6560",
+            "names": [
+                {
+                    "name": "6560",
+                    "threshold": 1
+                }
+            ]
+        },
+        "65659": {
+            "id": "65659",
+            "names": [
+                {
+                    "name": "65659",
+                    "threshold": 1
+                }
+            ]
+        },
+        "6580": {
+            "id": "6580",
+            "names": [
+                {
+                    "name": "6580",
+                    "threshold": 1
+                }
+            ]
+        },
+        "65806": {
+            "id": "65806",
+            "names": [
+                {
+                    "name": "65806",
+                    "threshold": 1
+                }
+            ]
+        },
+        "6595": {
+            "id": "6595",
+            "names": [
+                {
+                    "name": "6595",
+                    "threshold": 1
+                }
+            ]
+        },
+        "7330": {
+            "id": "7330",
+            "names": [
+                {
+                    "name": "7330",
+                    "threshold": 1
+                }
+            ]
+        },
+        "8120": {
+            "id": "8120",
+            "names": [
+                {
+                    "name": "8120",
+                    "threshold": 1
+                }
+            ]
+        },
+        "8125": {
+            "id": "8125",
+            "names": [
+                {
+                    "name": "8125",
+                    "threshold": 1
+                }
+            ]
+        }
+    }
+}

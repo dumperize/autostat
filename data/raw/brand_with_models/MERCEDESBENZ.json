@@ -1,1 +1,781 @@
-{"id": "MERCEDESBENZ", "names": [{"name": "MERCEDES BENZ", "threshold": 0.85}, {"name": "МЕРЦЕДЕС БЕНЗ", "threshold": 0.85}], "models": {"ACLASS": {"id": "ACLASS", "names": [{"name": "A CLASS", "threshold": 0.85}, {"name": "А ЦЛАСС", "threshold": 0.85}]}, "ACTROS": {"id": "ACTROS", "names": [{"name": "ACTROS", "threshold": 0.85}, {"name": "АЦТРОС", "threshold": 0.85}]}, "AMGGT": {"id": "AMGGT", "names": [{"name": "AMG GT", "threshold": 0.85}, {"name": "АМГ ГТ", "threshold": 0.85}]}, "AROCS": {"id": "AROCS", "names": [{"name": "AROCS", "threshold": 0.85}, {"name": "АРОЦС", "threshold": 0.85}]}, "ATEGO": {"id": "ATEGO", "names": [{"name": "ATEGO", "threshold": 0.85}, {"name": "АТЕГО", "threshold": 0.85}]}, "AXOR": {"id": "AXOR", "names": [{"name": "AXOR", "threshold": 0.93}, {"name": "АXОР", "threshold": 0.93}]}, "BCLASS": {"id": "BCLASS", "names": [{"name": "B CLASS", "threshold": 0.85}, {"name": "Б ЦЛАСС", "threshold": 0.85}]}, "BUSES": {"id": "BUSES", "names": [{"name": "BUSES", "threshold": 0.85}, {"name": "БУСЕС", "threshold": 0.85}]}, "CCLASS": {"id": "CCLASS", "names": [{"name": "C CLASS", "threshold": 0.85}, {"name": "Ц ЦЛАСС", "threshold": 0.85}]}, "CITAN": {"id": "CITAN", "names": [{"name": "CITAN", "threshold": 0.85}, {"name": "ЦИТАН", "threshold": 0.85}]}, "CLCLASS": {"id": "CLCLASS", "names": [{"name": "CL CLASS", "threshold": 0.85}, {"name": "ЦЛ ЦЛАСС", "threshold": 0.85}]}, "CLACLASS": {"id": "CLACLASS", "names": [{"name": "CLA CLASS", "threshold": 0.85}, {"name": "ЦЛА ЦЛАСС", "threshold": 0.85}]}, "CLKCLASS": {"id": "CLKCLASS", "names": [{"name": "CLK CLASS", "threshold": 0.85}, {"name": "ЦЛК ЦЛАСС", "threshold": 0.85}]}, "CLSCLASS": {"id": "CLSCLASS", "names": [{"name": "CLS CLASS", "threshold": 0.85}, {"name": "ЦЛС ЦЛАСС", "threshold": 0.85}]}, "CONECTO": {"id": "CONECTO", "names": [{"name": "CONECTO", "threshold": 0.85}, {"name": "ЦОНЕЦТО", "threshold": 0.85}]}, "ECLASS": {"id": "ECLASS", "names": [{"name": "E CLASS", "threshold": 0.85}, {"name": "Е ЦЛАСС", "threshold": 0.85}]}, "ECLASSCOUPE": {"id": "ECLASSCOUPE", "names": [{"name": "E CLASS COUPE", "threshold": 0.85}, {"name": "Е ЦЛАСС ЦОУПЕ", "threshold": 0.85}]}, "ECONIC": {"id": "ECONIC", "names": [{"name": "ECONIC", "threshold": 0.85}, {"name": "ЕЦОНИЦ", "threshold": 0.85}]}, "EQC": {"id": "EQC", "names": [{"name": "EQC", "threshold": 0.97}, {"name": "ЕQЦ", "threshold": 0.97}]}, "GCLASS": {"id": "GCLASS", "names": [{"name": "G CLASS", "threshold": 0.85}, {"name": "Г ЦЛАСС", "threshold": 0.85}]}, "GLCLASS": {"id": "GLCLASS", "names": [{"name": "GL CLASS", "threshold": 0.85}, {"name": "ГЛ ЦЛАСС", "threshold": 0.85}]}, "GLACLASS": {"id": "GLACLASS", "names": [{"name": "GLA CLASS", "threshold": 0.85}, {"name": "ГЛА ЦЛАСС", "threshold": 0.85}]}, "GLBCLASS": {"id": "GLBCLASS", "names": [{"name": "GLB CLASS", "threshold": 0.85}, {"name": "ГЛБ ЦЛАСС", "threshold": 0.85}]}, "GLCCLASS": {"id": "GLCCLASS", "names": [{"name": "GLC CLASS", "threshold": 0.85}, {"name": "ГЛЦ ЦЛАСС", "threshold": 0.85}]}, "GLCCLASSCOUPE": {"id": "GLCCLASSCOUPE", "names": [{"name": "GLC CLASS COUPE", "threshold": 0.85}, {"name": "ГЛЦ ЦЛАСС ЦОУПЕ", "threshold": 0.85}]}, "GLECLASS": {"id": "GLECLASS", "names": [{"name": "GLE CLASS", "threshold": 0.85}, {"name": "ГЛЕ ЦЛАСС", "threshold": 0.85}]}, "GLECLASSCOUPE": {"id": "GLECLASSCOUPE", "names": [{"name": "GLE CLASS COUPE", "threshold": 0.85}, {"name": "ГЛЕ ЦЛАСС ЦОУПЕ", "threshold": 0.85}]}, "GLKCLASS": {"id": "GLKCLASS", "names": [{"name": "GLK CLASS", "threshold": 0.85}, {"name": "ГЛК ЦЛАСС", "threshold": 0.85}]}, "GLSCLASS": {"id": "GLSCLASS", "names": [{"name": "GLS CLASS", "threshold": 0.85}, {"name": "ГЛС ЦЛАСС", "threshold": 0.85}]}, "INTOURO": {"id": "INTOURO", "names": [{"name": "INTOURO", "threshold": 0.85}, {"name": "ИНТОУРО", "threshold": 0.85}]}, "LK": {"id": "LK", "names": [{"name": "LK", "threshold": 1}, {"name": "ЛК", "threshold": 1}]}, "MCLASS": {"id": "MCLASS", "names": [{"name": "M CLASS", "threshold": 0.85}, {"name": "М ЦЛАСС", "threshold": 0.85}]}, "MAYBACH": {"id": "MAYBACH", "names": [{"name": "MAYBACH", "threshold": 0.85}, {"name": "МАЫБАЦХ", "threshold": 0.85}]}, "MAYBACHSCLASS": {"id": "MAYBACHSCLASS", "names": [{"name": "MAYBACH S CLASS", "threshold": 0.85}, {"name": "МАЫБАЦХ С ЦЛАСС", "threshold": 0.85}]}, "MB100": {"id": "MB100", "names": [{"name": "MB 100", "threshold": 1}]}, "MK": {"id": "MK", "names": [{"name": "MK", "threshold": 1}, {"name": "МК", "threshold": 1}]}, "O302": {"id": "O302", "names": [{"name": "O302", "threshold": 1}]}, "O303": {"id": "O303", "names": [{"name": "O303", "threshold": 1}]}, "O305": {"id": "O305", "names": [{"name": "O305", "threshold": 1}]}, "O340": {"id": "O340", "names": [{"name": "O340", "threshold": 1}]}, "O403": {"id": "O403", "names": [{"name": "O403", "threshold": 1}]}, "O404": {"id": "O404", "names": [{"name": "O404", "threshold": 1}]}, "O580": {"id": "O580", "names": [{"name": "O580", "threshold": 1}]}, "OHL": {"id": "OHL", "names": [{"name": "OHL", "threshold": 0.97}, {"name": "ОХЛ", "threshold": 0.97}]}, "OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}, "RCLASS": {"id": "RCLASS", "names": [{"name": "R CLASS", "threshold": 0.85}, {"name": "Р ЦЛАСС", "threshold": 0.85}]}, "SCLASS": {"id": "SCLASS", "names": [{"name": "S CLASS", "threshold": 0.85}, {"name": "С ЦЛАСС", "threshold": 0.85}]}, "SCLASSCOUPE": {"id": "SCLASSCOUPE", "names": [{"name": "S CLASS COUPE", "threshold": 0.85}, {"name": "С ЦЛАСС ЦОУПЕ", "threshold": 0.85}]}, "SK": {"id": "SK", "names": [{"name": "SK", "threshold": 1}, {"name": "СК", "threshold": 1}]}, "SLCLASS": {"id": "SLCLASS", "names": [{"name": "SL CLASS", "threshold": 0.85}, {"name": "СЛ ЦЛАСС", "threshold": 0.85}]}, "SLCCLASS": {"id": "SLCCLASS", "names": [{"name": "SLC CLASS", "threshold": 0.85}, {"name": "СЛЦ ЦЛАСС", "threshold": 0.85}]}, "SLKCLASS": {"id": "SLKCLASS", "names": [{"name": "SLK CLASS", "threshold": 0.85}, {"name": "СЛК ЦЛАСС", "threshold": 0.85}]}, "SLRCLASS": {"id": "SLRCLASS", "names": [{"name": "SLR CLASS", "threshold": 0.85}, {"name": "СЛР ЦЛАСС", "threshold": 0.85}]}, "SLSCLASS": {"id": "SLSCLASS", "names": [{"name": "SLS CLASS", "threshold": 0.85}, {"name": "СЛС ЦЛАСС", "threshold": 0.85}]}, "SPRINTER": {"id": "SPRINTER", "names": [{"name": "SPRINTER", "threshold": 0.85}, {"name": "СПРИНТЕР", "threshold": 0.85}]}, "SPRINTERCLASSIC": {"id": "SPRINTERCLASSIC", "names": [{"name": "SPRINTER CLASSIC", "threshold": 0.85}, {"name": "СПРИНТЕР ЦЛАССИЦ", "threshold": 0.85}]}, "T1": {"id": "T1", "names": [{"name": "T1", "threshold": 1}]}, "T2": {"id": "T2", "names": [{"name": "T2", "threshold": 1}]}, "TOURISMO": {"id": "TOURISMO", "names": [{"name": "TOURISMO", "threshold": 0.85}, {"name": "ТОУРИСМО", "threshold": 0.85}]}, "TRAVEGO": {"id": "TRAVEGO", "names": [{"name": "TRAVEGO", "threshold": 0.85}, {"name": "ТРАВЕГО", "threshold": 0.85}]}, "UNIMOG": {"id": "UNIMOG", "names": [{"name": "UNIMOG", "threshold": 0.85}, {"name": "УНИМОГ", "threshold": 0.85}]}, "VCLASS": {"id": "VCLASS", "names": [{"name": "V CLASS", "threshold": 0.85}, {"name": "В ЦЛАСС", "threshold": 0.85}]}, "VANEO": {"id": "VANEO", "names": [{"name": "VANEO", "threshold": 0.85}, {"name": "ВАНЕО", "threshold": 0.85}]}, "VARIO": {"id": "VARIO", "names": [{"name": "VARIO", "threshold": 0.85}, {"name": "ВАРИО", "threshold": 0.85}]}, "VIANO": {"id": "VIANO", "names": [{"name": "VIANO", "threshold": 0.85}, {"name": "ВИАНО", "threshold": 0.85}]}, "VITO": {"id": "VITO", "names": [{"name": "VITO", "threshold": 0.93}, {"name": "ВИТО", "threshold": 0.93}]}, "XCLASS": {"id": "XCLASS", "names": [{"name": "X CLASS", "threshold": 0.85}, {"name": "X ЦЛАСС", "threshold": 0.85}]}}}
+{
+    "id": "MERCEDESBENZ",
+    "names": [
+        {
+            "name": "MERCEDES BENZ",
+            "threshold": 0.85
+        },
+        {
+            "name": "МЕРСЕДЕС БЕНЗ",
+            "threshold": 0.85
+        },
+        {
+            "name": "МЕРСЕДЕС",
+            "threshold": 0.85
+        },
+        {
+            "name": "MERCEDES",
+            "threshold": 0.85
+        }
+    ],
+    "models": {
+        "ACLASS": {
+            "id": "ACLASS",
+            "names": [
+                {
+                    "name": "A CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "A",
+                    "threshold": 1
+                }
+            ]
+        },
+        "ACTROS": {
+            "id": "ACTROS",
+            "names": [
+                {
+                    "name": "ACTROS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АКТРОС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "AMGGT": {
+            "id": "AMGGT",
+            "names": [
+                {
+                    "name": "AMG GT",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АМГ ГТ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "AROCS": {
+            "id": "AROCS",
+            "names": [
+                {
+                    "name": "AROCS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АРОКС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "ATEGO": {
+            "id": "ATEGO",
+            "names": [
+                {
+                    "name": "ATEGO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АТЕГО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "AXOR": {
+            "id": "AXOR",
+            "names": [
+                {
+                    "name": "AXOR",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "АКСОР",
+                    "threshold": 0.93
+                }
+            ]
+        },
+        "BCLASS": {
+            "id": "BCLASS",
+            "names": [
+                {
+                    "name": "B CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "B",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BUSES": {
+            "id": "BUSES",
+            "names": [
+                {
+                    "name": "BUSES",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "БАСЕС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "CCLASS": {
+            "id": "CCLASS",
+            "names": [
+                {
+                    "name": "C CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "C",
+                    "threshold": 1
+                }
+            ]
+        },
+        "CITAN": {
+            "id": "CITAN",
+            "names": [
+                {
+                    "name": "CITAN",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЦИТАН",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "CLCLASS": {
+            "id": "CLCLASS",
+            "names": [
+                {
+                    "name": "CL CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "CL",
+                    "threshold": 1
+                }
+            ]
+        },
+        "CLACLASS": {
+            "id": "CLACLASS",
+            "names": [
+                {
+                    "name": "CLA CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "CLA",
+                    "threshold": 1
+                }
+            ]
+        },
+        "CLKCLASS": {
+            "id": "CLKCLASS",
+            "names": [
+                {
+                    "name": "CLK CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "CLK",
+                    "threshold": 1
+                }
+            ]
+        },
+        "CLSCLASS": {
+            "id": "CLSCLASS",
+            "names": [
+                {
+                    "name": "CLS CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "CLS",
+                    "threshold": 1
+                }
+            ]
+        },
+        "CONECTO": {
+            "id": "CONECTO",
+            "names": [
+                {
+                    "name": "CONECTO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КОНЕКТО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "ECLASS": {
+            "id": "ECLASS",
+            "names": [
+                {
+                    "name": "E CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "E",
+                    "threshold": 1
+                }
+            ]
+        },
+        "ECONIC": {
+            "id": "ECONIC",
+            "names": [
+                {
+                    "name": "ECONIC",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЭКОНИК",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "EQC": {
+            "id": "EQC",
+            "names": [
+                {
+                    "name": "EQC",
+                    "threshold": 0.97
+                }
+            ]
+        },
+        "GCLASS": {
+            "id": "GCLASS",
+            "names": [
+                {
+                    "name": "G CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "G",
+                    "threshold": 1
+                }
+            ]
+        },
+        "GLCLASS": {
+            "id": "GLCLASS",
+            "names": [
+                {
+                    "name": "GL CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "GL",
+                    "threshold": 1
+                }
+            ]
+        },
+        "GLACLASS": {
+            "id": "GLACLASS",
+            "names": [
+                {
+                    "name": "GLA CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "GLA",
+                    "threshold": 1
+                }
+            ]
+        },
+        "GLBCLASS": {
+            "id": "GLBCLASS",
+            "names": [
+                {
+                    "name": "GLB CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "GLB",
+                    "threshold": 1
+                }
+            ]
+        },
+        "GLCCLASS": {
+            "id": "GLCCLASS",
+            "names": [
+                {
+                    "name": "GLC CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "GLC",
+                    "threshold": 1
+                }
+            ]
+        },
+        "GLECLASS": {
+            "id": "GLECLASS",
+            "names": [
+                {
+                    "name": "GLE CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "GLE",
+                    "threshold": 1
+                }
+            ]
+        },
+        "GLKCLASS": {
+            "id": "GLKCLASS",
+            "names": [
+                {
+                    "name": "GLK CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "GLK",
+                    "threshold": 1
+                }
+            ]
+        },
+        "GLSCLASS": {
+            "id": "GLSCLASS",
+            "names": [
+                {
+                    "name": "GLS CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "GLS",
+                    "threshold": 1
+                }
+            ]
+        },
+        "INTOURO": {
+            "id": "INTOURO",
+            "names": [
+                {
+                    "name": "INTOURO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ИНТУРО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "LK": {
+            "id": "LK",
+            "names": [
+                {
+                    "name": "LK",
+                    "threshold": 1
+                }
+            ]
+        },
+        "MCLASS": {
+            "id": "MCLASS",
+            "names": [
+                {
+                    "name": "M CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "M",
+                    "threshold": 1
+                }
+            ]
+        },
+        "MAYBACH": {
+            "id": "MAYBACH",
+            "names": [
+                {
+                    "name": "MAYBACH",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МАЙБАХ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MB100": {
+            "id": "MB100",
+            "names": [
+                {
+                    "name": "MB 100",
+                    "threshold": 1
+                }
+            ]
+        },
+        "MK": {
+            "id": "MK",
+            "names": [
+                {
+                    "name": "MK",
+                    "threshold": 1
+                },
+                {
+                    "name": "МК",
+                    "threshold": 1
+                }
+            ]
+        },
+        "O302": {
+            "id": "O302",
+            "names": [
+                {
+                    "name": "O302",
+                    "threshold": 1
+                }
+            ]
+        },
+        "O303": {
+            "id": "O303",
+            "names": [
+                {
+                    "name": "O303",
+                    "threshold": 1
+                }
+            ]
+        },
+        "O305": {
+            "id": "O305",
+            "names": [
+                {
+                    "name": "O305",
+                    "threshold": 1
+                }
+            ]
+        },
+        "O340": {
+            "id": "O340",
+            "names": [
+                {
+                    "name": "O340",
+                    "threshold": 1
+                }
+            ]
+        },
+        "O403": {
+            "id": "O403",
+            "names": [
+                {
+                    "name": "O403",
+                    "threshold": 1
+                }
+            ]
+        },
+        "O404": {
+            "id": "O404",
+            "names": [
+                {
+                    "name": "O404",
+                    "threshold": 1
+                }
+            ]
+        },
+        "O580": {
+            "id": "O580",
+            "names": [
+                {
+                    "name": "O580",
+                    "threshold": 1
+                }
+            ]
+        },
+        "OHL": {
+            "id": "OHL",
+            "names": [
+                {
+                    "name": "OHL",
+                    "threshold": 0.97
+                },
+                {
+                    "name": "ОХЛ",
+                    "threshold": 0.97
+                }
+            ]
+        },
+        "OTHER": {
+            "id": "OTHER",
+            "names": [
+                {
+                    "name": "OTHER",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ОТХЕР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "RCLASS": {
+            "id": "RCLASS",
+            "names": [
+                {
+                    "name": "R CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "R",
+                    "threshold": 1
+                }
+            ]
+        },
+        "SCLASS": {
+            "id": "SCLASS",
+            "names": [
+                {
+                    "name": "S CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "S",
+                    "threshold": 1
+                }
+            ]
+        },
+        "SK": {
+            "id": "SK",
+            "names": [
+                {
+                    "name": "SK",
+                    "threshold": 1
+                },
+                {
+                    "name": "СК",
+                    "threshold": 1
+                }
+            ]
+        },
+        "SLCLASS": {
+            "id": "SLCLASS",
+            "names": [
+                {
+                    "name": "SL CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "SL",
+                    "threshold": 1
+                }
+            ]
+        },
+        "SLCCLASS": {
+            "id": "SLCCLASS",
+            "names": [
+                {
+                    "name": "SLC CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "SLC",
+                    "threshold": 1
+                }
+            ]
+        },
+        "SLKCLASS": {
+            "id": "SLKCLASS",
+            "names": [
+                {
+                    "name": "SLK CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "SLK",
+                    "threshold": 1
+                }
+            ]
+        },
+        "SLRCLASS": {
+            "id": "SLRCLASS",
+            "names": [
+                {
+                    "name": "SLR CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "SLR",
+                    "threshold": 1
+                }
+            ]
+        },
+        "SLSCLASS": {
+            "id": "SLSCLASS",
+            "names": [
+                {
+                    "name": "SLS CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "SLS",
+                    "threshold": 1
+                }
+            ]
+        },
+        "SPRINTER": {
+            "id": "SPRINTER",
+            "names": [
+                {
+                    "name": "SPRINTER",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СПРИНТЕР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SPRINTERCLASSIC": {
+            "id": "SPRINTERCLASSIC",
+            "names": [
+                {
+                    "name": "SPRINTER CLASSIC",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СПРИНТЕР КЛАССИК",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "T1": {
+            "id": "T1",
+            "names": [
+                {
+                    "name": "T1",
+                    "threshold": 1
+                }
+            ]
+        },
+        "T2": {
+            "id": "T2",
+            "names": [
+                {
+                    "name": "T2",
+                    "threshold": 1
+                }
+            ]
+        },
+        "TOURISMO": {
+            "id": "TOURISMO",
+            "names": [
+                {
+                    "name": "TOURISMO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТОУРИСМО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "TRAVEGO": {
+            "id": "TRAVEGO",
+            "names": [
+                {
+                    "name": "TRAVEGO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТРАВЕГО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "UNIMOG": {
+            "id": "UNIMOG",
+            "names": [
+                {
+                    "name": "UNIMOG",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "УНИМОГ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "VCLASS": {
+            "id": "VCLASS",
+            "names": [
+                {
+                    "name": "V CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "V",
+                    "threshold": 1
+                }
+            ]
+        },
+        "VANEO": {
+            "id": "VANEO",
+            "names": [
+                {
+                    "name": "VANEO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ВАНЕО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "VARIO": {
+            "id": "VARIO",
+            "names": [
+                {
+                    "name": "VARIO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ВАРИО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "VIANO": {
+            "id": "VIANO",
+            "names": [
+                {
+                    "name": "VIANO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ВИАНО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "VITO": {
+            "id": "VITO",
+            "names": [
+                {
+                    "name": "VITO",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "ВИТО",
+                    "threshold": 0.93
+                }
+            ]
+        },
+        "XCLASS": {
+            "id": "XCLASS",
+            "names": [
+                {
+                    "name": "X CLASS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "X",
+                    "threshold": 1
+                }
+            ]
+        }
+    }
+}

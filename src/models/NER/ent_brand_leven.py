@@ -44,6 +44,7 @@ def set_in_next_token(ent, doc):
 
         if model: 
             span_name = f'{brand.upper()}_{dictionary_models[model].upper()}'
+    
             if len(model) < len(doc[start].text):
                 split_token_by_n(doc, start, len(model))
 
@@ -51,7 +52,7 @@ def set_in_next_token(ent, doc):
                 add_span_in_doc(doc, span_model)
                 exist_ent =doc[start].ent_type_
                 if exist_ent =='YEAR':
-                    span_year = doc[start:end].char_span(len(doc[start].text), len(doc[start].text)+ len(doc[start + 1].text), label="YEAR")
+                    span_year = doc[start:end].char_span(len(doc[start].text), len(doc[start].text) + len(doc[start + 1].text), label="YEAR")
                     add_span_in_doc(doc, span_year)
             else:
                 span = Span(doc, start, start + 1, label="MODEL", kb_id=span_name)

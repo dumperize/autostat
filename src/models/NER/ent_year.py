@@ -1,5 +1,6 @@
 import re
 from src.models.NER.utils.add_del_span import add_span_in_doc, del_span_in_doc
+from src.models.NER.utils.operation import filter_ent
 
 from src.models.NER.utils.retokenizer import split_token_by_n
 
@@ -46,8 +47,11 @@ def ent_year(doc, ent):
                 pos_token = pos_prev or pos_next or pos_inner # в токенах вокруг что-то позитивное
                 pos_digits = only_digits and not prev_neg_result and not next_neg_result # это просто 4 цифры и ничего негативного вокруг
 
+                ents = filter_ent(doc, 'YEAR')
+                only_one_sim = len(ents) == 1 and not prev_neg_result and not next_neg_result # это единственное что-то похожее на год в строке и ничего негативного вокруг
+
                 # print(neg_data, pos_token, pos_digits)
-                if not neg_data and (pos_token or pos_digits):
+                if not neg_data and (pos_token or pos_digits or only_one_sim):
                     if len(ent.text) == 4: return True
 
                     points_start = [match.start() for match in re.finditer(currentYearReg, ent.text)]

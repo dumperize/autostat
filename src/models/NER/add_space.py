@@ -33,6 +33,8 @@ class CustomTokenizer(Tokenizer):
         string = re.sub(r'-'," ", string)
         string = re.sub(r'\?'," ", string)
         string = re.sub(r'\!'," ", string)
+        string = re.sub(r'\)'," ", string)
+        string = re.sub(r'\('," ", string)
         string = re.sub(r'([ ]+)|([ ]){2,}'," ", string)
 
 

@@ -1,1 +1,239 @@
-{"id": "CHERY", "names": [{"name": "CHERY", "threshold": 0.85}, {"name": "ЦХЕРЫ", "threshold": 0.85}], "models": {"A13/BONUS/VERY": {"id": "A13/BONUS/VERY", "names": [{"name": "A13/BONUS/VERY", "threshold": 1}]}, "AMULET": {"id": "AMULET", "names": [{"name": "AMULET", "threshold": 0.85}, {"name": "АМУЛЕТ", "threshold": 0.85}]}, "ARRIZO7": {"id": "ARRIZO7", "names": [{"name": "ARRIZO 7", "threshold": 1}]}, "BONUS3A19": {"id": "BONUS3A19", "names": [{"name": "BONUS 3 A19", "threshold": 1}]}, "CROSSEASTAR": {"id": "CROSSEASTAR", "names": [{"name": "CROSSEASTAR", "threshold": 0.85}, {"name": "ЦРОССЕАСТАР", "threshold": 0.85}]}, "EASTAR": {"id": "EASTAR", "names": [{"name": "EASTAR", "threshold": 0.85}, {"name": "ЕАСТАР", "threshold": 0.85}]}, "FORA": {"id": "FORA", "names": [{"name": "FORA", "threshold": 0.93}, {"name": "ФОРА", "threshold": 0.93}]}, "INDIS": {"id": "INDIS", "names": [{"name": "INDIS", "threshold": 0.85}, {"name": "ИНДИС", "threshold": 0.85}]}, "KIMO": {"id": "KIMO", "names": [{"name": "KIMO", "threshold": 0.93}, {"name": "КИМО", "threshold": 0.93}]}, "M11": {"id": "M11", "names": [{"name": "M11", "threshold": 1}]}, "QQ6": {"id": "QQ6", "names": [{"name": "QQ6", "threshold": 1}]}, "SWEETQQ": {"id": "SWEETQQ", "names": [{"name": "SWEET QQ", "threshold": 0.85}, {"name": "СWЕЕТ QQ", "threshold": 0.85}]}, "TIGGO": {"id": "TIGGO", "names": [{"name": "TIGGO", "threshold": 0.85}, {"name": "ТИГГО", "threshold": 0.85}]}, "TIGGO2": {"id": "TIGGO2", "names": [{"name": "TIGGO 2", "threshold": 1}]}, "TIGGO3": {"id": "TIGGO3", "names": [{"name": "TIGGO 3", "threshold": 1}]}, "TIGGO4": {"id": "TIGGO4", "names": [{"name": "TIGGO 4", "threshold": 1}]}, "TIGGO5": {"id": "TIGGO5", "names": [{"name": "TIGGO 5", "threshold": 1}]}, "TIGGO7": {"id": "TIGGO7", "names": [{"name": "TIGGO 7", "threshold": 1}]}, "TIGGO8": {"id": "TIGGO8", "names": [{"name": "TIGGO 8", "threshold": 1}]}}}
+{
+    "id": "CHERY",
+    "names": [
+        {
+            "name": "CHERY",
+            "threshold": 0.85
+        },
+        {
+            "name": "ЧЕРРИ",
+            "threshold": 0.85
+        }
+    ],
+    "models": {
+        "A13/BONUS/VERY": {
+            "id": "A13/BONUS/VERY",
+            "names": [
+                {
+                    "name": "VERY",
+                    "threshold": 1
+                },
+                {
+                    "name": "BONUS/VERY",
+                    "threshold": 1
+                },
+                {
+                    "name": "A13",
+                    "threshold": 1
+                }
+            ]
+        },
+        "AMULET": {
+            "id": "AMULET",
+            "names": [
+                {
+                    "name": "AMULET",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АМУЛЕТ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "ARRIZO7": {
+            "id": "ARRIZO7",
+            "names": [
+                {
+                    "name": "ARRIZO 7",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BONUS3A19": {
+            "id": "BONUS3A19",
+            "names": [
+                {
+                    "name": "BONUS 3 A19",
+                    "threshold": 1
+                }
+            ]
+        },
+        "CROSSEASTAR": {
+            "id": "CROSSEASTAR",
+            "names": [
+                {
+                    "name": "CROSSEASTAR",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КРОССЕАСТАР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "EASTAR": {
+            "id": "EASTAR",
+            "names": [
+                {
+                    "name": "EASTAR",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЕАСТАР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "FORA": {
+            "id": "FORA",
+            "names": [
+                {
+                    "name": "FORA",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "ФОРА",
+                    "threshold": 0.93
+                }
+            ]
+        },
+        "INDIS": {
+            "id": "INDIS",
+            "names": [
+                {
+                    "name": "INDIS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ИНДИС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "KIMO": {
+            "id": "KIMO",
+            "names": [
+                {
+                    "name": "KIMO",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "КИМО",
+                    "threshold": 0.93
+                }
+            ]
+        },
+        "M11": {
+            "id": "M11",
+            "names": [
+                {
+                    "name": "M11",
+                    "threshold": 1
+                }
+            ]
+        },
+        "QQ6": {
+            "id": "QQ6",
+            "names": [
+                {
+                    "name": "QQ6",
+                    "threshold": 1
+                }
+            ]
+        },
+        "SUV": {
+            "id": "SUV",
+            "names": [
+                {
+                    "name": "SUV",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "T11",
+                    "threshold": 1
+                }
+            ]
+        },
+        "SWEETQQ": {
+            "id": "SWEETQQ",
+            "names": [
+                {
+                    "name": "SWEET QQ",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СВИТ QQ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "TIGGO": {
+            "id": "TIGGO",
+            "names": [
+                {
+                    "name": "TIGGO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТИГГО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "TIGGO2": {
+            "id": "TIGGO2",
+            "names": [
+                {
+                    "name": "TIGGO 2",
+                    "threshold": 1
+                }
+            ]
+        },
+        "TIGGO3": {
+            "id": "TIGGO3",
+            "names": [
+                {
+                    "name": "TIGGO 3",
+                    "threshold": 1
+                }
+            ]
+        },
+        "TIGGO4": {
+            "id": "TIGGO4",
+            "names": [
+                {
+                    "name": "TIGGO 4",
+                    "threshold": 1
+                }
+            ]
+        },
+        "TIGGO5": {
+            "id": "TIGGO5",
+            "names": [
+                {
+                    "name": "TIGGO 5",
+                    "threshold": 1
+                }
+            ]
+        },
+        "TIGGO7": {
+            "id": "TIGGO7",
+            "names": [
+                {
+                    "name": "TIGGO 7",
+                    "threshold": 1
+                }
+            ]
+        },
+        "TIGGO8": {
+            "id": "TIGGO8",
+            "names": [
+                {
+                    "name": "TIGGO 8",
+                    "threshold": 1
+                }
+            ]
+        }
+    }
+}

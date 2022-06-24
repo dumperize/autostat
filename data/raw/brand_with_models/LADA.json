@@ -1,1 +1,554 @@
-{"id": "LADA", "names": [{"name": "LADA", "threshold": 0.93}, {"name": "ЛАДА", "threshold": 0.93}, {"name": "ВАЗ", "threshold": 1}, {"name": "ВАZ", "threshold": 1}], "models": {"1117KALINAWAGON": {"id": "1117KALINAWAGON", "names": [{"name": "1117 KALINA WAGON", "threshold": 1}]}, "1118KALINASEDAN": {"id": "1118KALINASEDAN", "names": [{"name": "1118 KALINA SEDAN", "threshold": 1}]}, "1119KALINAHATCHBACK": {"id": "1119KALINAHATCHBACK", "names": [{"name": "1119 KALINA HATCHBACK", "threshold": 1}]}, "2101CLASSIC": {"id": "2101CLASSIC", "names": [{"name": "2101 CLASSIC", "threshold": 1}]}, "2102CLASSIC": {"id": "2102CLASSIC", "names": [{"name": "2102 CLASSIC", "threshold": 1}]}, "2103CLASSIC": {"id": "2103CLASSIC", "names": [{"name": "2103 CLASSIC", "threshold": 1}]}, "2104CLASSIC": {"id": "2104CLASSIC", "names": [{"name": "2104 CLASSIC", "threshold": 1}]}, "2105CLASSIC": {"id": "2105CLASSIC", "names": [{"name": "2105 CLASSIC", "threshold": 1}]}, "2106CLASSIC": {"id": "2106CLASSIC", "names": [{"name": "2106 CLASSIC", "threshold": 1}]}, "2107CLASSIC": {"id": "2107CLASSIC", "names": [{"name": "2107 CLASSIC", "threshold": 1}]}, "2108SAMARA": {"id": "2108SAMARA", "names": [{"name": "2108 SAMARA", "threshold": 1}]}, "2109SAMARA": {"id": "2109SAMARA", "names": [{"name": "2109 SAMARA", "threshold": 1}]}, "21099SAMARA": {"id": "21099SAMARA", "names": [{"name": "21099 SAMARA", "threshold": 1}]}, "2110SEDAN": {"id": "2110SEDAN", "names": [{"name": "2110 SEDAN", "threshold": 1}]}, "2111WAGON": {"id": "2111WAGON", "names": [{"name": "2111 WAGON", "threshold": 1}]}, "2112HATCHBACK": {"id": "2112HATCHBACK", "names": [{"name": "2112 HATCHBACK", "threshold": 1}]}, "2113SAMARA2": {"id": "2113SAMARA2", "names": [{"name": "2113 SAMARA 2", "threshold": 1}]}, "2114SAMARA2": {"id": "2114SAMARA2", "names": [{"name": "2114 SAMARA 2", "threshold": 1}]}, "2115SAMARA2": {"id": "2115SAMARA2", "names": [{"name": "2115 SAMARA 2", "threshold": 1}]}, "2120NADEZHDA": {"id": "2120NADEZHDA", "names": [{"name": "2120 NADEZHDA", "threshold": 1}]}, "2170PRIORASEDAN": {"id": "2170PRIORASEDAN", "names": [{"name": "2170 PRIORA SEDAN", "threshold": 1}]}, "2171PRIORAWAGON": {"id": "2171PRIORAWAGON", "names": [{"name": "2171 PRIORA WAGON", "threshold": 1}]}, "2172PRIORAHATCHBACK": {"id": "2172PRIORAHATCHBACK", "names": [{"name": "2172 PRIORA HATCHBACK", "threshold": 1}]}, "2190GRANTA2SEDAN": {"id": "2190GRANTA2SEDAN", "names": [{"name": "2190 GRANTA 2 SEDAN", "threshold": 1}]}, "2190GRANTASEDAN": {"id": "2190GRANTASEDAN", "names": [{"name": "2190 GRANTA SEDAN", "threshold": 1}]}, "2191GRANTA2LIFTBACK": {"id": "2191GRANTA2LIFTBACK", "names": [{"name": "2191 GRANTA 2 LIFTBACK", "threshold": 1}]}, "2191GRANTALIFTBACK": {"id": "2191GRANTALIFTBACK", "names": [{"name": "2191 GRANTA LIFTBACK", "threshold": 1}]}, "2192GRANTA2HATCHBACK": {"id": "2192GRANTA2HATCHBACK", "names": [{"name": "2192 GRANTA 2 HATCHBACK", "threshold": 1}]}, "2192KALINA2HATCHBACK": {"id": "2192KALINA2HATCHBACK", "names": [{"name": "2192 KALINA 2 HATCHBACK", "threshold": 1}]}, "2194GRANTA2WAGON": {"id": "2194GRANTA2WAGON", "names": [{"name": "2194 GRANTA 2 WAGON", "threshold": 1}]}, "2194KALINA2WAGON": {"id": "2194KALINA2WAGON", "names": [{"name": "2194 KALINA 2 WAGON", "threshold": 1}]}, "4X4": {"id": "4X4", "names": [{"name": "4X4", "threshold": 1}]}, "4X45DOOR": {"id": "4X45DOOR", "names": [{"name": "4X4 5 DOOR", "threshold": 1}]}, "4X4VU": {"id": "4X4VU", "names": [{"name": "4X4 VU", "threshold": 1}]}, "ELLADA": {"id": "ELLADA", "names": [{"name": "EL LADA", "threshold": 0.85}, {"name": "ЕЛ ЛАДА", "threshold": 0.85}]}, "GRANTAVU": {"id": "GRANTAVU", "names": [{"name": "GRANTA VU", "threshold": 0.85}, {"name": "ГРАНТА ВУ", "threshold": 0.85}]}, "LARGUSVP": {"id": "LARGUSVP", "names": [{"name": "LARGUS VP", "threshold": 0.85}, {"name": "ЛАРГУС ВП", "threshold": 0.85}]}, "LARGUSVU": {"id": "LARGUSVU", "names": [{"name": "LARGUS VU", "threshold": 0.85}, {"name": "ЛАРГУС ВУ", "threshold": 0.85}]}, "NIVA": {"id": "NIVA", "names": [{"name": "NIVA", "threshold": 0.93}, {"name": "НИВА", "threshold": 0.93}]}, "OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}, "SAMARAVU": {"id": "SAMARAVU", "names": [{"name": "SAMARA VU", "threshold": 0.85}, {"name": "САМАРА ВУ", "threshold": 0.85}]}, "VESTASEDAN": {"id": "VESTASEDAN", "names": [{"name": "VESTA SEDAN", "threshold": 0.85}, {"name": "ВЕСТА СЕДАН", "threshold": 0.85}]}, "VESTASW": {"id": "VESTASW", "names": [{"name": "VESTA SW", "threshold": 0.85}, {"name": "ВЕСТА СW", "threshold": 0.85}]}, "XRAY": {"id": "XRAY", "names": [{"name": "XRAY", "threshold": 0.93}, {"name": "XРАЫ", "threshold": 0.93}]}}}
+{
+    "id": "LADA",
+    "names": [
+        {
+            "name": "LADA",
+            "threshold": 0.93
+        },
+        {
+            "name": "ЛАДА",
+            "threshold": 0.93
+        },
+        {
+            "name": "ВАЗ",
+            "threshold": 1
+        },
+        {
+            "name": "ВАZ",
+            "threshold": 1
+        }
+    ],
+    "models": {
+        "1117KALINAWAGON": {
+            "id": "1117KALINAWAGON",
+            "names": [
+                {
+                    "name": "1117 KALINA WAGON",
+                    "threshold": 1
+                },
+                {
+                    "name": "1117",
+                    "threshold": 1
+                }
+            ]
+        },
+        "1118KALINASEDAN": {
+            "id": "1118KALINASEDAN",
+            "names": [
+                {
+                    "name": "1118 KALINA SEDAN",
+                    "threshold": 1
+                },
+                {
+                    "name": "1118",
+                    "threshold": 1
+                }
+            ]
+        },
+        "1119KALINAHATCHBACK": {
+            "id": "1119KALINAHATCHBACK",
+            "names": [
+                {
+                    "name": "1119 KALINA HATCHBACK",
+                    "threshold": 1
+                },
+                {
+                    "name": "1119",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2101CLASSIC": {
+            "id": "2101CLASSIC",
+            "names": [
+                {
+                    "name": "2101 CLASSIC",
+                    "threshold": 1
+                },
+                {
+                    "name": "2101",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2102CLASSIC": {
+            "id": "2102CLASSIC",
+            "names": [
+                {
+                    "name": "2102 CLASSIC",
+                    "threshold": 1
+                },
+                {
+                    "name": "2102",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2103CLASSIC": {
+            "id": "2103CLASSIC",
+            "names": [
+                {
+                    "name": "2103 CLASSIC",
+                    "threshold": 1
+                },
+                {
+                    "name": "2103",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2104CLASSIC": {
+            "id": "2104CLASSIC",
+            "names": [
+                {
+                    "name": "2104 CLASSIC",
+                    "threshold": 1
+                },
+                {
+                    "name": "2104",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2105CLASSIC": {
+            "id": "2105CLASSIC",
+            "names": [
+                {
+                    "name": "2105 CLASSIC",
+                    "threshold": 1
+                },
+                {
+                    "name": "2105",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2106CLASSIC": {
+            "id": "2106CLASSIC",
+            "names": [
+                {
+                    "name": "2106 CLASSIC",
+                    "threshold": 1
+                },
+                {
+                    "name": "2106",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2107CLASSIC": {
+            "id": "2107CLASSIC",
+            "names": [
+                {
+                    "name": "2107 CLASSIC",
+                    "threshold": 1
+                },
+                {
+                    "name": "2107",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2108SAMARA": {
+            "id": "2108SAMARA",
+            "names": [
+                {
+                    "name": "2108 SAMARA",
+                    "threshold": 1
+                },
+                {
+                    "name": "2108",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2109SAMARA": {
+            "id": "2109SAMARA",
+            "names": [
+                {
+                    "name": "2109 SAMARA",
+                    "threshold": 1
+                },
+                {
+                    "name": "2109",
+                    "threshold": 1
+                }
+            ]
+        },
+        "21099SAMARA": {
+            "id": "21099SAMARA",
+            "names": [
+                {
+                    "name": "21099 SAMARA",
+                    "threshold": 1
+                },
+                {
+                    "name": "21099",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2110SEDAN": {
+            "id": "2110SEDAN",
+            "names": [
+                {
+                    "name": "2110 SEDAN",
+                    "threshold": 1
+                },
+                {
+                    "name": "2110",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2111WAGON": {
+            "id": "2111WAGON",
+            "names": [
+                {
+                    "name": "2111 WAGON",
+                    "threshold": 1
+                },
+                {
+                    "name": "2111",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2112HATCHBACK": {
+            "id": "2112HATCHBACK",
+            "names": [
+                {
+                    "name": "2112 HATCHBACK",
+                    "threshold": 1
+                },
+                {
+                    "name": "2112",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2113SAMARA2": {
+            "id": "2113SAMARA2",
+            "names": [
+                {
+                    "name": "2113 SAMARA 2",
+                    "threshold": 1
+                },
+                {
+                    "name": "2113",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2114SAMARA2": {
+            "id": "2114SAMARA2",
+            "names": [
+                {
+                    "name": "2114 SAMARA 2",
+                    "threshold": 1
+                },
+                {
+                    "name": "2114",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2115SAMARA2": {
+            "id": "2115SAMARA2",
+            "names": [
+                {
+                    "name": "2115 SAMARA 2",
+                    "threshold": 1
+                },
+                {
+                    "name": "2115",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2120NADEZHDA": {
+            "id": "2120NADEZHDA",
+            "names": [
+                {
+                    "name": "2120 NADEZHDA",
+                    "threshold": 1
+                },
+                {
+                    "name": "2120",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2170PRIORASEDAN": {
+            "id": "2170PRIORASEDAN",
+            "names": [
+                {
+                    "name": "2170 PRIORA SEDAN",
+                    "threshold": 1
+                },
+                {
+                    "name": "2170",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2171PRIORAWAGON": {
+            "id": "2171PRIORAWAGON",
+            "names": [
+                {
+                    "name": "2171 PRIORA WAGON",
+                    "threshold": 1
+                },
+                {
+                    "name": "2171",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2172PRIORAHATCHBACK": {
+            "id": "2172PRIORAHATCHBACK",
+            "names": [
+                {
+                    "name": "2172 PRIORA HATCHBACK",
+                    "threshold": 1
+                },
+                {
+                    "name": "2172",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2190GRANTA2SEDAN": {
+            "id": "2190GRANTA2SEDAN",
+            "names": [
+                {
+                    "name": "2190 GRANTA 2 SEDAN",
+                    "threshold": 1
+                },
+                {
+                    "name": "2190",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2190GRANTASEDAN": {
+            "id": "2190GRANTASEDAN",
+            "names": [
+                {
+                    "name": "2190 GRANTA SEDAN",
+                    "threshold": 1
+                },
+                {
+                    "name": "2190",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2191GRANTA2LIFTBACK": {
+            "id": "2191GRANTA2LIFTBACK",
+            "names": [
+                {
+                    "name": "2191 GRANTA 2 LIFTBACK",
+                    "threshold": 1
+                },
+                {
+                    "name": "2191",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2191GRANTALIFTBACK": {
+            "id": "2191GRANTALIFTBACK",
+            "names": [
+                {
+                    "name": "2191 GRANTA LIFTBACK",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2192GRANTA2HATCHBACK": {
+            "id": "2192GRANTA2HATCHBACK",
+            "names": [
+                {
+                    "name": "2192 GRANTA 2 HATCHBACK",
+                    "threshold": 1
+                },
+                {
+                    "name": "2192",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2192KALINA2HATCHBACK": {
+            "id": "2192KALINA2HATCHBACK",
+            "names": [
+                {
+                    "name": "2192 KALINA 2 HATCHBACK",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2194GRANTA2WAGON": {
+            "id": "2194GRANTA2WAGON",
+            "names": [
+                {
+                    "name": "2194 GRANTA 2 WAGON",
+                    "threshold": 1
+                },
+                {
+                    "name": "2194",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2194KALINA2WAGON": {
+            "id": "2194KALINA2WAGON",
+            "names": [
+                {
+                    "name": "2194 KALINA 2 WAGON",
+                    "threshold": 1
+                }
+            ]
+        },
+        "4X4": {
+            "id": "4X4",
+            "names": [
+                {
+                    "name": "4X4",
+                    "threshold": 1
+                }
+            ]
+        },
+        "4X45DOOR": {
+            "id": "4X45DOOR",
+            "names": [
+                {
+                    "name": "4X4 5 DOOR",
+                    "threshold": 1
+                }
+            ]
+        },
+        "4X4VU": {
+            "id": "4X4VU",
+            "names": [
+                {
+                    "name": "4X4 VU",
+                    "threshold": 1
+                }
+            ]
+        },
+        "GRANTA": {
+            "id": "GRANTA",
+            "names": [
+                {
+                    "name": "GRANTA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ГРАНТА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "KALINA": {
+            "id": "KALINA",
+            "names": [
+                {
+                    "name": "KALINA",
+                    "threshold": 0.93
+                }
+            ]
+        },
+        "LARGUS": {
+            "id": "LARGUS",
+            "names": [
+                {
+                    "name": "LARGUS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЛАРГУС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "NIVA": {
+            "id": "NIVA",
+            "names": [
+                {
+                    "name": "NIVA",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "НИВА",
+                    "threshold": 0.93
+                }
+            ]
+        },
+        "SAMARAVU": {
+            "id": "SAMARAVU",
+            "names": [
+                {
+                    "name": "SAMARA VU",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "САМАРА ВУ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "VESTASEDAN": {
+            "id": "VESTASEDAN",
+            "names": [
+                {
+                    "name": "VESTA SEDAN",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ВЕСТА СЕДАН",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "VESTASW": {
+            "id": "VESTASW",
+            "names": [
+                {
+                    "name": "VESTA SW",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ВЕСТА СW",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "VESTA": {
+            "id": "VESTA",
+            "names": [
+                {
+                    "name": "VESTA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ВЕСТА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "XRAY": {
+            "id": "XRAY",
+            "names": [
+                {
+                    "name": "XRAY",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "ИКСРЕЙ",
+                    "threshold": 0.93
+                }
+            ]
+        }
+    }
+}

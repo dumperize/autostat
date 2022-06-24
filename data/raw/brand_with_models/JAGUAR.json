@@ -1,1 +1,154 @@
-{"id": "JAGUAR", "names": [{"name": "JAGUAR", "threshold": 0.85}, {"name": "ЙАГУАР", "threshold": 0.85}], "models": {"EPACE": {"id": "EPACE", "names": [{"name": "E PACE", "threshold": 0.85}, {"name": "Е ПАЦЕ", "threshold": 0.85}]}, "ETYPE": {"id": "ETYPE", "names": [{"name": "E TYPE", "threshold": 0.85}, {"name": "Е ТЫПЕ", "threshold": 0.85}]}, "FPACE": {"id": "FPACE", "names": [{"name": "F PACE", "threshold": 0.85}, {"name": "Ф ПАЦЕ", "threshold": 0.85}]}, "FTYPE": {"id": "FTYPE", "names": [{"name": "F TYPE", "threshold": 0.85}, {"name": "Ф ТЫПЕ", "threshold": 0.85}]}, "IPACE": {"id": "IPACE", "names": [{"name": "I PACE", "threshold": 0.85}, {"name": "И ПАЦЕ", "threshold": 0.85}]}, "STYPE": {"id": "STYPE", "names": [{"name": "S TYPE", "threshold": 0.85}, {"name": "С ТЫПЕ", "threshold": 0.85}]}, "XTYPE": {"id": "XTYPE", "names": [{"name": "X TYPE", "threshold": 0.85}, {"name": "X ТЫПЕ", "threshold": 0.85}]}, "XE": {"id": "XE", "names": [{"name": "XE", "threshold": 1}, {"name": "XЕ", "threshold": 1}]}, "XF": {"id": "XF", "names": [{"name": "XF", "threshold": 1}, {"name": "XФ", "threshold": 1}]}, "XJ": {"id": "XJ", "names": [{"name": "XJ", "threshold": 1}, {"name": "XЙ", "threshold": 1}]}, "XK": {"id": "XK", "names": [{"name": "XK", "threshold": 1}, {"name": "XК", "threshold": 1}]}}}
+{
+    "id": "JAGUAR",
+    "names": [
+        {
+            "name": "JAGUAR",
+            "threshold": 0.85
+        },
+        {
+            "name": "ЯГУАР",
+            "threshold": 0.85
+        }
+    ],
+    "models": {
+        "EPACE": {
+            "id": "EPACE",
+            "names": [
+                {
+                    "name": "E PACE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "Е ПЕЙК",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "ETYPE": {
+            "id": "ETYPE",
+            "names": [
+                {
+                    "name": "E TYPE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "Е ТАЙП",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "FPACE": {
+            "id": "FPACE",
+            "names": [
+                {
+                    "name": "F PACE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "Ф ПАЦЕ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "FTYPE": {
+            "id": "FTYPE",
+            "names": [
+                {
+                    "name": "F TYPE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "Ф ТАЙП",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "IPACE": {
+            "id": "IPACE",
+            "names": [
+                {
+                    "name": "I PACE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "И ПАЙК",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "STYPE": {
+            "id": "STYPE",
+            "names": [
+                {
+                    "name": "S TYPE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "С ТАЙП",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "XTYPE": {
+            "id": "XTYPE",
+            "names": [
+                {
+                    "name": "X TYPE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "X ТАЙП",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "XE": {
+            "id": "XE",
+            "names": [
+                {
+                    "name": "XE",
+                    "threshold": 1
+                },
+                {
+                    "name": "XЕ",
+                    "threshold": 1
+                }
+            ]
+        },
+        "XF": {
+            "id": "XF",
+            "names": [
+                {
+                    "name": "XF",
+                    "threshold": 1
+                },
+                {
+                    "name": "XФ",
+                    "threshold": 1
+                }
+            ]
+        },
+        "XJ": {
+            "id": "XJ",
+            "names": [
+                {
+                    "name": "XJ",
+                    "threshold": 1
+                }
+            ]
+        },
+        "XK": {
+            "id": "XK",
+            "names": [
+                {
+                    "name": "XK",
+                    "threshold": 1
+                },
+                {
+                    "name": "XК",
+                    "threshold": 1
+                }
+            ]
+        }
+    }
+}
