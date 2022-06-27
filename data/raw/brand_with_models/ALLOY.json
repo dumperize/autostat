@@ -12,11 +12,11 @@
     ],
     "models": {
         "ATVT533": {
-            "id": "ATVT533",
+            "id": "ATVT",
             "names": [
                 {
-                    "name": "ATVT 53 3",
-                    "threshold": 1
+                    "name": "ATVT",
+                    "threshold": 0.97
                 }
             ]
         }

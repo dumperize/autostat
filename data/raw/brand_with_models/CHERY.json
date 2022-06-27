@@ -8,6 +8,10 @@
         {
             "name": "ЧЕРРИ",
             "threshold": 0.85
+        },
+        {
+            "name": "ШЕРИА",
+            "threshold": 0.98
         }
     ],
     "models": {
@@ -38,6 +42,18 @@
                 {
                     "name": "АМУЛЕТ",
                     "threshold": 0.85
+                },
+                {
+                    "name": "A15",
+                    "threshold": 1
+                },
+                {
+                    "name": "SQR7162",
+                    "threshold": 1
+                },
+                {
+                    "name": "FLAGCLOUD",
+                    "threshold": 0.87
                 }
             ]
         },
@@ -54,7 +70,11 @@
             "id": "BONUS3A19",
             "names": [
                 {
-                    "name": "BONUS 3 A19",
+                    "name": "BONUS 3",
+                    "threshold": 1
+                },
+                {
+                    "name": "A19",
                     "threshold": 1
                 }
             ]
@@ -69,6 +89,10 @@
                 {
                     "name": "КРОССЕАСТАР",
                     "threshold": 0.85
+                },
+                {
+                    "name": "B14",
+                    "threshold": 1
                 }
             ]
         },
@@ -82,6 +106,10 @@
                 {
                     "name": "ЕАСТАР",
                     "threshold": 0.85
+                },
+                {
+                    "name": "B11",
+                    "threshold": 1
                 }
             ]
         },
@@ -94,6 +122,10 @@
                 },
                 {
                     "name": "ФОРА",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "A21",
                     "threshold": 0.93
                 }
             ]
@@ -108,6 +140,10 @@
                 {
                     "name": "ИНДИС",
                     "threshold": 0.85
+                },
+                {
+                    "name": "S18D",
+                    "threshold": 1
                 }
             ]
         },
@@ -121,6 +157,14 @@
                 {
                     "name": "КИМО",
                     "threshold": 0.93
+                },
+                {
+                    "name": "S12",
+                    "threshold": 1
+                },
+                {
+                    "name": "A1",
+                    "threshold": 1
                 }
             ]
         },
@@ -138,6 +182,14 @@
             "names": [
                 {
                     "name": "QQ6",
+                    "threshold": 1
+                },
+                {
+                    "name": "JAGGI",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "S21",
                     "threshold": 1
                 }
             ]
@@ -165,6 +217,10 @@
                 {
                     "name": "СВИТ QQ",
                     "threshold": 0.85
+                },
+                {
+                    "name": "SQR7080",
+                    "threshold": 1
                 }
             ]
         },
@@ -178,6 +234,18 @@
                 {
                     "name": "ТИГГО",
                     "threshold": 0.85
+                },
+                {
+                    "name": "SUV",
+                    "threshold": 0.98
+                },
+                {
+                    "name": "САВ",
+                    "threshold": 0.98
+                },
+                {
+                    "name": "T11",
+                    "threshold": 1
                 }
             ]
         },
@@ -213,6 +281,10 @@
             "names": [
                 {
                     "name": "TIGGO 5",
+                    "threshold": 1
+                },
+                {
+                    "name": "T21",
                     "threshold": 1
                 }
             ]
