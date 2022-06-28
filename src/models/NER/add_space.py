@@ -11,7 +11,7 @@ class CustomTokenizer(Tokenizer):
         reg = '('+'|'.join(self.important_names)+')'
   
         # TODO в конфиг и через артифакты
-        big_words = r'автомобиль|передвижной|цвет|рама|двигатель|двигателя|шасси|модель|наименование|марка|белый|выпуска|адрес|коробка|бензиновый|дизельный|кузов|легковой|черный'
+        big_words = r'машин[ыаеу]|автомобиль|передвижной|цвет|рама|двигатель|двигателя|шасси|модель|наименование|марка|белый|выпуска|адрес|коробка|бензиновый|дизельный|кузов|легковой|черный'
         small_words = r'год|гос|легк|г.в|г.'
 
 
@@ -26,6 +26,7 @@ class CustomTokenizer(Tokenizer):
         string = re.sub(r'(дизель) (ный)', r'\1\2', string, flags=re.IGNORECASE)
         string = re.sub(r'(эл) (лада)', r'\1\2', string, flags=re.IGNORECASE)
         string = re.sub(r'(автос) (амосвал)', r'\1\2', string, flags=re.IGNORECASE)
+        string = re.sub(r'(са) (марс) (к)', r'\1\2\3', string, flags=re.IGNORECASE)
         string = re.sub(r'([0-9])(VIN)', r'\1 \2', string, flags=re.IGNORECASE)
         string = re.sub(r'(№)', r' \1 ', string, flags=re.IGNORECASE)
         string = re.sub(r'(\))([\s\w\d]*)(\))', r'\1 \2', string)
@@ -36,9 +37,9 @@ class CustomTokenizer(Tokenizer):
         string = re.sub(r'\)'," ", string)
         string = re.sub(r'\('," ", string)
         string = re.sub(r'([ ]+)|([ ]){2,}'," ", string)
+        string = re.sub(r'([mм][eе]r[scс][eе]d[eе]s) (b[eе]n[zsc])', r'\1\2', string, flags=re.IGNORECASE)
+        string = re.sub(r'([mм][eе]р[cс][eе]д[eе][зс]) (б[eе]н[зс])', r'\1\2', string, flags=re.IGNORECASE)
 
-
-        # print(string)
         return string
 
     def __call__(self, string):

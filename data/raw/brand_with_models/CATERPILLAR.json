@@ -1,6 +1,55 @@
 {
-    "id": "CATERPILLAR", 
-    "names": [{"name": "CATERPILLAR", "threshold": 0.85}, {"name": "CAT", "threshold": 0.95}, {"name": "САТ", "threshold": 0.95}], 
-    "models": {"D6Т": {"id": "D6Т", "names": [{"name": "D6Т", "threshold": 1}]}
+    "id": "CATERPILLAR",
+    "names": [
+        {
+            "name": "CATERPILLAR",
+            "threshold": 0.85
+        },
+        {
+            "name": "CAT",
+            "threshold": 0.95
+        },
+        {
+            "name": "САТ",
+            "threshold": 0.95
+        }
+    ],
+    "models": {
+        "D6Т": {
+            "id": "D6Т",
+            "names": [
+                {
+                    "name": "D6Т",
+                    "threshold": 1
+                }
+            ]
+        },
+        "PS300": {
+            "id": "PS300",
+            "names": [
+                {
+                    "name": "PS300",
+                    "threshold": 1
+                }
+            ]
+        },
+        "JS260": {
+            "id": "JS260",
+            "names": [
+                {
+                    "name": "JS260",
+                    "threshold": 1
+                }
+            ]
+        },
+        "D6H": {
+            "id": "D6H",
+            "names": [
+                {
+                    "name": "D6H",
+                    "threshold": 1
+                }
+            ]
+        }
     }
 }

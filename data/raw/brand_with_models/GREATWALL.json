@@ -1,1 +1,221 @@
-{"id": "GREATWALL", "names": [{"name": "GREAT WALL", "threshold": 0.85}, {"name": "ГРЕАТ WАЛЛ", "threshold": 0.85}], "models": {"COOLBEAR": {"id": "COOLBEAR", "names": [{"name": "COOLBEAR", "threshold": 0.85}, {"name": "ЦООЛБЕАР", "threshold": 0.85}]}, "COWRY": {"id": "COWRY", "names": [{"name": "COWRY", "threshold": 0.85}, {"name": "ЦОWРЫ", "threshold": 0.85}]}, "DEER": {"id": "DEER", "names": [{"name": "DEER", "threshold": 0.93}, {"name": "ДЕЕР", "threshold": 0.93}]}, "FLORID": {"id": "FLORID", "names": [{"name": "FLORID", "threshold": 0.85}, {"name": "ФЛОРИД", "threshold": 0.85}]}, "HOVERH3": {"id": "HOVERH3", "names": [{"name": "HOVER H3", "threshold": 1}]}, "HOVERH5": {"id": "HOVERH5", "names": [{"name": "HOVER H5", "threshold": 1}]}, "HOVERH6": {"id": "HOVERH6", "names": [{"name": "HOVER H6", "threshold": 1}]}, "HOVERM2": {"id": "HOVERM2", "names": [{"name": "HOVER M2", "threshold": 1}]}, "HOVERM4": {"id": "HOVERM4", "names": [{"name": "HOVER M4", "threshold": 1}]}, "OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}, "PEGASUS": {"id": "PEGASUS", "names": [{"name": "PEGASUS", "threshold": 0.85}, {"name": "ПЕГАСУС", "threshold": 0.85}]}, "PERI": {"id": "PERI", "names": [{"name": "PERI", "threshold": 0.93}, {"name": "ПЕРИ", "threshold": 0.93}]}, "RUVSING": {"id": "RUVSING", "names": [{"name": "RUV SING", "threshold": 0.85}, {"name": "РУВ СИНГ", "threshold": 0.85}]}, "SAILOR": {"id": "SAILOR", "names": [{"name": "SAILOR", "threshold": 0.85}, {"name": "САИЛОР", "threshold": 0.85}]}, "SOCOOL": {"id": "SOCOOL", "names": [{"name": "SOCOOL", "threshold": 0.85}, {"name": "СОЦООЛ", "threshold": 0.85}]}, "SUVG5SAFE": {"id": "SUVG5SAFE", "names": [{"name": "SUV G5 SAFE", "threshold": 1}]}, "VOLEEXC10": {"id": "VOLEEXC10", "names": [{"name": "VOLEEX C10", "threshold": 1}]}, "VOLEEXC30": {"id": "VOLEEXC30", "names": [{"name": "VOLEEX C30", "threshold": 1}]}, "WINGLE": {"id": "WINGLE", "names": [{"name": "WINGLE", "threshold": 0.85}, {"name": "WИНГЛЕ", "threshold": 0.85}]}}}
+{
+    "id": "GREATWALL",
+    "names": [
+        {
+            "name": "GREAT WALL",
+            "threshold": 0.85
+        },
+        {
+            "name": "ГРЕАТ ВОЛЛ",
+            "threshold": 0.85
+        }
+    ],
+    "models": {
+        "COOLBEAR": {
+            "id": "COOLBEAR",
+            "names": [
+                {
+                    "name": "COOLBEAR",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КУЛБЕАР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "COWRY": {
+            "id": "COWRY",
+            "names": [
+                {
+                    "name": "COWRY",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "КОМРИ",
+                    "threshold": 1
+                }
+            ]
+        },
+        "DEER": {
+            "id": "DEER",
+            "names": [
+                {
+                    "name": "DEER",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "ДИР",
+                    "threshold": 0.93
+                }
+            ]
+        },
+        "FLORID": {
+            "id": "FLORID",
+            "names": [
+                {
+                    "name": "FLORID",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ФЛОРИД",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "HOVERH3": {
+            "id": "HOVERH3",
+            "names": [
+                {
+                    "name": "HOVER H3",
+                    "threshold": 1
+                }
+            ]
+        },
+        "HOVERH5": {
+            "id": "HOVERH5",
+            "names": [
+                {
+                    "name": "HOVER H5",
+                    "threshold": 1
+                },
+                {
+                    "name": "CC 6461",
+                    "threshold": 1
+                }
+            ]
+        },
+        "HOVERH6": {
+            "id": "HOVERH6",
+            "names": [
+                {
+                    "name": "HOVER H6",
+                    "threshold": 1
+                }
+            ]
+        },
+        "HOVERM2": {
+            "id": "HOVERM2",
+            "names": [
+                {
+                    "name": "HOVER M2",
+                    "threshold": 1
+                }
+            ]
+        },
+        "HOVERM4": {
+            "id": "HOVERM4",
+            "names": [
+                {
+                    "name": "HOVER M4",
+                    "threshold": 1
+                }
+            ]
+        },
+        "PEGASUS": {
+            "id": "PEGASUS",
+            "names": [
+                {
+                    "name": "PEGASUS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ПЕГАСУС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "PERI": {
+            "id": "PERI",
+            "names": [
+                {
+                    "name": "PERI",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "ПЕРИ",
+                    "threshold": 0.93
+                }
+            ]
+        },
+        "RUVSING": {
+            "id": "RUVSING",
+            "names": [
+                {
+                    "name": "RUV SING",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "РУВ СИНГ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SAILOR": {
+            "id": "SAILOR",
+            "names": [
+                {
+                    "name": "SAILOR",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "САЙЛОР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SOCOOL": {
+            "id": "SOCOOL",
+            "names": [
+                {
+                    "name": "SOCOOL",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СОКУЛ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SUVG5SAFE": {
+            "id": "SUVG5SAFE",
+            "names": [
+                {
+                    "name": "SUV G5 SAFE",
+                    "threshold": 1
+                }
+            ]
+        },
+        "VOLEEXC10": {
+            "id": "VOLEEXC10",
+            "names": [
+                {
+                    "name": "VOLEEX C10",
+                    "threshold": 1
+                }
+            ]
+        },
+        "VOLEEXC30": {
+            "id": "VOLEEXC30",
+            "names": [
+                {
+                    "name": "VOLEEX C30",
+                    "threshold": 1
+                }
+            ]
+        },
+        "WINGLE": {
+            "id": "WINGLE",
+            "names": [
+                {
+                    "name": "WINGLE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ВИНГЛ",
+                    "threshold": 0.85
+                }
+            ]
+        }
+    }
+}

@@ -5,8 +5,8 @@ from src.models.NER.utils.operation import replace_rus_to_eng_char
 
 
 def get_jaro(word, similar_word): 
-    word = replace_rus_to_eng_char(word)
-    similar_word = replace_rus_to_eng_char(similar_word)
+    word = replace_rus_to_eng_char(word).replace(' ', '')
+    similar_word = replace_rus_to_eng_char(similar_word).replace(' ', '')
     return Levenshtein.jaro_winkler(word, similar_word)
 
 def get_jaro_with_threshold(word, similar_word, threshold):

@@ -1,1 +1,51 @@
-{"id": "AMUR", "names": [{"name": "AMUR", "threshold": 0.93}, {"name": "АМУР", "threshold": 0.93}], "models": {"4346": {"id": "4346", "names": [{"name": "4346", "threshold": 1}]}, "5312": {"id": "5312", "names": [{"name": "5312", "threshold": 1}]}, "5313": {"id": "5313", "names": [{"name": "5313", "threshold": 1}]}, "633100": {"id": "633100", "names": [{"name": "633100", "threshold": 1}]}}}
+{
+    "id": "AMUR",
+    "names": [
+        {
+            "name": "AMUR",
+            "threshold": 0.93
+        },
+        {
+            "name": "АМУР",
+            "threshold": 0.93
+        }
+    ],
+    "models": {
+        "4346": {
+            "id": "4346",
+            "names": [
+                {
+                    "name": "4346",
+                    "threshold": 1
+                }
+            ]
+        },
+        "5312": {
+            "id": "5312",
+            "names": [
+                {
+                    "name": "5312",
+                    "threshold": 1
+                }
+            ]
+        },
+        "5313": {
+            "id": "5313",
+            "names": [
+                {
+                    "name": "5313",
+                    "threshold": 1
+                }
+            ]
+        },
+        "633100": {
+            "id": "633100",
+            "names": [
+                {
+                    "name": "633100",
+                    "threshold": 1
+                }
+            ]
+        }
+    }
+}

@@ -3,11 +3,11 @@
     "names": [
         {
             "name": "MERCEDES BENZ",
-            "threshold": 0.85
+            "threshold": 0.81
         },
         {
             "name": "МЕРСЕДЕС БЕНЗ",
-            "threshold": 0.85
+            "threshold": 0.81
         },
         {
             "name": "МЕРСЕДЕС",
@@ -423,6 +423,15 @@
                 }
             ]
         },
+        "ML": {
+            "id": "ML",
+            "names": [
+                {
+                    "name": "ML",
+                    "threshold": 1
+                }
+            ]
+        },
         "O302": {
             "id": "O302",
             "names": [
@@ -743,11 +752,11 @@
             "names": [
                 {
                     "name": "VIANO",
-                    "threshold": 0.85
+                    "threshold": 0.95
                 },
                 {
                     "name": "ВИАНО",
-                    "threshold": 0.85
+                    "threshold": 0.95
                 }
             ]
         },

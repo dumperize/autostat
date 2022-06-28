@@ -1,1 +1,105 @@
-{"id": "JOHNDEERE", "names": [{"name": "JOHN DEERE", "threshold": 0.85}, {"name": "ДЖОН ДИР", "threshold": 0.85}], "models": {"7350": {"id": "7350", "names": [{"name": "7350", "threshold": 1}]}, "9660": {"id": "9660", "names": [{"name": "9660", "threshold": 1}]}, "3CX": {"id": "630R", "names": [{"name": "630R", "threshold": 1}]}, "4CX": {"id": "22105", "names": [{"name": "22105", "threshold": 1}]}}}
+{
+    "id": "JOHNDEERE",
+    "names": [
+        {
+            "name": "JOHN DEERE",
+            "threshold": 0.85
+        },
+        {
+            "name": "ДЖОН ДИР",
+            "threshold": 0.85
+        }
+    ],
+    "models": {
+        "18303": {
+            "id": "18303",
+            "names": [
+                {
+                    "name": "18303",
+                    "threshold": 1
+                }
+            ]
+        },
+        "7350": {
+            "id": "7350",
+            "names": [
+                {
+                    "name": "7350",
+                    "threshold": 1
+                }
+            ]
+        },
+        "630R": {
+            "id": "630R",
+            "names": [
+                {
+                    "name": "630R",
+                    "threshold": 1
+                }
+            ]
+        },
+        "9660": {
+            "id": "9660",
+            "names": [
+                {
+                    "name": "9660",
+                    "threshold": 1
+                }
+            ]
+        },
+        "3CX": {
+            "id": "630R",
+            "names": [
+                {
+                    "name": "630R",
+                    "threshold": 1
+                }
+            ]
+        },
+        "4CX": {
+            "id": "22105",
+            "names": [
+                {
+                    "name": "22105",
+                    "threshold": 1
+                }
+            ]
+        },
+        "4895": {
+            "id": "4895",
+            "names": [
+                {
+                    "name": "4895",
+                    "threshold": 1
+                }
+            ]
+        },
+        "9420": {
+            "id": "9420",
+            "names": [
+                {
+                    "name": "9420",
+                    "threshold": 1
+                }
+            ]
+        },
+        "9430": {
+            "id": "9430",
+            "names": [
+                {
+                    "name": "9430",
+                    "threshold": 1
+                }
+            ]
+        },
+        "8420": {
+            "id": "8420",
+            "names": [
+                {
+                    "name": "8420",
+                    "threshold": 1
+                }
+            ]
+        }
+    }
+}

@@ -1,12 +1,20 @@
 import re
 from src.models.NER.utils.add_del_span import add_span_in_doc, del_span_in_doc
 from src.models.NER.utils.operation import filter_ent
+from src.models.NER.utils.regex import match_sequence
 
 from src.models.NER.utils.retokenizer import split_token_by_n
 
 
 # TODO 2023 год уже не попадет - надо написать через переменную
 currentYearReg = '[1][9][6-9][0-9]|(20)[0-1][0-9]|(20)[2][0-2]'
+
+def get_points(ent, pos_next):
+    points_find_iter = [match.start() for match in re.finditer(currentYearReg, ent.text)]
+    points_intersect = [match.start() for match in match_sequence(currentYearReg, ent.text)]
+    if (len(points_find_iter) < len(points_intersect)) and pos_next:
+        return [points_intersect[-1]]
+    return points_find_iter
 
 def get_neighbor(doc, ent, next: bool):
             incr = 1 if next else -1
@@ -54,7 +62,9 @@ def ent_year(doc, ent):
                 if not neg_data and (pos_token or pos_digits or only_one_sim):
                     if len(ent.text) == 4: return True
 
-                    points_start = [match.start() for match in re.finditer(currentYearReg, ent.text)]
+                    # points_start = [match.start() for match in re.finditer(currentYearReg, ent.text)]
+                    points_start = get_points(ent, pos_next)
+
                     points_end = [x + 4 for x in points_start]
                     points = points_start + points_end
                     split_token_by_n(doc, ent.start, *points)
@@ -67,3 +77,4 @@ def ent_year(doc, ent):
                     return True
                 del_span_in_doc(doc, ent)
                 return False
+

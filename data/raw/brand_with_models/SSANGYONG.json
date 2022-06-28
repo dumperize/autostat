@@ -1,1 +1,201 @@
-{"id": "SSANGYONG", "names": [{"name": "SSANGYONG", "threshold": 0.85}, {"name": "ССАНГЫОНГ", "threshold": 0.85}], "models": {"ACTYON": {"id": "ACTYON", "names": [{"name": "ACTYON", "threshold": 0.85}, {"name": "АЦТЫОН", "threshold": 0.85}]}, "ACTYONSPORTS": {"id": "ACTYONSPORTS", "names": [{"name": "ACTYON SPORTS", "threshold": 0.85}, {"name": "АЦТЫОН СПОРТС", "threshold": 0.85}]}, "CHAIRMAN": {"id": "CHAIRMAN", "names": [{"name": "CHAIRMAN", "threshold": 0.85}, {"name": "ЦХАИРМАН", "threshold": 0.85}]}, "ISTANA": {"id": "ISTANA", "names": [{"name": "ISTANA", "threshold": 0.85}, {"name": "ИСТАНА", "threshold": 0.85}]}, "KORANDO": {"id": "KORANDO", "names": [{"name": "KORANDO", "threshold": 0.85}, {"name": "КОРАНДО", "threshold": 0.85}]}, "KYRON": {"id": "KYRON", "names": [{"name": "KYRON", "threshold": 0.85}, {"name": "КЫРОН", "threshold": 0.85}]}, "MUSSO": {"id": "MUSSO", "names": [{"name": "MUSSO", "threshold": 0.85}, {"name": "МУССО", "threshold": 0.85}]}, "NOMAD": {"id": "NOMAD", "names": [{"name": "NOMAD", "threshold": 0.85}, {"name": "НОМАД", "threshold": 0.85}]}, "REXTON": {"id": "REXTON", "names": [{"name": "REXTON", "threshold": 0.85}, {"name": "РЕXТОН", "threshold": 0.85}]}, "RODIUS": {"id": "RODIUS", "names": [{"name": "RODIUS", "threshold": 0.85}, {"name": "РОДИУС", "threshold": 0.85}]}, "SB33": {"id": "SB33", "names": [{"name": "SB33", "threshold": 1}]}, "STAVIC": {"id": "STAVIC", "names": [{"name": "STAVIC", "threshold": 0.85}, {"name": "СТАВИЦ", "threshold": 0.85}]}, "TIVOLI": {"id": "TIVOLI", "names": [{"name": "TIVOLI", "threshold": 0.85}, {"name": "ТИВОЛИ", "threshold": 0.85}]}, "TRANSTAR": {"id": "TRANSTAR", "names": [{"name": "TRANSTAR", "threshold": 0.85}, {"name": "ТРАНСТАР", "threshold": 0.85}]}}}
+{
+    "id": "SSANGYONG",
+    "names": [
+        {
+            "name": "SSANGYONG",
+            "threshold": 0.85
+        },
+        {
+            "name": "ССАНГОНГ",
+            "threshold": 0.85
+        },
+        {
+            "name": "ССАНГ ЕНГ",
+            "threshold": 0.85
+        }
+    ],
+    "models": {
+        "ACTYON": {
+            "id": "ACTYON",
+            "names": [
+                {
+                    "name": "ACTYON",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АКТИОН",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "ACTYONSPORTS": {
+            "id": "ACTYONSPORTS",
+            "names": [
+                {
+                    "name": "ACTYON SPORTS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АКТИОН СПОРТС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "CHAIRMAN": {
+            "id": "CHAIRMAN",
+            "names": [
+                {
+                    "name": "CHAIRMAN",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЧАИРМАН",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "ISTANA": {
+            "id": "ISTANA",
+            "names": [
+                {
+                    "name": "ISTANA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ИСТАНА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "KORANDO": {
+            "id": "KORANDO",
+            "names": [
+                {
+                    "name": "KORANDO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КОРАНДО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "KYRON": {
+            "id": "KYRON",
+            "names": [
+                {
+                    "name": "KYRON",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КУРОН",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КАЙРОН",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MUSSO": {
+            "id": "MUSSO",
+            "names": [
+                {
+                    "name": "MUSSO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МУССО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "NOMAD": {
+            "id": "NOMAD",
+            "names": [
+                {
+                    "name": "NOMAD",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "НОМАД",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "REXTON": {
+            "id": "REXTON",
+            "names": [
+                {
+                    "name": "REXTON",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "РЕКСТОН",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "RODIUS": {
+            "id": "RODIUS",
+            "names": [
+                {
+                    "name": "RODIUS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "РОДИУС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SB33": {
+            "id": "SB33",
+            "names": [
+                {
+                    "name": "SB33",
+                    "threshold": 1
+                }
+            ]
+        },
+        "STAVIC": {
+            "id": "STAVIC",
+            "names": [
+                {
+                    "name": "STAVIC",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СТАВИЦ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "TIVOLI": {
+            "id": "TIVOLI",
+            "names": [
+                {
+                    "name": "TIVOLI",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТИВОЛИ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "TRANSTAR": {
+            "id": "TRANSTAR",
+            "names": [
+                {
+                    "name": "TRANSTAR",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТРАНСТАР",
+                    "threshold": 0.85
+                }
+            ]
+        }
+    }
+}

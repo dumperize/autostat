@@ -31,7 +31,7 @@ def find_ner(data_input_file, rules_file: str, important_names_file: str, output
         ents_info = []
         
 
-        doc = nlp("JMC A01072013")
+        doc = nlp("MERCTDES-BENZ609Dгрузовой1999 гв")
         print([x for x in doc])
         print([(x.label_, x.text, x.ent_id_, x.kb_id_) for x in  doc.ents])
         print(doc.user_data)
