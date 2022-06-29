@@ -6,28 +6,13 @@ from src.models.NER.ent_brand_leven import set_similar_model, set_similar_brand
 from src.models.NER.utils.operation import filter_ent
 
 
-def brand_1_model_one_or_many(brand, models, doc):
+def brand_1_model_one_or_many(brand, models):
             brand_name = brand.text.lower() + '_'
             # модели по бренду
             return set(filter(
                 lambda x: re.compile(brand_name).match(x.kb_id_.lower()) or re.compile(brand_name).match(x.ent_id_.lower()), 
                 models
             ))
-                
-def brand_many_model_one_or_many(brands, models, doc):
-            brands_name = '|'.join([brand.ent_id_.lower() + '_' for brand in brands])
-            # модели по бренду
-            fit_models = list(filter(lambda x: re.compile(brands_name).match(x.ent_id_.lower()), models))
-
-            if len(fit_models):
-                doc.user_data['have_fit_model'] = True
-
-# def most_likely_brands(doc):
-#     ents = doc.ents
-#     brand_ents = [ent.ent_id_ for ent in ents if ent.label_ == 'BRAND']
-#     for brand in brand_ents:
-#         prev_index = brand.start - 1
-#         doc[prev_index]= 
 
 
 def get_ents_id(ents): return map(lambda ent: ent.ent_id_ or ent.kb_id_, ents)

@@ -9,7 +9,6 @@ def create_ner_model(rules_file: str, important_names_file: str):
     rules = list(jsonlines.open(rules_file))
     important_names = list(jsonlines.open(important_names_file))
     nlp = spacy.blank("ru")
-    # nlp = ru_core_news_sm.load(exclude=['tok2vec', 'morphologizer', 'parser', 'senter', 'attribute_ruler', 'lemmatizer'])
 
     nlp.tokenizer = CustomTokenizer(nlp.vocab, important_names)
     config = {"overwrite_ents": True }

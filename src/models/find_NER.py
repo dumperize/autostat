@@ -30,12 +30,6 @@ def find_ner(data_input_file, rules_file: str, important_names_file: str, output
         df = pd.read_excel(data_input_file)
         ents_info = []
         
-
-        doc = nlp("MERCTDES-BENZ609Dгрузовой1999 гв")
-        print([x for x in doc])
-        print([(x.label_, x.text, x.ent_id_, x.kb_id_) for x in  doc.ents])
-        print(doc.user_data)
-        # return 
         for article in tqdm(df['vehicleproperty_description_short']):
             article = str(article)
             doc = nlp(article)
