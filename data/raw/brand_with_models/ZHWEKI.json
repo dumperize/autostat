@@ -1,0 +1,1 @@
+{"id": "ZHWEKI", "names": [{"name": "ZHWEKI", "threshold": 0.85}, {"name": "ЗХWЕКИ", "threshold": 0.85}], "models": {"ZW110": {"id": "ZW110", "names": [{"name": "ZW110", "threshold": 1}]}, "ZW125": {"id": "ZW125", "names": [{"name": "ZW125", "threshold": 1}]}, "ZW150": {"id": "ZW150", "names": [{"name": "ZW150", "threshold": 1}]}}}

@@ -1,0 +1,51 @@
+{
+    "id": "BELARUS",
+    "names": [
+        {
+            "name": "BELARUS",
+            "threshold": 0.85
+        },
+        {
+            "name": "БЕЛАРУС",
+            "threshold": 0.85
+        }
+    ],
+    "models": {
+        "1025": {
+            "id": "1025",
+            "names": [
+                {
+                    "name": "1025",
+                    "threshold": 1
+                }
+            ]
+        },
+        "1221": {
+            "id": "1221",
+            "names": [
+                {
+                    "name": "1221",
+                    "threshold": 1
+                }
+            ]
+        },
+        "1523": {
+            "id": "1523",
+            "names": [
+                {
+                    "name": "1523",
+                    "threshold": 1
+                }
+            ]
+        },
+        "82.1": {
+            "id": "82",
+            "names": [
+                {
+                    "name": "82",
+                    "threshold": 1
+                }
+            ]
+        }
+    }
+}

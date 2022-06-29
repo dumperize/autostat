@@ -1,0 +1,545 @@
+{
+    "id": "RENAULT",
+    "names": [
+        {
+            "name": "RENAULT",
+            "threshold": 0.85
+        },
+        {
+            "name": "РЕНАУЛТ",
+            "threshold": 0.85
+        },
+        {
+            "name": "РЕНО",
+            "threshold": 0.93
+        }
+    ],
+    "models": {
+        "11": {
+            "id": "11",
+            "names": [
+                {
+                    "name": "11",
+                    "threshold": 1
+                }
+            ]
+        },
+        "19": {
+            "id": "19",
+            "names": [
+                {
+                    "name": "19",
+                    "threshold": 1
+                }
+            ]
+        },
+        "21": {
+            "id": "21",
+            "names": [
+                {
+                    "name": "21",
+                    "threshold": 1
+                }
+            ]
+        },
+        "25": {
+            "id": "25",
+            "names": [
+                {
+                    "name": "25",
+                    "threshold": 1
+                }
+            ]
+        },
+        "5": {
+            "id": "5",
+            "names": [
+                {
+                    "name": "5",
+                    "threshold": 1
+                }
+            ]
+        },
+        "ARKANA": {
+            "id": "ARKANA",
+            "names": [
+                {
+                    "name": "ARKANA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АРКАНА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "CSERIES": {
+            "id": "CSERIES",
+            "names": [
+                {
+                    "name": "C SERIES",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "C",
+                    "threshold": 1
+                }
+            ]
+        },
+        "CLIO": {
+            "id": "CLIO",
+            "names": [
+                {
+                    "name": "CLIO",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "КЛИО",
+                    "threshold": 0.93
+                }
+            ]
+        },
+        "DOKKER": {
+            "id": "DOKKER",
+            "names": [
+                {
+                    "name": "DOKKER",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ДОКЕР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "DUSTER": {
+            "id": "DUSTER",
+            "names": [
+                {
+                    "name": "DUSTER",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ДАСТЕР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "ESPACE": {
+            "id": "ESPACE",
+            "names": [
+                {
+                    "name": "ESPACE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЕСПЭЙС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "EXPRESS": {
+            "id": "EXPRESS",
+            "names": [
+                {
+                    "name": "EXPRESS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЭКСПРЕСС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "FLUENCE": {
+            "id": "FLUENCE",
+            "names": [
+                {
+                    "name": "FLUENCE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ФЛУЕНС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "KSERIES": {
+            "id": "KSERIES",
+            "names": [
+                {
+                    "name": "K SERIES",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "K",
+                    "threshold": 1
+                }
+            ]
+        },
+        "KADJAR": {
+            "id": "KADJAR",
+            "names": [
+                {
+                    "name": "KADJAR",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КАДЖАР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "KANGOO": {
+            "id": "KANGOO",
+            "names": [
+                {
+                    "name": "KANGOO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КАНГУ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "KAPTUR": {
+            "id": "KAPTUR",
+            "names": [
+                {
+                    "name": "KAPTUR",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КАПТУР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "KERAX": {
+            "id": "KERAX",
+            "names": [
+                {
+                    "name": "KERAX",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КЕРАКС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "KOLEOS": {
+            "id": "KOLEOS",
+            "names": [
+                {
+                    "name": "KOLEOS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КОЛЕОС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "LAGUNA": {
+            "id": "LAGUNA",
+            "names": [
+                {
+                    "name": "LAGUNA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЛАГУНА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "LATITUDE": {
+            "id": "LATITUDE",
+            "names": [
+                {
+                    "name": "LATITUDE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЛАТИТУД",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "LODGY": {
+            "id": "LODGY",
+            "names": [
+                {
+                    "name": "LODGY",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЛОДЖИ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "LOGAN": {
+            "id": "LOGAN",
+            "names": [
+                {
+                    "name": "LOGAN",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЛОГАН",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MAGNUM": {
+            "id": "MAGNUM",
+            "names": [
+                {
+                    "name": "MAGNUM",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МАГНУМ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MAJOR": {
+            "id": "MAJOR",
+            "names": [
+                {
+                    "name": "MAJOR",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МАЙОР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MANAGER": {
+            "id": "MANAGER",
+            "names": [
+                {
+                    "name": "MANAGER",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МЕНЕДЖЕР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MASCOTT": {
+            "id": "MASCOTT",
+            "names": [
+                {
+                    "name": "MASCOTT",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МАСКОТТ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MASTER": {
+            "id": "MASTER",
+            "names": [
+                {
+                    "name": "MASTER",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МАСТЕР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MEGANE": {
+            "id": "MEGANE",
+            "names": [
+                {
+                    "name": "MEGANE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МЕГАН",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MIDLINER": {
+            "id": "MIDLINER",
+            "names": [
+                {
+                    "name": "MIDLINER",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МИДЛАЙНЕР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MIDLUM": {
+            "id": "MIDLUM",
+            "names": [
+                {
+                    "name": "MIDLUM",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МИДЛУМ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "PREMIUM": {
+            "id": "PREMIUM",
+            "names": [
+                {
+                    "name": "PREMIUM",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ПРЕМИУМ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SAFRANE": {
+            "id": "SAFRANE",
+            "names": [
+                {
+                    "name": "SAFRANE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "САФРАН",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SANDERO": {
+            "id": "SANDERO",
+            "names": [
+                {
+                    "name": "SANDERO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "САНДЕРО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SCENIC": {
+            "id": "SCENIC",
+            "names": [
+                {
+                    "name": "SCENIC",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СКЕНИК",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SYMBOL": {
+            "id": "SYMBOL",
+            "names": [
+                {
+                    "name": "SYMBOL",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СИМБОЛ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "TSERIES": {
+            "id": "TSERIES",
+            "names": [
+                {
+                    "name": "T SERIES",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "T",
+                    "threshold": 1
+                }
+            ]
+        },
+        "TALISMAN": {
+            "id": "TALISMAN",
+            "names": [
+                {
+                    "name": "TALISMAN",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТАЛИСМАН",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "TRAFIC": {
+            "id": "TRAFIC",
+            "names": [
+                {
+                    "name": "TRAFIC",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТРАФИК",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "TWINGO": {
+            "id": "TWINGO",
+            "names": [
+                {
+                    "name": "TWINGO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТВИНГО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "TWIZY": {
+            "id": "TWIZY",
+            "names": [
+                {
+                    "name": "TWIZY",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТВИЗИ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "VELSATIS": {
+            "id": "VELSATIS",
+            "names": [
+                {
+                    "name": "VEL SATIS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ВЕЛ САТИС",
+                    "threshold": 0.85
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1 @@
+{"id": "PEZZAIOLI", "names": [{"name": "PEZZAIOLI", "threshold": 0.85}, {"name": "ПЕЗЗАИОЛИ", "threshold": 0.85}], "models": {"SBA63": {"id": "SBA63", "names": [{"name": "SBA63", "threshold": 1}]}, "SCT63N": {"id": "SCT63N", "names": [{"name": "SCT63N", "threshold": 1}]}}}

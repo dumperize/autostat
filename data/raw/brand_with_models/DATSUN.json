@@ -1,0 +1,1 @@
+{"id": "DATSUN", "names": [{"name": "DATSUN", "threshold": 0.85}, {"name": "ДАТСУН", "threshold": 0.85}], "models": {"MIDO": {"id": "MIDO", "names": [{"name": "MI DO", "threshold": 0.85}, {"name": "МИ ДО", "threshold": 0.85}]}, "ONDO": {"id": "ONDO", "names": [{"name": "ON DO", "threshold": 0.85}, {"name": "ОН ДО", "threshold": 0.85}]}}}

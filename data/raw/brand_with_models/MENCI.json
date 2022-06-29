@@ -1,0 +1,1 @@
+{"id": "MENCI", "names": [{"name": "MENCI", "threshold": 0.85}, {"name": "МЕНЦИ", "threshold": 0.85}], "models": {"SA105": {"id": "SA105", "names": [{"name": "SA105", "threshold": 1}]}, "SA955": {"id": "SA955", "names": [{"name": "SA955", "threshold": 1}]}}}

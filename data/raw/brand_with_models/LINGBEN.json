@@ -1,0 +1,1 @@
+{"id": "LINGBEN", "names": [{"name": "LINGBEN", "threshold": 0.85}, {"name": "ЛИНГБЕН", "threshold": 0.85}], "models": {"LB125": {"id": "LB125", "names": [{"name": "LB125", "threshold": 1}]}, "LB150": {"id": "LB150", "names": [{"name": "LB150", "threshold": 1}]}}}

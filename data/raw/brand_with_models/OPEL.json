@@ -1,0 +1,275 @@
+{
+    "id": "OPEL",
+    "names": [
+        {
+            "name": "OPEL",
+            "threshold": 0.93
+        },
+        {
+            "name": "ОПЕЛЬ",
+            "threshold": 0.93
+        }
+    ],
+    "models": {
+        "ANTARA": {
+            "id": "ANTARA",
+            "names": [
+                {
+                    "name": "ANTARA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АНТАРА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "ASCONA": {
+            "id": "ASCONA",
+            "names": [
+                {
+                    "name": "ASCONA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АСКОНА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "ASTRA": {
+            "id": "ASTRA",
+            "names": [
+                {
+                    "name": "ASTRA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АСТРА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "COMBO": {
+            "id": "COMBO",
+            "names": [
+                {
+                    "name": "COMBO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КОМБО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "CORSA": {
+            "id": "CORSA",
+            "names": [
+                {
+                    "name": "CORSA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КОРСА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "FRONTERA": {
+            "id": "FRONTERA",
+            "names": [
+                {
+                    "name": "FRONTERA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ФРОНТЕРА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "INSIGNIA": {
+            "id": "INSIGNIA",
+            "names": [
+                {
+                    "name": "INSIGNIA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ИНСИГНИА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "KADETT": {
+            "id": "KADETT",
+            "names": [
+                {
+                    "name": "KADETT",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КАДЕТ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MERIVA": {
+            "id": "MERIVA",
+            "names": [
+                {
+                    "name": "MERIVA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МЕРИВА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MOKKA": {
+            "id": "MOKKA",
+            "names": [
+                {
+                    "name": "MOKKA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МОККА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MONTEREY": {
+            "id": "MONTEREY",
+            "names": [
+                {
+                    "name": "MONTEREY",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МОНТЕРЕЙ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MOVANO": {
+            "id": "MOVANO",
+            "names": [
+                {
+                    "name": "MOVANO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МОВАНО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "OMEGA": {
+            "id": "OMEGA",
+            "names": [
+                {
+                    "name": "OMEGA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ОМЕГА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "REKORD": {
+            "id": "REKORD",
+            "names": [
+                {
+                    "name": "REKORD",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "РЕКОРД",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SENATOR": {
+            "id": "SENATOR",
+            "names": [
+                {
+                    "name": "SENATOR",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СЕНАТОР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "TIGRA": {
+            "id": "TIGRA",
+            "names": [
+                {
+                    "name": "TIGRA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТИГРА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "VECTRA": {
+            "id": "VECTRA",
+            "names": [
+                {
+                    "name": "VECTRA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ВЕКТРА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "VIVARO": {
+            "id": "VIVARO",
+            "names": [
+                {
+                    "name": "VIVARO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ВИВАРО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "ZAFIRA": {
+            "id": "ZAFIRA",
+            "names": [
+                {
+                    "name": "ZAFIRA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЗАФИРА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "ZAFIRALIFE": {
+            "id": "ZAFIRALIFE",
+            "names": [
+                {
+                    "name": "ZAFIRA LIFE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЗАФИРА ЛАЙФ",
+                    "threshold": 0.85
+                }
+            ]
+        }
+    }
+}

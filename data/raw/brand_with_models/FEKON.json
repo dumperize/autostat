@@ -1,0 +1,1 @@
+{"id": "FEKON", "names": [{"name": "FEKON", "threshold": 0.85}, {"name": "ФЕКОН", "threshold": 0.85}], "models": {"FK150": {"id": "FK150", "names": [{"name": "FK150", "threshold": 1}]}, "FK200": {"id": "FK200", "names": [{"name": "FK200", "threshold": 1}]}}}

@@ -1,0 +1,1 @@
+{"id": "XCMG", "names": [{"name": "XCMG", "threshold": 0.93}, {"name": "XЦМГ", "threshold": 0.93}], "models": {"QY25K5S": {"id": "QY25K5S", "names": [{"name": "QY25K5S", "threshold": 1}]}, "QY30K51": {"id": "QY30K51", "names": [{"name": "QY30K5 1", "threshold": 1}]}, "XCT25L5S": {"id": "XCT25L5S", "names": [{"name": "XCT25L5 S", "threshold": 1}]}}}

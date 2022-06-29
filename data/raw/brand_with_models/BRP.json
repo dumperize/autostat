@@ -1,0 +1,1 @@
+{"id": "BRP", "names": [{"name": "BRP", "threshold": 0.97}, {"name": "БРП", "threshold": 0.97}], "models": {"CANAMRDSPYDER": {"id": "CANAMRDSPYDER", "names": [{"name": "CAN AM RD SPYDER", "threshold": 0.85}, {"name": "ЦАН АМ РД СПЫДЕР", "threshold": 0.85}]}}}

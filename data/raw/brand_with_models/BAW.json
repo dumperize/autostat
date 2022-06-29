@@ -1,0 +1,98 @@
+{
+    "id": "BAW",
+    "names": [
+        {
+            "name": "BAW",
+            "threshold": 0.97
+        },
+        {
+            "name": "БАВ",
+            "threshold": 0.97
+        },
+        {
+            "name": "БАВ ФЕНИКС",
+            "threshold": 0.85
+        }
+    ],
+    "models": {
+        "1044": {
+            "id": "1044",
+            "names": [
+                {
+                    "name": "1044",
+                    "threshold": 1
+                },
+                {
+                    "name": "BJ1044",
+                    "threshold": 0.98
+                },
+                {
+                    "name": "B1044",
+                    "threshold": 0.98
+                }
+            ]
+        },
+        "1065": {
+            "id": "1065",
+            "names": [
+                {
+                    "name": "1065",
+                    "threshold": 1
+                },
+                {
+                    "name": "BJ1065",
+                    "threshold": 0.98
+                },
+                {
+                    "name": "B1065",
+                    "threshold": 0.98
+                }
+            ]
+        },
+        "2245": {
+            "id": "2245",
+            "names": [
+                {
+                    "name": "2245",
+                    "threshold": 1
+                }
+            ]
+        },
+        "3346": {
+            "id": "3346",
+            "names": [
+                {
+                    "name": "3346",
+                    "threshold": 1
+                }
+            ]
+        },
+        "33462": {
+            "id": "33462",
+            "names": [
+                {
+                    "name": "33462",
+                    "threshold": 1
+                }
+            ]
+        },
+        "33463": {
+            "id": "33463",
+            "names": [
+                {
+                    "name": "33463",
+                    "threshold": 1
+                }
+            ]
+        },
+        "33468": {
+            "id": "33468",
+            "names": [
+                {
+                    "name": "33468",
+                    "threshold": 1
+                }
+            ]
+        }
+    }
+}

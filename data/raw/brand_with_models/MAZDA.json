@@ -1,0 +1,477 @@
+{
+    "id": "MAZDA",
+    "names": [
+        {
+            "name": "MAZDA",
+            "threshold": 0.85
+        },
+        {
+            "name": "МАЗДА",
+            "threshold": 0.85
+        }
+    ],
+    "models": {
+        "121": {
+            "id": "121",
+            "names": [
+                {
+                    "name": "121",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2": {
+            "id": "2",
+            "names": [
+                {
+                    "name": "2",
+                    "threshold": 1
+                }
+            ]
+        },
+        "3": {
+            "id": "3",
+            "names": [
+                {
+                    "name": "3",
+                    "threshold": 1
+                }
+            ]
+        },
+        "323": {
+            "id": "323",
+            "names": [
+                {
+                    "name": "323",
+                    "threshold": 1
+                }
+            ]
+        },
+        "5": {
+            "id": "5",
+            "names": [
+                {
+                    "name": "5",
+                    "threshold": 1
+                }
+            ]
+        },
+        "6": {
+            "id": "6",
+            "names": [
+                {
+                    "name": "6",
+                    "threshold": 1
+                }
+            ]
+        },
+        "626": {
+            "id": "626",
+            "names": [
+                {
+                    "name": "626",
+                    "threshold": 1
+                }
+            ]
+        },
+        "929": {
+            "id": "929",
+            "names": [
+                {
+                    "name": "929",
+                    "threshold": 1
+                }
+            ]
+        },
+        "ATENZA": {
+            "id": "ATENZA",
+            "names": [
+                {
+                    "name": "ATENZA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АТЕНЗА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "AXELA": {
+            "id": "AXELA",
+            "names": [
+                {
+                    "name": "AXELA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "АКСЕЛА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "BSERIES": {
+            "id": "BSERIES",
+            "names": [
+                {
+                    "name": "B SERIES",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "B",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BONGO": {
+            "id": "BONGO",
+            "names": [
+                {
+                    "name": "BONGO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "БОНГО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "BT50": {
+            "id": "BT50",
+            "names": [
+                {
+                    "name": "BT 50",
+                    "threshold": 1
+                }
+            ]
+        },
+        "CAPELLA": {
+            "id": "CAPELLA",
+            "names": [
+                {
+                    "name": "CAPELLA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КАПЕЛЛА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "CX3": {
+            "id": "CX3",
+            "names": [
+                {
+                    "name": "CX 3",
+                    "threshold": 1
+                }
+            ]
+        },
+        "CX30": {
+            "id": "CX30",
+            "names": [
+                {
+                    "name": "CX 30",
+                    "threshold": 1
+                }
+            ]
+        },
+        "CX5": {
+            "id": "CX5",
+            "names": [
+                {
+                    "name": "CX 5",
+                    "threshold": 1
+                }
+            ]
+        },
+        "CX7": {
+            "id": "CX7",
+            "names": [
+                {
+                    "name": "CX 7",
+                    "threshold": 1
+                }
+            ]
+        },
+        "CX9": {
+            "id": "CX9",
+            "names": [
+                {
+                    "name": "CX 9",
+                    "threshold": 1
+                }
+            ]
+        },
+        "DEMIO": {
+            "id": "DEMIO",
+            "names": [
+                {
+                    "name": "DEMIO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ДЕМИО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "ESERIES": {
+            "id": "ESERIES",
+            "names": [
+                {
+                    "name": "E SERIES",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "Е СЕРИЕС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "ECONOVAN": {
+            "id": "ECONOVAN",
+            "names": [
+                {
+                    "name": "ECONOVAN",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЕКОНОВАН",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "FAMILIA": {
+            "id": "FAMILIA",
+            "names": [
+                {
+                    "name": "FAMILIA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ФАМИЛИА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "LANTIS": {
+            "id": "LANTIS",
+            "names": [
+                {
+                    "name": "LANTIS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЛАНТИС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "LUCE": {
+            "id": "LUCE",
+            "names": [
+                {
+                    "name": "LUCE",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "ЛУЦЕ",
+                    "threshold": 0.93
+                }
+            ]
+        },
+        "MIATA": {
+            "id": "MIATA",
+            "names": [
+                {
+                    "name": "MIATA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МИАТА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MILLENIA": {
+            "id": "MILLENIA",
+            "names": [
+                {
+                    "name": "MILLENIA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "МИЛЛЕНИА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "MPV": {
+            "id": "MPV",
+            "names": [
+                {
+                    "name": "MPV",
+                    "threshold": 0.97
+                },
+                {
+                    "name": "МПВ",
+                    "threshold": 0.97
+                }
+            ]
+        },
+        "MX3": {
+            "id": "MX3",
+            "names": [
+                {
+                    "name": "MX 3",
+                    "threshold": 1
+                }
+            ]
+        },
+        "MX5": {
+            "id": "MX5",
+            "names": [
+                {
+                    "name": "MX 5",
+                    "threshold": 1
+                }
+            ]
+        },
+        "MX6": {
+            "id": "MX6",
+            "names": [
+                {
+                    "name": "MX 6",
+                    "threshold": 1
+                }
+            ]
+        },
+        "NAVAJO": {
+            "id": "NAVAJO",
+            "names": [
+                {
+                    "name": "NAVAJO",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "НАВАЙО",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "PREMACY": {
+            "id": "PREMACY",
+            "names": [
+                {
+                    "name": "PREMACY",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ПРИМАСИ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "PROTEGE": {
+            "id": "PROTEGE",
+            "names": [
+                {
+                    "name": "PROTEGE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ПРОТЕЖЕ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "REVUE": {
+            "id": "REVUE",
+            "names": [
+                {
+                    "name": "REVUE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "РЕВУЕ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "RX7": {
+            "id": "RX7",
+            "names": [
+                {
+                    "name": "RX 7",
+                    "threshold": 1
+                }
+            ]
+        },
+        "RX8": {
+            "id": "RX8",
+            "names": [
+                {
+                    "name": "RX 8",
+                    "threshold": 1
+                }
+            ]
+        },
+        "TITAN": {
+            "id": "TITAN",
+            "names": [
+                {
+                    "name": "TITAN",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТИТАН",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "TRIBUTE": {
+            "id": "TRIBUTE",
+            "names": [
+                {
+                    "name": "TRIBUTE",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТРИБУТЕ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "XEDOS": {
+            "id": "XEDOS",
+            "names": [
+                {
+                    "name": "XEDOS",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "XЕДОС",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "XEDOS6": {
+            "id": "XEDOS6",
+            "names": [
+                {
+                    "name": "XEDOS 6",
+                    "threshold": 1
+                }
+            ]
+        },
+        "XEDOS9": {
+            "id": "XEDOS9",
+            "names": [
+                {
+                    "name": "XEDOS 9",
+                    "threshold": 1
+                }
+            ]
+        }
+    }
+}

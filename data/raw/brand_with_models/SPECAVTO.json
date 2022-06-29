@@ -1,0 +1,1 @@
+{"id": "SPECAVTO", "names": [{"name": "SPECAVTO", "threshold": 0.85}, {"name": "СПЕЦАВТО", "threshold": 0.85}], "models": {"9046": {"id": "9046", "names": [{"name": "9046", "threshold": 1}]}, "90466": {"id": "90466", "names": [{"name": "90466", "threshold": 1}]}, "90469": {"id": "90469", "names": [{"name": "90469", "threshold": 1}]}}}

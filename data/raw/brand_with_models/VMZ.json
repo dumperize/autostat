@@ -1,0 +1,1 @@
+{"id": "VMZ", "names": [{"name": "VMZ", "threshold": 0.97}, {"name": "ВМЗ", "threshold": 0.97}], "models": {"8263": {"id": "8263", "names": [{"name": "8263", "threshold": 1}]}, "8291": {"id": "8291", "names": [{"name": "8291", "threshold": 1}]}, "9601": {"id": "9601", "names": [{"name": "9601", "threshold": 1}]}}}

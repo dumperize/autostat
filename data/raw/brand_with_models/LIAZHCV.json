@@ -1,0 +1,1 @@
+{"id": "LIAZHCV", "names": [{"name": "LIAZ HCV", "threshold": 0.85}, {"name": "ЛИАЗ ХЦВ", "threshold": 0.85}], "models": {"100": {"id": "100", "names": [{"name": "100", "threshold": 1}]}, "110": {"id": "110", "names": [{"name": "110", "threshold": 1}]}, "OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}}}

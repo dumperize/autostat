@@ -1,0 +1,158 @@
+{
+    "id": "SKODA",
+    "names": [
+        {
+            "name": "SKODA",
+            "threshold": 0.85
+        },
+        {
+            "name": "ШКОДА",
+            "threshold": 0.93
+        }
+    ],
+    "models": {
+        "FABIA": {
+            "id": "FABIA",
+            "names": [
+                {
+                    "name": "FABIA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ФАБИА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "FELICIA": {
+            "id": "FELICIA",
+            "names": [
+                {
+                    "name": "FELICIA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ФЕЛИЦИА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "FORMAN": {
+            "id": "FORMAN",
+            "names": [
+                {
+                    "name": "FORMAN",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ФОРМАН",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "KAROQ": {
+            "id": "KAROQ",
+            "names": [
+                {
+                    "name": "KAROQ",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КАРОQ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "KODIAQ": {
+            "id": "KODIAQ",
+            "names": [
+                {
+                    "name": "KODIAQ",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "КОДИАК",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "OCTAVIA": {
+            "id": "OCTAVIA",
+            "names": [
+                {
+                    "name": "OCTAVIA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ОКТАВИА",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "PRAKTIK": {
+            "id": "PRAKTIK",
+            "names": [
+                {
+                    "name": "PRAKTIK",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ПРАКТИК",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "RAPID": {
+            "id": "RAPID",
+            "names": [
+                {
+                    "name": "RAPID",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "РАПИД",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "ROOMSTER": {
+            "id": "ROOMSTER",
+            "names": [
+                {
+                    "name": "ROOMSTER",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "РУМСТЕР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "SUPERB": {
+            "id": "SUPERB",
+            "names": [
+                {
+                    "name": "SUPERB",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "СУПЕРБ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "YETI": {
+            "id": "YETI",
+            "names": [
+                {
+                    "name": "YETI",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "ЕТИ",
+                    "threshold": 0.93
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1 @@
+{"id": "SENKE", "names": [{"name": "SENKE", "threshold": 0.85}, {"name": "СЕНКЕ", "threshold": 0.85}], "models": {"SK125": {"id": "SK125", "names": [{"name": "SK125", "threshold": 1}]}, "SK150": {"id": "SK150", "names": [{"name": "SK150", "threshold": 1}]}, "SK250": {"id": "SK250", "names": [{"name": "SK250", "threshold": 1}]}}}

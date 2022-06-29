@@ -1,0 +1,385 @@
+{
+    "id": "PEUGEOT",
+    "names": [
+        {
+            "name": "PEUGEOT",
+            "threshold": 0.85
+        },
+        {
+            "name": "ПЕЖО",
+            "threshold": 0.85
+        }
+    ],
+    "models": {
+        "1007": {
+            "id": "1007",
+            "names": [
+                {
+                    "name": "1007",
+                    "threshold": 1
+                }
+            ]
+        },
+        "106": {
+            "id": "106",
+            "names": [
+                {
+                    "name": "106",
+                    "threshold": 1
+                }
+            ]
+        },
+        "107": {
+            "id": "107",
+            "names": [
+                {
+                    "name": "107",
+                    "threshold": 1
+                }
+            ]
+        },
+        "2008": {
+            "id": "2008",
+            "names": [
+                {
+                    "name": "2008",
+                    "threshold": 1
+                }
+            ]
+        },
+        "205": {
+            "id": "205",
+            "names": [
+                {
+                    "name": "205",
+                    "threshold": 1
+                }
+            ]
+        },
+        "206": {
+            "id": "206",
+            "names": [
+                {
+                    "name": "206",
+                    "threshold": 1
+                }
+            ]
+        },
+        "207": {
+            "id": "207",
+            "names": [
+                {
+                    "name": "207",
+                    "threshold": 1
+                }
+            ]
+        },
+        "208": {
+            "id": "208",
+            "names": [
+                {
+                    "name": "208",
+                    "threshold": 1
+                }
+            ]
+        },
+        "3008": {
+            "id": "3008",
+            "names": [
+                {
+                    "name": "3008",
+                    "threshold": 1
+                }
+            ]
+        },
+        "301": {
+            "id": "301",
+            "names": [
+                {
+                    "name": "301",
+                    "threshold": 1
+                }
+            ]
+        },
+        "305": {
+            "id": "305",
+            "names": [
+                {
+                    "name": "305",
+                    "threshold": 1
+                }
+            ]
+        },
+        "306": {
+            "id": "306",
+            "names": [
+                {
+                    "name": "306",
+                    "threshold": 1
+                }
+            ]
+        },
+        "307": {
+            "id": "307",
+            "names": [
+                {
+                    "name": "307",
+                    "threshold": 1
+                }
+            ]
+        },
+        "308": {
+            "id": "308",
+            "names": [
+                {
+                    "name": "308",
+                    "threshold": 1
+                }
+            ]
+        },
+        "309": {
+            "id": "309",
+            "names": [
+                {
+                    "name": "309",
+                    "threshold": 1
+                }
+            ]
+        },
+        "4007": {
+            "id": "4007",
+            "names": [
+                {
+                    "name": "4007",
+                    "threshold": 1
+                }
+            ]
+        },
+        "4008": {
+            "id": "4008",
+            "names": [
+                {
+                    "name": "4008",
+                    "threshold": 1
+                }
+            ]
+        },
+        "405": {
+            "id": "405",
+            "names": [
+                {
+                    "name": "405",
+                    "threshold": 1
+                }
+            ]
+        },
+        "406": {
+            "id": "406",
+            "names": [
+                {
+                    "name": "406",
+                    "threshold": 1
+                }
+            ]
+        },
+        "407": {
+            "id": "407",
+            "names": [
+                {
+                    "name": "407",
+                    "threshold": 1
+                }
+            ]
+        },
+        "408": {
+            "id": "408",
+            "names": [
+                {
+                    "name": "408",
+                    "threshold": 1
+                }
+            ]
+        },
+        "5008": {
+            "id": "5008",
+            "names": [
+                {
+                    "name": "5008",
+                    "threshold": 1
+                }
+            ]
+        },
+        "504": {
+            "id": "504",
+            "names": [
+                {
+                    "name": "504",
+                    "threshold": 1
+                }
+            ]
+        },
+        "505": {
+            "id": "505",
+            "names": [
+                {
+                    "name": "505",
+                    "threshold": 1
+                }
+            ]
+        },
+        "508": {
+            "id": "508",
+            "names": [
+                {
+                    "name": "508",
+                    "threshold": 1
+                }
+            ]
+        },
+        "605": {
+            "id": "605",
+            "names": [
+                {
+                    "name": "605",
+                    "threshold": 1
+                }
+            ]
+        },
+        "607": {
+            "id": "607",
+            "names": [
+                {
+                    "name": "607",
+                    "threshold": 1
+                }
+            ]
+        },
+        "806": {
+            "id": "806",
+            "names": [
+                {
+                    "name": "806",
+                    "threshold": 1
+                }
+            ]
+        },
+        "807": {
+            "id": "807",
+            "names": [
+                {
+                    "name": "807",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BIPPER": {
+            "id": "BIPPER",
+            "names": [
+                {
+                    "name": "BIPPER",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "БИППЕР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "BOXER": {
+            "id": "BOXER",
+            "names": [
+                {
+                    "name": "BOXER",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "БОКСЕР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "EXPERT": {
+            "id": "EXPERT",
+            "names": [
+                {
+                    "name": "EXPERT",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ЭКСПЕРТ",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "ION": {
+            "id": "ION",
+            "names": [
+                {
+                    "name": "ION",
+                    "threshold": 0.97
+                },
+                {
+                    "name": "ИОН",
+                    "threshold": 0.97
+                }
+            ]
+        },
+        "J5": {
+            "id": "J5",
+            "names": [
+                {
+                    "name": "J 5",
+                    "threshold": 1
+                }
+            ]
+        },
+        "J9": {
+            "id": "J9",
+            "names": [
+                {
+                    "name": "J 9",
+                    "threshold": 1
+                }
+            ]
+        },
+        "PARTNERVU": {
+            "id": "PARTNER",
+            "names": [
+                {
+                    "name": "PARTNER",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ПАРТНЕР",
+                    "threshold": 0.85
+                }
+            ]
+        },
+        "RCZ": {
+            "id": "RCZ",
+            "names": [
+                {
+                    "name": "RCZ",
+                    "threshold": 0.97
+                },
+                {
+                    "name": "РЦЗ",
+                    "threshold": 0.97
+                }
+            ]
+        },
+        "TRAVELLER": {
+            "id": "TRAVELLER",
+            "names": [
+                {
+                    "name": "TRAVELLER",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ТРАВЕЛЛЕР",
+                    "threshold": 0.85
+                }
+            ]
+        }
+    }
+}

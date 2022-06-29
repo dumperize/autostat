@@ -1,0 +1,1 @@
+{"id": "LAG", "names": [{"name": "LAG", "threshold": 0.97}, {"name": "ЛАГ", "threshold": 0.97}], "models": {"O3CC": {"id": "O3CC", "names": [{"name": "O 3 CC", "threshold": 1}]}}}

@@ -1,0 +1,1 @@
+{"id": "HAOJIN", "names": [{"name": "HAOJIN", "threshold": 0.85}, {"name": "ХАОЙИН", "threshold": 0.85}], "models": {"HJ110": {"id": "HJ110", "names": [{"name": "HJ110", "threshold": 1}]}, "HJ125": {"id": "HJ125", "names": [{"name": "HJ125", "threshold": 1}]}, "HJ150": {"id": "HJ150", "names": [{"name": "HJ150", "threshold": 1}]}}}

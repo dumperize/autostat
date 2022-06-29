@@ -1,0 +1,1 @@
+{"id": "HUATIAN", "names": [{"name": "HUATIAN", "threshold": 0.85}, {"name": "ХУАТИАН", "threshold": 0.85}], "models": {"HT125T": {"id": "HT125T", "names": [{"name": "HT125T", "threshold": 1}]}, "HT150T": {"id": "HT150T", "names": [{"name": "HT150T", "threshold": 1}]}}}

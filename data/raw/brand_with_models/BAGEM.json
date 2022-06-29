@@ -1,0 +1,24 @@
+{
+    "id": "BAGEM",
+    "names": [
+        {
+            "name": "BAGEM",
+            "threshold": 0.85
+        },
+        {
+            "name": "БАГЕМ",
+            "threshold": 0.85
+        }
+    ],
+    "models": {
+        "OTHER": {
+            "id": "27851",
+            "names": [
+                {
+                    "name": "27851",
+                    "threshold": 1
+                }
+            ]
+        }
+    }
+}
