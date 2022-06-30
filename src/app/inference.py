@@ -47,7 +47,7 @@ class Model:
         if not os.path.exists(local_dir): os.makedirs(local_dir)
 
         important_names_file = client.download_artifacts(run_id, "important_names.jsonl", local_dir)
-        rules_file = client.download_artifacts(run_id, "all_rules.jsonl", local_dir)
+        rules_file = client.download_artifacts(run_id, "rules.jsonl", local_dir)
         self.model = create_ner_model(rules_file, important_names_file)
 
     def predict(self, data):
