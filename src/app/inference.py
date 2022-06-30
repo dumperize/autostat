@@ -74,6 +74,8 @@ async def create_upload_file(file: UploadFile):
         os.remove(file.filename)
 
         json_compatible_item_data = jsonable_encoder(model.predict(data))
+        print(model.predict(data))
+        print(json_compatible_item_data)
         return JSONResponse(content=json_compatible_item_data)
     else:
         raise HTTPException(status_code=400, detail="invalid file format")
