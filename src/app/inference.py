@@ -20,15 +20,15 @@ os.environ['MLFLOW_S3_ENDPOINT_URL'] = os.getenv('MLFLOW_S3_ENDPOINT_URL')
 
 def simplify_multiple(objects):
     for obj in objects:
-        if obj['brand'].find(',') > -1:
+        if pd.notna(obj['brand']) and obj['brand'].find(',') > -1:
             arr = [obj | {"brand": x} for x in obj['brand'].split(',')]
             return simplify_multiple(arr)
         
-        if obj['model'].find(',') > -1:
+        if pd.notna(obj['model']) and obj['model'].find(',') > -1:
             arr = [obj | {"model": x}  for x in obj['model'].split(',')]
             return simplify_multiple(arr)
         
-        if obj['year'].find(',') > -1:
+        if pd.notna(obj['year']) and obj['year'].find(',') > -1:
             arr = [obj | {"year": x}  for x in obj['year'].split(',')]
             return simplify_multiple(arr)
     return objects
