@@ -29,7 +29,7 @@ def get_neighbor(doc, ent, next: bool):
                     is_fit_token = False
             return token
 
-def ent_year(doc, ent):
+def set_ent_year(doc, ent):
                 # print(ent)
                 prev_token = get_neighbor(doc, ent, False) 
                 next_token = get_neighbor(doc, ent, True)
@@ -74,7 +74,6 @@ def ent_year(doc, ent):
                     del_span_in_doc(doc, ent)
                     for span in spans:
                         add_span_in_doc(doc, span)
-                    return True
-                del_span_in_doc(doc, ent)
-                return False
+                else:
+                    del_span_in_doc(doc, ent)
 

@@ -3,90 +3,50 @@ import os
 import json
 from functools import cmp_to_key
 
-BRANDS = os.listdir("data/raw/brands")
+BRANDS = os.listdir("data/raw/brand_with_models")
 
 rule all:
     input:
-        "data/interim/rules/brands.jsonl",
-        expand("data/interim/rules/brands/{brand}", brand=BRANDS),
-        "data/interim/important_names.jsonl",
-        "data/interim/rules/all_rules.jsonl",
-        "data/interim/all_raw_rules.jsonl",
-        "data/processed/pledges_ner.xls",
+        "data/processed/pledges_ner.xls"
 
-rule create_rules_brands:
+rule create_dictionary:
     input:
-        "data/raw/brands.jsonl",
+        expand("data/raw/brand_with_models/{brand}", brand=BRANDS),
     output:
-        "data/interim/rules/brands.jsonl"
-    shell:
-        "python src/data/prepare_rules_brands.py '{input}' '{output}'"
-
-
-rule create_rules_models:
-    input:
-        "data/raw/brands/{brand}"
-    output:
-        "data/interim/rules/brands/{brand}"
-    shell:
-        "python src/data/prepare_rules_models.py '{input}' '{output}'"
-
-rule concat_raw:
-    input:
-        "data/raw/brands.jsonl",
-        expand("data/raw/brands/{brand}", brand=BRANDS),
-    output:
-        "data/interim/all_raw_rules.jsonl"
+        "data/interim/dictionary_brand_model.jsonl",
     run: 
-        l = []
-        for f in input:
-            l = l + list(jsonlines.open(f))
-        print(output[0])
-        with jsonlines.open(output[0], mode='w') as writer:
-            for entry in l:
-                writer.write(entry)
+        dictionary = {}
+        for file in input:
+            with open(file, 'r') as outfile:
+                data = json.load(outfile)
+                name = data['id']
+                dictionary[name] = data
+        with open(output[0], 'w') as outfile:
+            json_string = json.dumps(dictionary)
+            outfile.write(json_string)
 
-rule concat_rules:
+rule create_rules:
     input:
-        "data/interim/rules/brands.jsonl",
-        expand("data/interim/rules/brands/{brand}", brand=BRANDS),
+        "data/interim/dictionary_brand_model.jsonl"
     output:
-        "data/interim/rules/all_rules.jsonl"
-    run: 
-        l = []
-        for f in input:
-            l = l + list(jsonlines.open(f))
-        print(output[0])
-        with jsonlines.open(output[0], mode='w') as writer:
-            for entry in l:
-                writer.write(entry)
-
-
+        "data/interim/rules.jsonl"
+    shell:
+        "python src/data/prepare_rules.py {input} {output}"
 
 rule create_important_names:
     input:
-        "data/interim/all_raw_rules.jsonl"
+        "data/interim/dictionary_brand_model.jsonl",
+        "data/raw/important_add_name.jsonl",
+        "data/raw/important_remove_name.jsonl",
     output:
         "data/interim/important_names.jsonl"
-    run:
-        def condition(word): return not(len(word) < 3 or word.isdecimal())
-        raw_rules = list(jsonlines.open(input[0]))
-        main_entities = []
-        for rule in raw_rules:
-            if condition(rule['id']): main_entities.append(rule['id'])    
-            for alias in rule['alias']:
-                if condition(alias): main_entities.append(alias)
-        main_entities = [x.lower() for x in main_entities]
-        main_entities = sorted(main_entities, key=cmp_to_key(lambda item1, item2: -1 if len(item2) - len(item1) < 0 else 1))
-
-        with jsonlines.open(output[0], mode='w') as writer:
-            for entry in main_entities:
-                writer.write(entry)
+    shell:
+        "python src/data/prepare_important_names.py {input} {output}"
 
 rule add_ner:
     input:
-        "data/raw/pledges.csv",
-        "data/interim/rules/all_rules.jsonl",
+        "data/raw/pledges.xlsx",
+        "data/interim/rules.jsonl",
         "data/interim/important_names.jsonl"
     output:
         "data/processed/pledges_ner.xls"

@@ -11,7 +11,7 @@ class CustomTokenizer(Tokenizer):
         reg = '('+'|'.join(self.important_names)+')'
   
         # TODO в конфиг и через артифакты
-        big_words = r'машин[ыаеу]|автомобиль|передвижной|цвет|рама|двигатель|двигателя|шасси|модель|наименование|марка|белый|выпуска|адрес|коробка|бензиновый|дизельный|кузов|легковой|черный'
+        big_words = r'машин[ыаеу]|автомобиль|передвижной|цвет|рама|двигател[ья]|шасси|модель|наименование|марк[аи]|белый|выпуска|адрес|коробка|бензиновый|дизельный|кузов|легковой|черный'
         small_words = r'год|гос|легк|г.в|г.'
 
 
@@ -25,8 +25,12 @@ class CustomTokenizer(Tokenizer):
         string = re.sub(r'(максима) (льная)', r'\1\2', string, flags=re.IGNORECASE)
         string = re.sub(r'(дизель) (ный)', r'\1\2', string, flags=re.IGNORECASE)
         string = re.sub(r'(эл) (лада)', r'\1\2', string, flags=re.IGNORECASE)
+        string = re.sub(r'(марк) (а)', r'\1\2', string, flags=re.IGNORECASE)
+        string = re.sub(r'(okt) (avia)', r'\1\2', string, flags=re.IGNORECASE)
         string = re.sub(r'(автос) (амосвал)', r'\1\2', string, flags=re.IGNORECASE)
         string = re.sub(r'(са) (марс) (к)', r'\1\2\3', string, flags=re.IGNORECASE)
+        string = re.sub(r'(наиме) (нова) (ние)', r'\1\2\3', string, flags=re.IGNORECASE)
+        string = re.sub(r'(к) (атего) (рия)', r'\1\2\3', string, flags=re.IGNORECASE)
         string = re.sub(r'([0-9])(VIN)', r'\1 \2', string, flags=re.IGNORECASE)
         string = re.sub(r'(№)', r' \1 ', string, flags=re.IGNORECASE)
         string = re.sub(r'(\))([\s\w\d]*)(\))', r'\1 \2', string)

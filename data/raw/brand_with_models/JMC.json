@@ -1,1 +1,73 @@
-{"id": "JMC", "names": [{"name": "JMC", "threshold": 0.97}, {"name": "ЙМЦ", "threshold": 0.97}], "models": {"1032": {"id": "1032", "names": [{"name": "1032", "threshold": 1}]}, "1043": {"id": "1043", "names": [{"name": "1043", "threshold": 1}]}, "1051": {"id": "1051", "names": [{"name": "1051", "threshold": 1}]}, "1052": {"id": "1052", "names": [{"name": "1052", "threshold": 1}]}, "BAODIAN": {"id": "BAODIAN", "names": [{"name": "BAODIAN", "threshold": 0.85}, {"name": "БАОДИАН", "threshold": 0.85}]}}}
+{
+    "id": "JMC",
+    "names": [
+        {
+            "name": "JMC",
+            "threshold": 0.97
+        },
+        {
+            "name": "ДЖС",
+            "threshold": 0.97
+        }
+    ],
+    "models": {
+        "1032": {
+            "id": "1032",
+            "names": [
+                {
+                    "name": "1032",
+                    "threshold": 1
+                }
+            ]
+        },
+        "1043": {
+            "id": "1043",
+            "names": [
+                {
+                    "name": "1043",
+                    "threshold": 1
+                }
+            ]
+        },
+        "1051": {
+            "id": "1051",
+            "names": [
+                {
+                    "name": "1051",
+                    "threshold": 1
+                }
+            ]
+        },
+        "1052": {
+            "id": "1052",
+            "names": [
+                {
+                    "name": "1052",
+                    "threshold": 1
+                }
+            ]
+        },
+        "A0107": {
+            "id": "A0107",
+            "names": [
+                {
+                    "name": "A0107",
+                    "threshold": 1
+                }
+            ]
+        },
+        "BAODIAN": {
+            "id": "BAODIAN",
+            "names": [
+                {
+                    "name": "BAODIAN",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "БАОДИАН",
+                    "threshold": 0.85
+                }
+            ]
+        }
+    }
+}

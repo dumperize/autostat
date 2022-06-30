@@ -531,11 +531,11 @@
             "names": [
                 {
                     "name": "MARK",
-                    "threshold": 0.93
+                    "threshold": 1
                 },
                 {
                     "name": "МАРК",
-                    "threshold": 0.93
+                    "threshold": 1
                 }
             ]
         },
