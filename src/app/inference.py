@@ -56,9 +56,9 @@ class Model:
             doc = self.model(str(row['text']))
             result = result + simplify_multiple([{
                 "id": index,
-                "brand": doc.user_data['brands'],
-                "model": doc.user_data['models'],
-                "year": doc.user_data['years'],
+                "brand": None if pd.isna(doc.user_data['brands']) else doc.user_data['brands'],
+                "model": None if pd.isna(doc.user_data['models']) else doc.user_data['models'],
+                "year": None if pd.isna(doc.user_data['years']) else doc.user_data['years'],
             }])
         return  result
 
@@ -74,8 +74,6 @@ async def create_upload_file(file: UploadFile):
         os.remove(file.filename)
 
         json_compatible_item_data = jsonable_encoder(model.predict(data))
-        print(model.predict(data))
-        print(json_compatible_item_data)
         return JSONResponse(content=json_compatible_item_data)
     else:
         raise HTTPException(status_code=400, detail="invalid file format")
