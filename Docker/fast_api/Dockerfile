@@ -11,6 +11,7 @@ RUN pip3 install -r requirements.txt
 
 COPY ./src/app /code/app
 COPY ./src/models/NER /code/src/models/NER
+COPY ./data/raw/brand_with_models/ /code/data/raw/brand_with_models/
 COPY ./Docker/fast_api/.env /code/app/.env
 
 CMD ["uvicorn", "app.inference:app", "--host", "0.0.0.0", "--port", "8003"]

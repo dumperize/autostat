@@ -27,10 +27,6 @@ def find_ner(data_input_file, rules_file: str, important_names_file: str, output
     with mlflow.start_run(run_name='autostat_ner'):
         nlp = create_ner_model(rules_file, important_names_file)
 
-        doc = nlp('IVECO DAILY 35S142010')
-        print([x for x in doc])
-        print([(x.label_, x.ent_id_, x.kb_id_, x.text) for x in doc.ents])
-
         df = pd.read_excel(data_input_file)
         ents_info = []
         

@@ -16,3 +16,4 @@ python-Levenshtein
 dotenv
 transliterate
 sklearn
+openpyxl
