@@ -16,4 +16,7 @@ boto3
 uvicorn[standard]
 wsproto
 websockets
-
+python-Levenshtein
+transliterate
+sklearn
+openpyxl
