@@ -317,7 +317,11 @@
       "id": "CRUZE/YGM1",
       "names": [
         {
-          "name": "CRUZE/YGM1",
+          "name": "CRUZE",
+          "threshold": 1
+        },
+        {
+          "name": "YGM1",
           "threshold": 1
         }
       ],

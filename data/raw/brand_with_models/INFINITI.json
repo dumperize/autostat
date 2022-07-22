@@ -29,7 +29,11 @@
       "id": "EX/QX50",
       "names": [
         {
-          "name": "EX/QX50",
+          "name": "EX",
+          "threshold": 1
+        },
+        {
+          "name": "QX50",
           "threshold": 1
         }
       ],
@@ -53,7 +57,11 @@
       "id": "FX/QX70",
       "names": [
         {
-          "name": "FX/QX70",
+          "name": "FX",
+          "threshold": 1
+        },
+        {
+          "name": "QX70",
           "threshold": 1
         }
       ],
@@ -77,7 +85,15 @@
       "id": "G/Q50/Q60",
       "names": [
         {
-          "name": "G/Q50/Q60",
+          "name": "Q60",
+          "threshold": 1
+        },
+        {
+          "name": "Q50",
+          "threshold": 1
+        },
+        {
+          "name": "Q60",
           "threshold": 1
         }
       ],
@@ -129,7 +145,10 @@
       "id": "JX/QX60",
       "names": [
         {
-          "name": "JX/QX60",
+          "name": "JX",
+          "threshold": 1
+        },{
+          "name": "QX60",
           "threshold": 1
         }
       ],
@@ -153,7 +172,10 @@
       "id": "M/Q70",
       "names": [
         {
-          "name": "M/Q70",
+          "name": "M",
+          "threshold": 1
+        },{
+          "name": "Q70",
           "threshold": 1
         }
       ],
@@ -217,7 +239,10 @@
       "id": "QX/QX80",
       "names": [
         {
-          "name": "QX/QX80",
+          "name": "QX",
+          "threshold": 1
+        },{
+          "name": "QX80",
           "threshold": 1
         }
       ],

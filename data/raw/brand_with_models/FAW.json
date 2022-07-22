@@ -45,7 +45,11 @@
       "id": "CA1010/1011",
       "names": [
         {
-          "name": "CA1010/1011",
+          "name": "CA1010",
+          "threshold": 1
+        },
+        {
+          "name": "1011",
           "threshold": 1
         }
       ],
