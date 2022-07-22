@@ -1,1 +1,85 @@
-{"id": "LAMBORGHINI", "names": [{"name": "LAMBORGHINI", "threshold": 0.85}, {"name": "ЛАМБОРГХИНИ", "threshold": 0.85}], "models": {"AVENTADOR": {"id": "AVENTADOR", "names": [{"name": "AVENTADOR", "threshold": 0.85}, {"name": "АВЕНТАДОР", "threshold": 0.85}]}, "GALLARDO": {"id": "GALLARDO", "names": [{"name": "GALLARDO", "threshold": 0.85}, {"name": "ГАЛЛАРДО", "threshold": 0.85}]}, "HURACAN": {"id": "HURACAN", "names": [{"name": "HURACAN", "threshold": 0.85}, {"name": "ХУРАЦАН", "threshold": 0.85}]}, "MURCIELAGO": {"id": "MURCIELAGO", "names": [{"name": "MURCIELAGO", "threshold": 0.85}, {"name": "МУРЦИЕЛАГО", "threshold": 0.85}]}, "URUS": {"id": "URUS", "names": [{"name": "URUS", "threshold": 0.93}, {"name": "УРУС", "threshold": 0.93}]}}}
+{
+  "id": "LAMBORGHINI",
+  "names": [
+    {
+      "name": "LAMBORGHINI",
+      "threshold": 0.85
+    },
+    {
+      "name": "ЛАМБОРГХИНИ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "AVENTADOR": {
+      "id": "AVENTADOR",
+      "names": [
+        {
+          "name": "AVENTADOR",
+          "threshold": 0.85
+        },
+        {
+          "name": "АВЕНТАДОР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "15079"
+    },
+    "GALLARDO": {
+      "id": "GALLARDO",
+      "names": [
+        {
+          "name": "GALLARDO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ГАЛЛАРДО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1224"
+    },
+    "HURACAN": {
+      "id": "HURACAN",
+      "names": [
+        {
+          "name": "HURACAN",
+          "threshold": 0.85
+        },
+        {
+          "name": "ХУРАЦАН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "15094"
+    },
+    "MURCIELAGO": {
+      "id": "MURCIELAGO",
+      "names": [
+        {
+          "name": "MURCIELAGO",
+          "threshold": 0.85
+        },
+        {
+          "name": "МУРЦИЕЛАГО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1226"
+    },
+    "URUS": {
+      "id": "URUS",
+      "names": [
+        {
+          "name": "URUS",
+          "threshold": 0.93
+        },
+        {
+          "name": "УРУС",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "16021"
+    }
+  }
+}

@@ -1,1 +1,273 @@
-{"id": "PONTIAC", "names": [{"name": "PONTIAC", "threshold": 0.85}, {"name": "ПОНТИАЦ", "threshold": 0.85}], "models": {"6000": {"id": "6000", "names": [{"name": "6000", "threshold": 1}]}, "AZTEC": {"id": "AZTEC", "names": [{"name": "AZTEC", "threshold": 0.85}, {"name": "АЗТЕЦ", "threshold": 0.85}]}, "BONNEVILLE": {"id": "BONNEVILLE", "names": [{"name": "BONNEVILLE", "threshold": 0.85}, {"name": "БОННЕВИЛЛЕ", "threshold": 0.85}]}, "FIERO": {"id": "FIERO", "names": [{"name": "FIERO", "threshold": 0.85}, {"name": "ФИЕРО", "threshold": 0.85}]}, "FIREBIRD": {"id": "FIREBIRD", "names": [{"name": "FIREBIRD", "threshold": 0.85}, {"name": "ФИРЕБИРД", "threshold": 0.85}]}, "G6": {"id": "G6", "names": [{"name": "G6", "threshold": 1}]}, "GRANDAM": {"id": "GRANDAM", "names": [{"name": "GRAND AM", "threshold": 0.85}, {"name": "ГРАНД АМ", "threshold": 0.85}]}, "GRANDPRIX": {"id": "GRANDPRIX", "names": [{"name": "GRAND PRIX", "threshold": 0.85}, {"name": "ГРАНД ПРИX", "threshold": 0.85}]}, "GTO": {"id": "GTO", "names": [{"name": "GTO", "threshold": 0.97}, {"name": "ГТО", "threshold": 0.97}]}, "LEMANS": {"id": "LEMANS", "names": [{"name": "LEMANS", "threshold": 0.85}, {"name": "ЛЕМАНС", "threshold": 0.85}]}, "MONTANA": {"id": "MONTANA", "names": [{"name": "MONTANA", "threshold": 0.85}, {"name": "МОНТАНА", "threshold": 0.85}]}, "PARISIENNE": {"id": "PARISIENNE", "names": [{"name": "PARISIENNE", "threshold": 0.85}, {"name": "ПАРИСИЕННЕ", "threshold": 0.85}]}, "PHOENIX": {"id": "PHOENIX", "names": [{"name": "PHOENIX", "threshold": 0.85}, {"name": "ПХОЕНИX", "threshold": 0.85}]}, "SOLSTICE": {"id": "SOLSTICE", "names": [{"name": "SOLSTICE", "threshold": 0.85}, {"name": "СОЛСТИЦЕ", "threshold": 0.85}]}, "SUNBIRD": {"id": "SUNBIRD", "names": [{"name": "SUNBIRD", "threshold": 0.85}, {"name": "СУНБИРД", "threshold": 0.85}]}, "SUNFIRE": {"id": "SUNFIRE", "names": [{"name": "SUNFIRE", "threshold": 0.85}, {"name": "СУНФИРЕ", "threshold": 0.85}]}, "TEMPEST": {"id": "TEMPEST", "names": [{"name": "TEMPEST", "threshold": 0.85}, {"name": "ТЕМПЕСТ", "threshold": 0.85}]}, "TRANSSPORT": {"id": "TRANSSPORT", "names": [{"name": "TRANS SPORT", "threshold": 0.85}, {"name": "ТРАНС СПОРТ", "threshold": 0.85}]}, "VIBE": {"id": "VIBE", "names": [{"name": "VIBE", "threshold": 0.93}, {"name": "ВИБЕ", "threshold": 0.93}]}}}
+{
+  "id": "PONTIAC",
+  "names": [
+    {
+      "name": "PONTIAC",
+      "threshold": 0.85
+    },
+    {
+      "name": "ПОНТИАЦ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "6000": {
+      "id": "6000",
+      "names": [
+        {
+          "name": "6000",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "169"
+    },
+    "AZTEC": {
+      "id": "AZTEC",
+      "names": [
+        {
+          "name": "AZTEC",
+          "threshold": 0.85
+        },
+        {
+          "name": "АЗТЕЦ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "170"
+    },
+    "BONNEVILLE": {
+      "id": "BONNEVILLE",
+      "names": [
+        {
+          "name": "BONNEVILLE",
+          "threshold": 0.85
+        },
+        {
+          "name": "БОННЕВИЛЛЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "171"
+    },
+    "FIERO": {
+      "id": "FIERO",
+      "names": [
+        {
+          "name": "FIERO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ФИЕРО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "172"
+    },
+    "FIREBIRD": {
+      "id": "FIREBIRD",
+      "names": [
+        {
+          "name": "FIREBIRD",
+          "threshold": 0.85
+        },
+        {
+          "name": "ФИРЕБИРД",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "173"
+    },
+    "G6": {
+      "id": "G6",
+      "names": [
+        {
+          "name": "G6",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "174"
+    },
+    "GRANDAM": {
+      "id": "GRANDAM",
+      "names": [
+        {
+          "name": "GRAND AM",
+          "threshold": 0.85
+        },
+        {
+          "name": "ГРАНД АМ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "175"
+    },
+    "GRANDPRIX": {
+      "id": "GRANDPRIX",
+      "names": [
+        {
+          "name": "GRAND PRIX",
+          "threshold": 0.85
+        },
+        {
+          "name": "ГРАНД ПРИX",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "176"
+    },
+    "GTO": {
+      "id": "GTO",
+      "names": [
+        {
+          "name": "GTO",
+          "threshold": 0.97
+        },
+        {
+          "name": "ГТО",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "177"
+    },
+    "LEMANS": {
+      "id": "LEMANS",
+      "names": [
+        {
+          "name": "LEMANS",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЛЕМАНС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "178"
+    },
+    "MONTANA": {
+      "id": "MONTANA",
+      "names": [
+        {
+          "name": "MONTANA",
+          "threshold": 0.85
+        },
+        {
+          "name": "МОНТАНА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "179"
+    },
+    "PARISIENNE": {
+      "id": "PARISIENNE",
+      "names": [
+        {
+          "name": "PARISIENNE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ПАРИСИЕННЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "181"
+    },
+    "PHOENIX": {
+      "id": "PHOENIX",
+      "names": [
+        {
+          "name": "PHOENIX",
+          "threshold": 0.85
+        },
+        {
+          "name": "ПХОЕНИX",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "182"
+    },
+    "SOLSTICE": {
+      "id": "SOLSTICE",
+      "names": [
+        {
+          "name": "SOLSTICE",
+          "threshold": 0.85
+        },
+        {
+          "name": "СОЛСТИЦЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "183"
+    },
+    "SUNBIRD": {
+      "id": "SUNBIRD",
+      "names": [
+        {
+          "name": "SUNBIRD",
+          "threshold": 0.85
+        },
+        {
+          "name": "СУНБИРД",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "184"
+    },
+    "SUNFIRE": {
+      "id": "SUNFIRE",
+      "names": [
+        {
+          "name": "SUNFIRE",
+          "threshold": 0.85
+        },
+        {
+          "name": "СУНФИРЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "185"
+    },
+    "TEMPEST": {
+      "id": "TEMPEST",
+      "names": [
+        {
+          "name": "TEMPEST",
+          "threshold": 0.85
+        },
+        {
+          "name": "ТЕМПЕСТ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "186"
+    },
+    "TRANSSPORT": {
+      "id": "TRANSSPORT",
+      "names": [
+        {
+          "name": "TRANS SPORT",
+          "threshold": 0.85
+        },
+        {
+          "name": "ТРАНС СПОРТ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "187"
+    },
+    "VIBE": {
+      "id": "VIBE",
+      "names": [
+        {
+          "name": "VIBE",
+          "threshold": 0.93
+        },
+        {
+          "name": "ВИБЕ",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "188"
+    }
+  }
+}

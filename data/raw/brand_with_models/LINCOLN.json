@@ -1,1 +1,169 @@
-{"id": "LINCOLN", "names": [{"name": "LINCOLN", "threshold": 0.85}, {"name": "ЛИНЦОЛН", "threshold": 0.85}], "models": {"AVIATOR": {"id": "AVIATOR", "names": [{"name": "AVIATOR", "threshold": 0.85}, {"name": "АВИАТОР", "threshold": 0.85}]}, "CONTINENTAL": {"id": "CONTINENTAL", "names": [{"name": "CONTINENTAL", "threshold": 0.85}, {"name": "ЦОНТИНЕНТАЛ", "threshold": 0.85}]}, "CONTINENTALMARKSERIES": {"id": "CONTINENTALMARKSERIES", "names": [{"name": "CONTINENTAL MARK SERIES", "threshold": 0.85}, {"name": "ЦОНТИНЕНТАЛ МАРК СЕРИЕС", "threshold": 0.85}]}, "LS": {"id": "LS", "names": [{"name": "LS", "threshold": 1}, {"name": "ЛС", "threshold": 1}]}, "MARKLT": {"id": "MARKLT", "names": [{"name": "MARK LT", "threshold": 0.85}, {"name": "МАРК ЛТ", "threshold": 0.85}]}, "MKS": {"id": "MKS", "names": [{"name": "MKS", "threshold": 0.97}, {"name": "МКС", "threshold": 0.97}]}, "MKT": {"id": "MKT", "names": [{"name": "MKT", "threshold": 0.97}, {"name": "МКТ", "threshold": 0.97}]}, "MKX": {"id": "MKX", "names": [{"name": "MKX", "threshold": 0.97}, {"name": "МКX", "threshold": 0.97}]}, "NAVIGATOR": {"id": "NAVIGATOR", "names": [{"name": "NAVIGATOR", "threshold": 0.85}, {"name": "НАВИГАТОР", "threshold": 0.85}]}, "TOWNCAR": {"id": "TOWNCAR", "names": [{"name": "TOWN CAR", "threshold": 0.85}, {"name": "ТОWН ЦАР", "threshold": 0.85}]}, "ZEPHYR": {"id": "ZEPHYR", "names": [{"name": "ZEPHYR", "threshold": 0.85}, {"name": "ЗЕПХЫР", "threshold": 0.85}]}}}
+{
+  "id": "LINCOLN",
+  "names": [
+    {
+      "name": "LINCOLN",
+      "threshold": 0.85
+    },
+    {
+      "name": "ЛИНЦОЛН",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "AVIATOR": {
+      "id": "AVIATOR",
+      "names": [
+        {
+          "name": "AVIATOR",
+          "threshold": 0.85
+        },
+        {
+          "name": "АВИАТОР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1253"
+    },
+    "CONTINENTAL": {
+      "id": "CONTINENTAL",
+      "names": [
+        {
+          "name": "CONTINENTAL",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦОНТИНЕНТАЛ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1254"
+    },
+    "CONTINENTALMARKSERIES": {
+      "id": "CONTINENTALMARKSERIES",
+      "names": [
+        {
+          "name": "CONTINENTAL MARK SERIES",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦОНТИНЕНТАЛ МАРК СЕРИЕС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1255"
+    },
+    "LS": {
+      "id": "LS",
+      "names": [
+        {
+          "name": "LS",
+          "threshold": 1
+        },
+        {
+          "name": "ЛС",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1256"
+    },
+    "MARKLT": {
+      "id": "MARKLT",
+      "names": [
+        {
+          "name": "MARK LT",
+          "threshold": 0.85
+        },
+        {
+          "name": "МАРК ЛТ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1257"
+    },
+    "MKS": {
+      "id": "MKS",
+      "names": [
+        {
+          "name": "MKS",
+          "threshold": 0.97
+        },
+        {
+          "name": "МКС",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "1258"
+    },
+    "MKT": {
+      "id": "MKT",
+      "names": [
+        {
+          "name": "MKT",
+          "threshold": 0.97
+        },
+        {
+          "name": "МКТ",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "1259"
+    },
+    "MKX": {
+      "id": "MKX",
+      "names": [
+        {
+          "name": "MKX",
+          "threshold": 0.97
+        },
+        {
+          "name": "МКX",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "1260"
+    },
+    "NAVIGATOR": {
+      "id": "NAVIGATOR",
+      "names": [
+        {
+          "name": "NAVIGATOR",
+          "threshold": 0.85
+        },
+        {
+          "name": "НАВИГАТОР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1261"
+    },
+    "TOWNCAR": {
+      "id": "TOWNCAR",
+      "names": [
+        {
+          "name": "TOWN CAR",
+          "threshold": 0.85
+        },
+        {
+          "name": "ТОWН ЦАР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1263"
+    },
+    "ZEPHYR": {
+      "id": "ZEPHYR",
+      "names": [
+        {
+          "name": "ZEPHYR",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЗЕПФИР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1264"
+    }
+  }
+}

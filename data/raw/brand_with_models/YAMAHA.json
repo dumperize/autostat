@@ -1,1 +1,567 @@
-{"id": "YAMAHA", "names": [{"name": "YAMAHA", "threshold": 0.85}, {"name": "ЫАМАХА", "threshold": 0.85}], "models": {"FAZER": {"id": "FAZER", "names": [{"name": "FAZER", "threshold": 0.85}, {"name": "ФАЗЕР", "threshold": 0.85}]}, "FJ1100": {"id": "FJ1100", "names": [{"name": "FJ 1100", "threshold": 1}]}, "FJ1200": {"id": "FJ1200", "names": [{"name": "FJ 1200", "threshold": 1}]}, "FJR1300": {"id": "FJR1300", "names": [{"name": "FJR 1300", "threshold": 1}]}, "FZ": {"id": "FZ", "names": [{"name": "FZ", "threshold": 1}, {"name": "ФЗ", "threshold": 1}]}, "FZR": {"id": "FZR", "names": [{"name": "FZR", "threshold": 0.97}, {"name": "ФЗР", "threshold": 0.97}]}, "FZS": {"id": "FZS", "names": [{"name": "FZS", "threshold": 0.97}, {"name": "ФЗС", "threshold": 0.97}]}, "FZX": {"id": "FZX", "names": [{"name": "FZX", "threshold": 0.97}, {"name": "ФЗX", "threshold": 0.97}]}, "GTS1000": {"id": "GTS1000", "names": [{"name": "GTS 1000", "threshold": 1}]}, "MAJESTY": {"id": "MAJESTY", "names": [{"name": "MAJESTY", "threshold": 0.85}, {"name": "МАЙЕСТЫ", "threshold": 0.85}]}, "MT01": {"id": "MT01", "names": [{"name": "MT 01", "threshold": 1}]}, "MT07": {"id": "MT07", "names": [{"name": "MT 07", "threshold": 1}]}, "MT09": {"id": "MT09", "names": [{"name": "MT 09", "threshold": 1}]}, "MT10": {"id": "MT10", "names": [{"name": "MT 10", "threshold": 1}]}, "RD": {"id": "RD", "names": [{"name": "RD", "threshold": 1}, {"name": "РД", "threshold": 1}]}, "SR": {"id": "SR", "names": [{"name": "SR", "threshold": 1}, {"name": "СР", "threshold": 1}]}, "SRX": {"id": "SRX", "names": [{"name": "SRX", "threshold": 0.97}, {"name": "СРX", "threshold": 0.97}]}, "TMAX": {"id": "TMAX", "names": [{"name": "T MAX", "threshold": 0.85}, {"name": "Т МАX", "threshold": 0.85}]}, "TDM": {"id": "TDM", "names": [{"name": "TDM", "threshold": 0.97}, {"name": "ТДМ", "threshold": 0.97}]}, "TDR": {"id": "TDR", "names": [{"name": "TDR", "threshold": 0.97}, {"name": "ТДР", "threshold": 0.97}]}, "TRX850": {"id": "TRX850", "names": [{"name": "TRX 850", "threshold": 1}]}, "TT250R": {"id": "TT250R", "names": [{"name": "TT250R", "threshold": 1}]}, "TW": {"id": "TW", "names": [{"name": "TW", "threshold": 1}, {"name": "ТW", "threshold": 1}]}, "VMAX": {"id": "VMAX", "names": [{"name": "VMAX", "threshold": 0.93}, {"name": "ВМАX", "threshold": 0.93}]}, "WR": {"id": "WR", "names": [{"name": "WR", "threshold": 1}, {"name": "WР", "threshold": 1}]}, "XJ": {"id": "XJ", "names": [{"name": "XJ", "threshold": 1}, {"name": "XЙ", "threshold": 1}]}, "XJ600": {"id": "XJ600", "names": [{"name": "XJ 600", "threshold": 1}]}, "XJ700MAXIM": {"id": "XJ700MAXIM", "names": [{"name": "XJ 700 MAXIM", "threshold": 1}]}, "XJ750": {"id": "XJ750", "names": [{"name": "XJ 750", "threshold": 1}]}, "XJ900": {"id": "XJ900", "names": [{"name": "XJ 900", "threshold": 1}]}, "XJR": {"id": "XJR", "names": [{"name": "XJR", "threshold": 0.97}, {"name": "XЙР", "threshold": 0.97}]}, "XS": {"id": "XS", "names": [{"name": "XS", "threshold": 1}, {"name": "XС", "threshold": 1}]}, "XSR": {"id": "XSR", "names": [{"name": "XSR", "threshold": 0.97}, {"name": "XСР", "threshold": 0.97}]}, "XT": {"id": "XT", "names": [{"name": "XT", "threshold": 1}, {"name": "XТ", "threshold": 1}]}, "XT1200ZSUPERTENERE": {"id": "XT1200ZSUPERTENERE", "names": [{"name": "XT 1200Z SUPER TENERE", "threshold": 1}]}, "XT225": {"id": "XT225", "names": [{"name": "XT 225", "threshold": 1}]}, "XT250": {"id": "XT250", "names": [{"name": "XT 250", "threshold": 1}]}, "XT600": {"id": "XT600", "names": [{"name": "XT 600", "threshold": 1}]}, "XTZ750SUPERTENERE": {"id": "XTZ750SUPERTENERE", "names": [{"name": "XTZ 750 SUPER TENERE", "threshold": 1}]}, "XV": {"id": "XV", "names": [{"name": "XV", "threshold": 1}, {"name": "XВ", "threshold": 1}]}, "XV1900": {"id": "XV1900", "names": [{"name": "XV1900", "threshold": 1}]}, "XVS": {"id": "XVS", "names": [{"name": "XVS", "threshold": 0.97}, {"name": "XВС", "threshold": 0.97}]}, "XVZ": {"id": "XVZ", "names": [{"name": "XVZ", "threshold": 0.97}, {"name": "XВЗ", "threshold": 0.97}]}, "YBR125": {"id": "YBR125", "names": [{"name": "YBR 125", "threshold": 1}]}, "YZ": {"id": "YZ", "names": [{"name": "YZ", "threshold": 1}, {"name": "ЫЗ", "threshold": 1}]}, "YZF": {"id": "YZF", "names": [{"name": "YZF", "threshold": 0.97}, {"name": "ЫЗФ", "threshold": 0.97}]}}}
+{
+  "id": "YAMAHA",
+  "names": [
+    {
+      "name": "YAMAHA",
+      "threshold": 0.85
+    },
+    {
+      "name": "ЯМАХА",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "FAZER": {
+      "id": "FAZER",
+      "names": [
+        {
+          "name": "FAZER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ФАЗЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "6584"
+    },
+    "FJ1100": {
+      "id": "FJ1100",
+      "names": [
+        {
+          "name": "FJ 1100",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2815"
+    },
+    "FJ1200": {
+      "id": "FJ1200",
+      "names": [
+        {
+          "name": "FJ 1200",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2816"
+    },
+    "FJR1300": {
+      "id": "FJR1300",
+      "names": [
+        {
+          "name": "FJR 1300",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2817"
+    },
+    "FZ": {
+      "id": "FZ",
+      "names": [
+        {
+          "name": "FZ",
+          "threshold": 1
+        },
+        {
+          "name": "ФЗ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2818"
+    },
+    "FZR": {
+      "id": "FZR",
+      "names": [
+        {
+          "name": "FZR",
+          "threshold": 0.97
+        },
+        {
+          "name": "ФЗР",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "2820"
+    },
+    "FZS": {
+      "id": "FZS",
+      "names": [
+        {
+          "name": "FZS",
+          "threshold": 0.97
+        },
+        {
+          "name": "ФЗС",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "2821"
+    },
+    "FZX": {
+      "id": "FZX",
+      "names": [
+        {
+          "name": "FZX",
+          "threshold": 0.97
+        },
+        {
+          "name": "ФЗX",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "2822"
+    },
+    "GTS1000": {
+      "id": "GTS1000",
+      "names": [
+        {
+          "name": "GTS 1000",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2823"
+    },
+    "MAJESTY": {
+      "id": "MAJESTY",
+      "names": [
+        {
+          "name": "MAJESTY",
+          "threshold": 0.85
+        },
+        {
+          "name": "МАДЖЕСТИ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2824"
+    },
+    "MT01": {
+      "id": "MT01",
+      "names": [
+        {
+          "name": "MT 01",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2826"
+    },
+    "MT07": {
+      "id": "MT07",
+      "names": [
+        {
+          "name": "MT 07",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17372"
+    },
+    "MT09": {
+      "id": "MT09",
+      "names": [
+        {
+          "name": "MT 09",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17373"
+    },
+    "MT10": {
+      "id": "MT10",
+      "names": [
+        {
+          "name": "MT 10",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17374"
+    },
+    "RD": {
+      "id": "RD",
+      "names": [
+        {
+          "name": "RD",
+          "threshold": 1
+        },
+        {
+          "name": "РД",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2829"
+    },
+    "SR": {
+      "id": "SR",
+      "names": [
+        {
+          "name": "SR",
+          "threshold": 1
+        },
+        {
+          "name": "СР",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2835"
+    },
+    "SRX": {
+      "id": "SRX",
+      "names": [
+        {
+          "name": "SRX",
+          "threshold": 0.97
+        },
+        {
+          "name": "СРX",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "11968"
+    },
+    "TMAX": {
+      "id": "TMAX",
+      "names": [
+        {
+          "name": "T MAX",
+          "threshold": 0.85
+        },
+        {
+          "name": "Т МАX",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2842"
+    },
+    "TDM": {
+      "id": "TDM",
+      "names": [
+        {
+          "name": "TDM",
+          "threshold": 0.97
+        },
+        {
+          "name": "ТДМ",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "2840"
+    },
+    "TDR": {
+      "id": "TDR",
+      "names": [
+        {
+          "name": "TDR",
+          "threshold": 0.97
+        },
+        {
+          "name": "ТДР",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "2841"
+    },
+    "TRX850": {
+      "id": "TRX850",
+      "names": [
+        {
+          "name": "TRX 850",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2844"
+    },
+    "TT250R": {
+      "id": "TT250R",
+      "names": [
+        {
+          "name": "TT250R",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "11969"
+    },
+    "TW": {
+      "id": "TW",
+      "names": [
+        {
+          "name": "TW",
+          "threshold": 1
+        },
+        {
+          "name": "ТW",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2847"
+    },
+    "VMAX": {
+      "id": "VMAX",
+      "names": [
+        {
+          "name": "VMAX",
+          "threshold": 0.93
+        },
+        {
+          "name": "ВМАX",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "11975"
+    },
+    "WR": {
+      "id": "WR",
+      "names": [
+        {
+          "name": "WR",
+          "threshold": 1
+        },
+        {
+          "name": "WР",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2853"
+    },
+    "XJ": {
+      "id": "XJ",
+      "names": [
+        {
+          "name": "XJ",
+          "threshold": 1
+        },
+        {
+          "name": "XЙ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2854"
+    },
+    "XJ600": {
+      "id": "XJ600",
+      "names": [
+        {
+          "name": "XJ 600",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17405"
+    },
+    "XJ700MAXIM": {
+      "id": "XJ700MAXIM",
+      "names": [
+        {
+          "name": "XJ 700 MAXIM",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17407"
+    },
+    "XJ750": {
+      "id": "XJ750",
+      "names": [
+        {
+          "name": "XJ 750",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17408"
+    },
+    "XJ900": {
+      "id": "XJ900",
+      "names": [
+        {
+          "name": "XJ 900",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17409"
+    },
+    "XJR": {
+      "id": "XJR",
+      "names": [
+        {
+          "name": "XJR",
+          "threshold": 0.97
+        },
+        {
+          "name": "XЙР",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "11944"
+    },
+    "XS": {
+      "id": "XS",
+      "names": [
+        {
+          "name": "XS",
+          "threshold": 1
+        },
+        {
+          "name": "XС",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2858"
+    },
+    "XSR": {
+      "id": "XSR",
+      "names": [
+        {
+          "name": "XSR",
+          "threshold": 0.97
+        },
+        {
+          "name": "XСР",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "17385"
+    },
+    "XT": {
+      "id": "XT",
+      "names": [
+        {
+          "name": "XT",
+          "threshold": 1
+        },
+        {
+          "name": "XТ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2859"
+    },
+    "XT1200ZSUPERTENERE": {
+      "id": "XT1200ZSUPERTENERE",
+      "names": [
+        {
+          "name": "XT 1200Z SUPER TENERE",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17411"
+    },
+    "XT225": {
+      "id": "XT225",
+      "names": [
+        {
+          "name": "XT 225",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17413"
+    },
+    "XT250": {
+      "id": "XT250",
+      "names": [
+        {
+          "name": "XT 250",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17414"
+    },
+    "XT600": {
+      "id": "XT600",
+      "names": [
+        {
+          "name": "XT 600",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17419"
+    },
+    "XTZ750SUPERTENERE": {
+      "id": "XTZ750SUPERTENERE",
+      "names": [
+        {
+          "name": "XTZ 750 SUPER TENERE",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2861"
+    },
+    "XV": {
+      "id": "XV",
+      "names": [
+        {
+          "name": "XV",
+          "threshold": 1
+        },
+        {
+          "name": "XВ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2862"
+    },
+    "XV1900": {
+      "id": "XV1900",
+      "names": [
+        {
+          "name": "XV1900",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17386"
+    },
+    "XVS": {
+      "id": "XVS",
+      "names": [
+        {
+          "name": "XVS",
+          "threshold": 0.97
+        },
+        {
+          "name": "XВС",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "2864"
+    },
+    "XVZ": {
+      "id": "XVZ",
+      "names": [
+        {
+          "name": "XVZ",
+          "threshold": 0.97
+        },
+        {
+          "name": "XВЗ",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "2865"
+    },
+    "YBR125": {
+      "id": "YBR125",
+      "names": [
+        {
+          "name": "YBR 125",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2866"
+    },
+    "YZ": {
+      "id": "YZ",
+      "names": [
+        {
+          "name": "YZ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2867"
+    },
+    "YZF": {
+      "id": "YZF",
+      "names": [
+        {
+          "name": "YZF",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "2868"
+    }
+  }
+}

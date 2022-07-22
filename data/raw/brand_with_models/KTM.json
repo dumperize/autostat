@@ -1,1 +1,203 @@
-{"id": "KTM", "names": [{"name": "KTM", "threshold": 0.97}, {"name": "КТМ", "threshold": 0.97}], "models": {"990ADVENTURE": {"id": "990ADVENTURE", "names": [{"name": "990 ADVENTURE", "threshold": 1}]}, "ADVENTURE": {"id": "ADVENTURE", "names": [{"name": "ADVENTURE", "threshold": 0.85}, {"name": "АДВЕНТУРЕ", "threshold": 0.85}]}, "DESERTRACING": {"id": "DESERTRACING", "names": [{"name": "DESERT RACING", "threshold": 0.85}, {"name": "ДЕСЕРТ РАЦИНГ", "threshold": 0.85}]}, "DUKE": {"id": "DUKE", "names": [{"name": "DUKE", "threshold": 0.93}, {"name": "ДУКЕ", "threshold": 0.93}]}, "ENDURO": {"id": "ENDURO", "names": [{"name": "ENDURO", "threshold": 0.85}, {"name": "ЕНДУРО", "threshold": 0.85}]}, "EXC": {"id": "EXC", "names": [{"name": "EXC", "threshold": 0.97}, {"name": "ЕXЦ", "threshold": 0.97}]}, "RC390": {"id": "RC390", "names": [{"name": "RC390", "threshold": 1}]}, "SM": {"id": "SM", "names": [{"name": "SM", "threshold": 1}, {"name": "СМ", "threshold": 1}]}, "SMC": {"id": "SMC", "names": [{"name": "SMC", "threshold": 0.97}, {"name": "СМЦ", "threshold": 0.97}]}, "SMCR": {"id": "SMCR", "names": [{"name": "SMC R", "threshold": 0.85}, {"name": "СМЦ Р", "threshold": 0.85}]}, "SMR": {"id": "SMR", "names": [{"name": "SMR", "threshold": 0.97}, {"name": "СМР", "threshold": 0.97}]}, "SMT": {"id": "SMT", "names": [{"name": "SMT", "threshold": 0.97}, {"name": "СМТ", "threshold": 0.97}]}, "SUPERCOMPETITION": {"id": "SUPERCOMPETITION", "names": [{"name": "SUPER COMPETITION", "threshold": 0.85}, {"name": "СУПЕР ЦОМПЕТИТИОН", "threshold": 0.85}]}, "SUPERDUKE": {"id": "SUPERDUKE", "names": [{"name": "SUPERDUKE", "threshold": 0.85}, {"name": "СУПЕРДУКЕ", "threshold": 0.85}]}}}
+{
+  "id": "KTM",
+  "names": [
+    {
+      "name": "KTM",
+      "threshold": 0.97
+    },
+    {
+      "name": "КТМ",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "990ADVENTURE": {
+      "id": "990ADVENTURE",
+      "names": [
+        {
+          "name": "990 ADVENTURE",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2565"
+    },
+    "ADVENTURE": {
+      "id": "ADVENTURE",
+      "names": [
+        {
+          "name": "ADVENTURE",
+          "threshold": 0.85
+        },
+        {
+          "name": "АДВЕНТУРЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2568"
+    },
+    "DESERTRACING": {
+      "id": "DESERTRACING",
+      "names": [
+        {
+          "name": "DESERT RACING",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДЕСЕРТ РАЦИНГ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "11950"
+    },
+    "DUKE": {
+      "id": "DUKE",
+      "names": [
+        {
+          "name": "DUKE",
+          "threshold": 0.93
+        },
+        {
+          "name": "ДУКЕ",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "2569"
+    },
+    "ENDURO": {
+      "id": "ENDURO",
+      "names": [
+        {
+          "name": "ENDURO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЕНДУРО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2570"
+    },
+    "EXC": {
+      "id": "EXC",
+      "names": [
+        {
+          "name": "EXC",
+          "threshold": 0.97
+        },
+        {
+          "name": "ЕXЦ",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "2571"
+    },
+    "RC390": {
+      "id": "RC390",
+      "names": [
+        {
+          "name": "RC390",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17241"
+    },
+    "SM": {
+      "id": "SM",
+      "names": [
+        {
+          "name": "SM",
+          "threshold": 1
+        },
+        {
+          "name": "СМ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "11952"
+    },
+    "SMC": {
+      "id": "SMC",
+      "names": [
+        {
+          "name": "SMC",
+          "threshold": 0.97
+        },
+        {
+          "name": "СМЦ",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "11953"
+    },
+    "SMCR": {
+      "id": "SMCR",
+      "names": [
+        {
+          "name": "SMC R",
+          "threshold": 0.85
+        },
+        {
+          "name": "СМЦ Р",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "11954"
+    },
+    "SMR": {
+      "id": "SMR",
+      "names": [
+        {
+          "name": "SMR",
+          "threshold": 0.97
+        },
+        {
+          "name": "СМР",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "11976"
+    },
+    "SMT": {
+      "id": "SMT",
+      "names": [
+        {
+          "name": "SMT",
+          "threshold": 0.97
+        },
+        {
+          "name": "СМТ",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "11977"
+    },
+    "SUPERCOMPETITION": {
+      "id": "SUPERCOMPETITION",
+      "names": [
+        {
+          "name": "SUPER COMPETITION",
+          "threshold": 0.85
+        },
+        {
+          "name": "СУПЕР ЦОМПЕТИТИОН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "11956"
+    },
+    "SUPERDUKE": {
+      "id": "SUPERDUKE",
+      "names": [
+        {
+          "name": "SUPERDUKE",
+          "threshold": 0.85
+        },
+        {
+          "name": "СУПЕРДУКЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "11955"
+    }
+  }
+}

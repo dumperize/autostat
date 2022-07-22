@@ -1,1 +1,45 @@
-{"id": "KROMHOUT", "names": [{"name": "KROMHOUT", "threshold": 0.85}, {"name": "КРОМХОУТ", "threshold": 0.85}], "models": {"3APCC1227": {"id": "3APCC1227", "names": [{"name": "3APCC 12 27", "threshold": 1}]}, "3COM1227": {"id": "3COM1227", "names": [{"name": "3COM 12 27", "threshold": 1}]}, "3ZOH1227": {"id": "3ZOH1227", "names": [{"name": "3ZOH 12 27", "threshold": 1}]}}}
+{
+  "id": "KROMHOUT",
+  "names": [
+    {
+      "name": "KROMHOUT",
+      "threshold": 0.85
+    },
+    {
+      "name": "КРОМХОУТ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "3APCC1227": {
+      "id": "3APCC1227",
+      "names": [
+        {
+          "name": "3APCC 12 27",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3495"
+    },
+    "3COM1227": {
+      "id": "3COM1227",
+      "names": [
+        {
+          "name": "3COM 12 27",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3496"
+    },
+    "3ZOH1227": {
+      "id": "3ZOH1227",
+      "names": [
+        {
+          "name": "3ZOH 12 27",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3497"
+    }
+  }
+}

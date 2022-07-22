@@ -1,1 +1,29 @@
-{"id": "GUVENGUTEWOLF", "names": [{"name": "GUVEN GUTEWOLF", "threshold": 0.85}, {"name": "ГУВЕН ГУТЕWОЛФ", "threshold": 0.85}], "models": {"GMS": {"id": "GMS", "names": [{"name": "GMS", "threshold": 0.97}, {"name": "ГМС", "threshold": 0.97}]}}}
+{
+  "id": "GUVENGUTEWOLF",
+  "names": [
+    {
+      "name": "GUVEN GUTEWOLF",
+      "threshold": 0.85
+    },
+    {
+      "name": "ГУВЕН ГУТЕWОЛФ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "GMS": {
+      "id": "GMS",
+      "names": [
+        {
+          "name": "GMS",
+          "threshold": 0.97
+        },
+        {
+          "name": "ГМС",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "18785"
+    }
+  }
+}

@@ -1,1 +1,45 @@
-{"id": "ELIS", "names": [{"name": "ELIS", "threshold": 0.93}, {"name": "ЕЛИС", "threshold": 0.93}], "models": {"711510": {"id": "711510", "names": [{"name": "711510", "threshold": 1}]}, "711511": {"id": "711511", "names": [{"name": "711511", "threshold": 1}]}, "711521": {"id": "711521", "names": [{"name": "711521", "threshold": 1}]}}}
+{
+  "id": "ELIS",
+  "names": [
+    {
+      "name": "ELIS",
+      "threshold": 0.93
+    },
+    {
+      "name": "ЕЛИС",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "711510": {
+      "id": "711510",
+      "names": [
+        {
+          "name": "711510",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12611"
+    },
+    "711511": {
+      "id": "711511",
+      "names": [
+        {
+          "name": "711511",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12612"
+    },
+    "711521": {
+      "id": "711521",
+      "names": [
+        {
+          "name": "711521",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12613"
+    }
+  }
+}

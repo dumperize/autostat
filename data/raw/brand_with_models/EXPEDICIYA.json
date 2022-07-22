@@ -1,1 +1,99 @@
-{"id": "EXPEDICIYA", "names": [{"name": "EXPEDICIYA", "threshold": 0.85}, {"name": "ЕXПЕДИЦИЫА", "threshold": 0.85}], "models": {"BIZNES": {"id": "BIZNES", "names": [{"name": "BIZNES", "threshold": 0.85}, {"name": "БИЗНЕС", "threshold": 0.85}]}, "FERMER": {"id": "FERMER", "names": [{"name": "FERMER", "threshold": 0.85}, {"name": "ФЕРМЕР", "threshold": 0.85}]}, "RECHNIK": {"id": "RECHNIK", "names": [{"name": "RECHNIK", "threshold": 0.85}, {"name": "РЕЦХНИК", "threshold": 0.85}]}, "STANDART": {"id": "STANDART", "names": [{"name": "STANDART", "threshold": 0.85}, {"name": "СТАНДАРТ", "threshold": 0.85}]}, "STANDART+": {"id": "STANDART+", "names": [{"name": "STANDART+", "threshold": 0.85}, {"name": "СТАНДАРТ+", "threshold": 0.85}]}, "UNIVERSAL": {"id": "UNIVERSAL", "names": [{"name": "UNIVERSAL", "threshold": 0.85}, {"name": "УНИВЕРСАЛ", "threshold": 0.85}]}}}
+{
+  "id": "EXPEDICIYA",
+  "names": [
+    {
+      "name": "EXPEDICIYA",
+      "threshold": 0.85
+    },
+    {
+      "name": "ЭКСПЕДИЦИЯ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "BIZNES": {
+      "id": "BIZNES",
+      "names": [
+        {
+          "name": "BIZNES",
+          "threshold": 0.85
+        },
+        {
+          "name": "БИЗНЕС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "15497"
+    },
+    "FERMER": {
+      "id": "FERMER",
+      "names": [
+        {
+          "name": "FERMER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ФЕРМЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "15498"
+    },
+    "RECHNIK": {
+      "id": "RECHNIK",
+      "names": [
+        {
+          "name": "RECHNIK",
+          "threshold": 0.85
+        },
+        {
+          "name": "РЕЦХНИК",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "15499"
+    },
+    "STANDART": {
+      "id": "STANDART",
+      "names": [
+        {
+          "name": "STANDART",
+          "threshold": 0.85
+        },
+        {
+          "name": "СТАНДАРТ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "15500"
+    },
+    "STANDART+": {
+      "id": "STANDART+",
+      "names": [
+        {
+          "name": "STANDART+",
+          "threshold": 0.85
+        },
+        {
+          "name": "СТАНДАРТ+",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "15501"
+    },
+    "UNIVERSAL": {
+      "id": "UNIVERSAL",
+      "names": [
+        {
+          "name": "UNIVERSAL",
+          "threshold": 0.85
+        },
+        {
+          "name": "УНИВЕРСАЛ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "15502"
+    }
+  }
+}

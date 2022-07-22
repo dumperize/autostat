@@ -1,1 +1,73 @@
-{"id": "DIZELTS", "names": [{"name": "DIZEL TS", "threshold": 0.85}, {"name": "ДИЗЕЛЬ ТС", "threshold": 0.85}, {"name": "ППЦС", "threshold": 0.95}, {"name": "АЦ", "threshold": 0.95}, {"name": "ППЦ", "threshold": 0.95}, {"name": "ППЦБ", "threshold": 0.95}, {"name": "ППЦХ", "threshold": 0.95}, {"name": "КП АЦ", "threshold": 0.95}, {"name": "КП ПП", "threshold": 0.95}], "models": {"9668": {"id": "9668", "names": [{"name": "9668", "threshold": 1}]}, "966810": {"id": "966810", "names": [{"name": "966810", "threshold": 1}]}, "PPC96781": {"id": "PPC96781", "names": [{"name": "PPC 96781", "threshold": 1}]}}}
+{
+  "id": "DIZELTS",
+  "names": [
+    {
+      "name": "DIZEL TS",
+      "threshold": 0.85
+    },
+    {
+      "name": "ДИЗЕЛЬ ТС",
+      "threshold": 0.85
+    },
+    {
+      "name": "ППЦС",
+      "threshold": 0.95
+    },
+    {
+      "name": "АЦ",
+      "threshold": 0.95
+    },
+    {
+      "name": "ППЦ",
+      "threshold": 0.95
+    },
+    {
+      "name": "ППЦБ",
+      "threshold": 0.95
+    },
+    {
+      "name": "ППЦХ",
+      "threshold": 0.95
+    },
+    {
+      "name": "КП АЦ",
+      "threshold": 0.95
+    },
+    {
+      "name": "КП ПП",
+      "threshold": 0.95
+    }
+  ],
+  "models": {
+    "9668": {
+      "id": "9668",
+      "names": [
+        {
+          "name": "9668",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10681"
+    },
+    "966810": {
+      "id": "966810",
+      "names": [
+        {
+          "name": "966810",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10682"
+    },
+    "PPC96781": {
+      "id": "PPC96781",
+      "names": [
+        {
+          "name": "PPC 96781",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18861"
+    }
+  }
+}

@@ -1,1 +1,25 @@
-{"id": "NORTHBENZ", "names": [{"name": "NORTH BENZ", "threshold": 0.85}, {"name": "НОРТХ БЕНЗ", "threshold": 0.85}], "models": {"BFC6123C": {"id": "BFC6123C", "names": [{"name": "BFC6123C", "threshold": 1}]}}}
+{
+  "id": "NORTHBENZ",
+  "names": [
+    {
+      "name": "NORTH BENZ",
+      "threshold": 0.85
+    },
+    {
+      "name": "НОРТХ БЕНЗ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "BFC6123C": {
+      "id": "BFC6123C",
+      "names": [
+        {
+          "name": "BFC6123C",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "4877"
+    }
+  }
+}

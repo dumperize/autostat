@@ -1,24 +1,25 @@
 {
-    "id": "ALLOY",
-    "names": [
-        {
-            "name": "ALLOY",
-            "threshold": 0.85
-        },
-        {
-            "name": "АЛЛОЫ",
-            "threshold": 0.85
-        }
-    ],
-    "models": {
-        "ATVT533": {
-            "id": "ATVT",
-            "names": [
-                {
-                    "name": "ATVT",
-                    "threshold": 0.97
-                }
-            ]
-        }
+  "id": "ALLOY",
+  "names": [
+    {
+      "name": "ALLOY",
+      "threshold": 0.85
+    },
+    {
+      "name": "АЛЛОЙ",
+      "threshold": 0.85
     }
+  ],
+  "models": {
+    "ATVT533": {
+      "id": "ATVT",
+      "names": [
+        {
+          "name": "ATVT",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "15342"
+    }
+  }
 }

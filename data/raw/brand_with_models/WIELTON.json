@@ -1,1 +1,203 @@
-{"id": "WIELTON", "names": [{"name": "WIELTON", "threshold": 0.85}, {"name": "WИЕЛТОН", "threshold": 0.85}], "models": {"NJ4": {"id": "NJ4", "names": [{"name": "NJ4", "threshold": 1}]}, "NS3": {"id": "NS3", "names": [{"name": "NS3", "threshold": 1}]}, "NS34": {"id": "NS34", "names": [{"name": "NS34", "threshold": 1}]}, "NS34KT": {"id": "NS34KT", "names": [{"name": "NS34KT", "threshold": 1}]}, "NS34PT": {"id": "NS34PT", "names": [{"name": "NS34PT", "threshold": 1}]}, "NS34SB": {"id": "NS34SB", "names": [{"name": "NS34SB", "threshold": 1}]}, "NS34ST": {"id": "NS34ST", "names": [{"name": "NS34ST", "threshold": 1}]}, "NS34STM": {"id": "NS34STM", "names": [{"name": "NS34STM", "threshold": 1}]}, "NW": {"id": "NW", "names": [{"name": "NW", "threshold": 1}, {"name": "НW", "threshold": 1}]}, "NW24SB": {"id": "NW24SB", "names": [{"name": "NW24SB", "threshold": 1}]}, "NW3": {"id": "NW3", "names": [{"name": "NW3", "threshold": 1}]}, "NW33ST": {"id": "NW33ST", "names": [{"name": "NW33ST", "threshold": 1}]}, "NW38AT": {"id": "NW38AT", "names": [{"name": "NW38AT", "threshold": 1}]}, "NW38SB": {"id": "NW38SB", "names": [{"name": "NW38SB", "threshold": 1}]}, "PC": {"id": "PC", "names": [{"name": "PC", "threshold": 1}, {"name": "ПЦ", "threshold": 1}]}, "PC16": {"id": "PC16", "names": [{"name": "PC16", "threshold": 1}]}, "PS16SB": {"id": "PS16SB", "names": [{"name": "PS16SB", "threshold": 1}]}, "PS3W": {"id": "PS3W", "names": [{"name": "PS3W", "threshold": 1}]}}}
+{
+  "id": "WIELTON",
+  "names": [
+    {
+      "name": "WIELTON",
+      "threshold": 0.85
+    },
+    {
+      "name": "WИЕЛТОН",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "NJ4": {
+      "id": "NJ4",
+      "names": [
+        {
+          "name": "NJ4",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15796"
+    },
+    "NS3": {
+      "id": "NS3",
+      "names": [
+        {
+          "name": "NS3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "13869"
+    },
+    "NS34": {
+      "id": "NS34",
+      "names": [
+        {
+          "name": "NS34",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3112"
+    },
+    "NS34KT": {
+      "id": "NS34KT",
+      "names": [
+        {
+          "name": "NS34KT",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3113"
+    },
+    "NS34PT": {
+      "id": "NS34PT",
+      "names": [
+        {
+          "name": "NS34PT",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3114"
+    },
+    "NS34SB": {
+      "id": "NS34SB",
+      "names": [
+        {
+          "name": "NS34SB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3115"
+    },
+    "NS34ST": {
+      "id": "NS34ST",
+      "names": [
+        {
+          "name": "NS34ST",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3116"
+    },
+    "NS34STM": {
+      "id": "NS34STM",
+      "names": [
+        {
+          "name": "NS34STM",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3117"
+    },
+    "NW": {
+      "id": "NW",
+      "names": [
+        {
+          "name": "NW",
+          "threshold": 1
+        },
+        {
+          "name": "НW",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3118"
+    },
+    "NW24SB": {
+      "id": "NW24SB",
+      "names": [
+        {
+          "name": "NW24SB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3119"
+    },
+    "NW3": {
+      "id": "NW3",
+      "names": [
+        {
+          "name": "NW3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15797"
+    },
+    "NW33ST": {
+      "id": "NW33ST",
+      "names": [
+        {
+          "name": "NW33ST",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3120"
+    },
+    "NW38AT": {
+      "id": "NW38AT",
+      "names": [
+        {
+          "name": "NW38AT",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3121"
+    },
+    "NW38SB": {
+      "id": "NW38SB",
+      "names": [
+        {
+          "name": "NW38SB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3122"
+    },
+    "PC": {
+      "id": "PC",
+      "names": [
+        {
+          "name": "PC",
+          "threshold": 1
+        },
+        {
+          "name": "ПЦ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3125"
+    },
+    "PC16": {
+      "id": "PC16",
+      "names": [
+        {
+          "name": "PC16",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3126"
+    },
+    "PS16SB": {
+      "id": "PS16SB",
+      "names": [
+        {
+          "name": "PS16SB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3128"
+    },
+    "PS3W": {
+      "id": "PS3W",
+      "names": [
+        {
+          "name": "PS3W",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15798"
+    }
+  }
+}

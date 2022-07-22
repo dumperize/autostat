@@ -1,1 +1,57 @@
-{"id": "VORTEX", "names": [{"name": "VORTEX", "threshold": 0.85}, {"name": "ВОРТЕX", "threshold": 0.85}], "models": {"CORDA": {"id": "CORDA", "names": [{"name": "CORDA", "threshold": 0.85}, {"name": "ЦОРДА", "threshold": 0.85}]}, "ESTINA": {"id": "ESTINA", "names": [{"name": "ESTINA", "threshold": 0.85}, {"name": "ЕСТИНА", "threshold": 0.85}]}, "TINGO": {"id": "TINGO", "names": [{"name": "TINGO", "threshold": 0.85}, {"name": "ТИНГО", "threshold": 0.85}]}}}
+{
+  "id": "VORTEX",
+  "names": [
+    {
+      "name": "VORTEX",
+      "threshold": 0.85
+    },
+    {
+      "name": "ВОРТЕX",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "CORDA": {
+      "id": "CORDA",
+      "names": [
+        {
+          "name": "CORDA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦОРДА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "523"
+    },
+    "ESTINA": {
+      "id": "ESTINA",
+      "names": [
+        {
+          "name": "ESTINA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЕСТИНА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "524"
+    },
+    "TINGO": {
+      "id": "TINGO",
+      "names": [
+        {
+          "name": "TINGO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ТИНГО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "526"
+    }
+  }
+}

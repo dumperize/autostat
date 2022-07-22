@@ -1,246 +1,265 @@
 {
-    "id": "GEELY",
-    "names": [
-        {
-            "name": "GEELY",
-            "threshold": 0.85
-        },
-        {
-            "name": "ГЕЕЛЫ",
-            "threshold": 0.85
-        }
-    ],
-    "models": {
-        "ATLAS": {
-            "id": "ATLAS",
-            "names": [
-                {
-                    "name": "ATLAS",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "АТЛАС",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "ATLASPRO": {
-            "id": "ATLASPRO",
-            "names": [
-                {
-                    "name": "ATLAS PRO",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "АТЛАС ПРО",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "CK(OTAKA)": {
-            "id": "CK(OTAKA)",
-            "names": [
-                {
-                    "name": "CK (OTAKA)",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "OTAKA",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "COOLRAY": {
-            "id": "COOLRAY",
-            "names": [
-                {
-                    "name": "COOLRAY",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "КУЛРЕЙ",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "EMGRAND": {
-            "id": "EMGRAND",
-            "names": [
-                {
-                    "name": "EMGRAND",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ЕМГРАНД",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "EMGRAND7": {
-            "id": "EMGRAND7",
-            "names": [
-                {
-                    "name": "EMGRAND 7",
-                    "threshold": 1
-                }
-            ]
-        },
-        "EMGRANDEC7": {
-            "id": "EMGRANDEC7",
-            "names": [
-                {
-                    "name": "EMGRAND EC7",
-                    "threshold": 1
-                }
-            ]
-        },
-        "EMGRANDGT": {
-            "id": "EMGRANDGT",
-            "names": [
-                {
-                    "name": "EMGRAND GT",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ЕМГРАНД ГТ",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "EMGRANDX7": {
-            "id": "EMGRANDX7",
-            "names": [
-                {
-                    "name": "EMGRAND X7",
-                    "threshold": 1
-                }
-            ]
-        },
-        "FC(VISION)": {
-            "id": "FC(VISION)",
-            "names": [
-                {
-                    "name": "FC (VISION)",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "VISION",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ФЦ (ВИЖН)",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ВИЖН",
-                    "threshold": 0.87
-                }
-            ]
-        },
-        "GC6": {
-            "id": "GC6",
-            "names": [
-                {
-                    "name": "GC6",
-                    "threshold": 1
-                }
-            ]
-        },
-        "GC7": {
-            "id": "GC7",
-            "names": [
-                {
-                    "name": "GC7",
-                    "threshold": 1
-                }
-            ]
-        },
-        "GS": {
-            "id": "GS",
-            "names": [
-                {
-                    "name": "GS",
-                    "threshold": 1
-                },
-                {
-                    "name": "ГС",
-                    "threshold": 1
-                }
-            ]
-        },
-        "LC": {
-            "id": "LC",
-            "names": [
-                {
-                    "name": "LC",
-                    "threshold": 1
-                },
-                {
-                    "name": "ЛЦ",
-                    "threshold": 1
-                }
-            ]
-        },
-        "MAPLE": {
-            "id": "MAPLE",
-            "names": [
-                {
-                    "name": "MAPLE",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "МАПЛ",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "MK": {
-            "id": "MK",
-            "names": [
-                {
-                    "name": "MK",
-                    "threshold": 1
-                },
-                {
-                    "name": "МК",
-                    "threshold": 1
-                }
-            ]
-        },
-        "MKCROSS": {
-            "id": "MKCROSS",
-            "names": [
-                {
-                    "name": "MK CROSS",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "МК КРОСС",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "SC7": {
-            "id": "SC7",
-            "names": [
-                {
-                    "name": "SC7",
-                    "threshold": 1
-                }
-            ]
-        },
-        "TUGELLA": {
-            "id": "TUGELLA",
-            "names": [
-                {
-                    "name": "TUGELLA",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ТУГЕЛЛА",
-                    "threshold": 0.85
-                }
-            ]
-        }
+  "id": "GEELY",
+  "names": [
+    {
+      "name": "GEELY",
+      "threshold": 0.85
+    },
+    {
+      "name": "ДЖИЛИ",
+      "threshold": 0.85
     }
+  ],
+  "models": {
+    "ATLAS": {
+      "id": "ATLAS",
+      "names": [
+        {
+          "name": "ATLAS",
+          "threshold": 0.85
+        },
+        {
+          "name": "АТЛАС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "15611"
+    },
+    "ATLASPRO": {
+      "id": "ATLASPRO",
+      "names": [
+        {
+          "name": "ATLAS PRO",
+          "threshold": 0.85
+        },
+        {
+          "name": "АТЛАС ПРО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "19137"
+    },
+    "CK(OTAKA)": {
+      "id": "CK(OTAKA)",
+      "names": [
+        {
+          "name": "CK (OTAKA)",
+          "threshold": 0.85
+        },
+        {
+          "name": "OTAKA",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "962"
+    },
+    "COOLRAY": {
+      "id": "COOLRAY",
+      "names": [
+        {
+          "name": "COOLRAY",
+          "threshold": 0.85
+        },
+        {
+          "name": "КУЛРЕЙ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17434"
+    },
+    "EMGRAND": {
+      "id": "EMGRAND",
+      "names": [
+        {
+          "name": "EMGRAND",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЕМГРАНД",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "963"
+    },
+    "EMGRAND7": {
+      "id": "EMGRAND7",
+      "names": [
+        {
+          "name": "EMGRAND 7",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18644"
+    },
+    "EMGRANDEC7": {
+      "id": "EMGRANDEC7",
+      "names": [
+        {
+          "name": "EMGRAND EC7",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18645"
+    },
+    "EMGRANDGT": {
+      "id": "EMGRANDGT",
+      "names": [
+        {
+          "name": "EMGRAND GT",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЕМГРАНД ГТ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "18589"
+    },
+    "EMGRANDX7": {
+      "id": "EMGRANDX7",
+      "names": [
+        {
+          "name": "EMGRAND X7",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "6287"
+    },
+    "FC(VISION)": {
+      "id": "FC(VISION)",
+      "names": [
+        {
+          "name": "FC (VISION)",
+          "threshold": 0.85
+        },
+        {
+          "name": "VISION",
+          "threshold": 0.85
+        },
+        {
+          "name": "ФЦ (ВИЖН)",
+          "threshold": 0.85
+        },
+        {
+          "name": "ВИЖН",
+          "threshold": 0.87
+        }
+      ],
+      "sql_id": "964"
+    },
+    "GC6": {
+      "id": "GC6",
+      "names": [
+        {
+          "name": "GC6",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8713"
+    },
+    "GC7": {
+      "id": "GC7",
+      "names": [
+        {
+          "name": "GC7",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14962"
+    },
+    "GS": {
+      "id": "GS",
+      "names": [
+        {
+          "name": "GS",
+          "threshold": 1
+        },
+        {
+          "name": "ГС",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17278"
+    },
+    "LC": {
+      "id": "LC",
+      "names": [
+        {
+          "name": "LC",
+          "threshold": 1
+        },
+        {
+          "name": "ЛЦ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "6406"
+    },
+    "MAPLE": {
+      "id": "MAPLE",
+      "names": [
+        {
+          "name": "MAPLE",
+          "threshold": 0.85
+        },
+        {
+          "name": "МАПЛ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "6407"
+    },
+    "MK": {
+      "id": "MK",
+      "names": [
+        {
+          "name": "MK",
+          "threshold": 1
+        },
+        {
+          "name": "МК",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "965"
+    },
+    "MKCROSS": {
+      "id": "MKCROSS",
+      "names": [
+        {
+          "name": "MK CROSS",
+          "threshold": 0.85
+        },
+        {
+          "name": "МК КРОСС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "16108"
+    },
+    "SC7": {
+      "id": "SC7",
+      "names": [
+        {
+          "name": "SC7",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10851"
+    },
+    "TUGELLA": {
+      "id": "TUGELLA",
+      "names": [
+        {
+          "name": "TUGELLA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ТУГЕЛЛА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "18592"
+    }
+  }
 }

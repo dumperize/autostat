@@ -1,1 +1,95 @@
-{"id": "DACIA", "names": [{"name": "DACIA", "threshold": 0.85}, {"name": "ДАЦИА", "threshold": 0.85}], "models": {"1300": {"id": "1300", "names": [{"name": "1300", "threshold": 1}]}, "DUSTER": {"id": "DUSTER", "names": [{"name": "DUSTER", "threshold": 0.85}, {"name": "ДУСТЕР", "threshold": 0.85}]}, "LOGAN": {"id": "LOGAN", "names": [{"name": "LOGAN", "threshold": 0.85}, {"name": "ЛОГАН", "threshold": 0.85}]}, "NOVA": {"id": "NOVA", "names": [{"name": "NOVA", "threshold": 0.93}, {"name": "НОВА", "threshold": 0.93}]}, "SANDERO": {"id": "SANDERO", "names": [{"name": "SANDERO", "threshold": 0.85}, {"name": "САНДЕРО", "threshold": 0.85}]}, "SOLENZA": {"id": "SOLENZA", "names": [{"name": "SOLENZA", "threshold": 0.85}, {"name": "СОЛЕНЗА", "threshold": 0.85}]}}}
+{
+  "id": "DACIA",
+  "names": [
+    {
+      "name": "DACIA",
+      "threshold": 0.85
+    },
+    {
+      "name": "ДАЦИА",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "1300": {
+      "id": "1300",
+      "names": [
+        {
+          "name": "1300",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "740"
+    },
+    "DUSTER": {
+      "id": "DUSTER",
+      "names": [
+        {
+          "name": "DUSTER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДУСТЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "743"
+    },
+    "LOGAN": {
+      "id": "LOGAN",
+      "names": [
+        {
+          "name": "LOGAN",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЛОГАН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "744"
+    },
+    "NOVA": {
+      "id": "NOVA",
+      "names": [
+        {
+          "name": "NOVA",
+          "threshold": 0.93
+        },
+        {
+          "name": "НОВА",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "6369"
+    },
+    "SANDERO": {
+      "id": "SANDERO",
+      "names": [
+        {
+          "name": "SANDERO",
+          "threshold": 0.85
+        },
+        {
+          "name": "САНДЕРО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "6370"
+    },
+    "SOLENZA": {
+      "id": "SOLENZA",
+      "names": [
+        {
+          "name": "SOLENZA",
+          "threshold": 0.85
+        },
+        {
+          "name": "СОЛЕНЗА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "6371"
+    }
+  }
+}

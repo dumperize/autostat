@@ -1,1 +1,14 @@
-{"id": "ASHOKLEYLAND", "names": [{"name": "ASHOK LEYLAND", "threshold": 0.85}, {"name": "АСХОК ЛЕЫЛАНД", "threshold": 0.85}], "models": {"OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}}}
+{
+  "id": "ASHOKLEYLAND",
+  "names": [
+    {
+      "name": "ASHOK LEYLAND",
+      "threshold": 0.85
+    },
+    {
+      "name": "АСШОК ЛЕйЛАНД",
+      "threshold": 0.85
+    }
+  ],
+  "models": {}
+}

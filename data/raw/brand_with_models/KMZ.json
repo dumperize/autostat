@@ -1,1 +1,223 @@
-{"id": "KMZ", "names": [{"name": "KMZ", "threshold": 0.97}, {"name": "КМЗ", "threshold": 0.97}], "models": {"719400": {"id": "719400", "names": [{"name": "719400", "threshold": 1}]}, "7194B0": {"id": "7194B0", "names": [{"name": "7194B0", "threshold": 1}]}, "7194B1": {"id": "7194B1", "names": [{"name": "7194B1", "threshold": 1}]}, "7194C1": {"id": "7194C1", "names": [{"name": "7194C1", "threshold": 1}]}, "7194C2": {"id": "7194C2", "names": [{"name": "7194C2", "threshold": 1}]}, "7194F2": {"id": "7194F2", "names": [{"name": "7194F2", "threshold": 1}]}, "7194F5": {"id": "7194F5", "names": [{"name": "7194F5", "threshold": 1}]}, "8129": {"id": "8129", "names": [{"name": "8129", "threshold": 1}]}, "8136": {"id": "8136", "names": [{"name": "8136", "threshold": 1}]}, "8268": {"id": "8268", "names": [{"name": "8268", "threshold": 1}]}, "8284": {"id": "8284", "names": [{"name": "8284", "threshold": 1}]}, "828420": {"id": "828420", "names": [{"name": "828420", "threshold": 1}]}, "828421": {"id": "828421", "names": [{"name": "828421", "threshold": 1}]}, "828430": {"id": "828430", "names": [{"name": "828430", "threshold": 1}]}, "828431": {"id": "828431", "names": [{"name": "828431", "threshold": 1}]}, "828441": {"id": "828441", "names": [{"name": "828441", "threshold": 1}]}, "828451": {"id": "828451", "names": [{"name": "828451", "threshold": 1}]}, "8377": {"id": "8377", "names": [{"name": "8377", "threshold": 1}]}, "POLOPRAKTIK": {"id": "POLOPRAKTIK", "names": [{"name": "POLO PRAKTIK", "threshold": 0.85}, {"name": "ПОЛО ПРАКТИК", "threshold": 0.85}]}, "POLOPROFI": {"id": "POLOPROFI", "names": [{"name": "POLO PROFI", "threshold": 0.85}, {"name": "ПОЛО ПРОФИ", "threshold": 0.85}]}}}
+{
+  "id": "KMZ",
+  "names": [
+    {
+      "name": "KMZ",
+      "threshold": 0.97
+    },
+    {
+      "name": "КМЗ",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "719400": {
+      "id": "719400",
+      "names": [
+        {
+          "name": "719400",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16038"
+    },
+    "7194B0": {
+      "id": "7194B0",
+      "names": [
+        {
+          "name": "7194B0",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16033"
+    },
+    "7194B1": {
+      "id": "7194B1",
+      "names": [
+        {
+          "name": "7194B1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16034"
+    },
+    "7194C1": {
+      "id": "7194C1",
+      "names": [
+        {
+          "name": "7194C1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16035"
+    },
+    "7194C2": {
+      "id": "7194C2",
+      "names": [
+        {
+          "name": "7194C2",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16036"
+    },
+    "7194F2": {
+      "id": "7194F2",
+      "names": [
+        {
+          "name": "7194F2",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16039"
+    },
+    "7194F5": {
+      "id": "7194F5",
+      "names": [
+        {
+          "name": "7194F5",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16040"
+    },
+    "8129": {
+      "id": "8129",
+      "names": [
+        {
+          "name": "8129",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3064"
+    },
+    "8136": {
+      "id": "8136",
+      "names": [
+        {
+          "name": "8136",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3065"
+    },
+    "8268": {
+      "id": "8268",
+      "names": [
+        {
+          "name": "8268",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3068"
+    },
+    "8284": {
+      "id": "8284",
+      "names": [
+        {
+          "name": "8284",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3069"
+    },
+    "828420": {
+      "id": "828420",
+      "names": [
+        {
+          "name": "828420",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14917"
+    },
+    "828421": {
+      "id": "828421",
+      "names": [
+        {
+          "name": "828421",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14918"
+    },
+    "828430": {
+      "id": "828430",
+      "names": [
+        {
+          "name": "828430",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14919"
+    },
+    "828431": {
+      "id": "828431",
+      "names": [
+        {
+          "name": "828431",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14920"
+    },
+    "828441": {
+      "id": "828441",
+      "names": [
+        {
+          "name": "828441",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14921"
+    },
+    "828451": {
+      "id": "828451",
+      "names": [
+        {
+          "name": "828451",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14922"
+    },
+    "8377": {
+      "id": "8377",
+      "names": [
+        {
+          "name": "8377",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3070"
+    },
+    "POLOPRAKTIK": {
+      "id": "POLOPRAKTIK",
+      "names": [
+        {
+          "name": "POLO PRAKTIK",
+          "threshold": 0.85
+        },
+        {
+          "name": "ПОЛО ПРАКТИК",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "12635"
+    },
+    "POLOPROFI": {
+      "id": "POLOPROFI",
+      "names": [
+        {
+          "name": "POLO PROFI",
+          "threshold": 0.85
+        },
+        {
+          "name": "ПОЛО ПРОФИ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "12636"
+    }
+  }
+}

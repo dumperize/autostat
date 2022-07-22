@@ -1,1 +1,635 @@
-{"id": "KOEGEL", "names": [{"name": "KOEGEL", "threshold": 0.85}, {"name": "КОЕГЕЛ", "threshold": 0.85}], "models": {"AN18": {"id": "AN18", "names": [{"name": "AN18", "threshold": 1}]}, "AN24": {"id": "AN24", "names": [{"name": "AN24", "threshold": 1}]}, "ANBS18": {"id": "ANBS18", "names": [{"name": "ANBS18", "threshold": 1}]}, "ANCO18": {"id": "ANCO18", "names": [{"name": "ANCO18", "threshold": 1}]}, "AVKA18": {"id": "AVKA18", "names": [{"name": "AVKA18", "threshold": 1}]}, "AVKA24": {"id": "AVKA24", "names": [{"name": "AVKA24", "threshold": 1}]}, "AVKF18": {"id": "AVKF18", "names": [{"name": "AVKF18", "threshold": 1}]}, "AVKF24": {"id": "AVKF24", "names": [{"name": "AVKF24", "threshold": 1}]}, "AVKT18": {"id": "AVKT18", "names": [{"name": "AVKT18", "threshold": 1}]}, "AW18": {"id": "AW18", "names": [{"name": "AW18", "threshold": 1}]}, "AWE18": {"id": "AWE18", "names": [{"name": "AWE18", "threshold": 1}]}, "GN20": {"id": "GN20", "names": [{"name": "GN20", "threshold": 1}]}, "GN24": {"id": "GN24", "names": [{"name": "GN24", "threshold": 1}]}, "JN18": {"id": "JN18", "names": [{"name": "JN18", "threshold": 1}]}, "JN24": {"id": "JN24", "names": [{"name": "JN24", "threshold": 1}]}, "JWE18": {"id": "JWE18", "names": [{"name": "JWE18", "threshold": 1}]}, "S24": {"id": "S24", "names": [{"name": "S24", "threshold": 1}]}, "S241": {"id": "S241", "names": [{"name": "S24 1", "threshold": 1}]}, "S242": {"id": "S242", "names": [{"name": "S24 2", "threshold": 1}]}, "S243": {"id": "S243", "names": [{"name": "S24 3", "threshold": 1}]}, "S244": {"id": "S244", "names": [{"name": "S24 4", "threshold": 1}]}, "S26": {"id": "S26", "names": [{"name": "S26", "threshold": 1}]}, "SF24": {"id": "SF24", "names": [{"name": "SF24", "threshold": 1}]}, "SF27": {"id": "SF27", "names": [{"name": "SF27", "threshold": 1}]}, "SFCM27": {"id": "SFCM27", "names": [{"name": "SFCM27", "threshold": 1}]}, "SFHB24": {"id": "SFHB24", "names": [{"name": "SFHB24", "threshold": 1}]}, "SFHB27": {"id": "SFHB27", "names": [{"name": "SFHB27", "threshold": 1}]}, "SFSB24": {"id": "SFSB24", "names": [{"name": "SFSB24", "threshold": 1}]}, "SKHK24": {"id": "SKHK24", "names": [{"name": "SKHK24", "threshold": 1}]}, "SKHL24": {"id": "SKHL24", "names": [{"name": "SKHL24", "threshold": 1}]}, "SKHS18": {"id": "SKHS18", "names": [{"name": "SKHS18", "threshold": 1}]}, "SKHS24": {"id": "SKHS24", "names": [{"name": "SKHS24", "threshold": 1}]}, "SKMP18": {"id": "SKMP18", "names": [{"name": "SKMP18", "threshold": 1}]}, "SKMP24": {"id": "SKMP24", "names": [{"name": "SKMP24", "threshold": 1}]}, "SKMS18": {"id": "SKMS18", "names": [{"name": "SKMS18", "threshold": 1}]}, "SN18": {"id": "SN18", "names": [{"name": "SN18", "threshold": 1}]}, "SN24": {"id": "SN24", "names": [{"name": "SN24", "threshold": 1}]}, "SN27": {"id": "SN27", "names": [{"name": "SN27", "threshold": 1}]}, "SNBS24": {"id": "SNBS24", "names": [{"name": "SNBS24", "threshold": 1}]}, "SNC18": {"id": "SNC18", "names": [{"name": "SNC18", "threshold": 1}]}, "SNC24": {"id": "SNC24", "names": [{"name": "SNC24", "threshold": 1}]}, "SNC27": {"id": "SNC27", "names": [{"name": "SNC27", "threshold": 1}]}, "SNCC24": {"id": "SNCC24", "names": [{"name": "SNCC24", "threshold": 1}]}, "SNCM24": {"id": "SNCM24", "names": [{"name": "SNCM24", "threshold": 1}]}, "SNCO24": {"id": "SNCO24", "names": [{"name": "SNCO24", "threshold": 1}]}, "SP24": {"id": "SP24", "names": [{"name": "SP24", "threshold": 1}]}, "SPKH18": {"id": "SPKH18", "names": [{"name": "SPKH18", "threshold": 1}]}, "SPKH24": {"id": "SPKH24", "names": [{"name": "SPKH24", "threshold": 1}]}, "SV24": {"id": "SV24", "names": [{"name": "SV24", "threshold": 1}]}, "SVKA24": {"id": "SVKA24", "names": [{"name": "SVKA24", "threshold": 1}]}, "SVKA27": {"id": "SVKA27", "names": [{"name": "SVKA27", "threshold": 1}]}, "SVKT24": {"id": "SVKT24", "names": [{"name": "SVKT24", "threshold": 1}]}, "SVKT27": {"id": "SVKT27", "names": [{"name": "SVKT27", "threshold": 1}]}, "SW24": {"id": "SW24", "names": [{"name": "SW24", "threshold": 1}]}, "SWCT24": {"id": "SWCT24", "names": [{"name": "SWCT24", "threshold": 1}]}, "YF18": {"id": "YF18", "names": [{"name": "YF18", "threshold": 1}]}, "YFHB18": {"id": "YFHB18", "names": [{"name": "YFHB18", "threshold": 1}]}, "YN18": {"id": "YN18", "names": [{"name": "YN18", "threshold": 1}]}, "YNC18": {"id": "YNC18", "names": [{"name": "YNC18", "threshold": 1}]}, "YWE18": {"id": "YWE18", "names": [{"name": "YWE18", "threshold": 1}]}, "ZVKA18": {"id": "ZVKA18", "names": [{"name": "ZVKA18", "threshold": 1}]}, "ZVKT18": {"id": "ZVKT18", "names": [{"name": "ZVKT18", "threshold": 1}]}}}
+{
+  "id": "KOEGEL",
+  "names": [
+    {
+      "name": "KOEGEL",
+      "threshold": 0.85
+    },
+    {
+      "name": "КОЕГЕЛ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "AN18": {
+      "id": "AN18",
+      "names": [
+        {
+          "name": "AN18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2939"
+    },
+    "AN24": {
+      "id": "AN24",
+      "names": [
+        {
+          "name": "AN24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2940"
+    },
+    "ANBS18": {
+      "id": "ANBS18",
+      "names": [
+        {
+          "name": "ANBS18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10807"
+    },
+    "ANCO18": {
+      "id": "ANCO18",
+      "names": [
+        {
+          "name": "ANCO18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10808"
+    },
+    "AVKA18": {
+      "id": "AVKA18",
+      "names": [
+        {
+          "name": "AVKA18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2941"
+    },
+    "AVKA24": {
+      "id": "AVKA24",
+      "names": [
+        {
+          "name": "AVKA24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2942"
+    },
+    "AVKF18": {
+      "id": "AVKF18",
+      "names": [
+        {
+          "name": "AVKF18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2943"
+    },
+    "AVKF24": {
+      "id": "AVKF24",
+      "names": [
+        {
+          "name": "AVKF24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2944"
+    },
+    "AVKT18": {
+      "id": "AVKT18",
+      "names": [
+        {
+          "name": "AVKT18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2945"
+    },
+    "AW18": {
+      "id": "AW18",
+      "names": [
+        {
+          "name": "AW18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2946"
+    },
+    "AWE18": {
+      "id": "AWE18",
+      "names": [
+        {
+          "name": "AWE18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2947"
+    },
+    "GN20": {
+      "id": "GN20",
+      "names": [
+        {
+          "name": "GN20",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2948"
+    },
+    "GN24": {
+      "id": "GN24",
+      "names": [
+        {
+          "name": "GN24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2949"
+    },
+    "JN18": {
+      "id": "JN18",
+      "names": [
+        {
+          "name": "JN18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2951"
+    },
+    "JN24": {
+      "id": "JN24",
+      "names": [
+        {
+          "name": "JN24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2952"
+    },
+    "JWE18": {
+      "id": "JWE18",
+      "names": [
+        {
+          "name": "JWE18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2955"
+    },
+    "S24": {
+      "id": "S24",
+      "names": [
+        {
+          "name": "S24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2957"
+    },
+    "S241": {
+      "id": "S241",
+      "names": [
+        {
+          "name": "S24 1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15948"
+    },
+    "S242": {
+      "id": "S242",
+      "names": [
+        {
+          "name": "S24 2",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15949"
+    },
+    "S243": {
+      "id": "S243",
+      "names": [
+        {
+          "name": "S24 3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15950"
+    },
+    "S244": {
+      "id": "S244",
+      "names": [
+        {
+          "name": "S24 4",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15951"
+    },
+    "S26": {
+      "id": "S26",
+      "names": [
+        {
+          "name": "S26",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2958"
+    },
+    "SF24": {
+      "id": "SF24",
+      "names": [
+        {
+          "name": "SF24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2959"
+    },
+    "SF27": {
+      "id": "SF27",
+      "names": [
+        {
+          "name": "SF27",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2960"
+    },
+    "SFCM27": {
+      "id": "SFCM27",
+      "names": [
+        {
+          "name": "SFCM27",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10809"
+    },
+    "SFHB24": {
+      "id": "SFHB24",
+      "names": [
+        {
+          "name": "SFHB24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2961"
+    },
+    "SFHB27": {
+      "id": "SFHB27",
+      "names": [
+        {
+          "name": "SFHB27",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2962"
+    },
+    "SFSB24": {
+      "id": "SFSB24",
+      "names": [
+        {
+          "name": "SFSB24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10810"
+    },
+    "SKHK24": {
+      "id": "SKHK24",
+      "names": [
+        {
+          "name": "SKHK24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2963"
+    },
+    "SKHL24": {
+      "id": "SKHL24",
+      "names": [
+        {
+          "name": "SKHL24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2964"
+    },
+    "SKHS18": {
+      "id": "SKHS18",
+      "names": [
+        {
+          "name": "SKHS18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2965"
+    },
+    "SKHS24": {
+      "id": "SKHS24",
+      "names": [
+        {
+          "name": "SKHS24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2966"
+    },
+    "SKMP18": {
+      "id": "SKMP18",
+      "names": [
+        {
+          "name": "SKMP18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2967"
+    },
+    "SKMP24": {
+      "id": "SKMP24",
+      "names": [
+        {
+          "name": "SKMP24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2968"
+    },
+    "SKMS18": {
+      "id": "SKMS18",
+      "names": [
+        {
+          "name": "SKMS18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2969"
+    },
+    "SN18": {
+      "id": "SN18",
+      "names": [
+        {
+          "name": "SN18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2970"
+    },
+    "SN24": {
+      "id": "SN24",
+      "names": [
+        {
+          "name": "SN24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2971"
+    },
+    "SN27": {
+      "id": "SN27",
+      "names": [
+        {
+          "name": "SN27",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2972"
+    },
+    "SNBS24": {
+      "id": "SNBS24",
+      "names": [
+        {
+          "name": "SNBS24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10811"
+    },
+    "SNC18": {
+      "id": "SNC18",
+      "names": [
+        {
+          "name": "SNC18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2973"
+    },
+    "SNC24": {
+      "id": "SNC24",
+      "names": [
+        {
+          "name": "SNC24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2974"
+    },
+    "SNC27": {
+      "id": "SNC27",
+      "names": [
+        {
+          "name": "SNC27",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2975"
+    },
+    "SNCC24": {
+      "id": "SNCC24",
+      "names": [
+        {
+          "name": "SNCC24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2976"
+    },
+    "SNCM24": {
+      "id": "SNCM24",
+      "names": [
+        {
+          "name": "SNCM24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2977"
+    },
+    "SNCO24": {
+      "id": "SNCO24",
+      "names": [
+        {
+          "name": "SNCO24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15952"
+    },
+    "SP24": {
+      "id": "SP24",
+      "names": [
+        {
+          "name": "SP24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15953"
+    },
+    "SPKH18": {
+      "id": "SPKH18",
+      "names": [
+        {
+          "name": "SPKH18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2978"
+    },
+    "SPKH24": {
+      "id": "SPKH24",
+      "names": [
+        {
+          "name": "SPKH24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2979"
+    },
+    "SV24": {
+      "id": "SV24",
+      "names": [
+        {
+          "name": "SV24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15954"
+    },
+    "SVKA24": {
+      "id": "SVKA24",
+      "names": [
+        {
+          "name": "SVKA24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2980"
+    },
+    "SVKA27": {
+      "id": "SVKA27",
+      "names": [
+        {
+          "name": "SVKA27",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2981"
+    },
+    "SVKT24": {
+      "id": "SVKT24",
+      "names": [
+        {
+          "name": "SVKT24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2982"
+    },
+    "SVKT27": {
+      "id": "SVKT27",
+      "names": [
+        {
+          "name": "SVKT27",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2983"
+    },
+    "SW24": {
+      "id": "SW24",
+      "names": [
+        {
+          "name": "SW24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2984"
+    },
+    "SWCT24": {
+      "id": "SWCT24",
+      "names": [
+        {
+          "name": "SWCT24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2985"
+    },
+    "YF18": {
+      "id": "YF18",
+      "names": [
+        {
+          "name": "YF18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2986"
+    },
+    "YFHB18": {
+      "id": "YFHB18",
+      "names": [
+        {
+          "name": "YFHB18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2987"
+    },
+    "YN18": {
+      "id": "YN18",
+      "names": [
+        {
+          "name": "YN18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2988"
+    },
+    "YNC18": {
+      "id": "YNC18",
+      "names": [
+        {
+          "name": "YNC18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2989"
+    },
+    "YWE18": {
+      "id": "YWE18",
+      "names": [
+        {
+          "name": "YWE18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2990"
+    },
+    "ZVKA18": {
+      "id": "ZVKA18",
+      "names": [
+        {
+          "name": "ZVKA18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2991"
+    },
+    "ZVKT18": {
+      "id": "ZVKT18",
+      "names": [
+        {
+          "name": "ZVKT18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2992"
+    }
+  }
+}

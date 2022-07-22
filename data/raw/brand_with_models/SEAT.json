@@ -1,1 +1,225 @@
-{"id": "SEAT", "names": [{"name": "SEAT", "threshold": 0.93}, {"name": "СЕАТ", "threshold": 0.93}], "models": {"ALHAMBRA": {"id": "ALHAMBRA", "names": [{"name": "ALHAMBRA", "threshold": 0.85}, {"name": "АЛХАМБРА", "threshold": 0.85}]}, "ALTEA": {"id": "ALTEA", "names": [{"name": "ALTEA", "threshold": 0.85}, {"name": "АЛТЕА", "threshold": 0.85}]}, "ALTEAFREETRACK": {"id": "ALTEAFREETRACK", "names": [{"name": "ALTEA FREETRACK", "threshold": 0.85}, {"name": "АЛТЕА ФРЕЕТРАЦК", "threshold": 0.85}]}, "ALTEAXL": {"id": "ALTEAXL", "names": [{"name": "ALTEA XL", "threshold": 0.85}, {"name": "АЛТЕА XЛ", "threshold": 0.85}]}, "AROSA": {"id": "AROSA", "names": [{"name": "AROSA", "threshold": 0.85}, {"name": "АРОСА", "threshold": 0.85}]}, "CORDOBA": {"id": "CORDOBA", "names": [{"name": "CORDOBA", "threshold": 0.85}, {"name": "ЦОРДОБА", "threshold": 0.85}]}, "EXEO": {"id": "EXEO", "names": [{"name": "EXEO", "threshold": 0.93}, {"name": "ЕXЕО", "threshold": 0.93}]}, "IBIZA": {"id": "IBIZA", "names": [{"name": "IBIZA", "threshold": 0.85}, {"name": "ИБИЗА", "threshold": 0.85}]}, "INCA": {"id": "INCA", "names": [{"name": "INCA", "threshold": 0.93}, {"name": "ИНЦА", "threshold": 0.93}]}, "LEON": {"id": "LEON", "names": [{"name": "LEON", "threshold": 0.93}, {"name": "ЛЕОН", "threshold": 0.93}]}, "MALAGA": {"id": "MALAGA", "names": [{"name": "MALAGA", "threshold": 0.85}, {"name": "МАЛАГА", "threshold": 0.85}]}, "MARBELLA": {"id": "MARBELLA", "names": [{"name": "MARBELLA", "threshold": 0.85}, {"name": "МАРБЕЛЛА", "threshold": 0.85}]}, "RONDA": {"id": "RONDA", "names": [{"name": "RONDA", "threshold": 0.85}, {"name": "РОНДА", "threshold": 0.85}]}, "TERRA": {"id": "TERRA", "names": [{"name": "TERRA", "threshold": 0.85}, {"name": "ТЕРРА", "threshold": 0.85}]}, "TOLEDO": {"id": "TOLEDO", "names": [{"name": "TOLEDO", "threshold": 0.85}, {"name": "ТОЛЕДО", "threshold": 0.85}]}}}
+{
+  "id": "SEAT",
+  "names": [
+    {
+      "name": "SEAT",
+      "threshold": 0.93
+    },
+    {
+      "name": "СЕАТ",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "ALHAMBRA": {
+      "id": "ALHAMBRA",
+      "names": [
+        {
+          "name": "ALHAMBRA",
+          "threshold": 0.85
+        },
+        {
+          "name": "АЛХАМБРА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "276"
+    },
+    "ALTEA": {
+      "id": "ALTEA",
+      "names": [
+        {
+          "name": "ALTEA",
+          "threshold": 0.85
+        },
+        {
+          "name": "АЛТЕА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "277"
+    },
+    "ALTEAFREETRACK": {
+      "id": "ALTEAFREETRACK",
+      "names": [
+        {
+          "name": "ALTEA FREETRACK",
+          "threshold": 0.85
+        },
+        {
+          "name": "АЛТЕА ФРЕЕТРАЦК",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "282"
+    },
+    "ALTEAXL": {
+      "id": "ALTEAXL",
+      "names": [
+        {
+          "name": "ALTEA XL",
+          "threshold": 0.85
+        },
+        {
+          "name": "АЛТЕА XЛ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "278"
+    },
+    "AROSA": {
+      "id": "AROSA",
+      "names": [
+        {
+          "name": "AROSA",
+          "threshold": 0.85
+        },
+        {
+          "name": "АРОСА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "279"
+    },
+    "CORDOBA": {
+      "id": "CORDOBA",
+      "names": [
+        {
+          "name": "CORDOBA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦОРДОБА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "280"
+    },
+    "EXEO": {
+      "id": "EXEO",
+      "names": [
+        {
+          "name": "EXEO",
+          "threshold": 0.93
+        },
+        {
+          "name": "ЕXЕО",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "281"
+    },
+    "IBIZA": {
+      "id": "IBIZA",
+      "names": [
+        {
+          "name": "IBIZA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ИБИЗА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "284"
+    },
+    "INCA": {
+      "id": "INCA",
+      "names": [
+        {
+          "name": "INCA",
+          "threshold": 0.93
+        },
+        {
+          "name": "ИНЦА",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "285"
+    },
+    "LEON": {
+      "id": "LEON",
+      "names": [
+        {
+          "name": "LEON",
+          "threshold": 0.93
+        },
+        {
+          "name": "ЛЕОН",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "286"
+    },
+    "MALAGA": {
+      "id": "MALAGA",
+      "names": [
+        {
+          "name": "MALAGA",
+          "threshold": 0.85
+        },
+        {
+          "name": "МАЛАГА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "287"
+    },
+    "MARBELLA": {
+      "id": "MARBELLA",
+      "names": [
+        {
+          "name": "MARBELLA",
+          "threshold": 0.85
+        },
+        {
+          "name": "МАРБЕЛЛА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "288"
+    },
+    "RONDA": {
+      "id": "RONDA",
+      "names": [
+        {
+          "name": "RONDA",
+          "threshold": 0.85
+        },
+        {
+          "name": "РОНДА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "291"
+    },
+    "TERRA": {
+      "id": "TERRA",
+      "names": [
+        {
+          "name": "TERRA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ТЕРРА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "292"
+    },
+    "TOLEDO": {
+      "id": "TOLEDO",
+      "names": [
+        {
+          "name": "TOLEDO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ТОЛЕДО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "293"
+    }
+  }
+}

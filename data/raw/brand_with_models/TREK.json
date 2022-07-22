@@ -1,1 +1,35 @@
-{"id": "TREK", "names": [{"name": "TREK", "threshold": 0.93}, {"name": "ТРЕК", "threshold": 0.93}], "models": {"821810": {"id": "821810", "names": [{"name": "8218 10", "threshold": 1}]}, "8218110": {"id": "8218110", "names": [{"name": "82181 10", "threshold": 1}]}}}
+{
+  "id": "TREK",
+  "names": [
+    {
+      "name": "TREK",
+      "threshold": 0.93
+    },
+    {
+      "name": "ТРЕК",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "821810": {
+      "id": "821810",
+      "names": [
+        {
+          "name": "8218 10",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12628"
+    },
+    "8218110": {
+      "id": "8218110",
+      "names": [
+        {
+          "name": "82181 10",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12629"
+    }
+  }
+}

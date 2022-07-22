@@ -1,1 +1,43 @@
-{"id": "JONWAY", "names": [{"name": "JONWAY", "threshold": 0.85}, {"name": "ЙОНWАЫ", "threshold": 0.85}], "models": {"CJ": {"id": "CJ", "names": [{"name": "CJ", "threshold": 1}, {"name": "ЦЙ", "threshold": 1}]}, "JS": {"id": "JS", "names": [{"name": "JS", "threshold": 1}, {"name": "ЙС", "threshold": 1}]}}}
+{
+  "id": "JONWAY",
+  "names": [
+    {
+      "name": "JONWAY",
+      "threshold": 0.85
+    },
+    {
+      "name": "ДЖИНВЭЙ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "CJ": {
+      "id": "CJ",
+      "names": [
+        {
+          "name": "CJ",
+          "threshold": 1
+        },
+        {
+          "name": "ЦЙ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8838"
+    },
+    "JS": {
+      "id": "JS",
+      "names": [
+        {
+          "name": "JS",
+          "threshold": 1
+        },
+        {
+          "name": "ЙС",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10910"
+    }
+  }
+}

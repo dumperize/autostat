@@ -1,214 +1,233 @@
 {
-    "id": "ALFAROMEO",
-    "names": [
-        {
-            "name": "ALFA ROMEO",
-            "threshold": 0.85
-        },
-        {
-            "name": "АЛЬФА РОМЕО",
-            "threshold": 0.85
-        }
-    ],
-    "models": {
-        "145": {
-            "id": "145",
-            "names": [
-                {
-                    "name": "145",
-                    "threshold": 1
-                }
-            ]
-        },
-        "146": {
-            "id": "146",
-            "names": [
-                {
-                    "name": "146",
-                    "threshold": 1
-                }
-            ]
-        },
-        "147": {
-            "id": "147",
-            "names": [
-                {
-                    "name": "147",
-                    "threshold": 1
-                }
-            ]
-        },
-        "155": {
-            "id": "155",
-            "names": [
-                {
-                    "name": "155",
-                    "threshold": 1
-                }
-            ]
-        },
-        "156": {
-            "id": "156",
-            "names": [
-                {
-                    "name": "156",
-                    "threshold": 1
-                }
-            ]
-        },
-        "159": {
-            "id": "159",
-            "names": [
-                {
-                    "name": "159",
-                    "threshold": 1
-                }
-            ]
-        },
-        "164": {
-            "id": "164",
-            "names": [
-                {
-                    "name": "164",
-                    "threshold": 1
-                }
-            ]
-        },
-        "166": {
-            "id": "166",
-            "names": [
-                {
-                    "name": "166",
-                    "threshold": 1
-                }
-            ]
-        },
-        "33": {
-            "id": "33",
-            "names": [
-                {
-                    "name": "33",
-                    "threshold": 1
-                }
-            ]
-        },
-        "4C": {
-            "id": "4C",
-            "names": [
-                {
-                    "name": "4C",
-                    "threshold": 1
-                }
-            ]
-        },
-        "75": {
-            "id": "75",
-            "names": [
-                {
-                    "name": "75",
-                    "threshold": 1
-                }
-            ]
-        },
-        "90": {
-            "id": "90",
-            "names": [
-                {
-                    "name": "90",
-                    "threshold": 1
-                }
-            ]
-        },
-        "ALFETTA": {
-            "id": "ALFETTA",
-            "names": [
-                {
-                    "name": "ALFETTA",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "АЛФЕТТА",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "BRERA": {
-            "id": "BRERA",
-            "names": [
-                {
-                    "name": "BRERA",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "БРЕРА",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "GIULIETTA": {
-            "id": "GIULIETTA",
-            "names": [
-                {
-                    "name": "GIULIETTA",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ГИУЛИЕТТА",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "GT": {
-            "id": "GT",
-            "names": [
-                {
-                    "name": "GT",
-                    "threshold": 1
-                },
-                {
-                    "name": "ГТ",
-                    "threshold": 1
-                }
-            ]
-        },
-        "GTV": {
-            "id": "GTV",
-            "names": [
-                {
-                    "name": "GTV",
-                    "threshold": 0.97
-                },
-                {
-                    "name": "ГТВ",
-                    "threshold": 0.97
-                }
-            ]
-        },
-        "MITO": {
-            "id": "MITO",
-            "names": [
-                {
-                    "name": "MITO",
-                    "threshold": 0.93
-                },
-                {
-                    "name": "МИТО",
-                    "threshold": 0.93
-                }
-            ]
-        },
-        "SPIDER": {
-            "id": "SPIDER",
-            "names": [
-                {
-                    "name": "SPIDER",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "СПИДЕР",
-                    "threshold": 0.85
-                }
-            ]
-        }
+  "id": "ALFAROMEO",
+  "names": [
+    {
+      "name": "ALFA ROMEO",
+      "threshold": 0.85
+    },
+    {
+      "name": "АЛЬФА РОМЕО",
+      "threshold": 0.85
     }
+  ],
+  "models": {
+    "145": {
+      "id": "145",
+      "names": [
+        {
+          "name": "145",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "564"
+    },
+    "146": {
+      "id": "146",
+      "names": [
+        {
+          "name": "146",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "565"
+    },
+    "147": {
+      "id": "147",
+      "names": [
+        {
+          "name": "147",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "566"
+    },
+    "155": {
+      "id": "155",
+      "names": [
+        {
+          "name": "155",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "567"
+    },
+    "156": {
+      "id": "156",
+      "names": [
+        {
+          "name": "156",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "568"
+    },
+    "159": {
+      "id": "159",
+      "names": [
+        {
+          "name": "159",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "569"
+    },
+    "164": {
+      "id": "164",
+      "names": [
+        {
+          "name": "164",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "570"
+    },
+    "166": {
+      "id": "166",
+      "names": [
+        {
+          "name": "166",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "571"
+    },
+    "33": {
+      "id": "33",
+      "names": [
+        {
+          "name": "33",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "572"
+    },
+    "4C": {
+      "id": "4C",
+      "names": [
+        {
+          "name": "4C",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8735"
+    },
+    "75": {
+      "id": "75",
+      "names": [
+        {
+          "name": "75",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "573"
+    },
+    "90": {
+      "id": "90",
+      "names": [
+        {
+          "name": "90",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "574"
+    },
+    "ALFETTA": {
+      "id": "ALFETTA",
+      "names": [
+        {
+          "name": "ALFETTA",
+          "threshold": 0.85
+        },
+        {
+          "name": "АЛФЕТТА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "576"
+    },
+    "BRERA": {
+      "id": "BRERA",
+      "names": [
+        {
+          "name": "BRERA",
+          "threshold": 0.85
+        },
+        {
+          "name": "БРЕРА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "577"
+    },
+    "GIULIETTA": {
+      "id": "GIULIETTA",
+      "names": [
+        {
+          "name": "GIULIETTA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ГИУЛИЕТТА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "578"
+    },
+    "GT": {
+      "id": "GT",
+      "names": [
+        {
+          "name": "GT",
+          "threshold": 1
+        },
+        {
+          "name": "ГТ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "579"
+    },
+    "GTV": {
+      "id": "GTV",
+      "names": [
+        {
+          "name": "GTV",
+          "threshold": 0.97
+        },
+        {
+          "name": "ГТВ",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "580"
+    },
+    "MITO": {
+      "id": "MITO",
+      "names": [
+        {
+          "name": "MITO",
+          "threshold": 0.93
+        },
+        {
+          "name": "МИТО",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "581"
+    },
+    "SPIDER": {
+      "id": "SPIDER",
+      "names": [
+        {
+          "name": "SPIDER",
+          "threshold": 0.85
+        },
+        {
+          "name": "СПИДЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "583"
+    }
+  }
 }

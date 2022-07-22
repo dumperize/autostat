@@ -1,1 +1,75 @@
-{"id": "SKIF", "names": [{"name": "SKIF", "threshold": 0.93}, {"name": "СКИФ", "threshold": 0.93}], "models": {"500": {"id": "500", "names": [{"name": "500", "threshold": 1}]}, "700": {"id": "700", "names": [{"name": "700", "threshold": 1}]}, "811001": {"id": "811001", "names": [{"name": "811001", "threshold": 1}]}, "811002": {"id": "811002", "names": [{"name": "811002", "threshold": 1}]}, "812104": {"id": "812104", "names": [{"name": "812104", "threshold": 1}]}, "M2": {"id": "M2", "names": [{"name": "M2", "threshold": 1}]}}}
+{
+  "id": "SKIF",
+  "names": [
+    {
+      "name": "SKIF",
+      "threshold": 0.93
+    },
+    {
+      "name": "СКИФ",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "500": {
+      "id": "500",
+      "names": [
+        {
+          "name": "500",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16094"
+    },
+    "700": {
+      "id": "700",
+      "names": [
+        {
+          "name": "700",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16137"
+    },
+    "811001": {
+      "id": "811001",
+      "names": [
+        {
+          "name": "811001",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16138"
+    },
+    "811002": {
+      "id": "811002",
+      "names": [
+        {
+          "name": "811002",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16139"
+    },
+    "812104": {
+      "id": "812104",
+      "names": [
+        {
+          "name": "812104",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16140"
+    },
+    "M2": {
+      "id": "M2",
+      "names": [
+        {
+          "name": "M2",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16136"
+    }
+  }
+}

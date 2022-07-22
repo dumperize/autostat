@@ -1,1 +1,71 @@
-{"id": "SCION", "names": [{"name": "SCION", "threshold": 0.85}, {"name": "СЦИОН", "threshold": 0.85}], "models": {"TC": {"id": "TC", "names": [{"name": "TC", "threshold": 1}, {"name": "ТЦ", "threshold": 1}]}, "XA": {"id": "XA", "names": [{"name": "XA", "threshold": 1}, {"name": "XА", "threshold": 1}]}, "XB": {"id": "XB", "names": [{"name": "XB", "threshold": 1}, {"name": "XБ", "threshold": 1}]}, "XD": {"id": "XD", "names": [{"name": "XD", "threshold": 1}, {"name": "XД", "threshold": 1}]}}}
+{
+  "id": "SCION",
+  "names": [
+    {
+      "name": "SCION",
+      "threshold": 0.85
+    },
+    {
+      "name": "СЦИОН",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "TC": {
+      "id": "TC",
+      "names": [
+        {
+          "name": "TC",
+          "threshold": 1
+        },
+        {
+          "name": "ТЦ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "270"
+    },
+    "XA": {
+      "id": "XA",
+      "names": [
+        {
+          "name": "XA",
+          "threshold": 1
+        },
+        {
+          "name": "XА",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "271"
+    },
+    "XB": {
+      "id": "XB",
+      "names": [
+        {
+          "name": "XB",
+          "threshold": 1
+        },
+        {
+          "name": "XБ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "272"
+    },
+    "XD": {
+      "id": "XD",
+      "names": [
+        {
+          "name": "XD",
+          "threshold": 1
+        },
+        {
+          "name": "XД",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "273"
+    }
+  }
+}

@@ -1,1 +1,125 @@
-{"id": "PAZ", "names": [{"name": "PAZ", "threshold": 0.97}, {"name": "ПАЗ", "threshold": 0.97}], "models": {"2256": {"id": "2256", "names": [{"name": "2256", "threshold": 1}]}, "3202": {"id": "3202", "names": [{"name": "3202", "threshold": 1}]}, "3203": {"id": "3203", "names": [{"name": "3203", "threshold": 1}]}, "3204": {"id": "3204", "names": [{"name": "3204", "threshold": 1}]}, "3205": {"id": "3205", "names": [{"name": "3205", "threshold": 1}]}, "3206": {"id": "3206", "names": [{"name": "3206", "threshold": 1}]}, "3237": {"id": "3237", "names": [{"name": "3237", "threshold": 1}]}, "4230": {"id": "4230", "names": [{"name": "4230", "threshold": 1}]}, "4234": {"id": "4234", "names": [{"name": "4234", "threshold": 1}]}, "5272": {"id": "5272", "names": [{"name": "5272", "threshold": 1}]}, "672": {"id": "672", "names": [{"name": "672", "threshold": 1}]}}}
+{
+  "id": "PAZ",
+  "names": [
+    {
+      "name": "PAZ",
+      "threshold": 0.97
+    },
+    {
+      "name": "ПАЗ",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "2256": {
+      "id": "2256",
+      "names": [
+        {
+          "name": "2256",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14905"
+    },
+    "3202": {
+      "id": "3202",
+      "names": [
+        {
+          "name": "3202",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2182"
+    },
+    "3203": {
+      "id": "3203",
+      "names": [
+        {
+          "name": "3203",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2183"
+    },
+    "3204": {
+      "id": "3204",
+      "names": [
+        {
+          "name": "3204",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2184"
+    },
+    "3205": {
+      "id": "3205",
+      "names": [
+        {
+          "name": "3205",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2185"
+    },
+    "3206": {
+      "id": "3206",
+      "names": [
+        {
+          "name": "3206",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2186"
+    },
+    "3237": {
+      "id": "3237",
+      "names": [
+        {
+          "name": "3237",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2187"
+    },
+    "4230": {
+      "id": "4230",
+      "names": [
+        {
+          "name": "4230",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2189"
+    },
+    "4234": {
+      "id": "4234",
+      "names": [
+        {
+          "name": "4234",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2190"
+    },
+    "5272": {
+      "id": "5272",
+      "names": [
+        {
+          "name": "5272",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2191"
+    },
+    "672": {
+      "id": "672",
+      "names": [
+        {
+          "name": "672",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2193"
+    }
+  }
+}

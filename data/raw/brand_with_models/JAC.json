@@ -1,1 +1,183 @@
-{"id": "JAC", "names": [{"name": "JAC", "threshold": 0.97}, {"name": "ЙАЦ", "threshold": 0.97}], "models": {"HFC1020": {"id": "HFC1020", "names": [{"name": "HFC1020", "threshold": 1}]}, "HFC1040": {"id": "HFC1040", "names": [{"name": "HFC1040", "threshold": 1}]}, "HFC1045": {"id": "HFC1045", "names": [{"name": "HFC1045", "threshold": 1}]}, "HFC1062": {"id": "HFC1062", "names": [{"name": "HFC1062", "threshold": 1}]}, "HFC1083": {"id": "HFC1083", "names": [{"name": "HFC1083", "threshold": 1}]}, "HFC3252": {"id": "HFC3252", "names": [{"name": "HFC3252", "threshold": 1}]}, "HFC6100": {"id": "HFC6100", "names": [{"name": "HFC6100", "threshold": 1}]}, "IEV7S": {"id": "IEV7S", "names": [{"name": "IEV7S", "threshold": 1}]}, "J5": {"id": "J5", "names": [{"name": "J5", "threshold": 1}]}, "J7": {"id": "J7", "names": [{"name": "J7", "threshold": 1}]}, "N75": {"id": "N75", "names": [{"name": "N75", "threshold": 1}]}, "REFINE": {"id": "REFINE", "names": [{"name": "REFINE", "threshold": 0.85}, {"name": "РЕФИНЕ", "threshold": 0.85}]}, "REIN": {"id": "REIN", "names": [{"name": "REIN", "threshold": 0.93}, {"name": "РЕИН", "threshold": 0.93}]}, "S3": {"id": "S3", "names": [{"name": "S3", "threshold": 1}]}, "S5": {"id": "S5", "names": [{"name": "S5", "threshold": 1}]}, "S7": {"id": "S7", "names": [{"name": "S7", "threshold": 1}]}}}
+{
+  "id": "JAC",
+  "names": [
+    {
+      "name": "JAC",
+      "threshold": 0.97
+    },
+    {
+      "name": "ЙАЦ",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "HFC1020": {
+      "id": "HFC1020",
+      "names": [
+        {
+          "name": "HFC1020",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "6433"
+    },
+    "HFC1040": {
+      "id": "HFC1040",
+      "names": [
+        {
+          "name": "HFC1040",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1672"
+    },
+    "HFC1045": {
+      "id": "HFC1045",
+      "names": [
+        {
+          "name": "HFC1045",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1673"
+    },
+    "HFC1062": {
+      "id": "HFC1062",
+      "names": [
+        {
+          "name": "HFC1062",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18514"
+    },
+    "HFC1083": {
+      "id": "HFC1083",
+      "names": [
+        {
+          "name": "HFC1083",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18515"
+    },
+    "HFC3252": {
+      "id": "HFC3252",
+      "names": [
+        {
+          "name": "HFC3252",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18516"
+    },
+    "HFC6100": {
+      "id": "HFC6100",
+      "names": [
+        {
+          "name": "HFC6100",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2356"
+    },
+    "IEV7S": {
+      "id": "IEV7S",
+      "names": [
+        {
+          "name": "IEV7S",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17428"
+    },
+    "J5": {
+      "id": "J5",
+      "names": [
+        {
+          "name": "J5",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8699"
+    },
+    "J7": {
+      "id": "J7",
+      "names": [
+        {
+          "name": "J7",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18667"
+    },
+    "N75": {
+      "id": "N75",
+      "names": [
+        {
+          "name": "N75",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18519"
+    },
+    "REFINE": {
+      "id": "REFINE",
+      "names": [
+        {
+          "name": "REFINE",
+          "threshold": 0.85
+        },
+        {
+          "name": "РЕФИНЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1151"
+    },
+    "REIN": {
+      "id": "REIN",
+      "names": [
+        {
+          "name": "REIN",
+          "threshold": 0.93
+        },
+        {
+          "name": "РЕИН",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "1152"
+    },
+    "S3": {
+      "id": "S3",
+      "names": [
+        {
+          "name": "S3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15134"
+    },
+    "S5": {
+      "id": "S5",
+      "names": [
+        {
+          "name": "S5",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8700"
+    },
+    "S7": {
+      "id": "S7",
+      "names": [
+        {
+          "name": "S7",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18669"
+    }
+  }
+}

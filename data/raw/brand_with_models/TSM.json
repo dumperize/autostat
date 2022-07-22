@@ -1,1 +1,185 @@
-{"id": "TSM", "names": [{"name": "TSM", "threshold": 0.97}, {"name": "ТСМ", "threshold": 0.97}], "models": {"83402T": {"id": "83402T", "names": [{"name": "83402T", "threshold": 1}]}, "83403T": {"id": "83403T", "names": [{"name": "83403T", "threshold": 1}]}, "993910": {"id": "993910", "names": [{"name": "993910", "threshold": 1}]}, "993920": {"id": "993920", "names": [{"name": "993920", "threshold": 1}]}, "993930": {"id": "993930", "names": [{"name": "993930", "threshold": 1}]}, "99393B": {"id": "99393B", "names": [{"name": "99393B", "threshold": 1}]}, "99393E": {"id": "99393E", "names": [{"name": "99393E", "threshold": 1}]}, "99393F": {"id": "99393F", "names": [{"name": "99393F", "threshold": 1}]}, "99393H": {"id": "99393H", "names": [{"name": "99393H", "threshold": 1}]}, "99393T": {"id": "99393T", "names": [{"name": "99393T", "threshold": 1}]}, "993940": {"id": "993940", "names": [{"name": "993940", "threshold": 1}]}, "99394E": {"id": "99394E", "names": [{"name": "99394E", "threshold": 1}]}, "99394F": {"id": "99394F", "names": [{"name": "99394F", "threshold": 1}]}, "993950": {"id": "993950", "names": [{"name": "993950", "threshold": 1}]}, "99395E": {"id": "99395E", "names": [{"name": "99395E", "threshold": 1}]}, "993960": {"id": "993960", "names": [{"name": "993960", "threshold": 1}]}, "99396E": {"id": "99396E", "names": [{"name": "99396E", "threshold": 1}]}}}
+{
+  "id": "TSM",
+  "names": [
+    {
+      "name": "TSM",
+      "threshold": 0.97
+    },
+    {
+      "name": "ТСМ",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "83402T": {
+      "id": "83402T",
+      "names": [
+        {
+          "name": "83402T",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10404"
+    },
+    "83403T": {
+      "id": "83403T",
+      "names": [
+        {
+          "name": "83403T",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10405"
+    },
+    "993910": {
+      "id": "993910",
+      "names": [
+        {
+          "name": "993910",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10407"
+    },
+    "993920": {
+      "id": "993920",
+      "names": [
+        {
+          "name": "993920",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10408"
+    },
+    "993930": {
+      "id": "993930",
+      "names": [
+        {
+          "name": "993930",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10411"
+    },
+    "99393B": {
+      "id": "99393B",
+      "names": [
+        {
+          "name": "99393B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15748"
+    },
+    "99393E": {
+      "id": "99393E",
+      "names": [
+        {
+          "name": "99393E",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10412"
+    },
+    "99393F": {
+      "id": "99393F",
+      "names": [
+        {
+          "name": "99393F",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10413"
+    },
+    "99393H": {
+      "id": "99393H",
+      "names": [
+        {
+          "name": "99393H",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10414"
+    },
+    "99393T": {
+      "id": "99393T",
+      "names": [
+        {
+          "name": "99393T",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12767"
+    },
+    "993940": {
+      "id": "993940",
+      "names": [
+        {
+          "name": "993940",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10416"
+    },
+    "99394E": {
+      "id": "99394E",
+      "names": [
+        {
+          "name": "99394E",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10417"
+    },
+    "99394F": {
+      "id": "99394F",
+      "names": [
+        {
+          "name": "99394F",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15749"
+    },
+    "993950": {
+      "id": "993950",
+      "names": [
+        {
+          "name": "993950",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10418"
+    },
+    "99395E": {
+      "id": "99395E",
+      "names": [
+        {
+          "name": "99395E",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15750"
+    },
+    "993960": {
+      "id": "993960",
+      "names": [
+        {
+          "name": "993960",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10419"
+    },
+    "99396E": {
+      "id": "99396E",
+      "names": [
+        {
+          "name": "99396E",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10420"
+    }
+  }
+}

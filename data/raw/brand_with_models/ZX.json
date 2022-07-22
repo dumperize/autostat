@@ -1,1 +1,43 @@
-{"id": "ZX", "names": [{"name": "ZX", "threshold": 1}, {"name": "ЗX", "threshold": 1}], "models": {"GRANDTIGER": {"id": "GRANDTIGER", "names": [{"name": "GRANDTIGER", "threshold": 0.85}, {"name": "ГРАНДТИГЕР", "threshold": 0.85}]}, "LANDMARK": {"id": "LANDMARK", "names": [{"name": "LANDMARK", "threshold": 0.85}, {"name": "ЛАНДМАРК", "threshold": 0.85}]}}}
+{
+  "id": "ZX",
+  "names": [
+    {
+      "name": "ZX",
+      "threshold": 1
+    },
+    {
+      "name": "ЗX",
+      "threshold": 1
+    }
+  ],
+  "models": {
+    "GRANDTIGER": {
+      "id": "GRANDTIGER",
+      "names": [
+        {
+          "name": "GRANDTIGER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ГРАНДТИГЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "544"
+    },
+    "LANDMARK": {
+      "id": "LANDMARK",
+      "names": [
+        {
+          "name": "LANDMARK",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЛАНДМАРК",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "545"
+    }
+  }
+}

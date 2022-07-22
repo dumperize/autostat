@@ -1,1 +1,85 @@
-{"id": "BALTSPECMASCH", "names": [{"name": "BALTSPECMASCH", "threshold": 0.85}, {"name": "БАЛТСПЕЦМАСЦХ", "threshold": 0.85}], "models": {"944510": {"id": "944510", "names": [{"name": "9445 10", "threshold": 1}]}, "9445110": {"id": "9445110", "names": [{"name": "94451 10", "threshold": 1}]}, "94531001": {"id": "94531001", "names": [{"name": "9453 10 01", "threshold": 1}]}, "94531002": {"id": "94531002", "names": [{"name": "9453 10 02", "threshold": 1}]}, "94531030": {"id": "94531030", "names": [{"name": "9453 10 30", "threshold": 1}]}, "9453110": {"id": "9453110", "names": [{"name": "94531 10", "threshold": 1}]}, "9453210": {"id": "9453210", "names": [{"name": "94532 10", "threshold": 1}]}}}
+{
+  "id": "BALTSPECMASCH",
+  "names": [
+    {
+      "name": "BALTSPECMASCH",
+      "threshold": 0.85
+    },
+    {
+      "name": "БАЛТСПЕЦМАСЦХ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "944510": {
+      "id": "944510",
+      "names": [
+        {
+          "name": "9445 10",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10568"
+    },
+    "9445110": {
+      "id": "9445110",
+      "names": [
+        {
+          "name": "94451 10",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10570"
+    },
+    "94531001": {
+      "id": "94531001",
+      "names": [
+        {
+          "name": "9453 10 01",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10577"
+    },
+    "94531002": {
+      "id": "94531002",
+      "names": [
+        {
+          "name": "9453 10 02",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10578"
+    },
+    "94531030": {
+      "id": "94531030",
+      "names": [
+        {
+          "name": "9453 10 30",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10581"
+    },
+    "9453110": {
+      "id": "9453110",
+      "names": [
+        {
+          "name": "94531 10",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10582"
+    },
+    "9453210": {
+      "id": "9453210",
+      "names": [
+        {
+          "name": "94532 10",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10584"
+    }
+  }
+}

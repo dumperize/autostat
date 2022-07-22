@@ -1,1 +1,55 @@
-{"id": "PRAGMATIKAVTO", "names": [{"name": "PRAGMATIK AVTO", "threshold": 0.85}, {"name": "ПРАГМАТИК АВТО", "threshold": 0.85}], "models": {"WHALE1": {"id": "WHALE1", "names": [{"name": "WHALE1", "threshold": 1}]}, "WHALE2": {"id": "WHALE2", "names": [{"name": "WHALE2", "threshold": 1}]}, "WHALE3": {"id": "WHALE3", "names": [{"name": "WHALE3", "threshold": 1}]}, "WHALE4": {"id": "WHALE4", "names": [{"name": "WHALE4", "threshold": 1}]}}}
+{
+  "id": "PRAGMATIKAVTO",
+  "names": [
+    {
+      "name": "PRAGMATIK AVTO",
+      "threshold": 0.85
+    },
+    {
+      "name": "ПРАГМАТИК АВТО",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "WHALE1": {
+      "id": "WHALE1",
+      "names": [
+        {
+          "name": "WHALE1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12687"
+    },
+    "WHALE2": {
+      "id": "WHALE2",
+      "names": [
+        {
+          "name": "WHALE2",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12688"
+    },
+    "WHALE3": {
+      "id": "WHALE3",
+      "names": [
+        {
+          "name": "WHALE3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12689"
+    },
+    "WHALE4": {
+      "id": "WHALE4",
+      "names": [
+        {
+          "name": "WHALE4",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12690"
+    }
+  }
+}

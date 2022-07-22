@@ -1,1 +1,235 @@
-{"id": "SCHMITZCARGOBULL", "names": [{"name": "SCHMITZ CARGOBULL", "threshold": 0.85}, {"name": "СЦХМИТЗ ЦАРГОБУЛЛ", "threshold": 0.85}], "models": {"9084": {"id": "9084", "names": [{"name": "9084", "threshold": 1}]}, "AWF18": {"id": "AWF18", "names": [{"name": "AWF18", "threshold": 1}]}, "KO18": {"id": "KO18", "names": [{"name": "KO18", "threshold": 1}]}, "KO36": {"id": "KO36", "names": [{"name": "KO36", "threshold": 1}]}, "PR24": {"id": "PR24", "names": [{"name": "PR24", "threshold": 1}]}, "S01": {"id": "S01", "names": [{"name": "S01", "threshold": 1}]}, "SCBS3B": {"id": "SCBS3B", "names": [{"name": "SCB S3B", "threshold": 1}]}, "SCBS3T": {"id": "SCBS3T", "names": [{"name": "SCB S3T", "threshold": 1}]}, "SCF24": {"id": "SCF24", "names": [{"name": "SCF24", "threshold": 1}]}, "SCS24": {"id": "SCS24", "names": [{"name": "SCS24", "threshold": 1}]}, "SGFS3": {"id": "SGFS3", "names": [{"name": "SGF S3", "threshold": 1}]}, "SKI24": {"id": "SKI24", "names": [{"name": "SKI24", "threshold": 1}]}, "SKO22": {"id": "SKO22", "names": [{"name": "SKO22", "threshold": 1}]}, "SKO24": {"id": "SKO24", "names": [{"name": "SKO24", "threshold": 1}]}, "SKO27": {"id": "SKO27", "names": [{"name": "SKO27", "threshold": 1}]}, "SP24": {"id": "SP24", "names": [{"name": "SP24", "threshold": 1}]}, "SPR24": {"id": "SPR24", "names": [{"name": "SPR24", "threshold": 1}]}, "SPR27": {"id": "SPR27", "names": [{"name": "SPR27", "threshold": 1}]}, "SW24": {"id": "SW24", "names": [{"name": "SW24", "threshold": 1}]}, "ZKO18": {"id": "ZKO18", "names": [{"name": "ZKO18", "threshold": 1}]}, "ZPR18": {"id": "ZPR18", "names": [{"name": "ZPR18", "threshold": 1}]}, "ZWF18": {"id": "ZWF18", "names": [{"name": "ZWF18", "threshold": 1}]}}}
+{
+  "id": "SCHMITZCARGOBULL",
+  "names": [
+    {
+      "name": "SCHMITZ CARGOBULL",
+      "threshold": 0.85
+    },
+    {
+      "name": "СЦХМИТЗ ЦАРГОБУЛЛ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "9084": {
+      "id": "9084",
+      "names": [
+        {
+          "name": "9084",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "13865"
+    },
+    "AWF18": {
+      "id": "AWF18",
+      "names": [
+        {
+          "name": "AWF18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3008"
+    },
+    "KO18": {
+      "id": "KO18",
+      "names": [
+        {
+          "name": "KO18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3010"
+    },
+    "KO36": {
+      "id": "KO36",
+      "names": [
+        {
+          "name": "KO36",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3011"
+    },
+    "PR24": {
+      "id": "PR24",
+      "names": [
+        {
+          "name": "PR24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3013"
+    },
+    "S01": {
+      "id": "S01",
+      "names": [
+        {
+          "name": "S01",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3014"
+    },
+    "SCBS3B": {
+      "id": "SCBS3B",
+      "names": [
+        {
+          "name": "SCB S3B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16079"
+    },
+    "SCBS3T": {
+      "id": "SCBS3T",
+      "names": [
+        {
+          "name": "SCB S3T",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16078"
+    },
+    "SCF24": {
+      "id": "SCF24",
+      "names": [
+        {
+          "name": "SCF24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3015"
+    },
+    "SCS24": {
+      "id": "SCS24",
+      "names": [
+        {
+          "name": "SCS24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3016"
+    },
+    "SGFS3": {
+      "id": "SGFS3",
+      "names": [
+        {
+          "name": "SGF S3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15800"
+    },
+    "SKI24": {
+      "id": "SKI24",
+      "names": [
+        {
+          "name": "SKI24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3018"
+    },
+    "SKO22": {
+      "id": "SKO22",
+      "names": [
+        {
+          "name": "SKO22",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3019"
+    },
+    "SKO24": {
+      "id": "SKO24",
+      "names": [
+        {
+          "name": "SKO24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3020"
+    },
+    "SKO27": {
+      "id": "SKO27",
+      "names": [
+        {
+          "name": "SKO27",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3021"
+    },
+    "SP24": {
+      "id": "SP24",
+      "names": [
+        {
+          "name": "SP24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3022"
+    },
+    "SPR24": {
+      "id": "SPR24",
+      "names": [
+        {
+          "name": "SPR24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3023"
+    },
+    "SPR27": {
+      "id": "SPR27",
+      "names": [
+        {
+          "name": "SPR27",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3024"
+    },
+    "SW24": {
+      "id": "SW24",
+      "names": [
+        {
+          "name": "SW24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3025"
+    },
+    "ZKO18": {
+      "id": "ZKO18",
+      "names": [
+        {
+          "name": "ZKO18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3027"
+    },
+    "ZPR18": {
+      "id": "ZPR18",
+      "names": [
+        {
+          "name": "ZPR18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3028"
+    },
+    "ZWF18": {
+      "id": "ZWF18",
+      "names": [
+        {
+          "name": "ZWF18",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3029"
+    }
+  }
+}

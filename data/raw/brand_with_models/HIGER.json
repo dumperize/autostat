@@ -1,1 +1,175 @@
-{"id": "HIGER", "names": [{"name": "HIGER", "threshold": 0.85}, {"name": "ХИГЕР", "threshold": 0.85}], "models": {"KLQ6109Q": {"id": "KLQ6109Q", "names": [{"name": "KLQ6109Q", "threshold": 1}]}, "KLQ6118G": {"id": "KLQ6118G", "names": [{"name": "KLQ6118G", "threshold": 1}]}, "KLQ6118GL": {"id": "KLQ6118GL", "names": [{"name": "KLQ6118GL", "threshold": 1}]}, "KLQ6118GS": {"id": "KLQ6118GS", "names": [{"name": "KLQ6118GS", "threshold": 1}]}, "KLQ6119TQ": {"id": "KLQ6119TQ", "names": [{"name": "KLQ6119TQ", "threshold": 1}]}, "KLQ6122B": {"id": "KLQ6122B", "names": [{"name": "KLQ6122B", "threshold": 1}]}, "KLQ6128LQ": {"id": "KLQ6128LQ", "names": [{"name": "KLQ6128LQ", "threshold": 1}]}, "KLQ6129Q": {"id": "KLQ6129Q", "names": [{"name": "KLQ6129Q", "threshold": 1}]}, "KLQ6720B1G": {"id": "KLQ6720B1G", "names": [{"name": "KLQ6720B1G", "threshold": 1}]}, "KLQ6720B1L": {"id": "KLQ6720B1L", "names": [{"name": "KLQ6720B1L", "threshold": 1}]}, "KLQ6728G": {"id": "KLQ6728G", "names": [{"name": "KLQ6728G", "threshold": 1}]}, "KLQ6826Q": {"id": "KLQ6826Q", "names": [{"name": "KLQ6826Q", "threshold": 1}]}, "KLQ6840": {"id": "KLQ6840", "names": [{"name": "KLQ6840", "threshold": 1}]}, "KLQ6885": {"id": "KLQ6885", "names": [{"name": "KLQ6885", "threshold": 1}]}, "KLQ6891GA": {"id": "KLQ6891GA", "names": [{"name": "KLQ6891GA", "threshold": 1}]}, "KLQ6928Q": {"id": "KLQ6928Q", "names": [{"name": "KLQ6928Q", "threshold": 1}]}}}
+{
+  "id": "HIGER",
+  "names": [
+    {
+      "name": "HIGER",
+      "threshold": 0.85
+    },
+    {
+      "name": "ХИГЕР",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "KLQ6109Q": {
+      "id": "KLQ6109Q",
+      "names": [
+        {
+          "name": "KLQ6109Q",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2319"
+    },
+    "KLQ6118G": {
+      "id": "KLQ6118G",
+      "names": [
+        {
+          "name": "KLQ6118G",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2320"
+    },
+    "KLQ6118GL": {
+      "id": "KLQ6118GL",
+      "names": [
+        {
+          "name": "KLQ6118GL",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2321"
+    },
+    "KLQ6118GS": {
+      "id": "KLQ6118GS",
+      "names": [
+        {
+          "name": "KLQ6118GS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2322"
+    },
+    "KLQ6119TQ": {
+      "id": "KLQ6119TQ",
+      "names": [
+        {
+          "name": "KLQ6119TQ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2323"
+    },
+    "KLQ6122B": {
+      "id": "KLQ6122B",
+      "names": [
+        {
+          "name": "KLQ6122B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15574"
+    },
+    "KLQ6128LQ": {
+      "id": "KLQ6128LQ",
+      "names": [
+        {
+          "name": "KLQ6128LQ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17279"
+    },
+    "KLQ6129Q": {
+      "id": "KLQ6129Q",
+      "names": [
+        {
+          "name": "KLQ6129Q",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2324"
+    },
+    "KLQ6720B1G": {
+      "id": "KLQ6720B1G",
+      "names": [
+        {
+          "name": "KLQ6720B1G",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2325"
+    },
+    "KLQ6720B1L": {
+      "id": "KLQ6720B1L",
+      "names": [
+        {
+          "name": "KLQ6720B1L",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2326"
+    },
+    "KLQ6728G": {
+      "id": "KLQ6728G",
+      "names": [
+        {
+          "name": "KLQ6728G",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2327"
+    },
+    "KLQ6826Q": {
+      "id": "KLQ6826Q",
+      "names": [
+        {
+          "name": "KLQ6826Q",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10750"
+    },
+    "KLQ6840": {
+      "id": "KLQ6840",
+      "names": [
+        {
+          "name": "KLQ6840",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2328"
+    },
+    "KLQ6885": {
+      "id": "KLQ6885",
+      "names": [
+        {
+          "name": "KLQ6885",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2329"
+    },
+    "KLQ6891GA": {
+      "id": "KLQ6891GA",
+      "names": [
+        {
+          "name": "KLQ6891GA",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2330"
+    },
+    "KLQ6928Q": {
+      "id": "KLQ6928Q",
+      "names": [
+        {
+          "name": "KLQ6928Q",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10751"
+    }
+  }
+}

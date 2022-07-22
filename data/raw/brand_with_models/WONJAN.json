@@ -1,1 +1,29 @@
-{"id": "WONJAN", "names": [{"name": "WONJAN", "threshold": 0.85}, {"name": "WОНЙАН", "threshold": 0.85}], "models": {"ALPHAS": {"id": "ALPHAS", "names": [{"name": "ALPHA S", "threshold": 0.85}, {"name": "АЛПХА С", "threshold": 0.85}]}}}
+{
+  "id": "WONJAN",
+  "names": [
+    {
+      "name": "WONJAN",
+      "threshold": 0.85
+    },
+    {
+      "name": "WОНЙАН",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "ALPHAS": {
+      "id": "ALPHAS",
+      "names": [
+        {
+          "name": "ALPHA S",
+          "threshold": 0.85
+        },
+        {
+          "name": "АЛПХА С",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8953"
+    }
+  }
+}

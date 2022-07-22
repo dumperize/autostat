@@ -1,1 +1,57 @@
-{"id": "DESERTRAVEN", "names": [{"name": "DESERT RAVEN", "threshold": 0.85}, {"name": "ДЕСЕРТ РАВЕН", "threshold": 0.85}], "models": {"ARIZONA": {"id": "ARIZONA", "names": [{"name": "ARIZONA", "threshold": 0.85}, {"name": "АРИЗОНА", "threshold": 0.85}]}, "NEVADA": {"id": "NEVADA", "names": [{"name": "NEVADA", "threshold": 0.85}, {"name": "НЕВАДА", "threshold": 0.85}]}, "VEGAS": {"id": "VEGAS", "names": [{"name": "VEGAS", "threshold": 0.85}, {"name": "ВЕГАС", "threshold": 0.85}]}}}
+{
+  "id": "DESERTRAVEN",
+  "names": [
+    {
+      "name": "DESERT RAVEN",
+      "threshold": 0.85
+    },
+    {
+      "name": "ДЕСЕРТ РАВЕН",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "ARIZONA": {
+      "id": "ARIZONA",
+      "names": [
+        {
+          "name": "ARIZONA",
+          "threshold": 0.85
+        },
+        {
+          "name": "АРИЗОНА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "10885"
+    },
+    "NEVADA": {
+      "id": "NEVADA",
+      "names": [
+        {
+          "name": "NEVADA",
+          "threshold": 0.85
+        },
+        {
+          "name": "НЕВАДА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8793"
+    },
+    "VEGAS": {
+      "id": "VEGAS",
+      "names": [
+        {
+          "name": "VEGAS",
+          "threshold": 0.85
+        },
+        {
+          "name": "ВЕГАС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8795"
+    }
+  }
+}

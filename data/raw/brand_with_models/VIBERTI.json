@@ -1,1 +1,25 @@
-{"id": "VIBERTI", "names": [{"name": "VIBERTI", "threshold": 0.85}, {"name": "ВИБЕРТИ", "threshold": 0.85}], "models": {"36S03AL": {"id": "36S03AL", "names": [{"name": "36S03AL", "threshold": 1}]}}}
+{
+  "id": "VIBERTI",
+  "names": [
+    {
+      "name": "VIBERTI",
+      "threshold": 0.85
+    },
+    {
+      "name": "ВИБЕРТИ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "36S03AL": {
+      "id": "36S03AL",
+      "names": [
+        {
+          "name": "36S03AL",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3769"
+    }
+  }
+}

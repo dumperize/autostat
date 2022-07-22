@@ -1,1 +1,45 @@
-{"id": "DADYW", "names": [{"name": "DADYW", "threshold": 0.85}, {"name": "ДАДЫW", "threshold": 0.85}], "models": {"DD125": {"id": "DD125", "names": [{"name": "DD 125", "threshold": 1}]}, "DD150": {"id": "DD150", "names": [{"name": "DD 150", "threshold": 1}]}, "DD250": {"id": "DD250", "names": [{"name": "DD 250", "threshold": 1}]}}}
+{
+  "id": "DADYW",
+  "names": [
+    {
+      "name": "DADYW",
+      "threshold": 0.85
+    },
+    {
+      "name": "ДАДУН",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "DD125": {
+      "id": "DD125",
+      "names": [
+        {
+          "name": "DD 125",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8789"
+    },
+    "DD150": {
+      "id": "DD150",
+      "names": [
+        {
+          "name": "DD 150",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8790"
+    },
+    "DD250": {
+      "id": "DD250",
+      "names": [
+        {
+          "name": "DD 250",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8791"
+    }
+  }
+}

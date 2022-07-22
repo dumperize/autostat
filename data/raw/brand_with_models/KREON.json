@@ -1,1 +1,65 @@
-{"id": "KREON", "names": [{"name": "KREON", "threshold": 0.85}, {"name": "КРЕОН", "threshold": 0.85}], "models": {"PYTD1600": {"id": "PYTD1600", "names": [{"name": "PY TD 1600", "threshold": 1}]}, "PYTD1800": {"id": "PYTD1800", "names": [{"name": "PY TD 1800", "threshold": 1}]}, "PYTD2000": {"id": "PYTD2000", "names": [{"name": "PY TD 2000", "threshold": 1}]}, "PYTD2200": {"id": "PYTD2200", "names": [{"name": "PY TD 2200", "threshold": 1}]}, "PYTD2500": {"id": "PYTD2500", "names": [{"name": "PY TD 2500", "threshold": 1}]}}}
+{
+  "id": "KREON",
+  "names": [
+    {
+      "name": "KREON",
+      "threshold": 0.85
+    },
+    {
+      "name": "КРЕОН",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "PYTD1600": {
+      "id": "PYTD1600",
+      "names": [
+        {
+          "name": "PY TD 1600",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12639"
+    },
+    "PYTD1800": {
+      "id": "PYTD1800",
+      "names": [
+        {
+          "name": "PY TD 1800",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12640"
+    },
+    "PYTD2000": {
+      "id": "PYTD2000",
+      "names": [
+        {
+          "name": "PY TD 2000",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12641"
+    },
+    "PYTD2200": {
+      "id": "PYTD2200",
+      "names": [
+        {
+          "name": "PY TD 2200",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12642"
+    },
+    "PYTD2500": {
+      "id": "PYTD2500",
+      "names": [
+        {
+          "name": "PY TD 2500",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12643"
+    }
+  }
+}

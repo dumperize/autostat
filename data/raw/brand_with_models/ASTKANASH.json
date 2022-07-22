@@ -1,1 +1,75 @@
-{"id": "ASTKANASH", "names": [{"name": "AST KANASH", "threshold": 0.85}, {"name": "АСТ КАНАСХ", "threshold": 0.85}], "models": {"949120": {"id": "949120", "names": [{"name": "949120", "threshold": 1}]}, "949122": {"id": "949122", "names": [{"name": "949122", "threshold": 1}]}, "949124": {"id": "949124", "names": [{"name": "949124", "threshold": 1}]}, "949131": {"id": "949131", "names": [{"name": "949131", "threshold": 1}]}, "949171": {"id": "949171", "names": [{"name": "949171", "threshold": 1}]}, "949173": {"id": "949173", "names": [{"name": "949173", "threshold": 1}]}}}
+{
+  "id": "ASTKANASH",
+  "names": [
+    {
+      "name": "AST KANASH",
+      "threshold": 0.85
+    },
+    {
+      "name": "АСТ КАНАСХ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "949120": {
+      "id": "949120",
+      "names": [
+        {
+          "name": "949120",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10512"
+    },
+    "949122": {
+      "id": "949122",
+      "names": [
+        {
+          "name": "949122",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10514"
+    },
+    "949124": {
+      "id": "949124",
+      "names": [
+        {
+          "name": "949124",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10516"
+    },
+    "949131": {
+      "id": "949131",
+      "names": [
+        {
+          "name": "949131",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10517"
+    },
+    "949171": {
+      "id": "949171",
+      "names": [
+        {
+          "name": "949171",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10520"
+    },
+    "949173": {
+      "id": "949173",
+      "names": [
+        {
+          "name": "949173",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10522"
+    }
+  }
+}

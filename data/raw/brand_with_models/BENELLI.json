@@ -1,1 +1,29 @@
-{"id": "BENELLI", "names": [{"name": "BENELLI", "threshold": 0.85}, {"name": "БЕНЕЛЛИ", "threshold": 0.85}], "models": {"CAFFENERO": {"id": "CAFFENERO", "names": [{"name": "CAFFENERO", "threshold": 0.85}, {"name": "ЦАФФЕНЕРО", "threshold": 0.85}]}}}
+{
+  "id": "BENELLI",
+  "names": [
+    {
+      "name": "BENELLI",
+      "threshold": 0.85
+    },
+    {
+      "name": "БЕНЕЛЛИ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "CAFFENERO": {
+      "id": "CAFFENERO",
+      "names": [
+        {
+          "name": "CAFFENERO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦАФФЕНЕРО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8774"
+    }
+  }
+}

@@ -1,1 +1,29 @@
-{"id": "FKM", "names": [{"name": "FKM", "threshold": 0.97}, {"name": "ФКМ", "threshold": 0.97}], "models": {"PUNCHER": {"id": "PUNCHER", "names": [{"name": "PUNCHER", "threshold": 0.85}, {"name": "ПУНЦХЕР", "threshold": 0.85}]}}}
+{
+  "id": "FKM",
+  "names": [
+    {
+      "name": "FKM",
+      "threshold": 0.97
+    },
+    {
+      "name": "ФКМ",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "PUNCHER": {
+      "id": "PUNCHER",
+      "names": [
+        {
+          "name": "PUNCHER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ПУНЦХЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8809"
+    }
+  }
+}

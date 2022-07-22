@@ -1,1 +1,25 @@
-{"id": "CHONGQING", "names": [{"name": "CHONGQING", "threshold": 0.85}, {"name": "ЦХОНГQИНГ", "threshold": 0.85}], "models": {"KN250GY": {"id": "KN250GY", "names": [{"name": "KN250GY", "threshold": 1}]}}}
+{
+  "id": "CHONGQING",
+  "names": [
+    {
+      "name": "CHONGQING",
+      "threshold": 0.85
+    },
+    {
+      "name": "ЦХОНГQИНГ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "KN250GY": {
+      "id": "KN250GY",
+      "names": [
+        {
+          "name": "KN250GY",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8787"
+    }
+  }
+}

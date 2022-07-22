@@ -1,1 +1,165 @@
-{"id": "NOVOSIBARZ", "names": [{"name": "NOVOSIBARZ", "threshold": 0.85}, {"name": "НОВОСИБАРЗ", "threshold": 0.85}], "models": {"843400": {"id": "843400", "names": [{"name": "843400", "threshold": 1}]}, "84340A": {"id": "84340A", "names": [{"name": "84340A", "threshold": 1}]}, "843410": {"id": "843410", "names": [{"name": "843410", "threshold": 1}]}, "843420": {"id": "843420", "names": [{"name": "843420", "threshold": 1}]}, "852300": {"id": "852300", "names": [{"name": "852300", "threshold": 1}]}, "904500": {"id": "904500", "names": [{"name": "904500", "threshold": 1}]}, "951002": {"id": "951002", "names": [{"name": "951002", "threshold": 1}]}, "951021": {"id": "951021", "names": [{"name": "951021", "threshold": 1}]}, "981300": {"id": "981300", "names": [{"name": "981300", "threshold": 1}]}, "981301": {"id": "981301", "names": [{"name": "981301", "threshold": 1}]}, "981302": {"id": "981302", "names": [{"name": "981302", "threshold": 1}]}, "981310": {"id": "981310", "names": [{"name": "981310", "threshold": 1}]}, "981313": {"id": "981313", "names": [{"name": "981313", "threshold": 1}]}, "98131B": {"id": "98131B", "names": [{"name": "98131B", "threshold": 1}]}, "98131C": {"id": "98131C", "names": [{"name": "98131C", "threshold": 1}]}}}
+{
+  "id": "NOVOSIBARZ",
+  "names": [
+    {
+      "name": "NOVOSIBARZ",
+      "threshold": 0.85
+    },
+    {
+      "name": "НОВОСИБАРЗ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "843400": {
+      "id": "843400",
+      "names": [
+        {
+          "name": "843400",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10055"
+    },
+    "84340A": {
+      "id": "84340A",
+      "names": [
+        {
+          "name": "84340A",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15787"
+    },
+    "843410": {
+      "id": "843410",
+      "names": [
+        {
+          "name": "843410",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10056"
+    },
+    "843420": {
+      "id": "843420",
+      "names": [
+        {
+          "name": "843420",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10057"
+    },
+    "852300": {
+      "id": "852300",
+      "names": [
+        {
+          "name": "852300",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10059"
+    },
+    "904500": {
+      "id": "904500",
+      "names": [
+        {
+          "name": "904500",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10061"
+    },
+    "951002": {
+      "id": "951002",
+      "names": [
+        {
+          "name": "951002",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10064"
+    },
+    "951021": {
+      "id": "951021",
+      "names": [
+        {
+          "name": "951021",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10066"
+    },
+    "981300": {
+      "id": "981300",
+      "names": [
+        {
+          "name": "981300",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10068"
+    },
+    "981301": {
+      "id": "981301",
+      "names": [
+        {
+          "name": "981301",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10069"
+    },
+    "981302": {
+      "id": "981302",
+      "names": [
+        {
+          "name": "981302",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15789"
+    },
+    "981310": {
+      "id": "981310",
+      "names": [
+        {
+          "name": "981310",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10070"
+    },
+    "981313": {
+      "id": "981313",
+      "names": [
+        {
+          "name": "981313",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15790"
+    },
+    "98131B": {
+      "id": "98131B",
+      "names": [
+        {
+          "name": "98131B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15451"
+    },
+    "98131C": {
+      "id": "98131C",
+      "names": [
+        {
+          "name": "98131C",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15792"
+    }
+  }
+}

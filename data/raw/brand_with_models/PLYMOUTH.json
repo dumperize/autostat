@@ -1,1 +1,155 @@
-{"id": "PLYMOUTH", "names": [{"name": "PLYMOUTH", "threshold": 0.85}, {"name": "ПЛЫМОУТХ", "threshold": 0.85}], "models": {"ACCLAIM": {"id": "ACCLAIM", "names": [{"name": "ACCLAIM", "threshold": 0.85}, {"name": "АЦЦЛАИМ", "threshold": 0.85}]}, "BREEZE": {"id": "BREEZE", "names": [{"name": "BREEZE", "threshold": 0.85}, {"name": "БРЕЕЗЕ", "threshold": 0.85}]}, "CARAVELLE": {"id": "CARAVELLE", "names": [{"name": "CARAVELLE", "threshold": 0.85}, {"name": "ЦАРАВЕЛЛЕ", "threshold": 0.85}]}, "HORIZON": {"id": "HORIZON", "names": [{"name": "HORIZON", "threshold": 0.85}, {"name": "ХОРИЗОН", "threshold": 0.85}]}, "LASER": {"id": "LASER", "names": [{"name": "LASER", "threshold": 0.85}, {"name": "ЛАСЕР", "threshold": 0.85}]}, "NEON": {"id": "NEON", "names": [{"name": "NEON", "threshold": 0.93}, {"name": "НЕОН", "threshold": 0.93}]}, "PROWLER": {"id": "PROWLER", "names": [{"name": "PROWLER", "threshold": 0.85}, {"name": "ПРОWЛЕР", "threshold": 0.85}]}, "RELIANT": {"id": "RELIANT", "names": [{"name": "RELIANT", "threshold": 0.85}, {"name": "РЕЛИАНТ", "threshold": 0.85}]}, "SUNDANCE": {"id": "SUNDANCE", "names": [{"name": "SUNDANCE", "threshold": 0.85}, {"name": "СУНДАНЦЕ", "threshold": 0.85}]}, "VOYAGER": {"id": "VOYAGER", "names": [{"name": "VOYAGER", "threshold": 0.85}, {"name": "ВОЫАГЕР", "threshold": 0.85}]}}}
+{
+  "id": "PLYMOUTH",
+  "names": [
+    {
+      "name": "PLYMOUTH",
+      "threshold": 0.85
+    },
+    {
+      "name": "ПЛАЙМУС",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "ACCLAIM": {
+      "id": "ACCLAIM",
+      "names": [
+        {
+          "name": "ACCLAIM",
+          "threshold": 0.85
+        },
+        {
+          "name": "АЦЦЛАИМ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "157"
+    },
+    "BREEZE": {
+      "id": "BREEZE",
+      "names": [
+        {
+          "name": "BREEZE",
+          "threshold": 0.85
+        },
+        {
+          "name": "БРЕЕЗЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "158"
+    },
+    "CARAVELLE": {
+      "id": "CARAVELLE",
+      "names": [
+        {
+          "name": "CARAVELLE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦАРАВЕЛЛЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "159"
+    },
+    "HORIZON": {
+      "id": "HORIZON",
+      "names": [
+        {
+          "name": "HORIZON",
+          "threshold": 0.85
+        },
+        {
+          "name": "ХОРИЗОН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "161"
+    },
+    "LASER": {
+      "id": "LASER",
+      "names": [
+        {
+          "name": "LASER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЛАСЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "162"
+    },
+    "NEON": {
+      "id": "NEON",
+      "names": [
+        {
+          "name": "NEON",
+          "threshold": 0.93
+        },
+        {
+          "name": "НЕОН",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "163"
+    },
+    "PROWLER": {
+      "id": "PROWLER",
+      "names": [
+        {
+          "name": "PROWLER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ПРОWЛЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "165"
+    },
+    "RELIANT": {
+      "id": "RELIANT",
+      "names": [
+        {
+          "name": "RELIANT",
+          "threshold": 0.85
+        },
+        {
+          "name": "РЕЛИАНТ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "166"
+    },
+    "SUNDANCE": {
+      "id": "SUNDANCE",
+      "names": [
+        {
+          "name": "SUNDANCE",
+          "threshold": 0.85
+        },
+        {
+          "name": "СУНДАНЦЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "167"
+    },
+    "VOYAGER": {
+      "id": "VOYAGER",
+      "names": [
+        {
+          "name": "VOYAGER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ВОЯДЖЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "168"
+    }
+  }
+}

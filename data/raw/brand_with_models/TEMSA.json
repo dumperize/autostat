@@ -1,1 +1,57 @@
-{"id": "TEMSA", "names": [{"name": "TEMSA", "threshold": 0.85}, {"name": "ТЕМСА", "threshold": 0.85}], "models": {"OPALIN": {"id": "OPALIN", "names": [{"name": "OPALIN", "threshold": 0.85}, {"name": "ОПАЛИН", "threshold": 0.85}]}, "PRESTIJ": {"id": "PRESTIJ", "names": [{"name": "PRESTIJ", "threshold": 0.85}, {"name": "ПРЕСТИЙ", "threshold": 0.85}]}, "SAFARI": {"id": "SAFARI", "names": [{"name": "SAFARI", "threshold": 0.85}, {"name": "САФАРИ", "threshold": 0.85}]}}}
+{
+  "id": "TEMSA",
+  "names": [
+    {
+      "name": "TEMSA",
+      "threshold": 0.85
+    },
+    {
+      "name": "ТЕМСА",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "OPALIN": {
+      "id": "OPALIN",
+      "names": [
+        {
+          "name": "OPALIN",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОПАЛИН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2246"
+    },
+    "PRESTIJ": {
+      "id": "PRESTIJ",
+      "names": [
+        {
+          "name": "PRESTIJ",
+          "threshold": 0.85
+        },
+        {
+          "name": "ПРЕСТИЙ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "6556"
+    },
+    "SAFARI": {
+      "id": "SAFARI",
+      "names": [
+        {
+          "name": "SAFARI",
+          "threshold": 0.85
+        },
+        {
+          "name": "САФАРИ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2248"
+    }
+  }
+}

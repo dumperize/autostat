@@ -1,1 +1,95 @@
-{"id": "ROSPRICEP", "names": [{"name": "ROSPRICEP", "threshold": 0.85}, {"name": "РОСПРИЦЕП", "threshold": 0.85}], "models": {"94622P": {"id": "94622P", "names": [{"name": "94622P", "threshold": 1}]}, "94623F": {"id": "94623F", "names": [{"name": "94623F", "threshold": 1}]}, "94623R": {"id": "94623R", "names": [{"name": "94623R", "threshold": 1}]}, "94623Z": {"id": "94623Z", "names": [{"name": "94623Z", "threshold": 1}]}, "94624F": {"id": "94624F", "names": [{"name": "94624F", "threshold": 1}]}, "94624R": {"id": "94624R", "names": [{"name": "94624R", "threshold": 1}]}, "94624Z": {"id": "94624Z", "names": [{"name": "94624Z", "threshold": 1}]}, "94625": {"id": "94625", "names": [{"name": "94625", "threshold": 1}]}}}
+{
+  "id": "ROSPRICEP",
+  "names": [
+    {
+      "name": "ROSPRICEP",
+      "threshold": 0.85
+    },
+    {
+      "name": "РОСПРИЦЕП",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "94622P": {
+      "id": "94622P",
+      "names": [
+        {
+          "name": "94622P",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10084"
+    },
+    "94623F": {
+      "id": "94623F",
+      "names": [
+        {
+          "name": "94623F",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10085"
+    },
+    "94623R": {
+      "id": "94623R",
+      "names": [
+        {
+          "name": "94623R",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10086"
+    },
+    "94623Z": {
+      "id": "94623Z",
+      "names": [
+        {
+          "name": "94623Z",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10087"
+    },
+    "94624F": {
+      "id": "94624F",
+      "names": [
+        {
+          "name": "94624F",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10088"
+    },
+    "94624R": {
+      "id": "94624R",
+      "names": [
+        {
+          "name": "94624R",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10089"
+    },
+    "94624Z": {
+      "id": "94624Z",
+      "names": [
+        {
+          "name": "94624Z",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10090"
+    },
+    "94625": {
+      "id": "94625",
+      "names": [
+        {
+          "name": "94625",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10091"
+    }
+  }
+}

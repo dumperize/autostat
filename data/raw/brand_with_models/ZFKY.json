@@ -1,1 +1,41 @@
-{"id": "ZFKY", "names": [{"name": "ZF KY", "threshold": 0.85}, {"name": "ЗФ КЫ", "threshold": 0.85}], "models": {"ZF150": {"id": "ZF150", "names": [{"name": "ZF150", "threshold": 1}]}, "ZF200": {"id": "ZF200", "names": [{"name": "ZF200", "threshold": 1}]}, "ZF250": {"id": "ZF250", "names": [{"name": "ZF250", "threshold": 1}]}}}
+{
+  "id": "ZFKY",
+  "names": [
+    {
+      "name": "ZF KY",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "ZF150": {
+      "id": "ZF150",
+      "names": [
+        {
+          "name": "ZF150",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8980"
+    },
+    "ZF200": {
+      "id": "ZF200",
+      "names": [
+        {
+          "name": "ZF200",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8981"
+    },
+    "ZF250": {
+      "id": "ZF250",
+      "names": [
+        {
+          "name": "ZF250",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8982"
+    }
+  }
+}

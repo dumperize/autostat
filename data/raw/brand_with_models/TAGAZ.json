@@ -1,1 +1,129 @@
-{"id": "TAGAZ", "names": [{"name": "TAGAZ", "threshold": 0.85}, {"name": "ТАГАЗ", "threshold": 0.85}], "models": {"AQUILA": {"id": "AQUILA", "names": [{"name": "AQUILA", "threshold": 0.85}, {"name": "АQУИЛА", "threshold": 0.85}]}, "C10": {"id": "C10", "names": [{"name": "C10", "threshold": 1}]}, "C190": {"id": "C190", "names": [{"name": "C190", "threshold": 1}]}, "C30": {"id": "C30", "names": [{"name": "C30", "threshold": 1}]}, "HARDY": {"id": "HARDY", "names": [{"name": "HARDY", "threshold": 0.85}, {"name": "ХАРДЫ", "threshold": 0.85}]}, "MASTER": {"id": "MASTER", "names": [{"name": "MASTER", "threshold": 0.85}, {"name": "МАСТЕР", "threshold": 0.85}]}, "ROADPARTNER": {"id": "ROADPARTNER", "names": [{"name": "ROAD PARTNER", "threshold": 0.85}, {"name": "РОАД ПАРТНЕР", "threshold": 0.85}]}, "TAGER": {"id": "TAGER", "names": [{"name": "TAGER", "threshold": 0.85}, {"name": "ТАГЕР", "threshold": 0.85}]}, "VEGA": {"id": "VEGA", "names": [{"name": "VEGA", "threshold": 0.93}, {"name": "ВЕГА", "threshold": 0.93}]}}}
+{
+  "id": "TAGAZ",
+  "names": [
+    {
+      "name": "TAGAZ",
+      "threshold": 0.85
+    },
+    {
+      "name": "ТАГАЗ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "AQUILA": {
+      "id": "AQUILA",
+      "names": [
+        {
+          "name": "AQUILA",
+          "threshold": 0.85
+        },
+        {
+          "name": "АQУИЛА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "4934"
+    },
+    "C10": {
+      "id": "C10",
+      "names": [
+        {
+          "name": "C10",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "337"
+    },
+    "C190": {
+      "id": "C190",
+      "names": [
+        {
+          "name": "C190",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "338"
+    },
+    "C30": {
+      "id": "C30",
+      "names": [
+        {
+          "name": "C30",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "339"
+    },
+    "HARDY": {
+      "id": "HARDY",
+      "names": [
+        {
+          "name": "HARDY",
+          "threshold": 0.85
+        },
+        {
+          "name": "ХАРДИ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1536"
+    },
+    "MASTER": {
+      "id": "MASTER",
+      "names": [
+        {
+          "name": "MASTER",
+          "threshold": 0.85
+        },
+        {
+          "name": "МАСТЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1537"
+    },
+    "ROADPARTNER": {
+      "id": "ROADPARTNER",
+      "names": [
+        {
+          "name": "ROAD PARTNER",
+          "threshold": 0.85
+        },
+        {
+          "name": "РОАД ПАРТНЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "341"
+    },
+    "TAGER": {
+      "id": "TAGER",
+      "names": [
+        {
+          "name": "TAGER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ТАГЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "342"
+    },
+    "VEGA": {
+      "id": "VEGA",
+      "names": [
+        {
+          "name": "VEGA",
+          "threshold": 0.93
+        },
+        {
+          "name": "ВЕГА",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "343"
+    }
+  }
+}

@@ -1,1 +1,35 @@
-{"id": "TOR", "names": [{"name": "TOR", "threshold": 0.97}, {"name": "ТОР", "threshold": 0.97}], "models": {"843811005": {"id": "843811005", "names": [{"name": "84381 10 05", "threshold": 1}]}, "8438M1": {"id": "8438M1", "names": [{"name": "8438M1", "threshold": 1}]}}}
+{
+  "id": "TOR",
+  "names": [
+    {
+      "name": "TOR",
+      "threshold": 0.97
+    },
+    {
+      "name": "ТОР",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "843811005": {
+      "id": "843811005",
+      "names": [
+        {
+          "name": "84381 10 05",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12746"
+    },
+    "8438M1": {
+      "id": "8438M1",
+      "names": [
+        {
+          "name": "8438M1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12747"
+    }
+  }
+}

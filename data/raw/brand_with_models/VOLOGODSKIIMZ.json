@@ -1,1 +1,35 @@
-{"id": "VOLOGODSKIIMZ", "names": [{"name": "VOLOGODSKIIMZ", "threshold": 0.85}, {"name": "ВОЛОГОДСКИИМЗ", "threshold": 0.85}], "models": {"862011/G6OPA8.1/3": {"id": "862011/G6OPA8.1/3", "names": [{"name": "862011/G6 OPA 8.1/3", "threshold": 1}]}, "963461/G6OPAPS24P": {"id": "963461/G6OPAPS24P", "names": [{"name": "963461/G6 OPA PS 24P", "threshold": 1}]}}}
+{
+  "id": "VOLOGODSKIIMZ",
+  "names": [
+    {
+      "name": "VOLOGODSKIIMZ",
+      "threshold": 0.85
+    },
+    {
+      "name": "ВОЛОГОДСКИИМЗ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "862011/G6OPA8.1/3": {
+      "id": "862011/G6OPA8.1/3",
+      "names": [
+        {
+          "name": "862011/G6 OPA 8.1/3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10481"
+    },
+    "963461/G6OPAPS24P": {
+      "id": "963461/G6OPAPS24P",
+      "names": [
+        {
+          "name": "963461/G6 OPA PS 24P",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10496"
+    }
+  }
+}

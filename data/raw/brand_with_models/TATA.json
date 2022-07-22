@@ -1,1 +1,35 @@
-{"id": "TATA", "names": [{"name": "TATA", "threshold": 0.93}, {"name": "ТАТА", "threshold": 0.93}], "models": {"407": {"id": "407", "names": [{"name": "407", "threshold": 1}]}, "LPT613": {"id": "LPT613", "names": [{"name": "LPT 613", "threshold": 1}]}}}
+{
+  "id": "TATA",
+  "names": [
+    {
+      "name": "TATA",
+      "threshold": 0.93
+    },
+    {
+      "name": "ТАТА",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "407": {
+      "id": "407",
+      "names": [
+        {
+          "name": "407",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1538"
+    },
+    "LPT613": {
+      "id": "LPT613",
+      "names": [
+        {
+          "name": "LPT 613",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1754"
+    }
+  }
+}

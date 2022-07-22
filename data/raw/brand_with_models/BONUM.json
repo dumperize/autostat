@@ -1,1 +1,75 @@
-{"id": "BONUM", "names": [{"name": "BONUM", "threshold": 0.85}, {"name": "БОНУМ", "threshold": 0.85}], "models": {"914210": {"id": "914210", "names": [{"name": "914210", "threshold": 1}]}, "914211": {"id": "914211", "names": [{"name": "914211", "threshold": 1}]}, "914220": {"id": "914220", "names": [{"name": "914220", "threshold": 1}]}, "914221": {"id": "914221", "names": [{"name": "914221", "threshold": 1}]}, "914230": {"id": "914230", "names": [{"name": "914230", "threshold": 1}]}, "914231": {"id": "914231", "names": [{"name": "914231", "threshold": 1}]}}}
+{
+  "id": "BONUM",
+  "names": [
+    {
+      "name": "BONUM",
+      "threshold": 0.85
+    },
+    {
+      "name": "БОНУМ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "914210": {
+      "id": "914210",
+      "names": [
+        {
+          "name": "914210",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15211"
+    },
+    "914211": {
+      "id": "914211",
+      "names": [
+        {
+          "name": "914211",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16064"
+    },
+    "914220": {
+      "id": "914220",
+      "names": [
+        {
+          "name": "914220",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15212"
+    },
+    "914221": {
+      "id": "914221",
+      "names": [
+        {
+          "name": "914221",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16065"
+    },
+    "914230": {
+      "id": "914230",
+      "names": [
+        {
+          "name": "914230",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15213"
+    },
+    "914231": {
+      "id": "914231",
+      "names": [
+        {
+          "name": "914231",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18836"
+    }
+  }
+}

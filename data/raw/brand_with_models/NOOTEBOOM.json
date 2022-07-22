@@ -1,1 +1,25 @@
-{"id": "NOOTEBOOM", "names": [{"name": "NOOTEBOOM", "threshold": 0.85}, {"name": "НООТЕБООМ", "threshold": 0.85}], "models": {"0VB6504V": {"id": "0VB6504V", "names": [{"name": "0VB 65 04V", "threshold": 1}]}}}
+{
+  "id": "NOOTEBOOM",
+  "names": [
+    {
+      "name": "NOOTEBOOM",
+      "threshold": 0.85
+    },
+    {
+      "name": "НООТЕБООМ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "0VB6504V": {
+      "id": "0VB6504V",
+      "names": [
+        {
+          "name": "0VB 65 04V",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "19159"
+    }
+  }
+}

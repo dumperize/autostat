@@ -1,1 +1,115 @@
-{"id": "KORIDATECH", "names": [{"name": "KORIDA TECH", "threshold": 0.85}, {"name": "КОРИДА ТЕЦХ", "threshold": 0.85}], "models": {"50100": {"id": "50100", "names": [{"name": "50100", "threshold": 1}]}, "50101": {"id": "50101", "names": [{"name": "50101", "threshold": 1}]}, "50104": {"id": "50104", "names": [{"name": "50104", "threshold": 1}]}, "50105": {"id": "50105", "names": [{"name": "50105", "threshold": 1}]}, "50106": {"id": "50106", "names": [{"name": "50106", "threshold": 1}]}, "50108": {"id": "50108", "names": [{"name": "50108", "threshold": 1}]}, "50110": {"id": "50110", "names": [{"name": "50110", "threshold": 1}]}, "50122": {"id": "50122", "names": [{"name": "50122", "threshold": 1}]}, "50125": {"id": "50125", "names": [{"name": "50125", "threshold": 1}]}, "50130": {"id": "50130", "names": [{"name": "50130", "threshold": 1}]}}}
+{
+  "id": "KORIDATECH",
+  "names": [
+    {
+      "name": "KORIDA TECH",
+      "threshold": 0.85
+    },
+    {
+      "name": "КОРИДА ТЕЦХ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "50100": {
+      "id": "50100",
+      "names": [
+        {
+          "name": "50100",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14984"
+    },
+    "50101": {
+      "id": "50101",
+      "names": [
+        {
+          "name": "50101",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14985"
+    },
+    "50104": {
+      "id": "50104",
+      "names": [
+        {
+          "name": "50104",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16062"
+    },
+    "50105": {
+      "id": "50105",
+      "names": [
+        {
+          "name": "50105",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14986"
+    },
+    "50106": {
+      "id": "50106",
+      "names": [
+        {
+          "name": "50106",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14987"
+    },
+    "50108": {
+      "id": "50108",
+      "names": [
+        {
+          "name": "50108",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14988"
+    },
+    "50110": {
+      "id": "50110",
+      "names": [
+        {
+          "name": "50110",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14990"
+    },
+    "50122": {
+      "id": "50122",
+      "names": [
+        {
+          "name": "50122",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14992"
+    },
+    "50125": {
+      "id": "50125",
+      "names": [
+        {
+          "name": "50125",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14993"
+    },
+    "50130": {
+      "id": "50130",
+      "names": [
+        {
+          "name": "50130",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14994"
+    }
+  }
+}

@@ -1,1 +1,25 @@
-{"id": "PROGRESS", "names": [{"name": "PROGRESS", "threshold": 0.85}, {"name": "ПРОГРЕСС", "threshold": 0.85}], "models": {"7135": {"id": "7135", "names": [{"name": "7135", "threshold": 1}]}}}
+{
+  "id": "PROGRESS",
+  "names": [
+    {
+      "name": "PROGRESS",
+      "threshold": 0.85
+    },
+    {
+      "name": "ПРОГРЕСС",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "7135": {
+      "id": "7135",
+      "names": [
+        {
+          "name": "7135",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12694"
+    }
+  }
+}

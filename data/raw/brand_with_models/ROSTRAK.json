@@ -1,1 +1,105 @@
-{"id": "ROSTRAK", "names": [{"name": "ROSTRAK", "threshold": 0.85}, {"name": "РОСТРАК", "threshold": 0.85}], "models": {"110C": {"id": "110C", "names": [{"name": "110C", "threshold": 1}]}, "120A": {"id": "120A", "names": [{"name": "120A", "threshold": 1}]}, "120C": {"id": "120C", "names": [{"name": "120C", "threshold": 1}]}, "120F": {"id": "120F", "names": [{"name": "120F", "threshold": 1}]}, "130C": {"id": "130C", "names": [{"name": "130C", "threshold": 1}]}, "130D": {"id": "130D", "names": [{"name": "130D", "threshold": 1}]}, "140A": {"id": "140A", "names": [{"name": "140A", "threshold": 1}]}, "140D": {"id": "140D", "names": [{"name": "140D", "threshold": 1}]}, "210F": {"id": "210F", "names": [{"name": "210F", "threshold": 1}]}}}
+{
+  "id": "ROSTRAK",
+  "names": [
+    {
+      "name": "ROSTRAK",
+      "threshold": 0.85
+    },
+    {
+      "name": "РОСТРАК",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "110C": {
+      "id": "110C",
+      "names": [
+        {
+          "name": "110C",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10092"
+    },
+    "120A": {
+      "id": "120A",
+      "names": [
+        {
+          "name": "120A",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10095"
+    },
+    "120C": {
+      "id": "120C",
+      "names": [
+        {
+          "name": "120C",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10096"
+    },
+    "120F": {
+      "id": "120F",
+      "names": [
+        {
+          "name": "120F",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10097"
+    },
+    "130C": {
+      "id": "130C",
+      "names": [
+        {
+          "name": "130C",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10099"
+    },
+    "130D": {
+      "id": "130D",
+      "names": [
+        {
+          "name": "130D",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10098"
+    },
+    "140A": {
+      "id": "140A",
+      "names": [
+        {
+          "name": "140A",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10100"
+    },
+    "140D": {
+      "id": "140D",
+      "names": [
+        {
+          "name": "140D",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10101"
+    },
+    "210F": {
+      "id": "210F",
+      "names": [
+        {
+          "name": "210F",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16066"
+    }
+  }
+}

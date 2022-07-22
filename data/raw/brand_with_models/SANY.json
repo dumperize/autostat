@@ -1,1 +1,55 @@
-{"id": "SANY", "names": [{"name": "SANY", "threshold": 0.93}, {"name": "САНЫ", "threshold": 0.93}], "models": {"QY25C": {"id": "QY25C", "names": [{"name": "QY25C", "threshold": 1}]}, "QY50C": {"id": "QY50C", "names": [{"name": "QY50C", "threshold": 1}]}, "STC2505": {"id": "STC2505", "names": [{"name": "STC250 5", "threshold": 1}]}, "STC500": {"id": "STC500", "names": [{"name": "STC500", "threshold": 1}]}}}
+{
+  "id": "SANY",
+  "names": [
+    {
+      "name": "SANY",
+      "threshold": 0.93
+    },
+    {
+      "name": "САНИ",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "QY25C": {
+      "id": "QY25C",
+      "names": [
+        {
+          "name": "QY25C",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15585"
+    },
+    "QY50C": {
+      "id": "QY50C",
+      "names": [
+        {
+          "name": "QY50C",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15586"
+    },
+    "STC2505": {
+      "id": "STC2505",
+      "names": [
+        {
+          "name": "STC250 5",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15587"
+    },
+    "STC500": {
+      "id": "STC500",
+      "names": [
+        {
+          "name": "STC500",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15588"
+    }
+  }
+}

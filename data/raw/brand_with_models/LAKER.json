@@ -1,1 +1,65 @@
-{"id": "LAKER", "names": [{"name": "LAKER", "threshold": 0.85}, {"name": "ЛАКЕР", "threshold": 0.85}], "models": {"HEAVYDUTY300": {"id": "HEAVYDUTY300", "names": [{"name": "HEAVY DUTY 300", "threshold": 1}]}, "HEAVYDUTY400": {"id": "HEAVYDUTY400", "names": [{"name": "HEAVY DUTY 400", "threshold": 1}]}, "HEAVYDUTY500": {"id": "HEAVYDUTY500", "names": [{"name": "HEAVY DUTY 500", "threshold": 1}]}, "SMARTTRAILER300": {"id": "SMARTTRAILER300", "names": [{"name": "SMART TRAILER 300", "threshold": 1}]}, "SMARTTRAILER750": {"id": "SMARTTRAILER750", "names": [{"name": "SMART TRAILER 750", "threshold": 1}]}}}
+{
+  "id": "LAKER",
+  "names": [
+    {
+      "name": "LAKER",
+      "threshold": 0.85
+    },
+    {
+      "name": "ЛАКЕР",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "HEAVYDUTY300": {
+      "id": "HEAVYDUTY300",
+      "names": [
+        {
+          "name": "HEAVY DUTY 300",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16050"
+    },
+    "HEAVYDUTY400": {
+      "id": "HEAVYDUTY400",
+      "names": [
+        {
+          "name": "HEAVY DUTY 400",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16051"
+    },
+    "HEAVYDUTY500": {
+      "id": "HEAVYDUTY500",
+      "names": [
+        {
+          "name": "HEAVY DUTY 500",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12646"
+    },
+    "SMARTTRAILER300": {
+      "id": "SMARTTRAILER300",
+      "names": [
+        {
+          "name": "SMART TRAILER 300",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12648"
+    },
+    "SMARTTRAILER750": {
+      "id": "SMARTTRAILER750",
+      "names": [
+        {
+          "name": "SMART TRAILER 750",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12649"
+    }
+  }
+}

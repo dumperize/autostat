@@ -1,1 +1,29 @@
-{"id": "TAGANAIAVTO", "names": [{"name": "TAGANAI AVTO", "threshold": 0.85}, {"name": "ТАГАНАИ АВТО", "threshold": 0.85}], "models": {"OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}}}
+{
+  "id": "TAGANAIAVTO",
+  "names": [
+    {
+      "name": "TAGANAI AVTO",
+      "threshold": 0.85
+    },
+    {
+      "name": "ТАГАНАИ АВТО",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "OTHER": {
+      "id": "OTHER",
+      "names": [
+        {
+          "name": "OTHER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОТХЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "15387"
+    }
+  }
+}

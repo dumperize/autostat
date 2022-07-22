@@ -1,1 +1,175 @@
-{"id": "TDKURGANSKIEPRICEPI", "names": [{"name": "TD KURGANSKIE PRICEPI", "threshold": 0.85}, {"name": "ТД КУРГАНСКИЕ ПРИЦЕПИ", "threshold": 0.85}], "models": {"821300": {"id": "821300", "names": [{"name": "821300", "threshold": 1}]}, "82130000000": {"id": "82130000000", "names": [{"name": "82130000000", "threshold": 1}]}, "821301": {"id": "821301", "names": [{"name": "821301", "threshold": 1}]}, "821303": {"id": "821303", "names": [{"name": "821303", "threshold": 1}]}, "821305": {"id": "821305", "names": [{"name": "821305", "threshold": 1}]}, "821307": {"id": "821307", "names": [{"name": "821307", "threshold": 1}]}, "82132E": {"id": "82132E", "names": [{"name": "82132E", "threshold": 1}]}, "8213A5": {"id": "8213A5", "names": [{"name": "8213A5", "threshold": 1}]}, "8213A7": {"id": "8213A7", "names": [{"name": "8213A7", "threshold": 1}]}, "8213B5": {"id": "8213B5", "names": [{"name": "8213B5", "threshold": 1}]}, "8213B7": {"id": "8213B7", "names": [{"name": "8213B7", "threshold": 1}]}, "KP2213": {"id": "KP2213", "names": [{"name": "KP2213", "threshold": 1}]}, "KP2221": {"id": "KP2221", "names": [{"name": "KP2221", "threshold": 1}]}, "KP2231": {"id": "KP2231", "names": [{"name": "KP2231", "threshold": 1}]}, "KP2232": {"id": "KP2232", "names": [{"name": "KP2232", "threshold": 1}]}, "KP2233": {"id": "KP2233", "names": [{"name": "KP2233", "threshold": 1}]}}}
+{
+  "id": "TDKURGANSKIEPRICEPI",
+  "names": [
+    {
+      "name": "TD KURGANSKIE PRICEPI",
+      "threshold": 0.85
+    },
+    {
+      "name": "ТД КУРГАНСКИЕ ПРИЦЕПИ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "821300": {
+      "id": "821300",
+      "names": [
+        {
+          "name": "821300",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15932"
+    },
+    "82130000000": {
+      "id": "82130000000",
+      "names": [
+        {
+          "name": "82130000000",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15036"
+    },
+    "821301": {
+      "id": "821301",
+      "names": [
+        {
+          "name": "821301",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15028"
+    },
+    "821303": {
+      "id": "821303",
+      "names": [
+        {
+          "name": "821303",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15029"
+    },
+    "821305": {
+      "id": "821305",
+      "names": [
+        {
+          "name": "821305",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15030"
+    },
+    "821307": {
+      "id": "821307",
+      "names": [
+        {
+          "name": "821307",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16081"
+    },
+    "82132E": {
+      "id": "82132E",
+      "names": [
+        {
+          "name": "82132E",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15035"
+    },
+    "8213A5": {
+      "id": "8213A5",
+      "names": [
+        {
+          "name": "8213A5",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15031"
+    },
+    "8213A7": {
+      "id": "8213A7",
+      "names": [
+        {
+          "name": "8213A7",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15032"
+    },
+    "8213B5": {
+      "id": "8213B5",
+      "names": [
+        {
+          "name": "8213B5",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15033"
+    },
+    "8213B7": {
+      "id": "8213B7",
+      "names": [
+        {
+          "name": "8213B7",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15034"
+    },
+    "KP2213": {
+      "id": "KP2213",
+      "names": [
+        {
+          "name": "KP2213",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15933"
+    },
+    "KP2221": {
+      "id": "KP2221",
+      "names": [
+        {
+          "name": "KP2221",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15934"
+    },
+    "KP2231": {
+      "id": "KP2231",
+      "names": [
+        {
+          "name": "KP2231",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15935"
+    },
+    "KP2232": {
+      "id": "KP2232",
+      "names": [
+        {
+          "name": "KP2232",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15936"
+    },
+    "KP2233": {
+      "id": "KP2233",
+      "names": [
+        {
+          "name": "KP2233",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15938"
+    }
+  }
+}

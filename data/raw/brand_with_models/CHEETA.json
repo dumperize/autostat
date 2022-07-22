@@ -1,41 +1,43 @@
 {
-    "id": "CHEETA",
-    "names": [
-        {
-            "name": "CHEETA",
-            "threshold": 0.95
-        },
-        {
-            "name": "ЧИТА",
-            "threshold": 0.85
-        }
-    ],
-    "models": {
-        "PHANTOM": {
-            "id": "PHANTOM",
-            "names": [
-                {
-                    "name": "PHANTOM",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ФАНТОМ",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "VOLCAN": {
-            "id": "VOLCAN",
-            "names": [
-                {
-                    "name": "VOLCAN",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ВОЛЦАН",
-                    "threshold": 0.85
-                }
-            ]
-        }
+  "id": "CHEETA",
+  "names": [
+    {
+      "name": "CHEETA",
+      "threshold": 0.95
+    },
+    {
+      "name": "ЧИТА",
+      "threshold": 0.85
     }
+  ],
+  "models": {
+    "PHANTOM": {
+      "id": "PHANTOM",
+      "names": [
+        {
+          "name": "PHANTOM",
+          "threshold": 0.85
+        },
+        {
+          "name": "ФАНТОМ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8782"
+    },
+    "VOLCAN": {
+      "id": "VOLCAN",
+      "names": [
+        {
+          "name": "VOLCAN",
+          "threshold": 0.85
+        },
+        {
+          "name": "ВОЛЦАН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8783"
+    }
+  }
 }

@@ -1,1 +1,365 @@
-{"id": "DODGE", "names": [{"name": "DODGE", "threshold": 0.85}, {"name": "ДОДГЕ", "threshold": 0.85}], "models": {"ARIES": {"id": "ARIES", "names": [{"name": "ARIES", "threshold": 0.85}, {"name": "АРИЕС", "threshold": 0.85}]}, "AVENGER": {"id": "AVENGER", "names": [{"name": "AVENGER", "threshold": 0.85}, {"name": "АВЕНГЕР", "threshold": 0.85}]}, "CALIBER": {"id": "CALIBER", "names": [{"name": "CALIBER", "threshold": 0.85}, {"name": "ЦАЛИБЕР", "threshold": 0.85}]}, "CARAVAN": {"id": "CARAVAN", "names": [{"name": "CARAVAN", "threshold": 0.85}, {"name": "ЦАРАВАН", "threshold": 0.85}]}, "CHALLENGER": {"id": "CHALLENGER", "names": [{"name": "CHALLENGER", "threshold": 0.85}, {"name": "ЦХАЛЛЕНГЕР", "threshold": 0.85}]}, "CHARGER": {"id": "CHARGER", "names": [{"name": "CHARGER", "threshold": 0.85}, {"name": "ЦХАРГЕР", "threshold": 0.85}]}, "COLT": {"id": "COLT", "names": [{"name": "COLT", "threshold": 0.93}, {"name": "ЦОЛТ", "threshold": 0.93}]}, "DAKOTA": {"id": "DAKOTA", "names": [{"name": "DAKOTA", "threshold": 0.85}, {"name": "ДАКОТА", "threshold": 0.85}]}, "DAYTONA": {"id": "DAYTONA", "names": [{"name": "DAYTONA", "threshold": 0.85}, {"name": "ДАЫТОНА", "threshold": 0.85}]}, "DURANGO": {"id": "DURANGO", "names": [{"name": "DURANGO", "threshold": 0.85}, {"name": "ДУРАНГО", "threshold": 0.85}]}, "DYNASTY": {"id": "DYNASTY", "names": [{"name": "DYNASTY", "threshold": 0.85}, {"name": "ДЫНАСТЫ", "threshold": 0.85}]}, "INTREPID": {"id": "INTREPID", "names": [{"name": "INTREPID", "threshold": 0.85}, {"name": "ИНТРЕПИД", "threshold": 0.85}]}, "JOURNEY": {"id": "JOURNEY", "names": [{"name": "JOURNEY", "threshold": 0.85}, {"name": "ЙОУРНЕЫ", "threshold": 0.85}]}, "MAGNUM": {"id": "MAGNUM", "names": [{"name": "MAGNUM", "threshold": 0.85}, {"name": "МАГНУМ", "threshold": 0.85}]}, "NEON": {"id": "NEON", "names": [{"name": "NEON", "threshold": 0.93}, {"name": "НЕОН", "threshold": 0.93}]}, "NITRO": {"id": "NITRO", "names": [{"name": "NITRO", "threshold": 0.85}, {"name": "НИТРО", "threshold": 0.85}]}, "RAIDER": {"id": "RAIDER", "names": [{"name": "RAIDER", "threshold": 0.85}, {"name": "РАИДЕР", "threshold": 0.85}]}, "RAM": {"id": "RAM", "names": [{"name": "RAM", "threshold": 0.97}, {"name": "РАМ", "threshold": 0.97}]}, "RAMVAN": {"id": "RAMVAN", "names": [{"name": "RAM VAN", "threshold": 0.85}, {"name": "РАМ ВАН", "threshold": 0.85}]}, "SHADOW": {"id": "SHADOW", "names": [{"name": "SHADOW", "threshold": 0.85}, {"name": "СХАДОW", "threshold": 0.85}]}, "SPIRIT": {"id": "SPIRIT", "names": [{"name": "SPIRIT", "threshold": 0.85}, {"name": "СПИРИТ", "threshold": 0.85}]}, "SPRINTER": {"id": "SPRINTER", "names": [{"name": "SPRINTER", "threshold": 0.85}, {"name": "СПРИНТЕР", "threshold": 0.85}]}, "STEALTH": {"id": "STEALTH", "names": [{"name": "STEALTH", "threshold": 0.85}, {"name": "СТЕАЛТХ", "threshold": 0.85}]}, "STRATUS": {"id": "STRATUS", "names": [{"name": "STRATUS", "threshold": 0.85}, {"name": "СТРАТУС", "threshold": 0.85}]}, "VIPER": {"id": "VIPER", "names": [{"name": "VIPER", "threshold": 0.85}, {"name": "ВИПЕР", "threshold": 0.85}]}}}
+{
+  "id": "DODGE",
+  "names": [
+    {
+      "name": "DODGE",
+      "threshold": 0.85
+    },
+    {
+      "name": "ДОДГЕ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "ARIES": {
+      "id": "ARIES",
+      "names": [
+        {
+          "name": "ARIES",
+          "threshold": 0.85
+        },
+        {
+          "name": "АРИЕС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "795"
+    },
+    "AVENGER": {
+      "id": "AVENGER",
+      "names": [
+        {
+          "name": "AVENGER",
+          "threshold": 0.85
+        },
+        {
+          "name": "АВЕНГЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "797"
+    },
+    "CALIBER": {
+      "id": "CALIBER",
+      "names": [
+        {
+          "name": "CALIBER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦАЛИБЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "798"
+    },
+    "CARAVAN": {
+      "id": "CARAVAN",
+      "names": [
+        {
+          "name": "CARAVAN",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦАРАВАН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "799"
+    },
+    "CHALLENGER": {
+      "id": "CHALLENGER",
+      "names": [
+        {
+          "name": "CHALLENGER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦХАЛЛЕНГЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "800"
+    },
+    "CHARGER": {
+      "id": "CHARGER",
+      "names": [
+        {
+          "name": "CHARGER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦХАРГЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "801"
+    },
+    "COLT": {
+      "id": "COLT",
+      "names": [
+        {
+          "name": "COLT",
+          "threshold": 0.93
+        },
+        {
+          "name": "ЦОЛТ",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "802"
+    },
+    "DAKOTA": {
+      "id": "DAKOTA",
+      "names": [
+        {
+          "name": "DAKOTA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДАКОТА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "803"
+    },
+    "DAYTONA": {
+      "id": "DAYTONA",
+      "names": [
+        {
+          "name": "DAYTONA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДАЙТОНА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "804"
+    },
+    "DURANGO": {
+      "id": "DURANGO",
+      "names": [
+        {
+          "name": "DURANGO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДУРАНГО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "805"
+    },
+    "DYNASTY": {
+      "id": "DYNASTY",
+      "names": [
+        {
+          "name": "DYNASTY",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДИНАСТИ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "806"
+    },
+    "INTREPID": {
+      "id": "INTREPID",
+      "names": [
+        {
+          "name": "INTREPID",
+          "threshold": 0.85
+        },
+        {
+          "name": "ИНТРЕПИД",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "807"
+    },
+    "JOURNEY": {
+      "id": "JOURNEY",
+      "names": [
+        {
+          "name": "JOURNEY",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДЖОРНЕЙ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "808"
+    },
+    "MAGNUM": {
+      "id": "MAGNUM",
+      "names": [
+        {
+          "name": "MAGNUM",
+          "threshold": 0.85
+        },
+        {
+          "name": "МАГНУМ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "809"
+    },
+    "NEON": {
+      "id": "NEON",
+      "names": [
+        {
+          "name": "NEON",
+          "threshold": 0.93
+        },
+        {
+          "name": "НЕОН",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "810"
+    },
+    "NITRO": {
+      "id": "NITRO",
+      "names": [
+        {
+          "name": "NITRO",
+          "threshold": 0.85
+        },
+        {
+          "name": "НИТРО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "811"
+    },
+    "RAIDER": {
+      "id": "RAIDER",
+      "names": [
+        {
+          "name": "RAIDER",
+          "threshold": 0.85
+        },
+        {
+          "name": "РАИДЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "813"
+    },
+    "RAM": {
+      "id": "RAM",
+      "names": [
+        {
+          "name": "RAM",
+          "threshold": 0.97
+        },
+        {
+          "name": "РАМ",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "814"
+    },
+    "RAMVAN": {
+      "id": "RAMVAN",
+      "names": [
+        {
+          "name": "RAM VAN",
+          "threshold": 0.85
+        },
+        {
+          "name": "РАМ ВАН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1601"
+    },
+    "SHADOW": {
+      "id": "SHADOW",
+      "names": [
+        {
+          "name": "SHADOW",
+          "threshold": 0.85
+        },
+        {
+          "name": "СХАДОW",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "815"
+    },
+    "SPIRIT": {
+      "id": "SPIRIT",
+      "names": [
+        {
+          "name": "SPIRIT",
+          "threshold": 0.85
+        },
+        {
+          "name": "СПИРИТ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "816"
+    },
+    "SPRINTER": {
+      "id": "SPRINTER",
+      "names": [
+        {
+          "name": "SPRINTER",
+          "threshold": 0.85
+        },
+        {
+          "name": "СПРИНТЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1602"
+    },
+    "STEALTH": {
+      "id": "STEALTH",
+      "names": [
+        {
+          "name": "STEALTH",
+          "threshold": 0.85
+        },
+        {
+          "name": "СТЕАЛТХ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "817"
+    },
+    "STRATUS": {
+      "id": "STRATUS",
+      "names": [
+        {
+          "name": "STRATUS",
+          "threshold": 0.85
+        },
+        {
+          "name": "СТРАТУС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "818"
+    },
+    "VIPER": {
+      "id": "VIPER",
+      "names": [
+        {
+          "name": "VIPER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ВИПЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "819"
+    }
+  }
+}

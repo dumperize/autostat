@@ -1,1 +1,445 @@
-{"id": "GRAZ", "names": [{"name": "GRAZ", "threshold": 0.93}, {"name": "ГРАЗ", "threshold": 0.93}], "models": {"PC86381201": {"id": "PC86381201", "names": [{"name": "PC 8638 12 01", "threshold": 1}]}, "PC86381202": {"id": "PC86381202", "names": [{"name": "PC 8638 12 02", "threshold": 1}]}, "PC86391": {"id": "PC86391", "names": [{"name": "PC 86391", "threshold": 1}]}, "PC863911001": {"id": "PC863911001", "names": [{"name": "PC 86391 10 01", "threshold": 1}]}, "PC86531": {"id": "PC86531", "names": [{"name": "PC 86531", "threshold": 1}]}, "PPC912502": {"id": "PPC912502", "names": [{"name": "PPC 912502", "threshold": 1}]}, "PPC912503": {"id": "PPC912503", "names": [{"name": "PPC 912503", "threshold": 1}]}, "PPC912504": {"id": "PPC912504", "names": [{"name": "PPC 912504", "threshold": 1}]}, "PPC912505": {"id": "PPC912505", "names": [{"name": "PPC 912505", "threshold": 1}]}, "PPC912506": {"id": "PPC912506", "names": [{"name": "PPC 912506", "threshold": 1}]}, "PPC912507": {"id": "PPC912507", "names": [{"name": "PPC 912507", "threshold": 1}]}, "PPC91315": {"id": "PPC91315", "names": [{"name": "PPC 91315", "threshold": 1}]}, "PPC91323A10": {"id": "PPC91323A10", "names": [{"name": "PPC 91323A 10", "threshold": 1}]}, "PPC91374": {"id": "PPC91374", "names": [{"name": "PPC 91374", "threshold": 1}]}, "PPC91375": {"id": "PPC91375", "names": [{"name": "PPC 91375", "threshold": 1}]}, "PPC91381": {"id": "PPC91381", "names": [{"name": "PPC 91381", "threshold": 1}]}, "PPC91386": {"id": "PPC91386", "names": [{"name": "PPC 91386", "threshold": 1}]}, "PPC91389": {"id": "PPC91389", "names": [{"name": "PPC 91389", "threshold": 1}]}, "PPC9138C": {"id": "PPC9138C", "names": [{"name": "PPC 9138C", "threshold": 1}]}, "PPC91391": {"id": "PPC91391", "names": [{"name": "PPC 91391", "threshold": 1}]}, "PPC91392": {"id": "PPC91392", "names": [{"name": "PPC 91392", "threshold": 1}]}, "PPC9139410": {"id": "PPC9139410", "names": [{"name": "PPC 91394 10", "threshold": 1}]}, "PPC91399": {"id": "PPC91399", "names": [{"name": "PPC 91399", "threshold": 1}]}, "PPC91399C": {"id": "PPC91399C", "names": [{"name": "PPC 91399C", "threshold": 1}]}, "PPC9239910": {"id": "PPC9239910", "names": [{"name": "PPC 92399 10", "threshold": 1}]}, "PPC96221": {"id": "PPC96221", "names": [{"name": "PPC 96221", "threshold": 1}]}, "PPC9622103": {"id": "PPC9622103", "names": [{"name": "PPC 96221 03", "threshold": 1}]}, "PPC9622104": {"id": "PPC9622104", "names": [{"name": "PPC 96221 04", "threshold": 1}]}, "PPC9622106": {"id": "PPC9622106", "names": [{"name": "PPC 96221 06", "threshold": 1}]}, "PPC9622107": {"id": "PPC9622107", "names": [{"name": "PPC 96221 07", "threshold": 1}]}, "PPC96222": {"id": "PPC96222", "names": [{"name": "PPC 96222", "threshold": 1}]}, "PPC9622202": {"id": "PPC9622202", "names": [{"name": "PPC 96222 02", "threshold": 1}]}, "PPC96223": {"id": "PPC96223", "names": [{"name": "PPC 96223", "threshold": 1}]}, "PPC96226": {"id": "PPC96226", "names": [{"name": "PPC 96226", "threshold": 1}]}, "PPC9622603": {"id": "PPC9622603", "names": [{"name": "PPC 96226 03", "threshold": 1}]}, "PPC9622604": {"id": "PPC9622604", "names": [{"name": "PPC 96226 04", "threshold": 1}]}, "PPC96227": {"id": "PPC96227", "names": [{"name": "PPC 96227", "threshold": 1}]}, "PPC9622703": {"id": "PPC9622703", "names": [{"name": "PPC 96227 03", "threshold": 1}]}, "PPC9622704": {"id": "PPC9622704", "names": [{"name": "PPC 96227 04", "threshold": 1}]}, "PPC96231": {"id": "PPC96231", "names": [{"name": "PPC 96231", "threshold": 1}]}, "PPC9623103": {"id": "PPC9623103", "names": [{"name": "PPC 96231 03", "threshold": 1}]}, "PPC9623105": {"id": "PPC9623105", "names": [{"name": "PPC 96231 05", "threshold": 1}]}, "PPC9623210": {"id": "PPC9623210", "names": [{"name": "PPC 96232 10", "threshold": 1}]}}}
+{
+  "id": "GRAZ",
+  "names": [
+    {
+      "name": "GRAZ",
+      "threshold": 0.93
+    },
+    {
+      "name": "ГРАЗ",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "PC86381201": {
+      "id": "PC86381201",
+      "names": [
+        {
+          "name": "PC 8638 12 01",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10695"
+    },
+    "PC86381202": {
+      "id": "PC86381202",
+      "names": [
+        {
+          "name": "PC 8638 12 02",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10696"
+    },
+    "PC86391": {
+      "id": "PC86391",
+      "names": [
+        {
+          "name": "PC 86391",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10697"
+    },
+    "PC863911001": {
+      "id": "PC863911001",
+      "names": [
+        {
+          "name": "PC 86391 10 01",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10699"
+    },
+    "PC86531": {
+      "id": "PC86531",
+      "names": [
+        {
+          "name": "PC 86531",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10700"
+    },
+    "PPC912502": {
+      "id": "PPC912502",
+      "names": [
+        {
+          "name": "PPC 912502",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10701"
+    },
+    "PPC912503": {
+      "id": "PPC912503",
+      "names": [
+        {
+          "name": "PPC 912503",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10702"
+    },
+    "PPC912504": {
+      "id": "PPC912504",
+      "names": [
+        {
+          "name": "PPC 912504",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10703"
+    },
+    "PPC912505": {
+      "id": "PPC912505",
+      "names": [
+        {
+          "name": "PPC 912505",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15692"
+    },
+    "PPC912506": {
+      "id": "PPC912506",
+      "names": [
+        {
+          "name": "PPC 912506",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10704"
+    },
+    "PPC912507": {
+      "id": "PPC912507",
+      "names": [
+        {
+          "name": "PPC 912507",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10705"
+    },
+    "PPC91315": {
+      "id": "PPC91315",
+      "names": [
+        {
+          "name": "PPC 91315",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15693"
+    },
+    "PPC91323A10": {
+      "id": "PPC91323A10",
+      "names": [
+        {
+          "name": "PPC 91323A 10",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16178"
+    },
+    "PPC91374": {
+      "id": "PPC91374",
+      "names": [
+        {
+          "name": "PPC 91374",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15694"
+    },
+    "PPC91375": {
+      "id": "PPC91375",
+      "names": [
+        {
+          "name": "PPC 91375",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15695"
+    },
+    "PPC91381": {
+      "id": "PPC91381",
+      "names": [
+        {
+          "name": "PPC 91381",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15696"
+    },
+    "PPC91386": {
+      "id": "PPC91386",
+      "names": [
+        {
+          "name": "PPC 91386",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15697"
+    },
+    "PPC91389": {
+      "id": "PPC91389",
+      "names": [
+        {
+          "name": "PPC 91389",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15698"
+    },
+    "PPC9138C": {
+      "id": "PPC9138C",
+      "names": [
+        {
+          "name": "PPC 9138C",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15699"
+    },
+    "PPC91391": {
+      "id": "PPC91391",
+      "names": [
+        {
+          "name": "PPC 91391",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15700"
+    },
+    "PPC91392": {
+      "id": "PPC91392",
+      "names": [
+        {
+          "name": "PPC 91392",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15701"
+    },
+    "PPC9139410": {
+      "id": "PPC9139410",
+      "names": [
+        {
+          "name": "PPC 91394 10",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16179"
+    },
+    "PPC91399": {
+      "id": "PPC91399",
+      "names": [
+        {
+          "name": "PPC 91399",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15702"
+    },
+    "PPC91399C": {
+      "id": "PPC91399C",
+      "names": [
+        {
+          "name": "PPC 91399C",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15703"
+    },
+    "PPC9239910": {
+      "id": "PPC9239910",
+      "names": [
+        {
+          "name": "PPC 92399 10",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18905"
+    },
+    "PPC96221": {
+      "id": "PPC96221",
+      "names": [
+        {
+          "name": "PPC 96221",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15704"
+    },
+    "PPC9622103": {
+      "id": "PPC9622103",
+      "names": [
+        {
+          "name": "PPC 96221 03",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10706"
+    },
+    "PPC9622104": {
+      "id": "PPC9622104",
+      "names": [
+        {
+          "name": "PPC 96221 04",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10707"
+    },
+    "PPC9622106": {
+      "id": "PPC9622106",
+      "names": [
+        {
+          "name": "PPC 96221 06",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10708"
+    },
+    "PPC9622107": {
+      "id": "PPC9622107",
+      "names": [
+        {
+          "name": "PPC 96221 07",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10709"
+    },
+    "PPC96222": {
+      "id": "PPC96222",
+      "names": [
+        {
+          "name": "PPC 96222",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10710"
+    },
+    "PPC9622202": {
+      "id": "PPC9622202",
+      "names": [
+        {
+          "name": "PPC 96222 02",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10711"
+    },
+    "PPC96223": {
+      "id": "PPC96223",
+      "names": [
+        {
+          "name": "PPC 96223",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15945"
+    },
+    "PPC96226": {
+      "id": "PPC96226",
+      "names": [
+        {
+          "name": "PPC 96226",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15705"
+    },
+    "PPC9622603": {
+      "id": "PPC9622603",
+      "names": [
+        {
+          "name": "PPC 96226 03",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10713"
+    },
+    "PPC9622604": {
+      "id": "PPC9622604",
+      "names": [
+        {
+          "name": "PPC 96226 04",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10714"
+    },
+    "PPC96227": {
+      "id": "PPC96227",
+      "names": [
+        {
+          "name": "PPC 96227",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15706"
+    },
+    "PPC9622703": {
+      "id": "PPC9622703",
+      "names": [
+        {
+          "name": "PPC 96227 03",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "9866"
+    },
+    "PPC9622704": {
+      "id": "PPC9622704",
+      "names": [
+        {
+          "name": "PPC 96227 04",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "9867"
+    },
+    "PPC96231": {
+      "id": "PPC96231",
+      "names": [
+        {
+          "name": "PPC 96231",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15707"
+    },
+    "PPC9623103": {
+      "id": "PPC9623103",
+      "names": [
+        {
+          "name": "PPC 96231 03",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "9868"
+    },
+    "PPC9623105": {
+      "id": "PPC9623105",
+      "names": [
+        {
+          "name": "PPC 96231 05",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "9869"
+    },
+    "PPC9623210": {
+      "id": "PPC9623210",
+      "names": [
+        {
+          "name": "PPC 96232 10",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "9871"
+    }
+  }
+}

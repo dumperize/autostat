@@ -1,1 +1,181 @@
-{"id": "KAESSBOHRER", "names": [{"name": "KAESSBOHRER", "threshold": 0.85}, {"name": "КАЕССБОХРЕР", "threshold": 0.85}], "models": {"CS": {"id": "CS", "names": [{"name": "CS", "threshold": 1}, {"name": "ЦС", "threshold": 1}]}, "DL": {"id": "DL", "names": [{"name": "DL", "threshold": 1}, {"name": "ДЛ", "threshold": 1}]}, "FL": {"id": "FL", "names": [{"name": "FL", "threshold": 1}, {"name": "ФЛ", "threshold": 1}]}, "LB3E": {"id": "LB3E", "names": [{"name": "LB3E", "threshold": 1}]}, "LB4E": {"id": "LB4E", "names": [{"name": "LB4E", "threshold": 1}]}, "LB5E": {"id": "LB5E", "names": [{"name": "LB5E", "threshold": 1}]}, "LB6E": {"id": "LB6E", "names": [{"name": "LB6E", "threshold": 1}]}, "OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}, "RUSLAN": {"id": "RUSLAN", "names": [{"name": "RUSLAN", "threshold": 0.85}, {"name": "РУСЛАН", "threshold": 0.85}]}, "SSL": {"id": "SSL", "names": [{"name": "SSL", "threshold": 0.97}, {"name": "ССЛ", "threshold": 0.97}]}, "STB": {"id": "STB", "names": [{"name": "STB", "threshold": 0.97}, {"name": "СТБ", "threshold": 0.97}]}, "STS": {"id": "STS", "names": [{"name": "STS", "threshold": 0.97}, {"name": "СТС", "threshold": 0.97}]}, "XS": {"id": "XS", "names": [{"name": "XS", "threshold": 1}, {"name": "XС", "threshold": 1}]}}}
+{
+  "id": "KAESSBOHRER",
+  "names": [
+    {
+      "name": "KAESSBOHRER",
+      "threshold": 0.85
+    },
+    {
+      "name": "КАЕССБОХРЕР",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "CS": {
+      "id": "CS",
+      "names": [
+        {
+          "name": "CS",
+          "threshold": 1
+        },
+        {
+          "name": "ЦС",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15717"
+    },
+    "DL": {
+      "id": "DL",
+      "names": [
+        {
+          "name": "DL",
+          "threshold": 1
+        },
+        {
+          "name": "ДЛ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15718"
+    },
+    "FL": {
+      "id": "FL",
+      "names": [
+        {
+          "name": "FL",
+          "threshold": 1
+        },
+        {
+          "name": "ФЛ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15719"
+    },
+    "LB3E": {
+      "id": "LB3E",
+      "names": [
+        {
+          "name": "LB3E",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15720"
+    },
+    "LB4E": {
+      "id": "LB4E",
+      "names": [
+        {
+          "name": "LB4E",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15721"
+    },
+    "LB5E": {
+      "id": "LB5E",
+      "names": [
+        {
+          "name": "LB5E",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15722"
+    },
+    "LB6E": {
+      "id": "LB6E",
+      "names": [
+        {
+          "name": "LB6E",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15723"
+    },
+    "OTHER": {
+      "id": "OTHER",
+      "names": [
+        {
+          "name": "OTHER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОТХЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "3451"
+    },
+    "RUSLAN": {
+      "id": "RUSLAN",
+      "names": [
+        {
+          "name": "RUSLAN",
+          "threshold": 0.85
+        },
+        {
+          "name": "РУСЛАН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "13820"
+    },
+    "SSL": {
+      "id": "SSL",
+      "names": [
+        {
+          "name": "SSL",
+          "threshold": 0.97
+        },
+        {
+          "name": "ССЛ",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "15724"
+    },
+    "STB": {
+      "id": "STB",
+      "names": [
+        {
+          "name": "STB",
+          "threshold": 0.97
+        },
+        {
+          "name": "СТБ",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "15725"
+    },
+    "STS": {
+      "id": "STS",
+      "names": [
+        {
+          "name": "STS",
+          "threshold": 0.97
+        },
+        {
+          "name": "СТС",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "15726"
+    },
+    "XS": {
+      "id": "XS",
+      "names": [
+        {
+          "name": "XS",
+          "threshold": 1
+        },
+        {
+          "name": "XС",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "13821"
+    }
+  }
+}

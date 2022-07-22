@@ -1,1 +1,95 @@
-{"id": "BEST", "names": [{"name": "BEST", "threshold": 0.93}, {"name": "БЕСТ", "threshold": 0.93}], "models": {"718716": {"id": "718716", "names": [{"name": "718716", "threshold": 1}]}, "718717": {"id": "718717", "names": [{"name": "718717", "threshold": 1}]}, "71871B": {"id": "71871B", "names": [{"name": "71871B", "threshold": 1}]}, "718720": {"id": "718720", "names": [{"name": "718720", "threshold": 1}]}, "718723": {"id": "718723", "names": [{"name": "718723", "threshold": 1}]}, "718725": {"id": "718725", "names": [{"name": "718725", "threshold": 1}]}, "718730": {"id": "718730", "names": [{"name": "718730", "threshold": 1}]}, "718740": {"id": "718740", "names": [{"name": "718740", "threshold": 1}]}}}
+{
+  "id": "BEST",
+  "names": [
+    {
+      "name": "BEST",
+      "threshold": 0.93
+    },
+    {
+      "name": "БЕСТ",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "718716": {
+      "id": "718716",
+      "names": [
+        {
+          "name": "718716",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15671"
+    },
+    "718717": {
+      "id": "718717",
+      "names": [
+        {
+          "name": "718717",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15672"
+    },
+    "71871B": {
+      "id": "71871B",
+      "names": [
+        {
+          "name": "71871B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18513"
+    },
+    "718720": {
+      "id": "718720",
+      "names": [
+        {
+          "name": "718720",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15673"
+    },
+    "718723": {
+      "id": "718723",
+      "names": [
+        {
+          "name": "718723",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15674"
+    },
+    "718725": {
+      "id": "718725",
+      "names": [
+        {
+          "name": "718725",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15675"
+    },
+    "718730": {
+      "id": "718730",
+      "names": [
+        {
+          "name": "718730",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15676"
+    },
+    "718740": {
+      "id": "718740",
+      "names": [
+        {
+          "name": "718740",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15677"
+    }
+  }
+}

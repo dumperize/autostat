@@ -1,1 +1,55 @@
-{"id": "TRAILERTECHNOLOGY", "names": [{"name": "TRAILER TECHNOLOGY", "threshold": 0.85}, {"name": "ТРАИЛЕР ТЕЦХНОЛОГЫ", "threshold": 0.85}], "models": {"TT102L": {"id": "TT102L", "names": [{"name": "TT102L", "threshold": 1}]}, "TT103L": {"id": "TT103L", "names": [{"name": "TT103L", "threshold": 1}]}, "TT107B": {"id": "TT107B", "names": [{"name": "TT107B", "threshold": 1}]}, "TT209B05": {"id": "TT209B05", "names": [{"name": "TT209B 05", "threshold": 1}]}}}
+{
+  "id": "TRAILERTECHNOLOGY",
+  "names": [
+    {
+      "name": "TRAILER TECHNOLOGY",
+      "threshold": 0.85
+    },
+    {
+      "name": "ТРАИЛЕР ТЕХНОЛОДЖИ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "TT102L": {
+      "id": "TT102L",
+      "names": [
+        {
+          "name": "TT102L",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12751"
+    },
+    "TT103L": {
+      "id": "TT103L",
+      "names": [
+        {
+          "name": "TT103L",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12752"
+    },
+    "TT107B": {
+      "id": "TT107B",
+      "names": [
+        {
+          "name": "TT107B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12753"
+    },
+    "TT209B05": {
+      "id": "TT209B05",
+      "names": [
+        {
+          "name": "TT209B 05",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "19087"
+    }
+  }
+}

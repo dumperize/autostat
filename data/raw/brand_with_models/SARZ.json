@@ -1,1 +1,55 @@
-{"id": "SARZ", "names": [{"name": "SARZ", "threshold": 0.93}, {"name": "САРЗ", "threshold": 0.93}], "models": {"3270": {"id": "3270", "names": [{"name": "3270", "threshold": 1}]}, "3280": {"id": "3280", "names": [{"name": "3280", "threshold": 1}]}, "3976": {"id": "3976", "names": [{"name": "3976", "threshold": 1}]}, "828512": {"id": "828512", "names": [{"name": "8285 12", "threshold": 1}]}}}
+{
+  "id": "SARZ",
+  "names": [
+    {
+      "name": "SARZ",
+      "threshold": 0.93
+    },
+    {
+      "name": "САРЗ",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "3270": {
+      "id": "3270",
+      "names": [
+        {
+          "name": "3270",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2197"
+    },
+    "3280": {
+      "id": "3280",
+      "names": [
+        {
+          "name": "3280",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2198"
+    },
+    "3976": {
+      "id": "3976",
+      "names": [
+        {
+          "name": "3976",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2199"
+    },
+    "828512": {
+      "id": "828512",
+      "names": [
+        {
+          "name": "8285 12",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12707"
+    }
+  }
+}

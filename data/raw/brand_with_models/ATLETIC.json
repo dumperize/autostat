@@ -1,1 +1,55 @@
-{"id": "ATLETIC", "names": [{"name": "ATLETIC", "threshold": 0.85}, {"name": "АТЛЕТИЦ", "threshold": 0.85}], "models": {"520": {"id": "520", "names": [{"name": "520", "threshold": 1}]}, "712012": {"id": "712012", "names": [{"name": "712012", "threshold": 1}]}, "712018": {"id": "712018", "names": [{"name": "712018", "threshold": 1}]}, "712022": {"id": "712022", "names": [{"name": "712022", "threshold": 1}]}}}
+{
+  "id": "ATLETIC",
+  "names": [
+    {
+      "name": "ATLETIC",
+      "threshold": 0.85
+    },
+    {
+      "name": "АТЛЕТИЦ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "520": {
+      "id": "520",
+      "names": [
+        {
+          "name": "520",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15626"
+    },
+    "712012": {
+      "id": "712012",
+      "names": [
+        {
+          "name": "712012",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15627"
+    },
+    "712018": {
+      "id": "712018",
+      "names": [
+        {
+          "name": "712018",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15628"
+    },
+    "712022": {
+      "id": "712022",
+      "names": [
+        {
+          "name": "712022",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15629"
+    }
+  }
+}

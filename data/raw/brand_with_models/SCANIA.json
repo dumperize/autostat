@@ -1,129 +1,139 @@
 {
-    "id": "SCANIA",
-    "names": [
-        {
-            "name": "SCANIA",
-            "threshold": 0.85
-        },
-        {
-            "name": "СКАНИЯ",
-            "threshold": 0.85
-        }
-    ],
-    "models": {
-        "G": {
-            "id": "G",
-            "names": [
-                {
-                    "name": "G",
-                    "threshold": 1
-                }
-            ]
-        },
-        "IRIZAR": {
-            "id": "IRIZAR",
-            "names": [
-                {
-                    "name": "IRIZAR",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ИРИЗАР",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "K380/A80": {
-            "id": "K380/A80",
-            "names": [
-                {
-                    "name": "K380",
-                    "threshold": 1
-                },
-                {
-                    "name": "A80",
-                    "threshold": 1
-                }
-            ]
-        },
-        "OMNILINE": {
-            "id": "OMNILINE",
-            "names": [
-                {
-                    "name": "OMNILINE",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ОМНИЛАЙН",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "OMNILINK": {
-            "id": "OMNILINK",
-            "names": [
-                {
-                    "name": "OMNILINK",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ОМНИЛИНК",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "P": {
-            "id": "P",
-            "names": [
-                {
-                    "name": "P",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R": {
-            "id": "R",
-            "names": [
-                {
-                    "name": "R",
-                    "threshold": 1
-                }
-            ]
-        },
-        "S": {
-            "id": "S",
-            "names": [
-                {
-                    "name": "S",
-                    "threshold": 1
-                }
-            ]
-        },
-        "SCANTAT": {
-            "id": "SCANTAT",
-            "names": [
-                {
-                    "name": "SCANTAT",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "СКАНТАТ",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "T": {
-            "id": "T",
-            "names": [
-                {
-                    "name": "T",
-                    "threshold": 1
-                },
-                {
-                    "name": "Т",
-                    "threshold": 1
-                }
-            ]
-        }
+  "id": "SCANIA",
+  "names": [
+    {
+      "name": "SCANIA",
+      "threshold": 0.85
+    },
+    {
+      "name": "СКАНИЯ",
+      "threshold": 0.85
     }
+  ],
+  "models": {
+    "G": {
+      "id": "G",
+      "names": [
+        {
+          "name": "G",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1745"
+    },
+    "IRIZAR": {
+      "id": "IRIZAR",
+      "names": [
+        {
+          "name": "IRIZAR",
+          "threshold": 0.85
+        },
+        {
+          "name": "ИРИЗАР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2201"
+    },
+    "K380/A80": {
+      "id": "K380/A80",
+      "names": [
+        {
+          "name": "K380",
+          "threshold": 1
+        },
+        {
+          "name": "A80",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3899"
+    },
+    "OMNILINE": {
+      "id": "OMNILINE",
+      "names": [
+        {
+          "name": "OMNILINE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОМНИЛАЙН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2203"
+    },
+    "OMNILINK": {
+      "id": "OMNILINK",
+      "names": [
+        {
+          "name": "OMNILINK",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОМНИЛИНК",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2204"
+    },
+    "P": {
+      "id": "P",
+      "names": [
+        {
+          "name": "P",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1747"
+    },
+    "R": {
+      "id": "R",
+      "names": [
+        {
+          "name": "R",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1748"
+    },
+    "S": {
+      "id": "S",
+      "names": [
+        {
+          "name": "S",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16029"
+    },
+    "SCANTAT": {
+      "id": "SCANTAT",
+      "names": [
+        {
+          "name": "SCANTAT",
+          "threshold": 0.85
+        },
+        {
+          "name": "СКАНТАТ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "3900"
+    },
+    "T": {
+      "id": "T",
+      "names": [
+        {
+          "name": "T",
+          "threshold": 1
+        },
+        {
+          "name": "Т",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1749"
+    }
+  }
 }

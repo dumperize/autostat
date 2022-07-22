@@ -1,1 +1,669 @@
-{"id": "SUZUKI", "names": [{"name": "SUZUKI", "threshold": 0.85}, {"name": "СУЗУКИ", "threshold": 0.85}], "models": {"AERIO": {"id": "AERIO", "names": [{"name": "AERIO", "threshold": 0.85}, {"name": "АЕРИО", "threshold": 0.85}]}, "ALTO": {"id": "ALTO", "names": [{"name": "ALTO", "threshold": 0.93}, {"name": "АЛТО", "threshold": 0.93}]}, "AN": {"id": "AN", "names": [{"name": "AN", "threshold": 1}, {"name": "АН", "threshold": 1}]}, "BALENO": {"id": "BALENO", "names": [{"name": "BALENO", "threshold": 0.85}, {"name": "БАЛЕНО", "threshold": 0.85}]}, "BOULEVARD": {"id": "BOULEVARD", "names": [{"name": "BOULEVARD", "threshold": 0.85}, {"name": "БОУЛЕВАРД", "threshold": 0.85}]}, "BURGMAN": {"id": "BURGMAN", "names": [{"name": "BURGMAN", "threshold": 0.85}, {"name": "БУРГМАН", "threshold": 0.85}]}, "CULTUS": {"id": "CULTUS", "names": [{"name": "CULTUS", "threshold": 0.85}, {"name": "ЦУЛТУС", "threshold": 0.85}]}, "DLVSTROM": {"id": "DLVSTROM", "names": [{"name": "DL V STROM", "threshold": 0.85}, {"name": "ДЛ В СТРОМ", "threshold": 0.85}]}, "DR": {"id": "DR", "names": [{"name": "DR", "threshold": 1}, {"name": "ДР", "threshold": 1}]}, "DRZ": {"id": "DRZ", "names": [{"name": "DR Z", "threshold": 0.93}, {"name": "ДР З", "threshold": 0.93}]}, "EN": {"id": "EN", "names": [{"name": "EN", "threshold": 1}, {"name": "ЕН", "threshold": 1}]}, "ESCUDO": {"id": "ESCUDO", "names": [{"name": "ESCUDO", "threshold": 0.85}, {"name": "ЕСЦУДО", "threshold": 0.85}]}, "GN": {"id": "GN", "names": [{"name": "GN", "threshold": 1}, {"name": "ГН", "threshold": 1}]}, "GRANDVITARA": {"id": "GRANDVITARA", "names": [{"name": "GRAND VITARA", "threshold": 0.85}, {"name": "ГРАНД ВИТАРА", "threshold": 0.85}]}, "GS": {"id": "GS", "names": [{"name": "GS", "threshold": 1}, {"name": "ГС", "threshold": 1}]}, "GSF": {"id": "GSF", "names": [{"name": "GSF", "threshold": 0.97}, {"name": "ГСФ", "threshold": 0.97}]}, "GSR": {"id": "GSR", "names": [{"name": "GSR", "threshold": 0.97}, {"name": "ГСР", "threshold": 0.97}]}, "GSX": {"id": "GSX", "names": [{"name": "GSX", "threshold": 0.97}, {"name": "ГСX", "threshold": 0.97}]}, "GV": {"id": "GV", "names": [{"name": "GV", "threshold": 1}, {"name": "ГВ", "threshold": 1}]}, "GW": {"id": "GW", "names": [{"name": "GW", "threshold": 1}, {"name": "ГW", "threshold": 1}]}, "GZ": {"id": "GZ", "names": [{"name": "GZ", "threshold": 1}, {"name": "ГЗ", "threshold": 1}]}, "HAYABUSA": {"id": "HAYABUSA", "names": [{"name": "HAYABUSA", "threshold": 0.85}, {"name": "ХАЫАБУСА", "threshold": 0.85}]}, "IGNIS": {"id": "IGNIS", "names": [{"name": "IGNIS", "threshold": 0.85}, {"name": "ИГНИС", "threshold": 0.85}]}, "INTRUDER": {"id": "INTRUDER", "names": [{"name": "INTRUDER", "threshold": 0.85}, {"name": "ИНТРУДЕР", "threshold": 0.85}]}, "JIMNY": {"id": "JIMNY", "names": [{"name": "JIMNY", "threshold": 0.85}, {"name": "ЙИМНЫ", "threshold": 0.85}]}, "KIZASHI": {"id": "KIZASHI", "names": [{"name": "KIZASHI", "threshold": 0.85}, {"name": "КИЗАСХИ", "threshold": 0.85}]}, "LIANA": {"id": "LIANA", "names": [{"name": "LIANA", "threshold": 0.85}, {"name": "ЛИАНА", "threshold": 0.85}]}, "OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}, "RF": {"id": "RF", "names": [{"name": "RF", "threshold": 1}, {"name": "РФ", "threshold": 1}]}, "RM": {"id": "RM", "names": [{"name": "RM", "threshold": 1}, {"name": "РМ", "threshold": 1}]}, "RV": {"id": "RV", "names": [{"name": "RV", "threshold": 1}, {"name": "РВ", "threshold": 1}]}, "SFV650": {"id": "SFV650", "names": [{"name": "SFV 650", "threshold": 1}]}, "SPLASH": {"id": "SPLASH", "names": [{"name": "SPLASH", "threshold": 0.85}, {"name": "СПЛАСХ", "threshold": 0.85}]}, "SV": {"id": "SV", "names": [{"name": "SV", "threshold": 1}, {"name": "СВ", "threshold": 1}]}, "SWIFT": {"id": "SWIFT", "names": [{"name": "SWIFT", "threshold": 0.85}, {"name": "СWИФТ", "threshold": 0.85}]}, "SX4": {"id": "SX4", "names": [{"name": "SX4", "threshold": 1}]}, "TL1000": {"id": "TL1000", "names": [{"name": "TL 1000", "threshold": 1}]}, "TR50SD": {"id": "TR50SD", "names": [{"name": "TR 50 SD", "threshold": 1}]}, "TU250": {"id": "TU250", "names": [{"name": "TU 250", "threshold": 1}]}, "VITARA": {"id": "VITARA", "names": [{"name": "VITARA", "threshold": 0.85}, {"name": "ВИТАРА", "threshold": 0.85}]}, "VITARA/GRANDVITARA": {"id": "VITARA/GRANDVITARA", "names": [{"name": "VITARA/GRAND VITARA", "threshold": 0.85}, {"name": "ВИТАРА/ГРАНД ВИТАРА", "threshold": 0.85}]}, "VL": {"id": "VL", "names": [{"name": "VL", "threshold": 1}, {"name": "ВЛ", "threshold": 1}]}, "VS": {"id": "VS", "names": [{"name": "VS", "threshold": 1}, {"name": "ВС", "threshold": 1}]}, "VX800": {"id": "VX800", "names": [{"name": "VX 800", "threshold": 1}]}, "VZ": {"id": "VZ", "names": [{"name": "VZ", "threshold": 1}, {"name": "ВЗ", "threshold": 1}]}, "VZR": {"id": "VZR", "names": [{"name": "VZR", "threshold": 0.97}, {"name": "ВЗР", "threshold": 0.97}]}, "WAGONR": {"id": "WAGONR", "names": [{"name": "WAGON R", "threshold": 0.85}, {"name": "WАГОН Р", "threshold": 0.85}]}, "XF650": {"id": "XF650", "names": [{"name": "XF 650", "threshold": 1}]}, "XL7": {"id": "XL7", "names": [{"name": "XL 7", "threshold": 1}]}}}
+{
+  "id": "SUZUKI",
+  "names": [
+    {
+      "name": "SUZUKI",
+      "threshold": 0.85
+    },
+    {
+      "name": "СУЗУКИ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "AERIO": {
+      "id": "AERIO",
+      "names": [
+        {
+          "name": "AERIO",
+          "threshold": 0.85
+        },
+        {
+          "name": "АЕРИО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "322"
+    },
+    "ALTO": {
+      "id": "ALTO",
+      "names": [
+        {
+          "name": "ALTO",
+          "threshold": 0.93
+        },
+        {
+          "name": "АЛТО",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "323"
+    },
+    "AN": {
+      "id": "AN",
+      "names": [
+        {
+          "name": "AN",
+          "threshold": 1
+        },
+        {
+          "name": "АН",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "11964"
+    },
+    "BALENO": {
+      "id": "BALENO",
+      "names": [
+        {
+          "name": "BALENO",
+          "threshold": 0.85
+        },
+        {
+          "name": "БАЛЕНО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "324"
+    },
+    "BOULEVARD": {
+      "id": "BOULEVARD",
+      "names": [
+        {
+          "name": "BOULEVARD",
+          "threshold": 0.85
+        },
+        {
+          "name": "БОУЛЕВАРД",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2493"
+    },
+    "BURGMAN": {
+      "id": "BURGMAN",
+      "names": [
+        {
+          "name": "BURGMAN",
+          "threshold": 0.85
+        },
+        {
+          "name": "БУРГМАН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "6547"
+    },
+    "CULTUS": {
+      "id": "CULTUS",
+      "names": [
+        {
+          "name": "CULTUS",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦУЛТУС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "325"
+    },
+    "DLVSTROM": {
+      "id": "DLVSTROM",
+      "names": [
+        {
+          "name": "DL V STROM",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДЛ В СТРОМ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2497"
+    },
+    "DR": {
+      "id": "DR",
+      "names": [
+        {
+          "name": "DR",
+          "threshold": 1
+        },
+        {
+          "name": "ДР",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2498"
+    },
+    "DRZ": {
+      "id": "DRZ",
+      "names": [
+        {
+          "name": "DR Z",
+          "threshold": 0.93
+        },
+        {
+          "name": "ДР З",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "8996"
+    },
+    "EN": {
+      "id": "EN",
+      "names": [
+        {
+          "name": "EN",
+          "threshold": 1
+        },
+        {
+          "name": "ЕН",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17365"
+    },
+    "ESCUDO": {
+      "id": "ESCUDO",
+      "names": [
+        {
+          "name": "ESCUDO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЕСЦУДО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "326"
+    },
+    "GN": {
+      "id": "GN",
+      "names": [
+        {
+          "name": "GN",
+          "threshold": 1
+        },
+        {
+          "name": "ГН",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2499"
+    },
+    "GRANDVITARA": {
+      "id": "GRANDVITARA",
+      "names": [
+        {
+          "name": "GRAND VITARA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ГРАНД ВИТАРА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "18641"
+    },
+    "GS": {
+      "id": "GS",
+      "names": [
+        {
+          "name": "GS",
+          "threshold": 1
+        },
+        {
+          "name": "ГС",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2500"
+    },
+    "GSF": {
+      "id": "GSF",
+      "names": [
+        {
+          "name": "GSF",
+          "threshold": 0.97
+        },
+        {
+          "name": "ГСФ",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "2501"
+    },
+    "GSR": {
+      "id": "GSR",
+      "names": [
+        {
+          "name": "GSR",
+          "threshold": 0.97
+        },
+        {
+          "name": "ГСР",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "2502"
+    },
+    "GSX": {
+      "id": "GSX",
+      "names": [
+        {
+          "name": "GSX",
+          "threshold": 0.97
+        },
+        {
+          "name": "ГСX",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "2503"
+    },
+    "GV": {
+      "id": "GV",
+      "names": [
+        {
+          "name": "GV",
+          "threshold": 1
+        },
+        {
+          "name": "ГВ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2504"
+    },
+    "GW": {
+      "id": "GW",
+      "names": [
+        {
+          "name": "GW",
+          "threshold": 1
+        },
+        {
+          "name": "ГW",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "11965"
+    },
+    "GZ": {
+      "id": "GZ",
+      "names": [
+        {
+          "name": "GZ",
+          "threshold": 1
+        },
+        {
+          "name": "ГЗ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "11961"
+    },
+    "HAYABUSA": {
+      "id": "HAYABUSA",
+      "names": [
+        {
+          "name": "HAYABUSA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ХАЙБУСА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8995"
+    },
+    "IGNIS": {
+      "id": "IGNIS",
+      "names": [
+        {
+          "name": "IGNIS",
+          "threshold": 0.85
+        },
+        {
+          "name": "ИГНИС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "327"
+    },
+    "INTRUDER": {
+      "id": "INTRUDER",
+      "names": [
+        {
+          "name": "INTRUDER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ИНТРУДЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2506"
+    },
+    "JIMNY": {
+      "id": "JIMNY",
+      "names": [
+        {
+          "name": "JIMNY",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДЖИМИ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "328"
+    },
+    "KIZASHI": {
+      "id": "KIZASHI",
+      "names": [
+        {
+          "name": "KIZASHI",
+          "threshold": 0.85
+        },
+        {
+          "name": "КИЗАСХИ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "329"
+    },
+    "LIANA": {
+      "id": "LIANA",
+      "names": [
+        {
+          "name": "LIANA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЛИАНА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "330"
+    },
+    "OTHER": {
+      "id": "OTHER",
+      "names": [
+        {
+          "name": "OTHER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОТХЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "331"
+    },
+    "RF": {
+      "id": "RF",
+      "names": [
+        {
+          "name": "RF",
+          "threshold": 1
+        },
+        {
+          "name": "РФ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2510"
+    },
+    "RM": {
+      "id": "RM",
+      "names": [
+        {
+          "name": "RM",
+          "threshold": 1
+        },
+        {
+          "name": "РМ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2512"
+    },
+    "RV": {
+      "id": "RV",
+      "names": [
+        {
+          "name": "RV",
+          "threshold": 1
+        },
+        {
+          "name": "РВ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2513"
+    },
+    "SFV650": {
+      "id": "SFV650",
+      "names": [
+        {
+          "name": "SFV 650",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2514"
+    },
+    "SPLASH": {
+      "id": "SPLASH",
+      "names": [
+        {
+          "name": "SPLASH",
+          "threshold": 0.85
+        },
+        {
+          "name": "СПЛАСХ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "332"
+    },
+    "SV": {
+      "id": "SV",
+      "names": [
+        {
+          "name": "SV",
+          "threshold": 1
+        },
+        {
+          "name": "СВ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2516"
+    },
+    "SWIFT": {
+      "id": "SWIFT",
+      "names": [
+        {
+          "name": "SWIFT",
+          "threshold": 0.85
+        },
+        {
+          "name": "СWИФТ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "333"
+    },
+    "SX4": {
+      "id": "SX4",
+      "names": [
+        {
+          "name": "SX4",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "334"
+    },
+    "TL1000": {
+      "id": "TL1000",
+      "names": [
+        {
+          "name": "TL 1000",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2518"
+    },
+    "TR50SD": {
+      "id": "TR50SD",
+      "names": [
+        {
+          "name": "TR 50 SD",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2519"
+    },
+    "TU250": {
+      "id": "TU250",
+      "names": [
+        {
+          "name": "TU 250",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2521"
+    },
+    "VITARA": {
+      "id": "VITARA",
+      "names": [
+        {
+          "name": "VITARA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ВИТАРА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "18642"
+    },
+    "VITARA/GRANDVITARA": {
+      "id": "VITARA/GRANDVITARA",
+      "names": [
+        {
+          "name": "VITARA/GRAND VITARA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ВИТАРА/ГРАНД ВИТАРА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "335"
+    },
+    "VL": {
+      "id": "VL",
+      "names": [
+        {
+          "name": "VL",
+          "threshold": 1
+        },
+        {
+          "name": "ВЛ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2522"
+    },
+    "VS": {
+      "id": "VS",
+      "names": [
+        {
+          "name": "VS",
+          "threshold": 1
+        },
+        {
+          "name": "ВС",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2524"
+    },
+    "VX800": {
+      "id": "VX800",
+      "names": [
+        {
+          "name": "VX 800",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2525"
+    },
+    "VZ": {
+      "id": "VZ",
+      "names": [
+        {
+          "name": "VZ",
+          "threshold": 1
+        },
+        {
+          "name": "ВЗ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2526"
+    },
+    "VZR": {
+      "id": "VZR",
+      "names": [
+        {
+          "name": "VZR",
+          "threshold": 0.97
+        },
+        {
+          "name": "ВЗР",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "2527"
+    },
+    "WAGONR": {
+      "id": "WAGONR",
+      "names": [
+        {
+          "name": "WAGON R",
+          "threshold": 0.85
+        },
+        {
+          "name": "WАГОН Р",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "336"
+    },
+    "XF650": {
+      "id": "XF650",
+      "names": [
+        {
+          "name": "XF 650",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2528"
+    },
+    "XL7": {
+      "id": "XL7",
+      "names": [
+        {
+          "name": "XL 7",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18657"
+    }
+  }
+}

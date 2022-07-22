@@ -1,1 +1,237 @@
-{"id": "DAF", "names": [{"name": "DAF", "threshold": 0.97}, {"name": "ДАФ", "threshold": 0.97}], "models": {"TRUCKS105SERIES": {"id": "TRUCKS105SERIES", "names": [{"name": "TRUCKS 105 SERIES", "threshold": 1}]}, "TRUCKS1700": {"id": "TRUCKS1700", "names": [{"name": "TRUCKS 1700", "threshold": 1}]}, "TRUCKS1900": {"id": "TRUCKS1900", "names": [{"name": "TRUCKS 1900", "threshold": 1}]}, "TRUCKS200": {"id": "TRUCKS200", "names": [{"name": "TRUCKS 200", "threshold": 1}]}, "TRUCKS2100": {"id": "TRUCKS2100", "names": [{"name": "TRUCKS 2100", "threshold": 1}]}, "TRUCKS2300": {"id": "TRUCKS2300", "names": [{"name": "TRUCKS 2300", "threshold": 1}]}, "TRUCKS2500": {"id": "TRUCKS2500", "names": [{"name": "TRUCKS 2500", "threshold": 1}]}, "TRUCKS3300": {"id": "TRUCKS3300", "names": [{"name": "TRUCKS 3300", "threshold": 1}]}, "TRUCKS400": {"id": "TRUCKS400", "names": [{"name": "TRUCKS 400", "threshold": 1}]}, "TRUCKS45SERIES": {"id": "TRUCKS45SERIES", "names": [{"name": "TRUCKS 45 SERIES", "threshold": 1}]}, "TRUCKS50SERIES": {"id": "TRUCKS50SERIES", "names": [{"name": "TRUCKS 50 SERIES", "threshold": 1}]}, "TRUCKS55SERIES": {"id": "TRUCKS55SERIES", "names": [{"name": "TRUCKS 55 SERIES", "threshold": 1}]}, "TRUCKS60SERIES": {"id": "TRUCKS60SERIES", "names": [{"name": "TRUCKS 60 SERIES", "threshold": 1}]}, "TRUCKS65SERIES": {"id": "TRUCKS65SERIES", "names": [{"name": "TRUCKS 65 SERIES", "threshold": 1}]}, "TRUCKS70SERIES": {"id": "TRUCKS70SERIES", "names": [{"name": "TRUCKS 70 SERIES", "threshold": 1}]}, "TRUCKS75SERIES": {"id": "TRUCKS75SERIES", "names": [{"name": "TRUCKS 75 SERIES", "threshold": 1}]}, "TRUCKS85SERIES": {"id": "TRUCKS85SERIES", "names": [{"name": "TRUCKS 85 SERIES", "threshold": 1}]}, "TRUCKS95SERIES": {"id": "TRUCKS95SERIES", "names": [{"name": "TRUCKS 95 SERIES", "threshold": 1}]}, "TRUCKSCFSERIES": {"id": "TRUCKSCFSERIES", "names": [{"name": "TRUCKS CF SERIES", "threshold": 0.85}, {"name": "ТРУЦКС ЦФ СЕРИЕС", "threshold": 0.85}]}, "TRUCKSLFSERIES": {"id": "TRUCKSLFSERIES", "names": [{"name": "TRUCKS LF SERIES", "threshold": 0.85}, {"name": "ТРУЦКС ЛФ СЕРИЕС", "threshold": 0.85}]}, "TRUCKSXFSERIES": {"id": "TRUCKSXFSERIES", "names": [{"name": "TRUCKS XF SERIES", "threshold": 0.85}, {"name": "ТРУЦКС XФ СЕРИЕС", "threshold": 0.85}]}}}
+{
+  "id": "DAF",
+  "names": [
+    {
+      "name": "DAF",
+      "threshold": 0.97
+    },
+    {
+      "name": "ДАФ",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "TRUCKS105SERIES": {
+      "id": "TRUCKS105SERIES",
+      "names": [
+        {
+          "name": "TRUCKS 105 SERIES",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1860"
+    },
+    "TRUCKS1700": {
+      "id": "TRUCKS1700",
+      "names": [
+        {
+          "name": "TRUCKS 1700",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1861"
+    },
+    "TRUCKS1900": {
+      "id": "TRUCKS1900",
+      "names": [
+        {
+          "name": "TRUCKS 1900",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1862"
+    },
+    "TRUCKS200": {
+      "id": "TRUCKS200",
+      "names": [
+        {
+          "name": "TRUCKS 200",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1863"
+    },
+    "TRUCKS2100": {
+      "id": "TRUCKS2100",
+      "names": [
+        {
+          "name": "TRUCKS 2100",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1864"
+    },
+    "TRUCKS2300": {
+      "id": "TRUCKS2300",
+      "names": [
+        {
+          "name": "TRUCKS 2300",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1865"
+    },
+    "TRUCKS2500": {
+      "id": "TRUCKS2500",
+      "names": [
+        {
+          "name": "TRUCKS 2500",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1866"
+    },
+    "TRUCKS3300": {
+      "id": "TRUCKS3300",
+      "names": [
+        {
+          "name": "TRUCKS 3300",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1867"
+    },
+    "TRUCKS400": {
+      "id": "TRUCKS400",
+      "names": [
+        {
+          "name": "TRUCKS 400",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1868"
+    },
+    "TRUCKS45SERIES": {
+      "id": "TRUCKS45SERIES",
+      "names": [
+        {
+          "name": "TRUCKS 45 SERIES",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1869"
+    },
+    "TRUCKS50SERIES": {
+      "id": "TRUCKS50SERIES",
+      "names": [
+        {
+          "name": "TRUCKS 50 SERIES",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1870"
+    },
+    "TRUCKS55SERIES": {
+      "id": "TRUCKS55SERIES",
+      "names": [
+        {
+          "name": "TRUCKS 55 SERIES",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1871"
+    },
+    "TRUCKS60SERIES": {
+      "id": "TRUCKS60SERIES",
+      "names": [
+        {
+          "name": "TRUCKS 60 SERIES",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1872"
+    },
+    "TRUCKS65SERIES": {
+      "id": "TRUCKS65SERIES",
+      "names": [
+        {
+          "name": "TRUCKS 65 SERIES",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1873"
+    },
+    "TRUCKS70SERIES": {
+      "id": "TRUCKS70SERIES",
+      "names": [
+        {
+          "name": "TRUCKS 70 SERIES",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1874"
+    },
+    "TRUCKS75SERIES": {
+      "id": "TRUCKS75SERIES",
+      "names": [
+        {
+          "name": "TRUCKS 75 SERIES",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1875"
+    },
+    "TRUCKS85SERIES": {
+      "id": "TRUCKS85SERIES",
+      "names": [
+        {
+          "name": "TRUCKS 85 SERIES",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1876"
+    },
+    "TRUCKS95SERIES": {
+      "id": "TRUCKS95SERIES",
+      "names": [
+        {
+          "name": "TRUCKS 95 SERIES",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1877"
+    },
+    "TRUCKSCFSERIES": {
+      "id": "TRUCKSCFSERIES",
+      "names": [
+        {
+          "name": "TRUCKS CF SERIES",
+          "threshold": 0.85
+        },
+        {
+          "name": "ТРУЦКС ЦФ СЕРИЕС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1878"
+    },
+    "TRUCKSLFSERIES": {
+      "id": "TRUCKSLFSERIES",
+      "names": [
+        {
+          "name": "TRUCKS LF SERIES",
+          "threshold": 0.85
+        },
+        {
+          "name": "ТРУЦКС ЛФ СЕРИЕС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1879"
+    },
+    "TRUCKSXFSERIES": {
+      "id": "TRUCKSXFSERIES",
+      "names": [
+        {
+          "name": "TRUCKS XF SERIES",
+          "threshold": 0.85
+        },
+        {
+          "name": "ТРУЦКС XФ СЕРИЕС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1880"
+    }
+  }
+}

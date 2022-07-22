@@ -1,1 +1,35 @@
-{"id": "PIONEER", "names": [{"name": "PIONEER", "threshold": 0.85}, {"name": "ПИОНЕЕР", "threshold": 0.85}], "models": {"LK150T7": {"id": "LK150T7", "names": [{"name": "LK150T 7", "threshold": 1}]}, "LK180GY2": {"id": "LK180GY2", "names": [{"name": "LK180GY 2", "threshold": 1}]}}}
+{
+  "id": "PIONEER",
+  "names": [
+    {
+      "name": "PIONEER",
+      "threshold": 0.85
+    },
+    {
+      "name": "ПИОНЕЕР",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "LK150T7": {
+      "id": "LK150T7",
+      "names": [
+        {
+          "name": "LK150T 7",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8888"
+    },
+    "LK180GY2": {
+      "id": "LK180GY2",
+      "names": [
+        {
+          "name": "LK180GY 2",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8889"
+    }
+  }
+}

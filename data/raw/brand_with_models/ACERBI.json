@@ -1,24 +1,25 @@
 {
-    "id": "ACERBI",
-    "names": [
-        {
-            "name": "ACERBI",
-            "threshold": 0.85
-        },
-        {
-            "name": "АЦЕРБИ",
-            "threshold": 0.85
-        }
-    ],
-    "models": {
-        "21L2.39": {
-            "id": "21L2.39",
-            "names": [
-                {
-                    "name": "21L2.39",
-                    "threshold": 1
-                }
-            ]
-        }
+  "id": "ACERBI",
+  "names": [
+    {
+      "name": "ACERBI",
+      "threshold": 0.85
+    },
+    {
+      "name": "АЦЕРБИ",
+      "threshold": 0.85
     }
+  ],
+  "models": {
+    "21L2.39": {
+      "id": "21L2.39",
+      "names": [
+        {
+          "name": "21L2.39",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3237"
+    }
+  }
 }

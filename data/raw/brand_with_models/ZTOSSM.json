@@ -1,1 +1,25 @@
-{"id": "ZTOSSM", "names": [{"name": "ZTO SSM", "threshold": 0.85}, {"name": "ЗТО ССМ", "threshold": 0.85}], "models": {"845821": {"id": "845821", "names": [{"name": "845821", "threshold": 1}]}}}
+{
+  "id": "ZTOSSM",
+  "names": [
+    {
+      "name": "ZTO SSM",
+      "threshold": 0.85
+    },
+    {
+      "name": "ЗТО ССМ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "845821": {
+      "id": "845821",
+      "names": [
+        {
+          "name": "845821",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15959"
+    }
+  }
+}

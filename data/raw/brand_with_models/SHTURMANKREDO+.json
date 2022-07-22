@@ -1,1 +1,35 @@
-{"id": "SHTURMANKREDO+", "names": [{"name": "SHTURMAN KREDO+", "threshold": 0.85}, {"name": "СХТУРМАН КРЕДО+", "threshold": 0.85}], "models": {"85310A": {"id": "85310A", "names": [{"name": "85310A", "threshold": 1}]}, "85310B": {"id": "85310B", "names": [{"name": "85310B", "threshold": 1}]}}}
+{
+  "id": "SHTURMANKREDO+",
+  "names": [
+    {
+      "name": "SHTURMAN KREDO+",
+      "threshold": 0.85
+    },
+    {
+      "name": "СХТУРМАН КРЕДО+",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "85310A": {
+      "id": "85310A",
+      "names": [
+        {
+          "name": "85310A",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "13887"
+    },
+    "85310B": {
+      "id": "85310B",
+      "names": [
+        {
+          "name": "85310B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "13888"
+    }
+  }
+}

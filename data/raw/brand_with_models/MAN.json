@@ -1,1 +1,341 @@
-{"id": "MAN", "names": [{"name": "MAN", "threshold": 0.97}, {"name": "МАН", "threshold": 0.97}], "models": {"A03": {"id": "A03", "names": [{"name": "A03", "threshold": 1}]}, "A13": {"id": "A13", "names": [{"name": "A13", "threshold": 1}]}, "A32": {"id": "A32", "names": [{"name": "A32", "threshold": 1}]}, "A51": {"id": "A51", "names": [{"name": "A51", "threshold": 1}]}, "BERKHOFEXCELLENCE3000HD": {"id": "BERKHOFEXCELLENCE3000HD", "names": [{"name": "BERKHOF EXCELLENCE 3000HD", "threshold": 1}]}, "BUSES": {"id": "BUSES", "names": [{"name": "BUSES", "threshold": 0.85}, {"name": "БУСЕС", "threshold": 0.85}]}, "CAETANO": {"id": "CAETANO", "names": [{"name": "CAETANO", "threshold": 0.85}, {"name": "ЦАЕТАНО", "threshold": 0.85}]}, "FSERIES": {"id": "FSERIES", "names": [{"name": "F SERIES", "threshold": 0.85}, {"name": "Ф СЕРИЕС", "threshold": 0.85}]}, "LSERIES": {"id": "LSERIES", "names": [{"name": "L SERIES", "threshold": 0.85}, {"name": "Л СЕРИЕС", "threshold": 0.85}]}, "LIONSCITY": {"id": "LIONSCITY", "names": [{"name": "LIONS CITY", "threshold": 0.85}, {"name": "ЛИОНС ЦИТЫ", "threshold": 0.85}]}, "LIONSCOACH": {"id": "LIONSCOACH", "names": [{"name": "LIONS COACH", "threshold": 0.85}, {"name": "ЛИОНС ЦОАЦХ", "threshold": 0.85}]}, "LIONSCOACHL": {"id": "LIONSCOACHL", "names": [{"name": "LIONS COACH L", "threshold": 0.85}, {"name": "ЛИОНС ЦОАЦХ Л", "threshold": 0.85}]}, "LIONSINTERCITY": {"id": "LIONSINTERCITY", "names": [{"name": "LIONS INTERCITY", "threshold": 0.85}, {"name": "ЛИОНС ИНТЕРЦИТЫ", "threshold": 0.85}]}, "LIONSREGIO": {"id": "LIONSREGIO", "names": [{"name": "LIONS REGIO", "threshold": 0.85}, {"name": "ЛИОНС РЕГИО", "threshold": 0.85}]}, "LIONSREGIOC": {"id": "LIONSREGIOC", "names": [{"name": "LIONS REGIO C", "threshold": 0.85}, {"name": "ЛИОНС РЕГИО Ц", "threshold": 0.85}]}, "LIONSSTAR": {"id": "LIONSSTAR", "names": [{"name": "LIONS STAR", "threshold": 0.85}, {"name": "ЛИОНС СТАР", "threshold": 0.85}]}, "MSERIES": {"id": "MSERIES", "names": [{"name": "M SERIES", "threshold": 0.85}, {"name": "М СЕРИЕС", "threshold": 0.85}]}, "MANVOLKSWAGEN": {"id": "MANVOLKSWAGEN", "names": [{"name": "MAN VOLKSWAGEN", "threshold": 0.85}, {"name": "МАН ВОЛКСWАГЕН", "threshold": 0.85}]}, "SR280": {"id": "SR280", "names": [{"name": "SR 280", "threshold": 1}]}, "TGA": {"id": "TGA", "names": [{"name": "TGA", "threshold": 0.97}, {"name": "ТГА", "threshold": 0.97}]}, "TGE": {"id": "TGE", "names": [{"name": "TGE", "threshold": 0.97}, {"name": "ТГЕ", "threshold": 0.97}]}, "TGL": {"id": "TGL", "names": [{"name": "TGL", "threshold": 0.97}, {"name": "ТГЛ", "threshold": 0.97}]}, "TGM": {"id": "TGM", "names": [{"name": "TGM", "threshold": 0.97}, {"name": "ТГМ", "threshold": 0.97}]}, "TGS": {"id": "TGS", "names": [{"name": "TGS", "threshold": 0.97}, {"name": "ТГС", "threshold": 0.97}]}, "TGX": {"id": "TGX", "names": [{"name": "TGX", "threshold": 0.97}, {"name": "ТГX", "threshold": 0.97}]}}}
+{
+  "id": "MAN",
+  "names": [
+    {
+      "name": "MAN",
+      "threshold": 0.97
+    },
+    {
+      "name": "МАН",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "A03": {
+      "id": "A03",
+      "names": [
+        {
+          "name": "A03",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3874"
+    },
+    "A13": {
+      "id": "A13",
+      "names": [
+        {
+          "name": "A13",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3875"
+    },
+    "A32": {
+      "id": "A32",
+      "names": [
+        {
+          "name": "A32",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3876"
+    },
+    "A51": {
+      "id": "A51",
+      "names": [
+        {
+          "name": "A51",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3877"
+    },
+    "BERKHOFEXCELLENCE3000HD": {
+      "id": "BERKHOFEXCELLENCE3000HD",
+      "names": [
+        {
+          "name": "BERKHOF EXCELLENCE 3000HD",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3878"
+    },
+    "BUSES": {
+      "id": "BUSES",
+      "names": [
+        {
+          "name": "BUSES",
+          "threshold": 0.85
+        },
+        {
+          "name": "БУСЕС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2400"
+    },
+    "CAETANO": {
+      "id": "CAETANO",
+      "names": [
+        {
+          "name": "CAETANO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦАЕТАНО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "3879"
+    },
+    "FSERIES": {
+      "id": "FSERIES",
+      "names": [
+        {
+          "name": "F SERIES",
+          "threshold": 0.85
+        },
+        {
+          "name": "Ф СЕРИЕС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2078"
+    },
+    "LSERIES": {
+      "id": "LSERIES",
+      "names": [
+        {
+          "name": "L SERIES",
+          "threshold": 0.85
+        },
+        {
+          "name": "Л СЕРИЕС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2079"
+    },
+    "LIONSCITY": {
+      "id": "LIONSCITY",
+      "names": [
+        {
+          "name": "LIONS CITY",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЛИОНС СИТИ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "18571"
+    },
+    "LIONSCOACH": {
+      "id": "LIONSCOACH",
+      "names": [
+        {
+          "name": "LIONS COACH",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЛИОНС ЦОАЦХ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "3880"
+    },
+    "LIONSCOACHL": {
+      "id": "LIONSCOACHL",
+      "names": [
+        {
+          "name": "LIONS COACH L",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЛИОНС ЦОАЦХ Л",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "3881"
+    },
+    "LIONSINTERCITY": {
+      "id": "LIONSINTERCITY",
+      "names": [
+        {
+          "name": "LIONS INTERCITY",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЛИОНС ИНТЕРСИТИ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "15571"
+    },
+    "LIONSREGIO": {
+      "id": "LIONSREGIO",
+      "names": [
+        {
+          "name": "LIONS REGIO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЛИОНС РЕГИО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "3882"
+    },
+    "LIONSREGIOC": {
+      "id": "LIONSREGIOC",
+      "names": [
+        {
+          "name": "LIONS REGIO C",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЛИОНС РЕГИО Ц",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "3883"
+    },
+    "LIONSSTAR": {
+      "id": "LIONSSTAR",
+      "names": [
+        {
+          "name": "LIONS STAR",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЛИОНС СТАР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "3884"
+    },
+    "MSERIES": {
+      "id": "MSERIES",
+      "names": [
+        {
+          "name": "M SERIES",
+          "threshold": 0.85
+        },
+        {
+          "name": "М СЕРИЕС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2080"
+    },
+    "MANVOLKSWAGEN": {
+      "id": "MANVOLKSWAGEN",
+      "names": [
+        {
+          "name": "MAN VOLKSWAGEN",
+          "threshold": 0.85
+        },
+        {
+          "name": "МАН ВОЛКСWАГЕН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2081"
+    },
+    "SR280": {
+      "id": "SR280",
+      "names": [
+        {
+          "name": "SR 280",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3885"
+    },
+    "TGA": {
+      "id": "TGA",
+      "names": [
+        {
+          "name": "TGA",
+          "threshold": 0.97
+        },
+        {
+          "name": "ТГА",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "2083"
+    },
+    "TGE": {
+      "id": "TGE",
+      "names": [
+        {
+          "name": "TGE",
+          "threshold": 0.97
+        },
+        {
+          "name": "ТГЕ",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "18603"
+    },
+    "TGL": {
+      "id": "TGL",
+      "names": [
+        {
+          "name": "TGL",
+          "threshold": 0.97
+        },
+        {
+          "name": "ТГЛ",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "2084"
+    },
+    "TGM": {
+      "id": "TGM",
+      "names": [
+        {
+          "name": "TGM",
+          "threshold": 0.97
+        },
+        {
+          "name": "ТГМ",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "2085"
+    },
+    "TGS": {
+      "id": "TGS",
+      "names": [
+        {
+          "name": "TGS",
+          "threshold": 0.97
+        },
+        {
+          "name": "ТГС",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "2086"
+    },
+    "TGX": {
+      "id": "TGX",
+      "names": [
+        {
+          "name": "TGX",
+          "threshold": 0.97
+        },
+        {
+          "name": "ТГX",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "2087"
+    }
+  }
+}

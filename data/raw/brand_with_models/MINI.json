@@ -1,1 +1,207 @@
-{"id": "MINI", "names": [{"name": "MINI", "threshold": 0.93}, {"name": "МИНИ", "threshold": 0.93}], "models": {"CABRIO": {"id": "CABRIO", "names": [{"name": "CABRIO", "threshold": 0.85}, {"name": "ЦАБРИО", "threshold": 0.85}]}, "CABRIOJCW": {"id": "CABRIOJCW", "names": [{"name": "CABRIO JCW", "threshold": 0.85}, {"name": "ЦАБРИО ЙЦW", "threshold": 0.85}]}, "CLUBMAN": {"id": "CLUBMAN", "names": [{"name": "CLUBMAN", "threshold": 0.85}, {"name": "ЦЛУБМАН", "threshold": 0.85}]}, "CLUBMANJCW": {"id": "CLUBMANJCW", "names": [{"name": "CLUBMAN JCW", "threshold": 0.85}, {"name": "ЦЛУБМАН ЙЦW", "threshold": 0.85}]}, "COUNTRYMAN": {"id": "COUNTRYMAN", "names": [{"name": "COUNTRYMAN", "threshold": 0.85}, {"name": "ЦОУНТРЫМАН", "threshold": 0.85}]}, "COUNTRYMANJCW": {"id": "COUNTRYMANJCW", "names": [{"name": "COUNTRYMAN JCW", "threshold": 0.85}, {"name": "ЦОУНТРЫМАН ЙЦW", "threshold": 0.85}]}, "COUPE": {"id": "COUPE", "names": [{"name": "COUPE", "threshold": 0.85}, {"name": "ЦОУПЕ", "threshold": 0.85}]}, "COUPEJCW": {"id": "COUPEJCW", "names": [{"name": "COUPE JCW", "threshold": 0.85}, {"name": "ЦОУПЕ ЙЦW", "threshold": 0.85}]}, "MINI": {"id": "MINI", "names": [{"name": "MINI", "threshold": 0.93}, {"name": "МИНИ", "threshold": 0.93}]}, "MINIJCW": {"id": "MINIJCW", "names": [{"name": "MINI JCW", "threshold": 0.85}, {"name": "МИНИ ЙЦW", "threshold": 0.85}]}, "PACEMAN": {"id": "PACEMAN", "names": [{"name": "PACEMAN", "threshold": 0.85}, {"name": "ПАЦЕМАН", "threshold": 0.85}]}, "PACEMANJCW": {"id": "PACEMANJCW", "names": [{"name": "PACEMAN JCW", "threshold": 0.85}, {"name": "ПАЦЕМАН ЙЦW", "threshold": 0.85}]}, "ROADSTER": {"id": "ROADSTER", "names": [{"name": "ROADSTER", "threshold": 0.85}, {"name": "РОАДСТЕР", "threshold": 0.85}]}, "ROADSTERJCW": {"id": "ROADSTERJCW", "names": [{"name": "ROADSTER JCW", "threshold": 0.85}, {"name": "РОАДСТЕР ЙЦW", "threshold": 0.85}]}}}
+{
+  "id": "MINI",
+  "names": [
+    {
+      "name": "MINI",
+      "threshold": 0.93
+    },
+    {
+      "name": "МИНИ",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "CABRIO": {
+      "id": "CABRIO",
+      "names": [
+        {
+          "name": "CABRIO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦАБРИО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1426"
+    },
+    "CABRIOJCW": {
+      "id": "CABRIOJCW",
+      "names": [
+        {
+          "name": "CABRIO JCW",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦАБРИО ЙЦW",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "16011"
+    },
+    "CLUBMAN": {
+      "id": "CLUBMAN",
+      "names": [
+        {
+          "name": "CLUBMAN",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦЛУБМАН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1427"
+    },
+    "CLUBMANJCW": {
+      "id": "CLUBMANJCW",
+      "names": [
+        {
+          "name": "CLUBMAN JCW",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦЛУБМАН ЙЦW",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "16009"
+    },
+    "COUNTRYMAN": {
+      "id": "COUNTRYMAN",
+      "names": [
+        {
+          "name": "COUNTRYMAN",
+          "threshold": 0.85
+        },
+        {
+          "name": "КОНСТРИМЭН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1430"
+    },
+    "COUNTRYMANJCW": {
+      "id": "COUNTRYMANJCW",
+      "names": [
+        {
+          "name": "COUNTRYMAN JCW",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "16007"
+    },
+    "COUPE": {
+      "id": "COUPE",
+      "names": [
+        {
+          "name": "COUPE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦОУПЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1431"
+    },
+    "COUPEJCW": {
+      "id": "COUPEJCW",
+      "names": [
+        {
+          "name": "COUPE JCW",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦОУПЕ ЙЦW",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "16010"
+    },
+    "MINI": {
+      "id": "MINI",
+      "names": [
+        {
+          "name": "MINI",
+          "threshold": 0.93
+        },
+        {
+          "name": "МИНИ",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "16005"
+    },
+    "MINIJCW": {
+      "id": "MINIJCW",
+      "names": [
+        {
+          "name": "MINI JCW",
+          "threshold": 0.85
+        },
+        {
+          "name": "МИНИ ЙЦW",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "16006"
+    },
+    "PACEMAN": {
+      "id": "PACEMAN",
+      "names": [
+        {
+          "name": "PACEMAN",
+          "threshold": 0.85
+        },
+        {
+          "name": "ПАЦЕМАН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "3853"
+    },
+    "PACEMANJCW": {
+      "id": "PACEMANJCW",
+      "names": [
+        {
+          "name": "PACEMAN JCW",
+          "threshold": 0.85
+        },
+        {
+          "name": "ПАЦЕМАН ЙЦW",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "16008"
+    },
+    "ROADSTER": {
+      "id": "ROADSTER",
+      "names": [
+        {
+          "name": "ROADSTER",
+          "threshold": 0.85
+        },
+        {
+          "name": "РОАДСТЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1435"
+    },
+    "ROADSTERJCW": {
+      "id": "ROADSTERJCW",
+      "names": [
+        {
+          "name": "ROADSTER JCW",
+          "threshold": 0.85
+        },
+        {
+          "name": "РОАДСТЕР ЙЦW",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "16012"
+    }
+  }
+}

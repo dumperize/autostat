@@ -1,1 +1,25 @@
-{"id": "LOTOS", "names": [{"name": "LOTOS", "threshold": 0.85}, {"name": "ЛОТОС", "threshold": 0.85}], "models": {"206": {"id": "206", "names": [{"name": "206", "threshold": 1}]}}}
+{
+  "id": "LOTOS",
+  "names": [
+    {
+      "name": "LOTOS",
+      "threshold": 0.85
+    },
+    {
+      "name": "ЛОТОС",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "206": {
+      "id": "206",
+      "names": [
+        {
+          "name": "206",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18561"
+    }
+  }
+}

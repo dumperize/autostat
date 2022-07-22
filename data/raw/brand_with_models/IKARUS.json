@@ -1,1 +1,95 @@
-{"id": "IKARUS", "names": [{"name": "IKARUS", "threshold": 0.85}, {"name": "ИКАРУС", "threshold": 0.85}], "models": {"250": {"id": "250", "names": [{"name": "250", "threshold": 1}]}, "253": {"id": "253", "names": [{"name": "253", "threshold": 1}]}, "256": {"id": "256", "names": [{"name": "256", "threshold": 1}]}, "260": {"id": "260", "names": [{"name": "260", "threshold": 1}]}, "263": {"id": "263", "names": [{"name": "263", "threshold": 1}]}, "280": {"id": "280", "names": [{"name": "280", "threshold": 1}]}, "415": {"id": "415", "names": [{"name": "415", "threshold": 1}]}, "435": {"id": "435", "names": [{"name": "435", "threshold": 1}]}}}
+{
+  "id": "IKARUS",
+  "names": [
+    {
+      "name": "IKARUS",
+      "threshold": 0.85
+    },
+    {
+      "name": "ИКАРУС",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "250": {
+      "id": "250",
+      "names": [
+        {
+          "name": "250",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2339"
+    },
+    "253": {
+      "id": "253",
+      "names": [
+        {
+          "name": "253",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2340"
+    },
+    "256": {
+      "id": "256",
+      "names": [
+        {
+          "name": "256",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2342"
+    },
+    "260": {
+      "id": "260",
+      "names": [
+        {
+          "name": "260",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2343"
+    },
+    "263": {
+      "id": "263",
+      "names": [
+        {
+          "name": "263",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2344"
+    },
+    "280": {
+      "id": "280",
+      "names": [
+        {
+          "name": "280",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2345"
+    },
+    "415": {
+      "id": "415",
+      "names": [
+        {
+          "name": "415",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2348"
+    },
+    "435": {
+      "id": "435",
+      "names": [
+        {
+          "name": "435",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2349"
+    }
+  }
+}

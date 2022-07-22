@@ -1,1 +1,25 @@
-{"id": "SPECMASHSERVIS", "names": [{"name": "SPECMASH SERVIS", "threshold": 0.85}, {"name": "СПЕЦМАСХ СЕРВИС", "threshold": 0.85}], "models": {"935911": {"id": "935911", "names": [{"name": "935911", "threshold": 1}]}}}
+{
+  "id": "SPECMASHSERVIS",
+  "names": [
+    {
+      "name": "SPECMASH SERVIS",
+      "threshold": 0.85
+    },
+    {
+      "name": "СПЕЦМАСХ СЕРВИС",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "935911": {
+      "id": "935911",
+      "names": [
+        {
+          "name": "935911",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15457"
+    }
+  }
+}

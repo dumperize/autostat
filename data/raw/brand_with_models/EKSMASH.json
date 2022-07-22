@@ -1,1 +1,55 @@
-{"id": "EKSMASH", "names": [{"name": "EKSMASH", "threshold": 0.85}, {"name": "ЕКСМАСХ", "threshold": 0.85}], "models": {"83360A": {"id": "83360A", "names": [{"name": "83360A", "threshold": 1}]}, "90180C": {"id": "90180C", "names": [{"name": "90180C", "threshold": 1}]}, "90180D": {"id": "90180D", "names": [{"name": "90180D", "threshold": 1}]}, "90185D": {"id": "90185D", "names": [{"name": "90185D", "threshold": 1}]}}}
+{
+  "id": "EKSMASH",
+  "names": [
+    {
+      "name": "EKSMASH",
+      "threshold": 0.85
+    },
+    {
+      "name": "ЕКСМАСХ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "83360A": {
+      "id": "83360A",
+      "names": [
+        {
+          "name": "83360A",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16144"
+    },
+    "90180C": {
+      "id": "90180C",
+      "names": [
+        {
+          "name": "90180C",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16142"
+    },
+    "90180D": {
+      "id": "90180D",
+      "names": [
+        {
+          "name": "90180D",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16143"
+    },
+    "90185D": {
+      "id": "90185D",
+      "names": [
+        {
+          "name": "90185D",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16141"
+    }
+  }
+}

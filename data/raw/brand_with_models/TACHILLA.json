@@ -1,1 +1,57 @@
-{"id": "TACHILLA", "names": [{"name": "TACHILLA", "threshold": 0.85}, {"name": "ТАЦХИЛЛА", "threshold": 0.85}], "models": {"BETA": {"id": "BETA", "names": [{"name": "BETA", "threshold": 0.93}, {"name": "БЕТА", "threshold": 0.93}]}, "EAGLE": {"id": "EAGLE", "names": [{"name": "EAGLE", "threshold": 0.85}, {"name": "ЕАГЛЕ", "threshold": 0.85}]}, "SPACE": {"id": "SPACE", "names": [{"name": "SPACE", "threshold": 0.85}, {"name": "СПАЦЕ", "threshold": 0.85}]}}}
+{
+  "id": "TACHILLA",
+  "names": [
+    {
+      "name": "TACHILLA",
+      "threshold": 0.85
+    },
+    {
+      "name": "ТАЦХИЛЛА",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "BETA": {
+      "id": "BETA",
+      "names": [
+        {
+          "name": "BETA",
+          "threshold": 0.93
+        },
+        {
+          "name": "БЕТА",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "8934"
+    },
+    "EAGLE": {
+      "id": "EAGLE",
+      "names": [
+        {
+          "name": "EAGLE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЕАГЛЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8935"
+    },
+    "SPACE": {
+      "id": "SPACE",
+      "names": [
+        {
+          "name": "SPACE",
+          "threshold": 0.85
+        },
+        {
+          "name": "СПАЦЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8939"
+    }
+  }
+}

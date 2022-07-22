@@ -1,33 +1,35 @@
 {
-    "id": "TRAILOR",
-    "names": [
-        {
-            "name": "TRAILOR",
-            "threshold": 0.93
-        },
-        {
-            "name": "ТРАИЛОР",
-            "threshold": 0.93
-        }
-    ],
-    "models": {
-        "S383EL": {
-            "id": "S383EL",
-            "names": [
-                {
-                    "name": "S383EL",
-                    "threshold": 1
-                }
-            ]
-        },
-        "SYY3CX": {
-            "id": "SYY3CX",
-            "names": [
-                {
-                    "name": "SYY3CX",
-                    "threshold": 1
-                }
-            ]
-        }
+  "id": "TRAILOR",
+  "names": [
+    {
+      "name": "TRAILOR",
+      "threshold": 0.93
+    },
+    {
+      "name": "ТРАИЛОР",
+      "threshold": 0.93
     }
+  ],
+  "models": {
+    "S383EL": {
+      "id": "S383EL",
+      "names": [
+        {
+          "name": "S383EL",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16156"
+    },
+    "SYY3CX": {
+      "id": "SYY3CX",
+      "names": [
+        {
+          "name": "SYY3CX",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16088"
+    }
+  }
 }

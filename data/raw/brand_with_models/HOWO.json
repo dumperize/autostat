@@ -1,1 +1,235 @@
-{"id": "HOWO", "names": [{"name": "HOWO", "threshold": 0.93}, {"name": "ХОWО", "threshold": 0.93}], "models": {"1167": {"id": "1167", "names": [{"name": "1167", "threshold": 1}]}, "1257": {"id": "1257", "names": [{"name": "1257", "threshold": 1}]}, "1317": {"id": "1317", "names": [{"name": "1317", "threshold": 1}]}, "2167": {"id": "2167", "names": [{"name": "2167", "threshold": 1}]}, "3167": {"id": "3167", "names": [{"name": "3167", "threshold": 1}]}, "3252": {"id": "3252", "names": [{"name": "3252", "threshold": 1}]}, "3257": {"id": "3257", "names": [{"name": "3257", "threshold": 1}]}, "3267": {"id": "3267", "names": [{"name": "3267", "threshold": 1}]}, "3315": {"id": "3315", "names": [{"name": "3315", "threshold": 1}]}, "3317": {"id": "3317", "names": [{"name": "3317", "threshold": 1}]}, "3327": {"id": "3327", "names": [{"name": "3327", "threshold": 1}]}, "3407": {"id": "3407", "names": [{"name": "3407", "threshold": 1}]}, "3537": {"id": "3537", "names": [{"name": "3537", "threshold": 1}]}, "4187": {"id": "4187", "names": [{"name": "4187", "threshold": 1}]}, "4257": {"id": "4257", "names": [{"name": "4257", "threshold": 1}]}, "4327": {"id": "4327", "names": [{"name": "4327", "threshold": 1}]}, "5141": {"id": "5141", "names": [{"name": "5141", "threshold": 1}]}, "5167": {"id": "5167", "names": [{"name": "5167", "threshold": 1}]}, "5257": {"id": "5257", "names": [{"name": "5257", "threshold": 1}]}, "5317": {"id": "5317", "names": [{"name": "5317", "threshold": 1}]}, "5327": {"id": "5327", "names": [{"name": "5327", "threshold": 1}]}, "5407": {"id": "5407", "names": [{"name": "5407", "threshold": 1}]}}}
+{
+  "id": "HOWO",
+  "names": [
+    {
+      "name": "HOWO",
+      "threshold": 0.93
+    },
+    {
+      "name": "ХОWО",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "1167": {
+      "id": "1167",
+      "names": [
+        {
+          "name": "1167",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1963"
+    },
+    "1257": {
+      "id": "1257",
+      "names": [
+        {
+          "name": "1257",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1964"
+    },
+    "1317": {
+      "id": "1317",
+      "names": [
+        {
+          "name": "1317",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1965"
+    },
+    "2167": {
+      "id": "2167",
+      "names": [
+        {
+          "name": "2167",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1966"
+    },
+    "3167": {
+      "id": "3167",
+      "names": [
+        {
+          "name": "3167",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1967"
+    },
+    "3252": {
+      "id": "3252",
+      "names": [
+        {
+          "name": "3252",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18521"
+    },
+    "3257": {
+      "id": "3257",
+      "names": [
+        {
+          "name": "3257",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1968"
+    },
+    "3267": {
+      "id": "3267",
+      "names": [
+        {
+          "name": "3267",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18522"
+    },
+    "3315": {
+      "id": "3315",
+      "names": [
+        {
+          "name": "3315",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18523"
+    },
+    "3317": {
+      "id": "3317",
+      "names": [
+        {
+          "name": "3317",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1969"
+    },
+    "3327": {
+      "id": "3327",
+      "names": [
+        {
+          "name": "3327",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1970"
+    },
+    "3407": {
+      "id": "3407",
+      "names": [
+        {
+          "name": "3407",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1972"
+    },
+    "3537": {
+      "id": "3537",
+      "names": [
+        {
+          "name": "3537",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1973"
+    },
+    "4187": {
+      "id": "4187",
+      "names": [
+        {
+          "name": "4187",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1974"
+    },
+    "4257": {
+      "id": "4257",
+      "names": [
+        {
+          "name": "4257",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1975"
+    },
+    "4327": {
+      "id": "4327",
+      "names": [
+        {
+          "name": "4327",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18524"
+    },
+    "5141": {
+      "id": "5141",
+      "names": [
+        {
+          "name": "5141",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18525"
+    },
+    "5167": {
+      "id": "5167",
+      "names": [
+        {
+          "name": "5167",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1976"
+    },
+    "5257": {
+      "id": "5257",
+      "names": [
+        {
+          "name": "5257",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1977"
+    },
+    "5317": {
+      "id": "5317",
+      "names": [
+        {
+          "name": "5317",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1978"
+    },
+    "5327": {
+      "id": "5327",
+      "names": [
+        {
+          "name": "5327",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18526"
+    },
+    "5407": {
+      "id": "5407",
+      "names": [
+        {
+          "name": "5407",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18527"
+    }
+  }
+}

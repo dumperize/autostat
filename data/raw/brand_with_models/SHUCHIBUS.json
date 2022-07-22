@@ -1,1 +1,35 @@
-{"id": "SHUCHIBUS", "names": [{"name": "SHUCHI BUS", "threshold": 0.85}, {"name": "СХУЦХИ БУС", "threshold": 0.85}], "models": {"YTK6106": {"id": "YTK6106", "names": [{"name": "YTK6106", "threshold": 1}]}, "YTK6126": {"id": "YTK6126", "names": [{"name": "YTK6126", "threshold": 1}]}}}
+{
+  "id": "SHUCHIBUS",
+  "names": [
+    {
+      "name": "SHUCHI BUS",
+      "threshold": 0.85
+    },
+    {
+      "name": "СХУЦХИ БУС",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "YTK6106": {
+      "id": "YTK6106",
+      "names": [
+        {
+          "name": "YTK6106",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2225"
+    },
+    "YTK6126": {
+      "id": "YTK6126",
+      "names": [
+        {
+          "name": "YTK6126",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2226"
+    }
+  }
+}

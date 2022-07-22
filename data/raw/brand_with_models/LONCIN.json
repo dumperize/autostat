@@ -1,1 +1,69 @@
-{"id": "LONCIN", "names": [{"name": "LONCIN", "threshold": 0.85}, {"name": "ЛОНЦИН", "threshold": 0.85}], "models": {"LX150": {"id": "LX150", "names": [{"name": "LX150", "threshold": 1}]}, "LX250": {"id": "LX250", "names": [{"name": "LX250", "threshold": 1}]}, "SAGITTAORSO": {"id": "SAGITTAORSO", "names": [{"name": "SAGITTA ORSO", "threshold": 0.85}, {"name": "САГИТТА ОРСО", "threshold": 0.85}]}, "SAGITTASBR150": {"id": "SAGITTASBR150", "names": [{"name": "SAGITTA SBR 150", "threshold": 1}]}, "SAGITTASNS250JEDI": {"id": "SAGITTASNS250JEDI", "names": [{"name": "SAGITTA SNS 250 JEDI", "threshold": 1}]}}}
+{
+  "id": "LONCIN",
+  "names": [
+    {
+      "name": "LONCIN",
+      "threshold": 0.85
+    },
+    {
+      "name": "ЛОНЦИН",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "LX150": {
+      "id": "LX150",
+      "names": [
+        {
+          "name": "LX150",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8859"
+    },
+    "LX250": {
+      "id": "LX250",
+      "names": [
+        {
+          "name": "LX250",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8860"
+    },
+    "SAGITTAORSO": {
+      "id": "SAGITTAORSO",
+      "names": [
+        {
+          "name": "SAGITTA ORSO",
+          "threshold": 0.85
+        },
+        {
+          "name": "САГИТТА ОРСО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8862"
+    },
+    "SAGITTASBR150": {
+      "id": "SAGITTASBR150",
+      "names": [
+        {
+          "name": "SAGITTA SBR 150",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8863"
+    },
+    "SAGITTASNS250JEDI": {
+      "id": "SAGITTASNS250JEDI",
+      "names": [
+        {
+          "name": "SAGITTA SNS 250 JEDI",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8865"
+    }
+  }
+}

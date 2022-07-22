@@ -1,1 +1,35 @@
-{"id": "USP", "names": [{"name": "USP", "threshold": 0.97}, {"name": "УСП", "threshold": 0.97}], "models": {"831311": {"id": "831311", "names": [{"name": "831311", "threshold": 1}]}, "PRL902900": {"id": "PRL902900", "names": [{"name": "PRL 902900", "threshold": 1}]}}}
+{
+  "id": "USP",
+  "names": [
+    {
+      "name": "USP",
+      "threshold": 0.97
+    },
+    {
+      "name": "УСП",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "831311": {
+      "id": "831311",
+      "names": [
+        {
+          "name": "831311",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12783"
+    },
+    "PRL902900": {
+      "id": "PRL902900",
+      "names": [
+        {
+          "name": "PRL 902900",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12785"
+    }
+  }
+}

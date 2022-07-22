@@ -1,1 +1,35 @@
-{"id": "STAVTO", "names": [{"name": "ST AVTO", "threshold": 0.85}, {"name": "СТ АВТО", "threshold": 0.85}], "models": {"984344": {"id": "984344", "names": [{"name": "984344", "threshold": 1}]}, "994344": {"id": "994344", "names": [{"name": "994344", "threshold": 1}]}}}
+{
+  "id": "STAVTO",
+  "names": [
+    {
+      "name": "ST AVTO",
+      "threshold": 0.85
+    },
+    {
+      "name": "СТ АВТО",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "984344": {
+      "id": "984344",
+      "names": [
+        {
+          "name": "984344",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12741"
+    },
+    "994344": {
+      "id": "994344",
+      "names": [
+        {
+          "name": "994344",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12742"
+    }
+  }
+}

@@ -1,1 +1,25 @@
-{"id": "TITAN", "names": [{"name": "TITAN", "threshold": 0.85}, {"name": "ТИТАН", "threshold": 0.85}], "models": {"717110": {"id": "717110", "names": [{"name": "7171 10", "threshold": 1}]}}}
+{
+  "id": "TITAN",
+  "names": [
+    {
+      "name": "TITAN",
+      "threshold": 0.85
+    },
+    {
+      "name": "ТИТАН",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "717110": {
+      "id": "717110",
+      "names": [
+        {
+          "name": "7171 10",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15939"
+    }
+  }
+}

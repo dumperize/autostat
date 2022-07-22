@@ -1,1 +1,105 @@
-{"id": "LAZ", "names": [{"name": "LAZ", "threshold": 0.97}, {"name": "ЛАЗ", "threshold": 0.97}], "models": {"4207": {"id": "4207", "names": [{"name": "4207", "threshold": 1}]}, "5207": {"id": "5207", "names": [{"name": "5207", "threshold": 1}]}, "5208": {"id": "5208", "names": [{"name": "5208", "threshold": 1}]}, "5252": {"id": "5252", "names": [{"name": "5252", "threshold": 1}]}, "695": {"id": "695", "names": [{"name": "695", "threshold": 1}]}, "697": {"id": "697", "names": [{"name": "697", "threshold": 1}]}, "699": {"id": "699", "names": [{"name": "699", "threshold": 1}]}, "A1414": {"id": "A1414", "names": [{"name": "A1414", "threshold": 1}]}, "A141JN": {"id": "A141JN", "names": [{"name": "A141JN", "threshold": 1}]}}}
+{
+  "id": "LAZ",
+  "names": [
+    {
+      "name": "LAZ",
+      "threshold": 0.97
+    },
+    {
+      "name": "ЛАЗ",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "4207": {
+      "id": "4207",
+      "names": [
+        {
+          "name": "4207",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2382"
+    },
+    "5207": {
+      "id": "5207",
+      "names": [
+        {
+          "name": "5207",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2384"
+    },
+    "5208": {
+      "id": "5208",
+      "names": [
+        {
+          "name": "5208",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2385"
+    },
+    "5252": {
+      "id": "5252",
+      "names": [
+        {
+          "name": "5252",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2386"
+    },
+    "695": {
+      "id": "695",
+      "names": [
+        {
+          "name": "695",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2387"
+    },
+    "697": {
+      "id": "697",
+      "names": [
+        {
+          "name": "697",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2388"
+    },
+    "699": {
+      "id": "699",
+      "names": [
+        {
+          "name": "699",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2389"
+    },
+    "A1414": {
+      "id": "A1414",
+      "names": [
+        {
+          "name": "A1414",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2390"
+    },
+    "A141JN": {
+      "id": "A141JN",
+      "names": [
+        {
+          "name": "A141JN",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2391"
+    }
+  }
+}

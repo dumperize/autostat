@@ -1,1 +1,85 @@
-{"id": "VIS", "names": [{"name": "VIS", "threshold": 0.97}, {"name": "ВИС", "threshold": 0.97}], "models": {"1705": {"id": "1705", "names": [{"name": "1705", "threshold": 1}]}, "2345": {"id": "2345", "names": [{"name": "2345", "threshold": 1}]}, "2346": {"id": "2346", "names": [{"name": "2346", "threshold": 1}]}, "2347": {"id": "2347", "names": [{"name": "2347", "threshold": 1}]}, "2348": {"id": "2348", "names": [{"name": "2348", "threshold": 1}]}, "2349": {"id": "2349", "names": [{"name": "2349", "threshold": 1}]}, "2946": {"id": "2946", "names": [{"name": "2946", "threshold": 1}]}}}
+{
+  "id": "VIS",
+  "names": [
+    {
+      "name": "VIS",
+      "threshold": 0.97
+    },
+    {
+      "name": "ВИС",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "1705": {
+      "id": "1705",
+      "names": [
+        {
+          "name": "1705",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1562"
+    },
+    "2345": {
+      "id": "2345",
+      "names": [
+        {
+          "name": "2345",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1563"
+    },
+    "2346": {
+      "id": "2346",
+      "names": [
+        {
+          "name": "2346",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1564"
+    },
+    "2347": {
+      "id": "2347",
+      "names": [
+        {
+          "name": "2347",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1565"
+    },
+    "2348": {
+      "id": "2348",
+      "names": [
+        {
+          "name": "2348",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1566"
+    },
+    "2349": {
+      "id": "2349",
+      "names": [
+        {
+          "name": "2349",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3847"
+    },
+    "2946": {
+      "id": "2946",
+      "names": [
+        {
+          "name": "2946",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1567"
+    }
+  }
+}

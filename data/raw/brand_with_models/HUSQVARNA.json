@@ -1,1 +1,43 @@
-{"id": "HUSQVARNA", "names": [{"name": "HUSQVARNA", "threshold": 0.85}, {"name": "ХУСQВАРНА", "threshold": 0.85}], "models": {"SM": {"id": "SM", "names": [{"name": "SM", "threshold": 1}, {"name": "СМ", "threshold": 1}]}, "TE": {"id": "TE", "names": [{"name": "TE", "threshold": 1}, {"name": "ТЕ", "threshold": 1}]}}}
+{
+  "id": "HUSQVARNA",
+  "names": [
+    {
+      "name": "HUSQVARNA",
+      "threshold": 0.85
+    },
+    {
+      "name": "ХУСQВАРНА",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "SM": {
+      "id": "SM",
+      "names": [
+        {
+          "name": "SM",
+          "threshold": 1
+        },
+        {
+          "name": "СМ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2589"
+    },
+    "TE": {
+      "id": "TE",
+      "names": [
+        {
+          "name": "TE",
+          "threshold": 1
+        },
+        {
+          "name": "ТЕ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2590"
+    }
+  }
+}

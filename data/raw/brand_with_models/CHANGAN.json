@@ -1,1 +1,123 @@
-{"id": "CHANGAN", "names": [{"name": "CHANGAN", "threshold": 0.85}, {"name": "ЦХАНГАН", "threshold": 0.85}], "models": {"CS35": {"id": "CS35", "names": [{"name": "CS35", "threshold": 1}]}, "CS55": {"id": "CS55", "names": [{"name": "CS55", "threshold": 1}]}, "CS75": {"id": "CS75", "names": [{"name": "CS75", "threshold": 1}]}, "EADO": {"id": "EADO", "names": [{"name": "EADO", "threshold": 0.93}, {"name": "ЕАДО", "threshold": 0.93}]}, "RAETON": {"id": "RAETON", "names": [{"name": "RAETON", "threshold": 0.85}, {"name": "РАЕТОН", "threshold": 0.85}]}, "SC1021": {"id": "SC1021", "names": [{"name": "SC1021", "threshold": 1}]}, "SC1030": {"id": "SC1030", "names": [{"name": "SC1030", "threshold": 1}]}, "SC6380": {"id": "SC6380", "names": [{"name": "SC6380", "threshold": 1}]}, "SC6601": {"id": "SC6601", "names": [{"name": "SC6601", "threshold": 1}]}, "SC7133": {"id": "SC7133", "names": [{"name": "SC7133", "threshold": 1}]}}}
+{
+  "id": "CHANGAN",
+  "names": [
+    {
+      "name": "CHANGAN",
+      "threshold": 0.85
+    },
+    {
+      "name": "ЦХАНГАН",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "CS35": {
+      "id": "CS35",
+      "names": [
+        {
+          "name": "CS35",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "7670"
+    },
+    "CS55": {
+      "id": "CS55",
+      "names": [
+        {
+          "name": "CS55",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18441"
+    },
+    "CS75": {
+      "id": "CS75",
+      "names": [
+        {
+          "name": "CS75",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15570"
+    },
+    "EADO": {
+      "id": "EADO",
+      "names": [
+        {
+          "name": "EADO",
+          "threshold": 0.93
+        },
+        {
+          "name": "ЕАДО",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "8729"
+    },
+    "RAETON": {
+      "id": "RAETON",
+      "names": [
+        {
+          "name": "RAETON",
+          "threshold": 0.85
+        },
+        {
+          "name": "РАЕТОН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "14896"
+    },
+    "SC1021": {
+      "id": "SC1021",
+      "names": [
+        {
+          "name": "SC1021",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "7672"
+    },
+    "SC1030": {
+      "id": "SC1030",
+      "names": [
+        {
+          "name": "SC1030",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "7673"
+    },
+    "SC6380": {
+      "id": "SC6380",
+      "names": [
+        {
+          "name": "SC6380",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "7679"
+    },
+    "SC6601": {
+      "id": "SC6601",
+      "names": [
+        {
+          "name": "SC6601",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "7681"
+    },
+    "SC7133": {
+      "id": "SC7133",
+      "names": [
+        {
+          "name": "SC7133",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "7671"
+    }
+  }
+}

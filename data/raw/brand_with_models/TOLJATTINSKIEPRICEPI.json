@@ -1,1 +1,45 @@
-{"id": "TOLJATTINSKIEPRICEPI", "names": [{"name": "TOLJATTINSKIE PRICEPI", "threshold": 0.85}, {"name": "ТОЛЙАТТИНСКИЕ ПРИЦЕПИ", "threshold": 0.85}], "models": {"710861": {"id": "710861", "names": [{"name": "710861", "threshold": 1}]}, "710862": {"id": "710862", "names": [{"name": "710862", "threshold": 1}]}, "710864": {"id": "710864", "names": [{"name": "710864", "threshold": 1}]}}}
+{
+  "id": "TOLJATTINSKIEPRICEPI",
+  "names": [
+    {
+      "name": "TOLJATTINSKIE PRICEPI",
+      "threshold": 0.85
+    },
+    {
+      "name": "ТОЛЙАТТИНСКИЕ ПРИЦЕПИ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "710861": {
+      "id": "710861",
+      "names": [
+        {
+          "name": "710861",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12797"
+    },
+    "710862": {
+      "id": "710862",
+      "names": [
+        {
+          "name": "710862",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12798"
+    },
+    "710864": {
+      "id": "710864",
+      "names": [
+        {
+          "name": "710864",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12799"
+    }
+  }
+}

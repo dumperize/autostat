@@ -1,1 +1,55 @@
-{"id": "MRMZ", "names": [{"name": "MRMZ", "threshold": 0.93}, {"name": "МРМЗ", "threshold": 0.93}], "models": {"K1": {"id": "K1", "names": [{"name": "K 1", "threshold": 1}]}, "K2": {"id": "K2", "names": [{"name": "K 2", "threshold": 1}]}, "K4": {"id": "K4", "names": [{"name": "K 4", "threshold": 1}]}, "PS6": {"id": "PS6", "names": [{"name": "PS6", "threshold": 1}]}}}
+{
+  "id": "MRMZ",
+  "names": [
+    {
+      "name": "MRMZ",
+      "threshold": 0.93
+    },
+    {
+      "name": "МРМЗ",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "K1": {
+      "id": "K1",
+      "names": [
+        {
+          "name": "K 1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12660"
+    },
+    "K2": {
+      "id": "K2",
+      "names": [
+        {
+          "name": "K 2",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12661"
+    },
+    "K4": {
+      "id": "K4",
+      "names": [
+        {
+          "name": "K 4",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12662"
+    },
+    "PS6": {
+      "id": "PS6",
+      "names": [
+        {
+          "name": "PS6",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12664"
+    }
+  }
+}

@@ -1,1 +1,29 @@
-{"id": "CHERYEXEED", "names": [{"name": "CHERYEXEED", "threshold": 0.85}, {"name": "ЦХЕРЫЕXЕЕД", "threshold": 0.85}], "models": {"TXL": {"id": "TXL", "names": [{"name": "TXL", "threshold": 0.97}, {"name": "ТXЛ", "threshold": 0.97}]}}}
+{
+  "id": "CHERYEXEED",
+  "names": [
+    {
+      "name": "CHERYEXEED",
+      "threshold": 0.85
+    },
+    {
+      "name": "ЧЕРИЭКСИД",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "TXL": {
+      "id": "TXL",
+      "names": [
+        {
+          "name": "TXL",
+          "threshold": 0.97
+        },
+        {
+          "name": "ТXЛ",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "18450"
+    }
+  }
+}

@@ -1,1 +1,131 @@
-{"id": "ZAZ", "names": [{"name": "ZAZ", "threshold": 0.97}, {"name": "ЗАЗ", "threshold": 0.97}], "models": {"1102": {"id": "1102", "names": [{"name": "1102", "threshold": 1}]}, "1103": {"id": "1103", "names": [{"name": "1103", "threshold": 1}]}, "1105": {"id": "1105", "names": [{"name": "1105", "threshold": 1}]}, "1140": {"id": "1140", "names": [{"name": "1140", "threshold": 1}]}, "8101": {"id": "8101", "names": [{"name": "8101", "threshold": 1}]}, "968": {"id": "968", "names": [{"name": "968", "threshold": 1}]}, "CHANCE": {"id": "CHANCE", "names": [{"name": "CHANCE", "threshold": 0.85}, {"name": "ЦХАНЦЕ", "threshold": 0.85}]}, "LANOS": {"id": "LANOS", "names": [{"name": "LANOS", "threshold": 0.85}, {"name": "ЛАНОС", "threshold": 0.85}]}, "SENS": {"id": "SENS", "names": [{"name": "SENS", "threshold": 0.93}, {"name": "СЕНС", "threshold": 0.93}]}, "VIDA": {"id": "VIDA", "names": [{"name": "VIDA", "threshold": 0.93}, {"name": "ВИДА", "threshold": 0.93}]}}}
+{
+  "id": "ZAZ",
+  "names": [
+    {
+      "name": "ZAZ",
+      "threshold": 0.97
+    },
+    {
+      "name": "ЗАЗ",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "1102": {
+      "id": "1102",
+      "names": [
+        {
+          "name": "1102",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "6242"
+    },
+    "1103": {
+      "id": "1103",
+      "names": [
+        {
+          "name": "1103",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "6243"
+    },
+    "1105": {
+      "id": "1105",
+      "names": [
+        {
+          "name": "1105",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "6244"
+    },
+    "1140": {
+      "id": "1140",
+      "names": [
+        {
+          "name": "1140",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "6245"
+    },
+    "8101": {
+      "id": "8101",
+      "names": [
+        {
+          "name": "8101",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2924"
+    },
+    "968": {
+      "id": "968",
+      "names": [
+        {
+          "name": "968",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "6249"
+    },
+    "CHANCE": {
+      "id": "CHANCE",
+      "names": [
+        {
+          "name": "CHANCE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦХАНЦЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "539"
+    },
+    "LANOS": {
+      "id": "LANOS",
+      "names": [
+        {
+          "name": "LANOS",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЛАНОС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "540"
+    },
+    "SENS": {
+      "id": "SENS",
+      "names": [
+        {
+          "name": "SENS",
+          "threshold": 0.93
+        },
+        {
+          "name": "СЕНС",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "542"
+    },
+    "VIDA": {
+      "id": "VIDA",
+      "names": [
+        {
+          "name": "VIDA",
+          "threshold": 0.93
+        },
+        {
+          "name": "ВИДА",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "543"
+    }
+  }
+}

@@ -1,1 +1,75 @@
-{"id": "MINSK", "names": [{"name": "MINSK", "threshold": 0.85}, {"name": "МИНСК", "threshold": 0.85}], "models": {"125MOTARD": {"id": "125MOTARD", "names": [{"name": "125 MOTARD", "threshold": 1}]}, "3,112": {"id": "3,112", "names": [{"name": "3,112", "threshold": 1}]}, "3,113": {"id": "3,113", "names": [{"name": "3,113", "threshold": 1}]}, "3,115": {"id": "3,115", "names": [{"name": "3,115", "threshold": 1}]}, "C4200": {"id": "C4200", "names": [{"name": "C4 200", "threshold": 1}]}, "M4200": {"id": "M4200", "names": [{"name": "M4 200", "threshold": 1}]}}}
+{
+  "id": "MINSK",
+  "names": [
+    {
+      "name": "MINSK",
+      "threshold": 0.85
+    },
+    {
+      "name": "МИНСК",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "125MOTARD": {
+      "id": "125MOTARD",
+      "names": [
+        {
+          "name": "125 MOTARD",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2780"
+    },
+    "3,112": {
+      "id": "3,112",
+      "names": [
+        {
+          "name": "3,112",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2782"
+    },
+    "3,113": {
+      "id": "3,113",
+      "names": [
+        {
+          "name": "3,113",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2783"
+    },
+    "3,115": {
+      "id": "3,115",
+      "names": [
+        {
+          "name": "3,115",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2784"
+    },
+    "C4200": {
+      "id": "C4200",
+      "names": [
+        {
+          "name": "C4 200",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2790"
+    },
+    "M4200": {
+      "id": "M4200",
+      "names": [
+        {
+          "name": "M4 200",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2789"
+    }
+  }
+}

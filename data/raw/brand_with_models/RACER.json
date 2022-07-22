@@ -1,1 +1,125 @@
-{"id": "RACER", "names": [{"name": "RACER", "threshold": 0.85}, {"name": "РАЦЕР", "threshold": 0.85}], "models": {"CM110": {"id": "CM110", "names": [{"name": "CM110", "threshold": 1}]}, "CM70": {"id": "CM70", "names": [{"name": "CM70", "threshold": 1}]}, "RC110": {"id": "RC110", "names": [{"name": "RC110", "threshold": 1}]}, "RC125": {"id": "RC125", "names": [{"name": "RC125", "threshold": 1}]}, "RC130": {"id": "RC130", "names": [{"name": "RC130", "threshold": 1}]}, "RC150": {"id": "RC150", "names": [{"name": "RC150", "threshold": 1}]}, "RC200": {"id": "RC200", "names": [{"name": "RC200", "threshold": 1}]}, "RC200CS": {"id": "RC200CS", "names": [{"name": "RC200CS", "threshold": 1}]}, "RC250": {"id": "RC250", "names": [{"name": "RC250", "threshold": 1}]}, "RC300": {"id": "RC300", "names": [{"name": "RC300", "threshold": 1}]}, "RC70": {"id": "RC70", "names": [{"name": "RC70", "threshold": 1}]}}}
+{
+  "id": "RACER",
+  "names": [
+    {
+      "name": "RACER",
+      "threshold": 0.85
+    },
+    {
+      "name": "РАЦЕР",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "CM110": {
+      "id": "CM110",
+      "names": [
+        {
+          "name": "CM110",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8891"
+    },
+    "CM70": {
+      "id": "CM70",
+      "names": [
+        {
+          "name": "CM70",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8892"
+    },
+    "RC110": {
+      "id": "RC110",
+      "names": [
+        {
+          "name": "RC110",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8894"
+    },
+    "RC125": {
+      "id": "RC125",
+      "names": [
+        {
+          "name": "RC125",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8895"
+    },
+    "RC130": {
+      "id": "RC130",
+      "names": [
+        {
+          "name": "RC130",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8896"
+    },
+    "RC150": {
+      "id": "RC150",
+      "names": [
+        {
+          "name": "RC150",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8897"
+    },
+    "RC200": {
+      "id": "RC200",
+      "names": [
+        {
+          "name": "RC200",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8898"
+    },
+    "RC200CS": {
+      "id": "RC200CS",
+      "names": [
+        {
+          "name": "RC200CS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8899"
+    },
+    "RC250": {
+      "id": "RC250",
+      "names": [
+        {
+          "name": "RC250",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8902"
+    },
+    "RC300": {
+      "id": "RC300",
+      "names": [
+        {
+          "name": "RC300",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17243"
+    },
+    "RC70": {
+      "id": "RC70",
+      "names": [
+        {
+          "name": "RC70",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8900"
+    }
+  }
+}

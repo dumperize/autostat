@@ -1,1 +1,25 @@
-{"id": "SPARK", "names": [{"name": "SPARK", "threshold": 0.85}, {"name": "СПАРК", "threshold": 0.85}], "models": {"SP110": {"id": "SP110", "names": [{"name": "SP 110", "threshold": 1}]}}}
+{
+  "id": "SPARK",
+  "names": [
+    {
+      "name": "SPARK",
+      "threshold": 0.85
+    },
+    {
+      "name": "СПАРК",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "SP110": {
+      "id": "SP110",
+      "names": [
+        {
+          "name": "SP 110",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "5076"
+    }
+  }
+}

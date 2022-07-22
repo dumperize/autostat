@@ -1,1 +1,35 @@
-{"id": "ALTAVIR", "names": [{"name": "ALTAVIR", "threshold": 0.85}, {"name": "АЛТАВИР", "threshold": 0.85}], "models": {"906100": {"id": "906100", "names": [{"name": "906100", "threshold": 1}]}, "906110": {"id": "906110", "names": [{"name": "906110", "threshold": 1}]}}}
+{
+  "id": "ALTAVIR",
+  "names": [
+    {
+      "name": "ALTAVIR",
+      "threshold": 0.85
+    },
+    {
+      "name": "АЛТАВИР",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "906100": {
+      "id": "906100",
+      "names": [
+        {
+          "name": "906100",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "11991"
+    },
+    "906110": {
+      "id": "906110",
+      "names": [
+        {
+          "name": "906110",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "11993"
+    }
+  }
+}

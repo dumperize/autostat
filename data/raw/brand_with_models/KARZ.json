@@ -1,1 +1,25 @@
-{"id": "KARZ", "names": [{"name": "KARZ", "threshold": 0.93}, {"name": "КАРЗ", "threshold": 0.93}], "models": {"PF01FERMER": {"id": "PF01FERMER", "names": [{"name": "PF 01 FERMER", "threshold": 1}]}}}
+{
+  "id": "KARZ",
+  "names": [
+    {
+      "name": "KARZ",
+      "threshold": 0.93
+    },
+    {
+      "name": "КАРЗ",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "PF01FERMER": {
+      "id": "PF01FERMER",
+      "names": [
+        {
+          "name": "PF 01 FERMER",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3482"
+    }
+  }
+}

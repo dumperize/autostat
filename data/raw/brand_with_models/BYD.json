@@ -1,1 +1,103 @@
-{"id": "BYD", "names": [{"name": "BYD", "threshold": 0.97}, {"name": "БЫД", "threshold": 0.97}], "models": {"F0": {"id": "F0", "names": [{"name": "F0", "threshold": 1}]}, "F3": {"id": "F3", "names": [{"name": "F3", "threshold": 1}]}, "F6": {"id": "F6", "names": [{"name": "F6", "threshold": 1}]}, "FLYER": {"id": "FLYER", "names": [{"name": "FLYER", "threshold": 0.85}, {"name": "ФЛЫЕР", "threshold": 0.85}]}, "G3": {"id": "G3", "names": [{"name": "G3", "threshold": 1}]}, "G6": {"id": "G6", "names": [{"name": "G6", "threshold": 1}]}, "OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}, "S6": {"id": "S6", "names": [{"name": "S6", "threshold": 1}]}}}
+{
+  "id": "BYD",
+  "names": [
+    {
+      "name": "BYD",
+      "threshold": 0.97
+    },
+    {
+      "name": "БАД",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "F0": {
+      "id": "F0",
+      "names": [
+        {
+          "name": "F0",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "547"
+    },
+    "F3": {
+      "id": "F3",
+      "names": [
+        {
+          "name": "F3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "548"
+    },
+    "F6": {
+      "id": "F6",
+      "names": [
+        {
+          "name": "F6",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "6350"
+    },
+    "FLYER": {
+      "id": "FLYER",
+      "names": [
+        {
+          "name": "FLYER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ФЛАЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "549"
+    },
+    "G3": {
+      "id": "G3",
+      "names": [
+        {
+          "name": "G3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "6351"
+    },
+    "G6": {
+      "id": "G6",
+      "names": [
+        {
+          "name": "G6",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "6352"
+    },
+    "OTHER": {
+      "id": "OTHER",
+      "names": [
+        {
+          "name": "OTHER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОТХЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "550"
+    },
+    "S6": {
+      "id": "S6",
+      "names": [
+        {
+          "name": "S6",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "6353"
+    }
+  }
+}

@@ -1,1 +1,25 @@
-{"id": "STAVPRICEP", "names": [{"name": "STAVPRICEP", "threshold": 0.85}, {"name": "СТАВПРИЦЕП", "threshold": 0.85}], "models": {"849901": {"id": "849901", "names": [{"name": "849901", "threshold": 1}]}}}
+{
+  "id": "STAVPRICEP",
+  "names": [
+    {
+      "name": "STAVPRICEP",
+      "threshold": 0.85
+    },
+    {
+      "name": "СТАВПРИЦЕП",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "849901": {
+      "id": "849901",
+      "names": [
+        {
+          "name": "849901",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12740"
+    }
+  }
+}

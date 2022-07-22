@@ -1,1 +1,55 @@
-{"id": "AMS", "names": [{"name": "AMS", "threshold": 0.97}, {"name": "АМС", "threshold": 0.97}], "models": {"500": {"id": "500", "names": [{"name": "500", "threshold": 1}]}, "550": {"id": "550", "names": [{"name": "550", "threshold": 1}]}, "650": {"id": "650", "names": [{"name": "650", "threshold": 1}]}, "750": {"id": "750", "names": [{"name": "750", "threshold": 1}]}}}
+{
+  "id": "AMS",
+  "names": [
+    {
+      "name": "AMS",
+      "threshold": 0.97
+    },
+    {
+      "name": "АМС",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "500": {
+      "id": "500",
+      "names": [
+        {
+          "name": "500",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "11995"
+    },
+    "550": {
+      "id": "550",
+      "names": [
+        {
+          "name": "550",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "11996"
+    },
+    "650": {
+      "id": "650",
+      "names": [
+        {
+          "name": "650",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12004"
+    },
+    "750": {
+      "id": "750",
+      "names": [
+        {
+          "name": "750",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "11998"
+    }
+  }
+}

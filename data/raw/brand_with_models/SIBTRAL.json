@@ -1,1 +1,25 @@
-{"id": "SIBTRAL", "names": [{"name": "SIBTRAL", "threshold": 0.85}, {"name": "СИБТРАЛ", "threshold": 0.85}], "models": {"932411001": {"id": "932411001", "names": [{"name": "93241 10 01", "threshold": 1}]}}}
+{
+  "id": "SIBTRAL",
+  "names": [
+    {
+      "name": "SIBTRAL",
+      "threshold": 0.85
+    },
+    {
+      "name": "СИБТРАЛ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "932411001": {
+      "id": "932411001",
+      "names": [
+        {
+          "name": "93241 10 01",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12722"
+    }
+  }
+}

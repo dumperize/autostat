@@ -1,1 +1,85 @@
-{"id": "PROTON", "names": [{"name": "PROTON", "threshold": 0.85}, {"name": "ПРОТОН", "threshold": 0.85}], "models": {"COMPACT": {"id": "COMPACT", "names": [{"name": "COMPACT", "threshold": 0.85}, {"name": "ЦОМПАЦТ", "threshold": 0.85}]}, "PERSONA": {"id": "PERSONA", "names": [{"name": "PERSONA", "threshold": 0.85}, {"name": "ПЕРСОНА", "threshold": 0.85}]}, "PUTRA": {"id": "PUTRA", "names": [{"name": "PUTRA", "threshold": 0.85}, {"name": "ПУТРА", "threshold": 0.85}]}, "SATRIA": {"id": "SATRIA", "names": [{"name": "SATRIA", "threshold": 0.85}, {"name": "САТРИА", "threshold": 0.85}]}, "WAJA": {"id": "WAJA", "names": [{"name": "WAJA", "threshold": 0.93}, {"name": "WАЙА", "threshold": 0.93}]}}}
+{
+  "id": "PROTON",
+  "names": [
+    {
+      "name": "PROTON",
+      "threshold": 0.85
+    },
+    {
+      "name": "ПРОТОН",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "COMPACT": {
+      "id": "COMPACT",
+      "names": [
+        {
+          "name": "COMPACT",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦОМПАЦТ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "202"
+    },
+    "PERSONA": {
+      "id": "PERSONA",
+      "names": [
+        {
+          "name": "PERSONA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ПЕРСОНА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "204"
+    },
+    "PUTRA": {
+      "id": "PUTRA",
+      "names": [
+        {
+          "name": "PUTRA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ПУТРА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "205"
+    },
+    "SATRIA": {
+      "id": "SATRIA",
+      "names": [
+        {
+          "name": "SATRIA",
+          "threshold": 0.85
+        },
+        {
+          "name": "САТРИА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "206"
+    },
+    "WAJA": {
+      "id": "WAJA",
+      "names": [
+        {
+          "name": "WAJA",
+          "threshold": 0.93
+        },
+        {
+          "name": "WАЙА",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "207"
+    }
+  }
+}

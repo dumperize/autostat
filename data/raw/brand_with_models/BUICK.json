@@ -1,1 +1,155 @@
-{"id": "BUICK", "names": [{"name": "BUICK", "threshold": 0.85}, {"name": "БУИЦК", "threshold": 0.85}], "models": {"CENTURY": {"id": "CENTURY", "names": [{"name": "CENTURY", "threshold": 0.85}, {"name": "ЦЕНТУРЫ", "threshold": 0.85}]}, "ELECTRA": {"id": "ELECTRA", "names": [{"name": "ELECTRA", "threshold": 0.85}, {"name": "ЕЛЕЦТРА", "threshold": 0.85}]}, "ENCLAVE": {"id": "ENCLAVE", "names": [{"name": "ENCLAVE", "threshold": 0.85}, {"name": "ЕНЦЛАВЕ", "threshold": 0.85}]}, "LESABRE": {"id": "LESABRE", "names": [{"name": "LESABRE", "threshold": 0.85}, {"name": "ЛЕСАБРЕ", "threshold": 0.85}]}, "PARKAVENUE": {"id": "PARKAVENUE", "names": [{"name": "PARK AVENUE", "threshold": 0.85}, {"name": "ПАРК АВЕНУЕ", "threshold": 0.85}]}, "REGAL": {"id": "REGAL", "names": [{"name": "REGAL", "threshold": 0.85}, {"name": "РЕГАЛ", "threshold": 0.85}]}, "RENDEZVOUS": {"id": "RENDEZVOUS", "names": [{"name": "RENDEZVOUS", "threshold": 0.85}, {"name": "РЕНДЕЗВОУС", "threshold": 0.85}]}, "RIVIERA": {"id": "RIVIERA", "names": [{"name": "RIVIERA", "threshold": 0.85}, {"name": "РИВИЕРА", "threshold": 0.85}]}, "ROADMASTER": {"id": "ROADMASTER", "names": [{"name": "ROADMASTER", "threshold": 0.85}, {"name": "РОАДМАСТЕР", "threshold": 0.85}]}, "SKYLARK": {"id": "SKYLARK", "names": [{"name": "SKYLARK", "threshold": 0.85}, {"name": "СКЫЛАРК", "threshold": 0.85}]}}}
+{
+  "id": "BUICK",
+  "names": [
+    {
+      "name": "BUICK",
+      "threshold": 0.85
+    },
+    {
+      "name": "БУИЦК",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "CENTURY": {
+      "id": "CENTURY",
+      "names": [
+        {
+          "name": "CENTURY",
+          "threshold": 0.85
+        },
+        {
+          "name": "СЕНТРИ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "528"
+    },
+    "ELECTRA": {
+      "id": "ELECTRA",
+      "names": [
+        {
+          "name": "ELECTRA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЕЛЕЦТРА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "529"
+    },
+    "ENCLAVE": {
+      "id": "ENCLAVE",
+      "names": [
+        {
+          "name": "ENCLAVE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЕНЦЛАВЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "530"
+    },
+    "LESABRE": {
+      "id": "LESABRE",
+      "names": [
+        {
+          "name": "LESABRE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЛЕСАБРЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "531"
+    },
+    "PARKAVENUE": {
+      "id": "PARKAVENUE",
+      "names": [
+        {
+          "name": "PARK AVENUE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ПАРК АВЕНУЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "533"
+    },
+    "REGAL": {
+      "id": "REGAL",
+      "names": [
+        {
+          "name": "REGAL",
+          "threshold": 0.85
+        },
+        {
+          "name": "РЕГАЛ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "534"
+    },
+    "RENDEZVOUS": {
+      "id": "RENDEZVOUS",
+      "names": [
+        {
+          "name": "RENDEZVOUS",
+          "threshold": 0.85
+        },
+        {
+          "name": "РЕНДЕЗВОУС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "535"
+    },
+    "RIVIERA": {
+      "id": "RIVIERA",
+      "names": [
+        {
+          "name": "RIVIERA",
+          "threshold": 0.85
+        },
+        {
+          "name": "РИВИЕРА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "536"
+    },
+    "ROADMASTER": {
+      "id": "ROADMASTER",
+      "names": [
+        {
+          "name": "ROADMASTER",
+          "threshold": 0.85
+        },
+        {
+          "name": "РОАДМАСТЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "537"
+    },
+    "SKYLARK": {
+      "id": "SKYLARK",
+      "names": [
+        {
+          "name": "SKYLARK",
+          "threshold": 0.85
+        },
+        {
+          "name": "СКАЙЛАРК",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "538"
+    }
+  }
+}

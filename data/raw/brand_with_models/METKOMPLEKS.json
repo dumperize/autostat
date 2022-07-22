@@ -1,1 +1,35 @@
-{"id": "METKOMPLEKS", "names": [{"name": "METKOMPLEKS", "threshold": 0.85}, {"name": "МЕТКОМПЛЕКС", "threshold": 0.85}], "models": {"PRF114": {"id": "PRF114", "names": [{"name": "PRF114", "threshold": 1}]}, "PRM111": {"id": "PRM111", "names": [{"name": "PRM111", "threshold": 1}]}}}
+{
+  "id": "METKOMPLEKS",
+  "names": [
+    {
+      "name": "METKOMPLEKS",
+      "threshold": 0.85
+    },
+    {
+      "name": "МЕТКОМПЛЕКС",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "PRF114": {
+      "id": "PRF114",
+      "names": [
+        {
+          "name": "PRF114",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18985"
+    },
+    "PRM111": {
+      "id": "PRM111",
+      "names": [
+        {
+          "name": "PRM111",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18687"
+    }
+  }
+}

@@ -1,60 +1,65 @@
 {
-    "id": "OTOYOL",
-    "names": [
-        {
-            "name": "OTOYOL",
-            "threshold": 0.93
-        },
-        {
-            "name": "ОТОЙЛ",
-            "threshold": 0.93
-        }
-    ],
-    "models": {
-        "E27": {
-            "id": "E27",
-            "names": [
-                {
-                    "name": "E27",
-                    "threshold": 1
-                }
-            ]
-        },
-        "E29": {
-            "id": "E29",
-            "names": [
-                {
-                    "name": "E29",
-                    "threshold": 1
-                }
-            ]
-        },
-        "M23.9": {
-            "id": "M23.9",
-            "names": [
-                {
-                    "name": "M23.9",
-                    "threshold": 1
-                }
-            ]
-        },
-        "M24.9": {
-            "id": "M24.9",
-            "names": [
-                {
-                    "name": "M24.9",
-                    "threshold": 1
-                }
-            ]
-        },
-        "M29": {
-            "id": "M29",
-            "names": [
-                {
-                    "name": "M29",
-                    "threshold": 1
-                }
-            ]
-        }
+  "id": "OTOYOL",
+  "names": [
+    {
+      "name": "OTOYOL",
+      "threshold": 0.93
+    },
+    {
+      "name": "ОТОЙЛ",
+      "threshold": 0.93
     }
+  ],
+  "models": {
+    "E27": {
+      "id": "E27",
+      "names": [
+        {
+          "name": "E27",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2175"
+    },
+    "E29": {
+      "id": "E29",
+      "names": [
+        {
+          "name": "E29",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2176"
+    },
+    "M23.9": {
+      "id": "M23.9",
+      "names": [
+        {
+          "name": "M23.9",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2177"
+    },
+    "M24.9": {
+      "id": "M24.9",
+      "names": [
+        {
+          "name": "M24.9",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2178"
+    },
+    "M29": {
+      "id": "M29",
+      "names": [
+        {
+          "name": "M29",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2179"
+    }
+  }
 }

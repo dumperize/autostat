@@ -1,1 +1,35 @@
-{"id": "NEVAKAPITAL", "names": [{"name": "NEVA KAPITAL", "threshold": 0.85}, {"name": "НЕВА КАПИТАЛ", "threshold": 0.85}], "models": {"905410": {"id": "905410", "names": [{"name": "9054 10", "threshold": 1}]}, "90541001": {"id": "90541001", "names": [{"name": "9054 10 01", "threshold": 1}]}}}
+{
+  "id": "NEVAKAPITAL",
+  "names": [
+    {
+      "name": "NEVA KAPITAL",
+      "threshold": 0.85
+    },
+    {
+      "name": "НЕВА КАПИТАЛ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "905410": {
+      "id": "905410",
+      "names": [
+        {
+          "name": "9054 10",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12665"
+    },
+    "90541001": {
+      "id": "90541001",
+      "names": [
+        {
+          "name": "9054 10 01",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12666"
+    }
+  }
+}

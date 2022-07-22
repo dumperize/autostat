@@ -1,197 +1,211 @@
 {
-    "id": "ACURA",
-    "names": [
-        {
-            "name": "ACURA",
-            "threshold": 0.85
-        },
-        {
-            "name": "АЦУРА",
-            "threshold": 0.85
-        }
-    ],
-    "models": {
-        "CL": {
-            "id": "CL",
-            "names": [
-                {
-                    "name": "CL",
-                    "threshold": 1
-                },
-                {
-                    "name": "ЦЛ",
-                    "threshold": 1
-                }
-            ]
-        },
-        "EL": {
-            "id": "EL",
-            "names": [
-                {
-                    "name": "EL",
-                    "threshold": 1
-                },
-                {
-                    "name": "ЕЛ",
-                    "threshold": 1
-                }
-            ]
-        },
-        "INTEGRA": {
-            "id": "INTEGRA",
-            "names": [
-                {
-                    "name": "INTEGRA",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ИНТЕГРА",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "LEGEND": {
-            "id": "LEGEND",
-            "names": [
-                {
-                    "name": "LEGEND",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ЛЕГЕНД",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "MDX": {
-            "id": "MDX",
-            "names": [
-                {
-                    "name": "MDX",
-                    "threshold": 0.97
-                },
-                {
-                    "name": "МДX",
-                    "threshold": 0.97
-                }
-            ]
-        },
-        "NSX": {
-            "id": "NSX",
-            "names": [
-                {
-                    "name": "NSX",
-                    "threshold": 0.97
-                },
-                {
-                    "name": "НСX",
-                    "threshold": 0.97
-                }
-            ]
-        },
-        "RDX": {
-            "id": "RDX",
-            "names": [
-                {
-                    "name": "RDX",
-                    "threshold": 0.97
-                },
-                {
-                    "name": "РДX",
-                    "threshold": 0.97
-                }
-            ]
-        },
-        "RL": {
-            "id": "RL",
-            "names": [
-                {
-                    "name": "RL",
-                    "threshold": 1
-                },
-                {
-                    "name": "РЛ",
-                    "threshold": 1
-                }
-            ]
-        },
-        "RSX": {
-            "id": "RSX",
-            "names": [
-                {
-                    "name": "RSX",
-                    "threshold": 0.97
-                },
-                {
-                    "name": "РСX",
-                    "threshold": 0.97
-                }
-            ]
-        },
-        "SLX": {
-            "id": "SLX",
-            "names": [
-                {
-                    "name": "SLX",
-                    "threshold": 0.97
-                },
-                {
-                    "name": "СЛX",
-                    "threshold": 0.97
-                }
-            ]
-        },
-        "TL": {
-            "id": "TL",
-            "names": [
-                {
-                    "name": "TL",
-                    "threshold": 1
-                },
-                {
-                    "name": "ТЛ",
-                    "threshold": 1
-                }
-            ]
-        },
-        "TLX": {
-            "id": "TLX",
-            "names": [
-                {
-                    "name": "TLX",
-                    "threshold": 0.97
-                },
-                {
-                    "name": "ТЛX",
-                    "threshold": 0.97
-                }
-            ]
-        },
-        "TSX": {
-            "id": "TSX",
-            "names": [
-                {
-                    "name": "TSX",
-                    "threshold": 0.97
-                },
-                {
-                    "name": "ТСX",
-                    "threshold": 0.97
-                }
-            ]
-        },
-        "ZDX": {
-            "id": "ZDX",
-            "names": [
-                {
-                    "name": "ZDX",
-                    "threshold": 0.97
-                },
-                {
-                    "name": "ЗДX",
-                    "threshold": 0.97
-                }
-            ]
-        }
+  "id": "ACURA",
+  "names": [
+    {
+      "name": "ACURA",
+      "threshold": 0.85
+    },
+    {
+      "name": "АЦУРА",
+      "threshold": 0.85
     }
+  ],
+  "models": {
+    "CL": {
+      "id": "CL",
+      "names": [
+        {
+          "name": "CL",
+          "threshold": 1
+        },
+        {
+          "name": "ЦЛ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1"
+    },
+    "EL": {
+      "id": "EL",
+      "names": [
+        {
+          "name": "EL",
+          "threshold": 1
+        },
+        {
+          "name": "ЕЛ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3"
+    },
+    "INTEGRA": {
+      "id": "INTEGRA",
+      "names": [
+        {
+          "name": "INTEGRA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ИНТЕГРА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "4"
+    },
+    "LEGEND": {
+      "id": "LEGEND",
+      "names": [
+        {
+          "name": "LEGEND",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЛЕГЕНД",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "5"
+    },
+    "MDX": {
+      "id": "MDX",
+      "names": [
+        {
+          "name": "MDX",
+          "threshold": 0.97
+        },
+        {
+          "name": "МДX",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "6"
+    },
+    "NSX": {
+      "id": "NSX",
+      "names": [
+        {
+          "name": "NSX",
+          "threshold": 0.97
+        },
+        {
+          "name": "НСX",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "7"
+    },
+    "RDX": {
+      "id": "RDX",
+      "names": [
+        {
+          "name": "RDX",
+          "threshold": 0.97
+        },
+        {
+          "name": "РДX",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "9"
+    },
+    "RL": {
+      "id": "RL",
+      "names": [
+        {
+          "name": "RL",
+          "threshold": 1
+        },
+        {
+          "name": "РЛ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10"
+    },
+    "RSX": {
+      "id": "RSX",
+      "names": [
+        {
+          "name": "RSX",
+          "threshold": 0.97
+        },
+        {
+          "name": "РСX",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "11"
+    },
+    "SLX": {
+      "id": "SLX",
+      "names": [
+        {
+          "name": "SLX",
+          "threshold": 0.97
+        },
+        {
+          "name": "СЛX",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "12"
+    },
+    "TL": {
+      "id": "TL",
+      "names": [
+        {
+          "name": "TL",
+          "threshold": 1
+        },
+        {
+          "name": "ТЛ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "13"
+    },
+    "TLX": {
+      "id": "TLX",
+      "names": [
+        {
+          "name": "TLX",
+          "threshold": 0.97
+        },
+        {
+          "name": "ТЛX",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "16185"
+    },
+    "TSX": {
+      "id": "TSX",
+      "names": [
+        {
+          "name": "TSX",
+          "threshold": 0.97
+        },
+        {
+          "name": "ТСX",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "14"
+    },
+    "ZDX": {
+      "id": "ZDX",
+      "names": [
+        {
+          "name": "ZDX",
+          "threshold": 0.97
+        },
+        {
+          "name": "ЗДX",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "15"
+    }
+  }
 }

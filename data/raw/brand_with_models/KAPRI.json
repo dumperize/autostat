@@ -1,1 +1,145 @@
-{"id": "KAPRI", "names": [{"name": "KAPRI", "threshold": 0.85}, {"name": "КАПРИ", "threshold": 0.85}], "models": {"96398": {"id": "96398", "names": [{"name": "96398", "threshold": 1}]}, "9639A": {"id": "9639A", "names": [{"name": "9639A", "threshold": 1}]}, "9639B": {"id": "9639B", "names": [{"name": "9639B", "threshold": 1}]}, "9639H": {"id": "9639H", "names": [{"name": "9639H", "threshold": 1}]}, "9639L": {"id": "9639L", "names": [{"name": "9639L", "threshold": 1}]}, "PC15": {"id": "PC15", "names": [{"name": "PC 15", "threshold": 1}]}, "PPC25": {"id": "PPC25", "names": [{"name": "PPC 25", "threshold": 1}]}, "PPC25T": {"id": "PPC25T", "names": [{"name": "PPC 25T", "threshold": 1}]}, "PPC30": {"id": "PPC30", "names": [{"name": "PPC 30", "threshold": 1}]}, "PPC30T": {"id": "PPC30T", "names": [{"name": "PPC 30T", "threshold": 1}]}, "PPC33": {"id": "PPC33", "names": [{"name": "PPC 33", "threshold": 1}]}, "PPC33T": {"id": "PPC33T", "names": [{"name": "PPC 33T", "threshold": 1}]}, "PPC37": {"id": "PPC37", "names": [{"name": "PPC 37", "threshold": 1}]}}}
+{
+  "id": "KAPRI",
+  "names": [
+    {
+      "name": "KAPRI",
+      "threshold": 0.85
+    },
+    {
+      "name": "КАПРИ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "96398": {
+      "id": "96398",
+      "names": [
+        {
+          "name": "96398",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16113"
+    },
+    "9639A": {
+      "id": "9639A",
+      "names": [
+        {
+          "name": "9639A",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16115"
+    },
+    "9639B": {
+      "id": "9639B",
+      "names": [
+        {
+          "name": "9639B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16116"
+    },
+    "9639H": {
+      "id": "9639H",
+      "names": [
+        {
+          "name": "9639H",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16121"
+    },
+    "9639L": {
+      "id": "9639L",
+      "names": [
+        {
+          "name": "9639L",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16123"
+    },
+    "PC15": {
+      "id": "PC15",
+      "names": [
+        {
+          "name": "PC 15",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "9949"
+    },
+    "PPC25": {
+      "id": "PPC25",
+      "names": [
+        {
+          "name": "PPC 25",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "9950"
+    },
+    "PPC25T": {
+      "id": "PPC25T",
+      "names": [
+        {
+          "name": "PPC 25T",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "9951"
+    },
+    "PPC30": {
+      "id": "PPC30",
+      "names": [
+        {
+          "name": "PPC 30",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "9952"
+    },
+    "PPC30T": {
+      "id": "PPC30T",
+      "names": [
+        {
+          "name": "PPC 30T",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "9953"
+    },
+    "PPC33": {
+      "id": "PPC33",
+      "names": [
+        {
+          "name": "PPC 33",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "9954"
+    },
+    "PPC33T": {
+      "id": "PPC33T",
+      "names": [
+        {
+          "name": "PPC 33T",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "9955"
+    },
+    "PPC37": {
+      "id": "PPC37",
+      "names": [
+        {
+          "name": "PPC 37",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "9956"
+    }
+  }
+}

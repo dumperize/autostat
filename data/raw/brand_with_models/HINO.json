@@ -1,1 +1,73 @@
-{"id": "HINO", "names": [{"name": "HINO", "threshold": 0.93}, {"name": "ХИНО", "threshold": 0.93}], "models": {"300": {"id": "300", "names": [{"name": "300", "threshold": 1}]}, "500": {"id": "500", "names": [{"name": "500", "threshold": 1}]}, "700": {"id": "700", "names": [{"name": "700", "threshold": 1}]}, "DUTRO": {"id": "DUTRO", "names": [{"name": "DUTRO", "threshold": 0.85}, {"name": "ДУТРО", "threshold": 0.85}]}, "RANGER": {"id": "RANGER", "names": [{"name": "RANGER", "threshold": 0.85}, {"name": "РАНГЕР", "threshold": 0.85}]}}}
+{
+  "id": "HINO",
+  "names": [
+    {
+      "name": "HINO",
+      "threshold": 0.93
+    },
+    {
+      "name": "ХИНО",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "300": {
+      "id": "300",
+      "names": [
+        {
+          "name": "300",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1958"
+    },
+    "500": {
+      "id": "500",
+      "names": [
+        {
+          "name": "500",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1959"
+    },
+    "700": {
+      "id": "700",
+      "names": [
+        {
+          "name": "700",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1960"
+    },
+    "DUTRO": {
+      "id": "DUTRO",
+      "names": [
+        {
+          "name": "DUTRO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДУТРО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1655"
+    },
+    "RANGER": {
+      "id": "RANGER",
+      "names": [
+        {
+          "name": "RANGER",
+          "threshold": 0.85
+        },
+        {
+          "name": "РАНГЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1962"
+    }
+  }
+}

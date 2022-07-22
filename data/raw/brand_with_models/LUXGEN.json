@@ -1,1 +1,35 @@
-{"id": "LUXGEN", "names": [{"name": "LUXGEN", "threshold": 0.85}, {"name": "ЛУXГЕН", "threshold": 0.85}], "models": {"5": {"id": "5", "names": [{"name": "5", "threshold": 1}]}, "7SUV": {"id": "7SUV", "names": [{"name": "7 SUV", "threshold": 1}]}}}
+{
+  "id": "LUXGEN",
+  "names": [
+    {
+      "name": "LUXGEN",
+      "threshold": 0.85
+    },
+    {
+      "name": "ЛУXГЕН",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "5": {
+      "id": "5",
+      "names": [
+        {
+          "name": "5",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "6285"
+    },
+    "7SUV": {
+      "id": "7SUV",
+      "names": [
+        {
+          "name": "7 SUV",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "6286"
+    }
+  }
+}

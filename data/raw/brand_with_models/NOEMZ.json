@@ -1,1 +1,45 @@
-{"id": "NOEMZ", "names": [{"name": "NOEMZ", "threshold": 0.85}, {"name": "НОЕМЗ", "threshold": 0.85}], "models": {"8269": {"id": "8269", "names": [{"name": "8269", "threshold": 1}]}, "826910": {"id": "826910", "names": [{"name": "8269 10", "threshold": 1}]}, "826911": {"id": "826911", "names": [{"name": "8269 11", "threshold": 1}]}}}
+{
+  "id": "NOEMZ",
+  "names": [
+    {
+      "name": "NOEMZ",
+      "threshold": 0.85
+    },
+    {
+      "name": "НОЕМЗ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "8269": {
+      "id": "8269",
+      "names": [
+        {
+          "name": "8269",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16131"
+    },
+    "826910": {
+      "id": "826910",
+      "names": [
+        {
+          "name": "8269 10",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16130"
+    },
+    "826911": {
+      "id": "826911",
+      "names": [
+        {
+          "name": "8269 11",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16132"
+    }
+  }
+}

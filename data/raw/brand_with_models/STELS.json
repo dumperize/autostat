@@ -1,1 +1,161 @@
-{"id": "STELS", "names": [{"name": "STELS", "threshold": 0.85}, {"name": "СТЕЛС", "threshold": 0.85}], "models": {"BENELLI": {"id": "BENELLI", "names": [{"name": "BENELLI", "threshold": 0.85}, {"name": "БЕНЕЛЛИ", "threshold": 0.85}]}, "DELTA": {"id": "DELTA", "names": [{"name": "DELTA", "threshold": 0.85}, {"name": "ДЕЛТА", "threshold": 0.85}]}, "DESNA": {"id": "DESNA", "names": [{"name": "DESNA", "threshold": 0.85}, {"name": "ДЕСНА", "threshold": 0.85}]}, "ENDURO": {"id": "ENDURO", "names": [{"name": "ENDURO", "threshold": 0.85}, {"name": "ЕНДУРО", "threshold": 0.85}]}, "FLAME": {"id": "FLAME", "names": [{"name": "FLAME", "threshold": 0.85}, {"name": "ФЛАМЕ", "threshold": 0.85}]}, "FLEX": {"id": "FLEX", "names": [{"name": "FLEX", "threshold": 0.93}, {"name": "ФЛЕX", "threshold": 0.93}]}, "OUTLANDER": {"id": "OUTLANDER", "names": [{"name": "OUTLANDER", "threshold": 0.85}, {"name": "ОУТЛАНДЕР", "threshold": 0.85}]}, "SB200": {"id": "SB200", "names": [{"name": "SB200", "threshold": 1}]}, "VORTEX": {"id": "VORTEX", "names": [{"name": "VORTEX", "threshold": 0.85}, {"name": "ВОРТЕX", "threshold": 0.85}]}, "XY400": {"id": "XY400", "names": [{"name": "XY400", "threshold": 1}]}, "ZION": {"id": "ZION", "names": [{"name": "ZION", "threshold": 0.93}, {"name": "ЗИОН", "threshold": 0.93}]}}}
+{
+  "id": "STELS",
+  "names": [
+    {
+      "name": "STELS",
+      "threshold": 0.85
+    },
+    {
+      "name": "СТЕЛС",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "BENELLI": {
+      "id": "BENELLI",
+      "names": [
+        {
+          "name": "BENELLI",
+          "threshold": 0.85
+        },
+        {
+          "name": "БЕНЕЛЛИ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "11924"
+    },
+    "DELTA": {
+      "id": "DELTA",
+      "names": [
+        {
+          "name": "DELTA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДЕЛТА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8925"
+    },
+    "DESNA": {
+      "id": "DESNA",
+      "names": [
+        {
+          "name": "DESNA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДЕСНА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8926"
+    },
+    "ENDURO": {
+      "id": "ENDURO",
+      "names": [
+        {
+          "name": "ENDURO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЕНДУРО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "11925"
+    },
+    "FLAME": {
+      "id": "FLAME",
+      "names": [
+        {
+          "name": "FLAME",
+          "threshold": 0.85
+        },
+        {
+          "name": "ФЛАМЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8927"
+    },
+    "FLEX": {
+      "id": "FLEX",
+      "names": [
+        {
+          "name": "FLEX",
+          "threshold": 0.93
+        },
+        {
+          "name": "ФЛЕX",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "8928"
+    },
+    "OUTLANDER": {
+      "id": "OUTLANDER",
+      "names": [
+        {
+          "name": "OUTLANDER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОУТЛАНДЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8930"
+    },
+    "SB200": {
+      "id": "SB200",
+      "names": [
+        {
+          "name": "SB200",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8931"
+    },
+    "VORTEX": {
+      "id": "VORTEX",
+      "names": [
+        {
+          "name": "VORTEX",
+          "threshold": 0.85
+        },
+        {
+          "name": "ВОРТЕX",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "11926"
+    },
+    "XY400": {
+      "id": "XY400",
+      "names": [
+        {
+          "name": "XY400",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8932"
+    },
+    "ZION": {
+      "id": "ZION",
+      "names": [
+        {
+          "name": "ZION",
+          "threshold": 0.93
+        },
+        {
+          "name": "ЗИОН",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "8933"
+    }
+  }
+}

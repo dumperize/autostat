@@ -1,905 +1,999 @@
 {
-    "id": "BMW",
-    "names": [
-        {
-            "name": "BMW",
-            "threshold": 0.97
-        },
-        {
-            "name": "БМВ",
-            "threshold": 0.97
-        }
-    ],
-    "models": {
-        "1SERIES": {
-            "id": "1SERIES",
-            "names": [
-                {
-                    "name": "1 SERIES",
-                    "threshold": 1
-                },
-                {
-                    "name": "1",
-                    "threshold": 1
-                }
-            ]
-        },
-        "2SERIES": {
-            "id": "2SERIES",
-            "names": [
-                {
-                    "name": "2 SERIES",
-                    "threshold": 1
-                },
-                {
-                    "name": "2",
-                    "threshold": 1
-                }
-            ]
-        },
-        "2SERIESACTIVETOURER": {
-            "id": "2SERIESACTIVETOURER",
-            "names": [
-                {
-                    "name": "2 SERIES ACTIVE TOURER",
-                    "threshold": 1
-                }
-            ]
-        },
-        "3GT": {
-            "id": "3GT",
-            "names": [
-                {
-                    "name": "3 GT",
-                    "threshold": 1
-                }
-            ]
-        },
-        "3SERIES": {
-            "id": "3SERIES",
-            "names": [
-                {
-                    "name": "3 SERIES",
-                    "threshold": 1
-                },
-                {
-                    "name": "3",
-                    "threshold": 1
-                }
-            ]
-        },
-        "4SERIES": {
-            "id": "4SERIES",
-            "names": [
-                {
-                    "name": "4 SERIES",
-                    "threshold": 1
-                },
-                {
-                    "name": "4",
-                    "threshold": 1
-                }
-            ]
-        },
-        "5GT": {
-            "id": "5GT",
-            "names": [
-                {
-                    "name": "5 GT",
-                    "threshold": 1
-                }
-            ]
-        },
-        "5SERIES": {
-            "id": "5SERIES",
-            "names": [
-                {
-                    "name": "5 SERIES",
-                    "threshold": 1
-                },
-                {
-                    "name": "5",
-                    "threshold": 1
-                }
-            ]
-        },
-        "6GT": {
-            "id": "6GT",
-            "names": [
-                {
-                    "name": "6 GT",
-                    "threshold": 1
-                }
-            ]
-        },
-        "6SERIES": {
-            "id": "6SERIES",
-            "names": [
-                {
-                    "name": "6 SERIES",
-                    "threshold": 1
-                },
-                {
-                    "name": "6",
-                    "threshold": 1
-                }
-            ]
-        },
-        "7SERIES": {
-            "id": "7SERIES",
-            "names": [
-                {
-                    "name": "7 SERIES",
-                    "threshold": 1
-                },
-                {
-                    "name": "7",
-                    "threshold": 1
-                }
-            ]
-        },
-        "8SERIES": {
-            "id": "8SERIES",
-            "names": [
-                {
-                    "name": "8 SERIES",
-                    "threshold": 1
-                },
-                {
-                    "name": "8",
-                    "threshold": 1
-                }
-            ]
-        },
-        "CEVOLUTION": {
-            "id": "CEVOLUTION",
-            "names": [
-                {
-                    "name": "C EVOLUTION",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "Ц ЕВОЛУТИОН",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "C1": {
-            "id": "C1",
-            "names": [
-                {
-                    "name": "C 1",
-                    "threshold": 1
-                }
-            ]
-        },
-        "C600SPORT": {
-            "id": "C600SPORT",
-            "names": [
-                {
-                    "name": "C600 SPORT",
-                    "threshold": 1
-                }
-            ]
-        },
-        "C650SPORT": {
-            "id": "C650SPORT",
-            "names": [
-                {
-                    "name": "C650 SPORT",
-                    "threshold": 1
-                }
-            ]
-        },
-        "C650GT": {
-            "id": "C650GT",
-            "names": [
-                {
-                    "name": "C650GT",
-                    "threshold": 1
-                }
-            ]
-        },
-        "F650": {
-            "id": "F650",
-            "names": [
-                {
-                    "name": "F650",
-                    "threshold": 1
-                }
-            ]
-        },
-        "F650CS": {
-            "id": "F650CS",
-            "names": [
-                {
-                    "name": "F650CS",
-                    "threshold": 1
-                }
-            ]
-        },
-        "F650GS": {
-            "id": "F650GS",
-            "names": [
-                {
-                    "name": "F650GS",
-                    "threshold": 1
-                }
-            ]
-        },
-        "F700GS": {
-            "id": "F700GS",
-            "names": [
-                {
-                    "name": "F700GS",
-                    "threshold": 1
-                }
-            ]
-        },
-        "F750GS": {
-            "id": "F750GS",
-            "names": [
-                {
-                    "name": "F750GS",
-                    "threshold": 1
-                }
-            ]
-        },
-        "F800GS": {
-            "id": "F800GS",
-            "names": [
-                {
-                    "name": "F800GS",
-                    "threshold": 1
-                }
-            ]
-        },
-        "F800GT": {
-            "id": "F800GT",
-            "names": [
-                {
-                    "name": "F800GT",
-                    "threshold": 1
-                }
-            ]
-        },
-        "F800R": {
-            "id": "F800R",
-            "names": [
-                {
-                    "name": "F800R",
-                    "threshold": 1
-                }
-            ]
-        },
-        "F800S": {
-            "id": "F800S",
-            "names": [
-                {
-                    "name": "F800S",
-                    "threshold": 1
-                }
-            ]
-        },
-        "F800ST": {
-            "id": "F800ST",
-            "names": [
-                {
-                    "name": "F800ST",
-                    "threshold": 1
-                }
-            ]
-        },
-        "F850GS": {
-            "id": "F850GS",
-            "names": [
-                {
-                    "name": "F850GS",
-                    "threshold": 1
-                }
-            ]
-        },
-        "G450X": {
-            "id": "G450X",
-            "names": [
-                {
-                    "name": "G450X",
-                    "threshold": 1
-                }
-            ]
-        },
-        "G650": {
-            "id": "G650",
-            "names": [
-                {
-                    "name": "G650",
-                    "threshold": 1
-                }
-            ]
-        },
-        "G650GS": {
-            "id": "G650GS",
-            "names": [
-                {
-                    "name": "G650GS",
-                    "threshold": 1
-                }
-            ]
-        },
-        "G650X": {
-            "id": "G650X",
-            "names": [
-                {
-                    "name": "G650X",
-                    "threshold": 1
-                }
-            ]
-        },
-        "HP2": {
-            "id": "HP2",
-            "names": [
-                {
-                    "name": "HP2",
-                    "threshold": 1
-                }
-            ]
-        },
-        "HP4": {
-            "id": "HP4",
-            "names": [
-                {
-                    "name": "HP4",
-                    "threshold": 1
-                }
-            ]
-        },
-        "I3": {
-            "id": "I3",
-            "names": [
-                {
-                    "name": "I3",
-                    "threshold": 1
-                }
-            ]
-        },
-        "I8": {
-            "id": "I8",
-            "names": [
-                {
-                    "name": "I8",
-                    "threshold": 1
-                }
-            ]
-        },
-        "K100": {
-            "id": "K100",
-            "names": [
-                {
-                    "name": "K100",
-                    "threshold": 1
-                }
-            ]
-        },
-        "K1100": {
-            "id": "K1100",
-            "names": [
-                {
-                    "name": "K1100",
-                    "threshold": 1
-                }
-            ]
-        },
-        "K1200GT": {
-            "id": "K1200GT",
-            "names": [
-                {
-                    "name": "K1200GT",
-                    "threshold": 1
-                }
-            ]
-        },
-        "K1200LT": {
-            "id": "K1200LT",
-            "names": [
-                {
-                    "name": "K1200LT",
-                    "threshold": 1
-                }
-            ]
-        },
-        "K1200R": {
-            "id": "K1200R",
-            "names": [
-                {
-                    "name": "K1200R",
-                    "threshold": 1
-                }
-            ]
-        },
-        "K1200RS": {
-            "id": "K1200RS",
-            "names": [
-                {
-                    "name": "K1200RS",
-                    "threshold": 1
-                }
-            ]
-        },
-        "K1200S": {
-            "id": "K1200S",
-            "names": [
-                {
-                    "name": "K1200S",
-                    "threshold": 1
-                }
-            ]
-        },
-        "K1300GT": {
-            "id": "K1300GT",
-            "names": [
-                {
-                    "name": "K1300GT",
-                    "threshold": 1
-                }
-            ]
-        },
-        "K1300R": {
-            "id": "K1300R",
-            "names": [
-                {
-                    "name": "K1300R",
-                    "threshold": 1
-                }
-            ]
-        },
-        "K1300S": {
-            "id": "K1300S",
-            "names": [
-                {
-                    "name": "K1300S",
-                    "threshold": 1
-                }
-            ]
-        },
-        "K1600": {
-            "id": "K1600",
-            "names": [
-                {
-                    "name": "K1600",
-                    "threshold": 1
-                }
-            ]
-        },
-        "K1600GTL": {
-            "id": "K1600GTL",
-            "names": [
-                {
-                    "name": "K1600GTL",
-                    "threshold": 1
-                }
-            ]
-        },
-        "M1": {
-            "id": "M1",
-            "names": [
-                {
-                    "name": "M1",
-                    "threshold": 1
-                }
-            ]
-        },
-        "M2": {
-            "id": "M2",
-            "names": [
-                {
-                    "name": "M2",
-                    "threshold": 1
-                }
-            ]
-        },
-        "M3": {
-            "id": "M3",
-            "names": [
-                {
-                    "name": "M3",
-                    "threshold": 1
-                }
-            ]
-        },
-        "M4": {
-            "id": "M4",
-            "names": [
-                {
-                    "name": "M4",
-                    "threshold": 1
-                }
-            ]
-        },
-        "M5": {
-            "id": "M5",
-            "names": [
-                {
-                    "name": "M5",
-                    "threshold": 1
-                }
-            ]
-        },
-        "M6": {
-            "id": "M6",
-            "names": [
-                {
-                    "name": "M6",
-                    "threshold": 1
-                }
-            ]
-        },
-        "M8": {
-            "id": "M8",
-            "names": [
-                {
-                    "name": "M8",
-                    "threshold": 1
-                }
-            ]
-        },
-        "OTHER": {
-            "id": "OTHER",
-            "names": [
-                {
-                    "name": "OTHER",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ОТХЕР",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "RNINET": {
-            "id": "RNINET",
-            "names": [
-                {
-                    "name": "R NINE T",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "Р НИНЕ Т",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "R1100GS": {
-            "id": "R1100GS",
-            "names": [
-                {
-                    "name": "R1100GS",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1100R": {
-            "id": "R1100R",
-            "names": [
-                {
-                    "name": "R1100R",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1100RS": {
-            "id": "R1100RS",
-            "names": [
-                {
-                    "name": "R1100RS",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1100RT": {
-            "id": "R1100RT",
-            "names": [
-                {
-                    "name": "R1100RT",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1100S": {
-            "id": "R1100S",
-            "names": [
-                {
-                    "name": "R1100S",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1150GS": {
-            "id": "R1150GS",
-            "names": [
-                {
-                    "name": "R1150GS",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1150R": {
-            "id": "R1150R",
-            "names": [
-                {
-                    "name": "R1150R",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1150RS": {
-            "id": "R1150RS",
-            "names": [
-                {
-                    "name": "R1150RS",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1150RT": {
-            "id": "R1150RT",
-            "names": [
-                {
-                    "name": "R1150RT",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R12": {
-            "id": "R12",
-            "names": [
-                {
-                    "name": "R12",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1200C": {
-            "id": "R1200C",
-            "names": [
-                {
-                    "name": "R1200C",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1200CL": {
-            "id": "R1200CL",
-            "names": [
-                {
-                    "name": "R1200CL",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1200GS": {
-            "id": "R1200GS",
-            "names": [
-                {
-                    "name": "R1200GS",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1200R": {
-            "id": "R1200R",
-            "names": [
-                {
-                    "name": "R1200R",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1200RS": {
-            "id": "R1200RS",
-            "names": [
-                {
-                    "name": "R1200RS",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1200RT": {
-            "id": "R1200RT",
-            "names": [
-                {
-                    "name": "R1200RT",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1200S": {
-            "id": "R1200S",
-            "names": [
-                {
-                    "name": "R1200S",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1200ST": {
-            "id": "R1200ST",
-            "names": [
-                {
-                    "name": "R1200ST",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1250GS": {
-            "id": "R1250GS",
-            "names": [
-                {
-                    "name": "R1250GS",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1250R": {
-            "id": "R1250R",
-            "names": [
-                {
-                    "name": "R1250R",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1250RS": {
-            "id": "R1250RS",
-            "names": [
-                {
-                    "name": "R1250RS",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R1250RT": {
-            "id": "R1250RT",
-            "names": [
-                {
-                    "name": "R1250RT",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R80": {
-            "id": "R80",
-            "names": [
-                {
-                    "name": "R80",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R850R": {
-            "id": "R850R",
-            "names": [
-                {
-                    "name": "R850R",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R90": {
-            "id": "R90",
-            "names": [
-                {
-                    "name": "R90",
-                    "threshold": 1
-                }
-            ]
-        },
-        "S1000RR": {
-            "id": "S1000RR",
-            "names": [
-                {
-                    "name": "S1000RR",
-                    "threshold": 1
-                }
-            ]
-        },
-        "X1": {
-            "id": "X1",
-            "names": [
-                {
-                    "name": "X1",
-                    "threshold": 1
-                }
-            ]
-        },
-        "X2": {
-            "id": "X2",
-            "names": [
-                {
-                    "name": "X2",
-                    "threshold": 1
-                }
-            ]
-        },
-        "X3": {
-            "id": "X3",
-            "names": [
-                {
-                    "name": "X3",
-                    "threshold": 1
-                }
-            ]
-        },
-        "X4": {
-            "id": "X4",
-            "names": [
-                {
-                    "name": "X4",
-                    "threshold": 1
-                }
-            ]
-        },
-        "X5": {
-            "id": "X5",
-            "names": [
-                {
-                    "name": "X5",
-                    "threshold": 1
-                }
-            ]
-        },
-        "X6": {
-            "id": "X6",
-            "names": [
-                {
-                    "name": "X6",
-                    "threshold": 1
-                }
-            ]
-        },
-        "X7": {
-            "id": "X7",
-            "names": [
-                {
-                    "name": "X7",
-                    "threshold": 1
-                }
-            ]
-        },
-        "Z1": {
-            "id": "Z1",
-            "names": [
-                {
-                    "name": "Z1",
-                    "threshold": 1
-                }
-            ]
-        },
-        "Z3": {
-            "id": "Z3",
-            "names": [
-                {
-                    "name": "Z3",
-                    "threshold": 1
-                }
-            ]
-        },
-        "Z4": {
-            "id": "Z4",
-            "names": [
-                {
-                    "name": "Z4",
-                    "threshold": 1
-                }
-            ]
-        },
-        "Z8": {
-            "id": "Z8",
-            "names": [
-                {
-                    "name": "Z8",
-                    "threshold": 1
-                }
-            ]
-        }
+  "id": "BMW",
+  "names": [
+    {
+      "name": "BMW",
+      "threshold": 0.97
+    },
+    {
+      "name": "БМВ",
+      "threshold": 0.97
     }
+  ],
+  "models": {
+    "1SERIES": {
+      "id": "1SERIES",
+      "names": [
+        {
+          "name": "1 SERIES",
+          "threshold": 1
+        },
+        {
+          "name": "1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "215"
+    },
+    "2SERIES": {
+      "id": "2SERIES",
+      "names": [
+        {
+          "name": "2 SERIES",
+          "threshold": 1
+        },
+        {
+          "name": "2",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "7665"
+    },
+    "2SERIESACTIVETOURER": {
+      "id": "2SERIESACTIVETOURER",
+      "names": [
+        {
+          "name": "2 SERIES ACTIVE TOURER",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18590"
+    },
+    "3GT": {
+      "id": "3GT",
+      "names": [
+        {
+          "name": "3 GT",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8708"
+    },
+    "3SERIES": {
+      "id": "3SERIES",
+      "names": [
+        {
+          "name": "3 SERIES",
+          "threshold": 1
+        },
+        {
+          "name": "3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "216"
+    },
+    "4SERIES": {
+      "id": "4SERIES",
+      "names": [
+        {
+          "name": "4 SERIES",
+          "threshold": 1
+        },
+        {
+          "name": "4",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "6201"
+    },
+    "5GT": {
+      "id": "5GT",
+      "names": [
+        {
+          "name": "5 GT",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "210"
+    },
+    "5SERIES": {
+      "id": "5SERIES",
+      "names": [
+        {
+          "name": "5 SERIES",
+          "threshold": 1
+        },
+        {
+          "name": "5",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "217"
+    },
+    "6GT": {
+      "id": "6GT",
+      "names": [
+        {
+          "name": "6 GT",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16107"
+    },
+    "6SERIES": {
+      "id": "6SERIES",
+      "names": [
+        {
+          "name": "6 SERIES",
+          "threshold": 1
+        },
+        {
+          "name": "6",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "218"
+    },
+    "7SERIES": {
+      "id": "7SERIES",
+      "names": [
+        {
+          "name": "7 SERIES",
+          "threshold": 1
+        },
+        {
+          "name": "7",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "219"
+    },
+    "8SERIES": {
+      "id": "8SERIES",
+      "names": [
+        {
+          "name": "8 SERIES",
+          "threshold": 1
+        },
+        {
+          "name": "8",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "220"
+    },
+    "CEVOLUTION": {
+      "id": "CEVOLUTION",
+      "names": [
+        {
+          "name": "C EVOLUTION",
+          "threshold": 0.85
+        },
+        {
+          "name": "Ц ЕВОЛУТИОН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17303"
+    },
+    "C1": {
+      "id": "C1",
+      "names": [
+        {
+          "name": "C 1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2444"
+    },
+    "C600SPORT": {
+      "id": "C600SPORT",
+      "names": [
+        {
+          "name": "C600 SPORT",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17286"
+    },
+    "C650SPORT": {
+      "id": "C650SPORT",
+      "names": [
+        {
+          "name": "C650 SPORT",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17289"
+    },
+    "C650GT": {
+      "id": "C650GT",
+      "names": [
+        {
+          "name": "C650GT",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17225"
+    },
+    "F650": {
+      "id": "F650",
+      "names": [
+        {
+          "name": "F650",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2445"
+    },
+    "F650CS": {
+      "id": "F650CS",
+      "names": [
+        {
+          "name": "F650CS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2446"
+    },
+    "F650GS": {
+      "id": "F650GS",
+      "names": [
+        {
+          "name": "F650GS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2447"
+    },
+    "F700GS": {
+      "id": "F700GS",
+      "names": [
+        {
+          "name": "F700GS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17287"
+    },
+    "F750GS": {
+      "id": "F750GS",
+      "names": [
+        {
+          "name": "F750GS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17220"
+    },
+    "F800GS": {
+      "id": "F800GS",
+      "names": [
+        {
+          "name": "F800GS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2448"
+    },
+    "F800GT": {
+      "id": "F800GT",
+      "names": [
+        {
+          "name": "F800GT",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17288"
+    },
+    "F800R": {
+      "id": "F800R",
+      "names": [
+        {
+          "name": "F800R",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2449"
+    },
+    "F800S": {
+      "id": "F800S",
+      "names": [
+        {
+          "name": "F800S",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2450"
+    },
+    "F800ST": {
+      "id": "F800ST",
+      "names": [
+        {
+          "name": "F800ST",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2451"
+    },
+    "F850GS": {
+      "id": "F850GS",
+      "names": [
+        {
+          "name": "F850GS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17221"
+    },
+    "G450X": {
+      "id": "G450X",
+      "names": [
+        {
+          "name": "G450X",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2452"
+    },
+    "G650": {
+      "id": "G650",
+      "names": [
+        {
+          "name": "G650",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2453"
+    },
+    "G650GS": {
+      "id": "G650GS",
+      "names": [
+        {
+          "name": "G650GS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2454"
+    },
+    "G650X": {
+      "id": "G650X",
+      "names": [
+        {
+          "name": "G650X",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2455"
+    },
+    "HP2": {
+      "id": "HP2",
+      "names": [
+        {
+          "name": "HP2",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17304"
+    },
+    "HP4": {
+      "id": "HP4",
+      "names": [
+        {
+          "name": "HP4",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17290"
+    },
+    "I3": {
+      "id": "I3",
+      "names": [
+        {
+          "name": "I3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14897"
+    },
+    "I8": {
+      "id": "I8",
+      "names": [
+        {
+          "name": "I8",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8734"
+    },
+    "K100": {
+      "id": "K100",
+      "names": [
+        {
+          "name": "K100",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2457"
+    },
+    "K1100": {
+      "id": "K1100",
+      "names": [
+        {
+          "name": "K1100",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2458"
+    },
+    "K1200GT": {
+      "id": "K1200GT",
+      "names": [
+        {
+          "name": "K1200GT",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2459"
+    },
+    "K1200LT": {
+      "id": "K1200LT",
+      "names": [
+        {
+          "name": "K1200LT",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2460"
+    },
+    "K1200R": {
+      "id": "K1200R",
+      "names": [
+        {
+          "name": "K1200R",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2461"
+    },
+    "K1200RS": {
+      "id": "K1200RS",
+      "names": [
+        {
+          "name": "K1200RS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2462"
+    },
+    "K1200S": {
+      "id": "K1200S",
+      "names": [
+        {
+          "name": "K1200S",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2463"
+    },
+    "K1300GT": {
+      "id": "K1300GT",
+      "names": [
+        {
+          "name": "K1300GT",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2464"
+    },
+    "K1300R": {
+      "id": "K1300R",
+      "names": [
+        {
+          "name": "K1300R",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2465"
+    },
+    "K1300S": {
+      "id": "K1300S",
+      "names": [
+        {
+          "name": "K1300S",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2466"
+    },
+    "K1600": {
+      "id": "K1600",
+      "names": [
+        {
+          "name": "K1600",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17394"
+    },
+    "K1600GTL": {
+      "id": "K1600GTL",
+      "names": [
+        {
+          "name": "K1600GTL",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2467"
+    },
+    "M1": {
+      "id": "M1",
+      "names": [
+        {
+          "name": "M1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "6200"
+    },
+    "M2": {
+      "id": "M2",
+      "names": [
+        {
+          "name": "M2",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15185"
+    },
+    "M3": {
+      "id": "M3",
+      "names": [
+        {
+          "name": "M3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "211"
+    },
+    "M4": {
+      "id": "M4",
+      "names": [
+        {
+          "name": "M4",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8737"
+    },
+    "M5": {
+      "id": "M5",
+      "names": [
+        {
+          "name": "M5",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "212"
+    },
+    "M6": {
+      "id": "M6",
+      "names": [
+        {
+          "name": "M6",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "213"
+    },
+    "M8": {
+      "id": "M8",
+      "names": [
+        {
+          "name": "M8",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18440"
+    },
+    "OTHER": {
+      "id": "OTHER",
+      "names": [
+        {
+          "name": "OTHER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОТХЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "214"
+    },
+    "RNINET": {
+      "id": "RNINET",
+      "names": [
+        {
+          "name": "R NINE T",
+          "threshold": 0.85
+        },
+        {
+          "name": "Р НИНЕ Т",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17226"
+    },
+    "R1100GS": {
+      "id": "R1100GS",
+      "names": [
+        {
+          "name": "R1100GS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2470"
+    },
+    "R1100R": {
+      "id": "R1100R",
+      "names": [
+        {
+          "name": "R1100R",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2471"
+    },
+    "R1100RS": {
+      "id": "R1100RS",
+      "names": [
+        {
+          "name": "R1100RS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17395"
+    },
+    "R1100RT": {
+      "id": "R1100RT",
+      "names": [
+        {
+          "name": "R1100RT",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2472"
+    },
+    "R1100S": {
+      "id": "R1100S",
+      "names": [
+        {
+          "name": "R1100S",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2473"
+    },
+    "R1150GS": {
+      "id": "R1150GS",
+      "names": [
+        {
+          "name": "R1150GS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2474"
+    },
+    "R1150R": {
+      "id": "R1150R",
+      "names": [
+        {
+          "name": "R1150R",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2475"
+    },
+    "R1150RS": {
+      "id": "R1150RS",
+      "names": [
+        {
+          "name": "R1150RS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2476"
+    },
+    "R1150RT": {
+      "id": "R1150RT",
+      "names": [
+        {
+          "name": "R1150RT",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2477"
+    },
+    "R12": {
+      "id": "R12",
+      "names": [
+        {
+          "name": "R12",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2478"
+    },
+    "R1200C": {
+      "id": "R1200C",
+      "names": [
+        {
+          "name": "R1200C",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2479"
+    },
+    "R1200CL": {
+      "id": "R1200CL",
+      "names": [
+        {
+          "name": "R1200CL",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2480"
+    },
+    "R1200GS": {
+      "id": "R1200GS",
+      "names": [
+        {
+          "name": "R1200GS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2481"
+    },
+    "R1200R": {
+      "id": "R1200R",
+      "names": [
+        {
+          "name": "R1200R",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2482"
+    },
+    "R1200RS": {
+      "id": "R1200RS",
+      "names": [
+        {
+          "name": "R1200RS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17306"
+    },
+    "R1200RT": {
+      "id": "R1200RT",
+      "names": [
+        {
+          "name": "R1200RT",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2483"
+    },
+    "R1200S": {
+      "id": "R1200S",
+      "names": [
+        {
+          "name": "R1200S",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17396"
+    },
+    "R1200ST": {
+      "id": "R1200ST",
+      "names": [
+        {
+          "name": "R1200ST",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2484"
+    },
+    "R1250GS": {
+      "id": "R1250GS",
+      "names": [
+        {
+          "name": "R1250GS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17224"
+    },
+    "R1250R": {
+      "id": "R1250R",
+      "names": [
+        {
+          "name": "R1250R",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17291"
+    },
+    "R1250RS": {
+      "id": "R1250RS",
+      "names": [
+        {
+          "name": "R1250RS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17292"
+    },
+    "R1250RT": {
+      "id": "R1250RT",
+      "names": [
+        {
+          "name": "R1250RT",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17229"
+    },
+    "R80": {
+      "id": "R80",
+      "names": [
+        {
+          "name": "R80",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2488"
+    },
+    "R850R": {
+      "id": "R850R",
+      "names": [
+        {
+          "name": "R850R",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2489"
+    },
+    "R90": {
+      "id": "R90",
+      "names": [
+        {
+          "name": "R90",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2490"
+    },
+    "S1000RR": {
+      "id": "S1000RR",
+      "names": [
+        {
+          "name": "S1000RR",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2491"
+    },
+    "X1": {
+      "id": "X1",
+      "names": [
+        {
+          "name": "X1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "221"
+    },
+    "X2": {
+      "id": "X2",
+      "names": [
+        {
+          "name": "X2",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15579"
+    },
+    "X3": {
+      "id": "X3",
+      "names": [
+        {
+          "name": "X3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "222"
+    },
+    "X4": {
+      "id": "X4",
+      "names": [
+        {
+          "name": "X4",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8733"
+    },
+    "X5": {
+      "id": "X5",
+      "names": [
+        {
+          "name": "X5",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "223"
+    },
+    "X6": {
+      "id": "X6",
+      "names": [
+        {
+          "name": "X6",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "224"
+    },
+    "X7": {
+      "id": "X7",
+      "names": [
+        {
+          "name": "X7",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16210"
+    },
+    "Z1": {
+      "id": "Z1",
+      "names": [
+        {
+          "name": "Z1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "225"
+    },
+    "Z3": {
+      "id": "Z3",
+      "names": [
+        {
+          "name": "Z3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "226"
+    },
+    "Z4": {
+      "id": "Z4",
+      "names": [
+        {
+          "name": "Z4",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "227"
+    },
+    "Z8": {
+      "id": "Z8",
+      "names": [
+        {
+          "name": "Z8",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "228"
+    }
+  }
 }

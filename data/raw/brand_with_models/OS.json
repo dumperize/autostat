@@ -1,1 +1,35 @@
-{"id": "OS", "names": [{"name": "OS", "threshold": 1}, {"name": "ОС", "threshold": 1}], "models": {"P2": {"id": "P2", "names": [{"name": "P 2", "threshold": 1}]}, "PP2.8": {"id": "PP2.8", "names": [{"name": "PP 2.8", "threshold": 1}]}}}
+{
+  "id": "OS",
+  "names": [
+    {
+      "name": "OS",
+      "threshold": 1
+    },
+    {
+      "name": "ОС",
+      "threshold": 1
+    }
+  ],
+  "models": {
+    "P2": {
+      "id": "P2",
+      "names": [
+        {
+          "name": "P 2",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12673"
+    },
+    "PP2.8": {
+      "id": "PP2.8",
+      "names": [
+        {
+          "name": "PP 2.8",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12674"
+    }
+  }
+}

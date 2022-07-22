@@ -1,1 +1,279 @@
-{"id": "URALSPETSTRANS", "names": [{"name": "URALSPETSTRANS", "threshold": 0.85}, {"name": "УРАЛСПЕТСТРАНС", "threshold": 0.85}], "models": {"946510": {"id": "946510", "names": [{"name": "946510", "threshold": 1}]}, "946511000J311": {"id": "946511000J311", "names": [{"name": "946511 000J311", "threshold": 1}]}, "946515A1": {"id": "946515A1", "names": [{"name": "946515 A1", "threshold": 1}]}, "946516B103": {"id": "946516B103", "names": [{"name": "946516 B1 03", "threshold": 1}]}, "946517B1": {"id": "946517B1", "names": [{"name": "946517 B1", "threshold": 1}]}, "946517G1": {"id": "946517G1", "names": [{"name": "946517 G1", "threshold": 1}]}, "94651G": {"id": "94651G", "names": [{"name": "94651G", "threshold": 1}]}, "94651J": {"id": "94651J", "names": [{"name": "94651J", "threshold": 1}]}, "94651K": {"id": "94651K", "names": [{"name": "94651K", "threshold": 1}]}, "94651K000A3": {"id": "94651K000A3", "names": [{"name": "94651K 000A3", "threshold": 1}]}, "94651K000B3": {"id": "94651K000B3", "names": [{"name": "94651K 000B3", "threshold": 1}]}, "94651K000C3": {"id": "94651K000C3", "names": [{"name": "94651K 000C3", "threshold": 1}]}, "94651K000E3": {"id": "94651K000E3", "names": [{"name": "94651K 000E3", "threshold": 1}]}, "94651K000F3": {"id": "94651K000F3", "names": [{"name": "94651K 000F3", "threshold": 1}]}, "94651K000G3": {"id": "94651K000G3", "names": [{"name": "94651K 000G3", "threshold": 1}]}, "94651K000J3": {"id": "94651K000J3", "names": [{"name": "94651K 000J3", "threshold": 1}]}, "94651K000M3": {"id": "94651K000M3", "names": [{"name": "94651K 000M3", "threshold": 1}]}, "94651K000P3": {"id": "94651K000P3", "names": [{"name": "94651K 000P3", "threshold": 1}]}, "94651L": {"id": "94651L", "names": [{"name": "94651L", "threshold": 1}]}, "94651X": {"id": "94651X", "names": [{"name": "94651X", "threshold": 1}]}, "94651Z": {"id": "94651Z", "names": [{"name": "94651Z", "threshold": 1}]}, "94652L": {"id": "94652L", "names": [{"name": "94652L", "threshold": 1}]}, "94653J": {"id": "94653J", "names": [{"name": "94653J", "threshold": 1}]}, "94654L": {"id": "94654L", "names": [{"name": "94654L", "threshold": 1}]}, "94656L": {"id": "94656L", "names": [{"name": "94656L", "threshold": 1}]}, "OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}}}
+{
+  "id": "URALSPETSTRANS",
+  "names": [
+    {
+      "name": "URALSPETSTRANS",
+      "threshold": 0.85
+    },
+    {
+      "name": "УРАЛСПЕТСТРАНС",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "946510": {
+      "id": "946510",
+      "names": [
+        {
+          "name": "946510",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15793"
+    },
+    "946511000J311": {
+      "id": "946511000J311",
+      "names": [
+        {
+          "name": "946511 000J311",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "19106"
+    },
+    "946515A1": {
+      "id": "946515A1",
+      "names": [
+        {
+          "name": "946515 A1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "19107"
+    },
+    "946516B103": {
+      "id": "946516B103",
+      "names": [
+        {
+          "name": "946516 B1 03",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "19178"
+    },
+    "946517B1": {
+      "id": "946517B1",
+      "names": [
+        {
+          "name": "946517 B1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "19181"
+    },
+    "946517G1": {
+      "id": "946517G1",
+      "names": [
+        {
+          "name": "946517 G1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "19182"
+    },
+    "94651G": {
+      "id": "94651G",
+      "names": [
+        {
+          "name": "94651G",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12778"
+    },
+    "94651J": {
+      "id": "94651J",
+      "names": [
+        {
+          "name": "94651J",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12779"
+    },
+    "94651K": {
+      "id": "94651K",
+      "names": [
+        {
+          "name": "94651K",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12780"
+    },
+    "94651K000A3": {
+      "id": "94651K000A3",
+      "names": [
+        {
+          "name": "94651K 000A3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16192"
+    },
+    "94651K000B3": {
+      "id": "94651K000B3",
+      "names": [
+        {
+          "name": "94651K 000B3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16193"
+    },
+    "94651K000C3": {
+      "id": "94651K000C3",
+      "names": [
+        {
+          "name": "94651K 000C3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16194"
+    },
+    "94651K000E3": {
+      "id": "94651K000E3",
+      "names": [
+        {
+          "name": "94651K 000E3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16196"
+    },
+    "94651K000F3": {
+      "id": "94651K000F3",
+      "names": [
+        {
+          "name": "94651K 000F3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16197"
+    },
+    "94651K000G3": {
+      "id": "94651K000G3",
+      "names": [
+        {
+          "name": "94651K 000G3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16198"
+    },
+    "94651K000J3": {
+      "id": "94651K000J3",
+      "names": [
+        {
+          "name": "94651K 000J3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16200"
+    },
+    "94651K000M3": {
+      "id": "94651K000M3",
+      "names": [
+        {
+          "name": "94651K 000M3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16203"
+    },
+    "94651K000P3": {
+      "id": "94651K000P3",
+      "names": [
+        {
+          "name": "94651K 000P3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16205"
+    },
+    "94651L": {
+      "id": "94651L",
+      "names": [
+        {
+          "name": "94651L",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12781"
+    },
+    "94651X": {
+      "id": "94651X",
+      "names": [
+        {
+          "name": "94651X",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15794"
+    },
+    "94651Z": {
+      "id": "94651Z",
+      "names": [
+        {
+          "name": "94651Z",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12782"
+    },
+    "94652L": {
+      "id": "94652L",
+      "names": [
+        {
+          "name": "94652L",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "19109"
+    },
+    "94653J": {
+      "id": "94653J",
+      "names": [
+        {
+          "name": "94653J",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "19112"
+    },
+    "94654L": {
+      "id": "94654L",
+      "names": [
+        {
+          "name": "94654L",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "19113"
+    },
+    "94656L": {
+      "id": "94656L",
+      "names": [
+        {
+          "name": "94656L",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "19114"
+    },
+    "OTHER": {
+      "id": "OTHER",
+      "names": [
+        {
+          "name": "OTHER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОТХЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "10795"
+    }
+  }
+}

@@ -1,1 +1,29 @@
-{"id": "KYMCO", "names": [{"name": "KYMCO", "threshold": 0.85}, {"name": "КЫМЦО", "threshold": 0.85}], "models": {"AGILITY": {"id": "AGILITY", "names": [{"name": "AGILITY", "threshold": 0.85}, {"name": "АГИЛИТЫ", "threshold": 0.85}]}}}
+{
+  "id": "KYMCO",
+  "names": [
+    {
+      "name": "KYMCO",
+      "threshold": 0.85
+    },
+    {
+      "name": "КИМСО",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "AGILITY": {
+      "id": "AGILITY",
+      "names": [
+        {
+          "name": "AGILITY",
+          "threshold": 0.85
+        },
+        {
+          "name": "АДЖИЛИТИ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2776"
+    }
+  }
+}

@@ -1,1 +1,357 @@
-{"id": "FAW", "names": [{"name": "FAW", "threshold": 0.97}, {"name": "ФАW", "threshold": 0.97}], "models": {"BESTURNB50": {"id": "BESTURNB50", "names": [{"name": "BESTURN B50", "threshold": 1}]}, "BESTURNX40": {"id": "BESTURNX40", "names": [{"name": "BESTURN X40", "threshold": 1}]}, "BESTURNX80": {"id": "BESTURNX80", "names": [{"name": "BESTURN X80", "threshold": 1}]}, "CA1010/1011": {"id": "CA1010/1011", "names": [{"name": "CA1010/1011", "threshold": 1}]}, "CA1020": {"id": "CA1020", "names": [{"name": "CA1020", "threshold": 1}]}, "CA1031": {"id": "CA1031", "names": [{"name": "CA1031", "threshold": 1}]}, "CA1041": {"id": "CA1041", "names": [{"name": "CA1041", "threshold": 1}]}, "CA1047": {"id": "CA1047", "names": [{"name": "CA1047", "threshold": 1}]}, "CA1051": {"id": "CA1051", "names": [{"name": "CA1051", "threshold": 1}]}, "CA1061": {"id": "CA1061", "names": [{"name": "CA1061", "threshold": 1}]}, "CA1083": {"id": "CA1083", "names": [{"name": "CA1083", "threshold": 1}]}, "CA3250": {"id": "CA3250", "names": [{"name": "CA3250", "threshold": 1}]}, "CA3252": {"id": "CA3252", "names": [{"name": "CA3252", "threshold": 1}]}, "CA3253": {"id": "CA3253", "names": [{"name": "CA3253", "threshold": 1}]}, "CA3310": {"id": "CA3310", "names": [{"name": "CA3310", "threshold": 1}]}, "CA3312": {"id": "CA3312", "names": [{"name": "CA3312", "threshold": 1}]}, "CA3318": {"id": "CA3318", "names": [{"name": "CA3318", "threshold": 1}]}, "CA4180": {"id": "CA4180", "names": [{"name": "CA4180", "threshold": 1}]}, "CA4250": {"id": "CA4250", "names": [{"name": "CA4250", "threshold": 1}]}, "CA4252": {"id": "CA4252", "names": [{"name": "CA4252", "threshold": 1}]}, "CA5031": {"id": "CA5031", "names": [{"name": "CA5031", "threshold": 1}]}, "CA5040": {"id": "CA5040", "names": [{"name": "CA5040", "threshold": 1}]}, "CA5051": {"id": "CA5051", "names": [{"name": "CA5051", "threshold": 1}]}, "CA5250": {"id": "CA5250", "names": [{"name": "CA5250", "threshold": 1}]}, "CA6350": {"id": "CA6350", "names": [{"name": "CA6350", "threshold": 1}]}, "CA6371": {"id": "CA6371", "names": [{"name": "CA6371", "threshold": 1}]}, "CA6420": {"id": "CA6420", "names": [{"name": "CA6420", "threshold": 1}]}, "CA7110": {"id": "CA7110", "names": [{"name": "CA7110", "threshold": 1}]}, "OLEY": {"id": "OLEY", "names": [{"name": "OLEY", "threshold": 0.93}, {"name": "ОЛЕЫ", "threshold": 0.93}]}, "TIGERV": {"id": "TIGERV", "names": [{"name": "TIGER V", "threshold": 0.85}, {"name": "ТИГЕР В", "threshold": 0.85}]}, "V2": {"id": "V2", "names": [{"name": "V2", "threshold": 1}]}, "V5": {"id": "V5", "names": [{"name": "V5", "threshold": 1}]}, "VITA": {"id": "VITA", "names": [{"name": "VITA", "threshold": 0.93}, {"name": "ВИТА", "threshold": 0.93}]}}}
+{
+  "id": "FAW",
+  "names": [
+    {
+      "name": "FAW",
+      "threshold": 0.97
+    },
+    {
+      "name": "ФАW",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "BESTURNB50": {
+      "id": "BESTURNB50",
+      "names": [
+        {
+          "name": "BESTURN B50",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "826"
+    },
+    "BESTURNX40": {
+      "id": "BESTURNX40",
+      "names": [
+        {
+          "name": "BESTURN X40",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17272"
+    },
+    "BESTURNX80": {
+      "id": "BESTURNX80",
+      "names": [
+        {
+          "name": "BESTURN X80",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15320"
+    },
+    "CA1010/1011": {
+      "id": "CA1010/1011",
+      "names": [
+        {
+          "name": "CA1010/1011",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1608"
+    },
+    "CA1020": {
+      "id": "CA1020",
+      "names": [
+        {
+          "name": "CA1020",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1609"
+    },
+    "CA1031": {
+      "id": "CA1031",
+      "names": [
+        {
+          "name": "CA1031",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1610"
+    },
+    "CA1041": {
+      "id": "CA1041",
+      "names": [
+        {
+          "name": "CA1041",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1611"
+    },
+    "CA1047": {
+      "id": "CA1047",
+      "names": [
+        {
+          "name": "CA1047",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1612"
+    },
+    "CA1051": {
+      "id": "CA1051",
+      "names": [
+        {
+          "name": "CA1051",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1898"
+    },
+    "CA1061": {
+      "id": "CA1061",
+      "names": [
+        {
+          "name": "CA1061",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1899"
+    },
+    "CA1083": {
+      "id": "CA1083",
+      "names": [
+        {
+          "name": "CA1083",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1900"
+    },
+    "CA3250": {
+      "id": "CA3250",
+      "names": [
+        {
+          "name": "CA3250",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3855"
+    },
+    "CA3252": {
+      "id": "CA3252",
+      "names": [
+        {
+          "name": "CA3252",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1901"
+    },
+    "CA3253": {
+      "id": "CA3253",
+      "names": [
+        {
+          "name": "CA3253",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1902"
+    },
+    "CA3310": {
+      "id": "CA3310",
+      "names": [
+        {
+          "name": "CA3310",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1903"
+    },
+    "CA3312": {
+      "id": "CA3312",
+      "names": [
+        {
+          "name": "CA3312",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1904"
+    },
+    "CA3318": {
+      "id": "CA3318",
+      "names": [
+        {
+          "name": "CA3318",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18537"
+    },
+    "CA4180": {
+      "id": "CA4180",
+      "names": [
+        {
+          "name": "CA4180",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18538"
+    },
+    "CA4250": {
+      "id": "CA4250",
+      "names": [
+        {
+          "name": "CA4250",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3854"
+    },
+    "CA4252": {
+      "id": "CA4252",
+      "names": [
+        {
+          "name": "CA4252",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15091"
+    },
+    "CA5031": {
+      "id": "CA5031",
+      "names": [
+        {
+          "name": "CA5031",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15087"
+    },
+    "CA5040": {
+      "id": "CA5040",
+      "names": [
+        {
+          "name": "CA5040",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15092"
+    },
+    "CA5051": {
+      "id": "CA5051",
+      "names": [
+        {
+          "name": "CA5051",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15093"
+    },
+    "CA5250": {
+      "id": "CA5250",
+      "names": [
+        {
+          "name": "CA5250",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18540"
+    },
+    "CA6350": {
+      "id": "CA6350",
+      "names": [
+        {
+          "name": "CA6350",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1613"
+    },
+    "CA6371": {
+      "id": "CA6371",
+      "names": [
+        {
+          "name": "CA6371",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1614"
+    },
+    "CA6420": {
+      "id": "CA6420",
+      "names": [
+        {
+          "name": "CA6420",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15090"
+    },
+    "CA7110": {
+      "id": "CA7110",
+      "names": [
+        {
+          "name": "CA7110",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "825"
+    },
+    "OLEY": {
+      "id": "OLEY",
+      "names": [
+        {
+          "name": "OLEY",
+          "threshold": 0.93
+        },
+        {
+          "name": "ОЛЕЙ",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "8712"
+    },
+    "TIGERV": {
+      "id": "TIGERV",
+      "names": [
+        {
+          "name": "TIGER V",
+          "threshold": 0.85
+        },
+        {
+          "name": "ТИГЕР В",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "19138"
+    },
+    "V2": {
+      "id": "V2",
+      "names": [
+        {
+          "name": "V2",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3856"
+    },
+    "V5": {
+      "id": "V5",
+      "names": [
+        {
+          "name": "V5",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "4936"
+    },
+    "VITA": {
+      "id": "VITA",
+      "names": [
+        {
+          "name": "VITA",
+          "threshold": 0.93
+        },
+        {
+          "name": "ВИТА",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "828"
+    }
+  }
+}

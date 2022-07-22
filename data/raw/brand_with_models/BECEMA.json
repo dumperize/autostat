@@ -1,532 +1,589 @@
 {
-    "id": "BECEMA",
-    "names": [
-        {
-            "name": "BECEMA",
-            "threshold": 0.85
-        },
-        {
-            "name": "БЕЦЕМА",
-            "threshold": 0.85
-        }
-    ],
-    "models": {
-        "96042": {
-            "id": "96042",
-            "names": [
-                {
-                    "name": "96042",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM104": {
-            "id": "BCM104",
-            "names": [
-                {
-                    "name": "BCM 104",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM108": {
-            "id": "BCM108",
-            "names": [
-                {
-                    "name": "BCM 108",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM110": {
-            "id": "BCM110",
-            "names": [
-                {
-                    "name": "BCM 110",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM110.1": {
-            "id": "BCM110.1",
-            "names": [
-                {
-                    "name": "BCM 110.1",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM111": {
-            "id": "BCM111",
-            "names": [
-                {
-                    "name": "BCM 111",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM123": {
-            "id": "BCM123",
-            "names": [
-                {
-                    "name": "BCM 123",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM137": {
-            "id": "BCM137",
-            "names": [
-                {
-                    "name": "BCM 137",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM14": {
-            "id": "BCM14",
-            "names": [
-                {
-                    "name": "BCM 14",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM14.1": {
-            "id": "BCM14.1",
-            "names": [
-                {
-                    "name": "BCM 14.1",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM14.3": {
-            "id": "BCM14.3",
-            "names": [
-                {
-                    "name": "BCM 14.3",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM14.5": {
-            "id": "BCM14.5",
-            "names": [
-                {
-                    "name": "BCM 14.5",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM140": {
-            "id": "BCM140",
-            "names": [
-                {
-                    "name": "BCM 140",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM150": {
-            "id": "BCM150",
-            "names": [
-                {
-                    "name": "BCM 150",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM150.1": {
-            "id": "BCM150.1",
-            "names": [
-                {
-                    "name": "BCM 150.1",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM170": {
-            "id": "BCM170",
-            "names": [
-                {
-                    "name": "BCM 170",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM175": {
-            "id": "BCM175",
-            "names": [
-                {
-                    "name": "BCM 175",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM176": {
-            "id": "BCM176",
-            "names": [
-                {
-                    "name": "BCM 176",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM180": {
-            "id": "BCM180",
-            "names": [
-                {
-                    "name": "BCM 180",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM180.1": {
-            "id": "BCM180.1",
-            "names": [
-                {
-                    "name": "BCM 180.1",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM180.3": {
-            "id": "BCM180.3",
-            "names": [
-                {
-                    "name": "BCM 180.3",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM190": {
-            "id": "BCM190",
-            "names": [
-                {
-                    "name": "BCM 190",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM195": {
-            "id": "BCM195",
-            "names": [
-                {
-                    "name": "BCM 195",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM195.4": {
-            "id": "BCM195.4",
-            "names": [
-                {
-                    "name": "BCM 195.4",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM197": {
-            "id": "BCM197",
-            "names": [
-                {
-                    "name": "BCM 197",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM21.1": {
-            "id": "BCM21.1",
-            "names": [
-                {
-                    "name": "BCM 21.1",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM230": {
-            "id": "BCM230",
-            "names": [
-                {
-                    "name": "BCM 230",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM24.1": {
-            "id": "BCM24.1",
-            "names": [
-                {
-                    "name": "BCM 24.1",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM24.3": {
-            "id": "BCM24.3",
-            "names": [
-                {
-                    "name": "BCM 24.3",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM24.5": {
-            "id": "BCM24.5",
-            "names": [
-                {
-                    "name": "BCM 24.5",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM35": {
-            "id": "BCM35",
-            "names": [
-                {
-                    "name": "BCM 35",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM42": {
-            "id": "BCM42",
-            "names": [
-                {
-                    "name": "BCM 42",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM42.1": {
-            "id": "BCM42.1",
-            "names": [
-                {
-                    "name": "BCM 42.1",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM42.3": {
-            "id": "BCM42.3",
-            "names": [
-                {
-                    "name": "BCM 42.3",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM44": {
-            "id": "BCM44",
-            "names": [
-                {
-                    "name": "BCM 44",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM48": {
-            "id": "BCM48",
-            "names": [
-                {
-                    "name": "BCM 48",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM58.1": {
-            "id": "BCM58.1",
-            "names": [
-                {
-                    "name": "BCM 58.1",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM74": {
-            "id": "BCM74",
-            "names": [
-                {
-                    "name": "BCM 74",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM75": {
-            "id": "BCM75",
-            "names": [
-                {
-                    "name": "BCM 75",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM75.1A": {
-            "id": "BCM75.1A",
-            "names": [
-                {
-                    "name": "BCM 75.1A",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM75A": {
-            "id": "BCM75A",
-            "names": [
-                {
-                    "name": "BCM 75A",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM83.6": {
-            "id": "BCM83.6",
-            "names": [
-                {
-                    "name": "BCM 83.6",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BCM84": {
-            "id": "BCM84",
-            "names": [
-                {
-                    "name": "BCM 84",
-                    "threshold": 1
-                }
-            ]
-        },
-        "OTHER": {
-            "id": "OTHER",
-            "names": [
-                {
-                    "name": "OTHER",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ОТХЕР",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "PPC21": {
-            "id": "PPC21",
-            "names": [
-                {
-                    "name": "PPC 21",
-                    "threshold": 1
-                }
-            ]
-        },
-        "TC12": {
-            "id": "TC12",
-            "names": [
-                {
-                    "name": "TC 12",
-                    "threshold": 1
-                }
-            ]
-        },
-        "TC14.1": {
-            "id": "TC14.1",
-            "names": [
-                {
-                    "name": "TC 14.1",
-                    "threshold": 1
-                }
-            ]
-        },
-        "TC15": {
-            "id": "TC15",
-            "names": [
-                {
-                    "name": "TC 15",
-                    "threshold": 1
-                }
-            ]
-        },
-        "TC20": {
-            "id": "TC20",
-            "names": [
-                {
-                    "name": "TC 20",
-                    "threshold": 1
-                }
-            ]
-        },
-        "TC21": {
-            "id": "TC21",
-            "names": [
-                {
-                    "name": "TC 21",
-                    "threshold": 1
-                }
-            ]
-        },
-        "TC21.1": {
-            "id": "TC21.1",
-            "names": [
-                {
-                    "name": "TC 21.1",
-                    "threshold": 1
-                }
-            ]
-        },
-        "TC21.2": {
-            "id": "TC21.2",
-            "names": [
-                {
-                    "name": "TC 21.2",
-                    "threshold": 1
-                }
-            ]
-        },
-        "TC21.3": {
-            "id": "TC21.3",
-            "names": [
-                {
-                    "name": "TC 21.3",
-                    "threshold": 1
-                }
-            ]
-        },
-        "TC21.5": {
-            "id": "TC21.5",
-            "names": [
-                {
-                    "name": "TC 21.5",
-                    "threshold": 1
-                }
-            ]
-        },
-        "TC21.6": {
-            "id": "TC21.6",
-            "names": [
-                {
-                    "name": "TC 21.6",
-                    "threshold": 1
-                }
-            ]
-        },
-        "TC21.9": {
-            "id": "TC21.9",
-            "names": [
-                {
-                    "name": "TC 21.9",
-                    "threshold": 1
-                }
-            ]
-        },
-        "TC25.5": {
-            "id": "TC25.5",
-            "names": [
-                {
-                    "name": "TC 25.5",
-                    "threshold": 1
-                }
-            ]
-        }
+  "id": "BECEMA",
+  "names": [
+    {
+      "name": "BECEMA",
+      "threshold": 0.85
+    },
+    {
+      "name": "БЕЦЕМА",
+      "threshold": 0.85
     }
+  ],
+  "models": {
+    "96042": {
+      "id": "96042",
+      "names": [
+        {
+          "name": "96042",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10586"
+    },
+    "BCM104": {
+      "id": "BCM104",
+      "names": [
+        {
+          "name": "BCM 104",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3285"
+    },
+    "BCM108": {
+      "id": "BCM108",
+      "names": [
+        {
+          "name": "BCM 108",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3286"
+    },
+    "BCM110": {
+      "id": "BCM110",
+      "names": [
+        {
+          "name": "BCM 110",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3287"
+    },
+    "BCM110.1": {
+      "id": "BCM110.1",
+      "names": [
+        {
+          "name": "BCM 110.1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10587"
+    },
+    "BCM111": {
+      "id": "BCM111",
+      "names": [
+        {
+          "name": "BCM 111",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3288"
+    },
+    "BCM123": {
+      "id": "BCM123",
+      "names": [
+        {
+          "name": "BCM 123",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3289"
+    },
+    "BCM137": {
+      "id": "BCM137",
+      "names": [
+        {
+          "name": "BCM 137",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10588"
+    },
+    "BCM14": {
+      "id": "BCM14",
+      "names": [
+        {
+          "name": "BCM 14",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3290"
+    },
+    "BCM14.1": {
+      "id": "BCM14.1",
+      "names": [
+        {
+          "name": "BCM 14.1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10589"
+    },
+    "BCM14.3": {
+      "id": "BCM14.3",
+      "names": [
+        {
+          "name": "BCM 14.3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10590"
+    },
+    "BCM14.5": {
+      "id": "BCM14.5",
+      "names": [
+        {
+          "name": "BCM 14.5",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10591"
+    },
+    "BCM140": {
+      "id": "BCM140",
+      "names": [
+        {
+          "name": "BCM 140",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3291"
+    },
+    "BCM150": {
+      "id": "BCM150",
+      "names": [
+        {
+          "name": "BCM 150",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10592"
+    },
+    "BCM150.1": {
+      "id": "BCM150.1",
+      "names": [
+        {
+          "name": "BCM 150.1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10593"
+    },
+    "BCM170": {
+      "id": "BCM170",
+      "names": [
+        {
+          "name": "BCM 170",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3294"
+    },
+    "BCM175": {
+      "id": "BCM175",
+      "names": [
+        {
+          "name": "BCM 175",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10594"
+    },
+    "BCM176": {
+      "id": "BCM176",
+      "names": [
+        {
+          "name": "BCM 176",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3295"
+    },
+    "BCM180": {
+      "id": "BCM180",
+      "names": [
+        {
+          "name": "BCM 180",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3296"
+    },
+    "BCM180.1": {
+      "id": "BCM180.1",
+      "names": [
+        {
+          "name": "BCM 180.1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10595"
+    },
+    "BCM180.3": {
+      "id": "BCM180.3",
+      "names": [
+        {
+          "name": "BCM 180.3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15669"
+    },
+    "BCM190": {
+      "id": "BCM190",
+      "names": [
+        {
+          "name": "BCM 190",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3297"
+    },
+    "BCM195": {
+      "id": "BCM195",
+      "names": [
+        {
+          "name": "BCM 195",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10596"
+    },
+    "BCM195.4": {
+      "id": "BCM195.4",
+      "names": [
+        {
+          "name": "BCM 195.4",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15670"
+    },
+    "BCM197": {
+      "id": "BCM197",
+      "names": [
+        {
+          "name": "BCM 197",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10598"
+    },
+    "BCM21.1": {
+      "id": "BCM21.1",
+      "names": [
+        {
+          "name": "BCM 21.1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18831"
+    },
+    "BCM230": {
+      "id": "BCM230",
+      "names": [
+        {
+          "name": "BCM 230",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10599"
+    },
+    "BCM24.1": {
+      "id": "BCM24.1",
+      "names": [
+        {
+          "name": "BCM 24.1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10600"
+    },
+    "BCM24.3": {
+      "id": "BCM24.3",
+      "names": [
+        {
+          "name": "BCM 24.3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10601"
+    },
+    "BCM24.5": {
+      "id": "BCM24.5",
+      "names": [
+        {
+          "name": "BCM 24.5",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18832"
+    },
+    "BCM35": {
+      "id": "BCM35",
+      "names": [
+        {
+          "name": "BCM 35",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3299"
+    },
+    "BCM42": {
+      "id": "BCM42",
+      "names": [
+        {
+          "name": "BCM 42",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3300"
+    },
+    "BCM42.1": {
+      "id": "BCM42.1",
+      "names": [
+        {
+          "name": "BCM 42.1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10602"
+    },
+    "BCM42.3": {
+      "id": "BCM42.3",
+      "names": [
+        {
+          "name": "BCM 42.3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10603"
+    },
+    "BCM44": {
+      "id": "BCM44",
+      "names": [
+        {
+          "name": "BCM 44",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3301"
+    },
+    "BCM48": {
+      "id": "BCM48",
+      "names": [
+        {
+          "name": "BCM 48",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3302"
+    },
+    "BCM58.1": {
+      "id": "BCM58.1",
+      "names": [
+        {
+          "name": "BCM 58.1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10605"
+    },
+    "BCM74": {
+      "id": "BCM74",
+      "names": [
+        {
+          "name": "BCM 74",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3303"
+    },
+    "BCM75": {
+      "id": "BCM75",
+      "names": [
+        {
+          "name": "BCM 75",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3304"
+    },
+    "BCM75.1A": {
+      "id": "BCM75.1A",
+      "names": [
+        {
+          "name": "BCM 75.1A",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10607"
+    },
+    "BCM75A": {
+      "id": "BCM75A",
+      "names": [
+        {
+          "name": "BCM 75A",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10608"
+    },
+    "BCM83.6": {
+      "id": "BCM83.6",
+      "names": [
+        {
+          "name": "BCM 83.6",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10609"
+    },
+    "BCM84": {
+      "id": "BCM84",
+      "names": [
+        {
+          "name": "BCM 84",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3305"
+    },
+    "OTHER": {
+      "id": "OTHER",
+      "names": [
+        {
+          "name": "OTHER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОТХЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1996"
+    },
+    "PPC21": {
+      "id": "PPC21",
+      "names": [
+        {
+          "name": "PPC 21",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3308"
+    },
+    "TC12": {
+      "id": "TC12",
+      "names": [
+        {
+          "name": "TC 12",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10610"
+    },
+    "TC14.1": {
+      "id": "TC14.1",
+      "names": [
+        {
+          "name": "TC 14.1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10611"
+    },
+    "TC15": {
+      "id": "TC15",
+      "names": [
+        {
+          "name": "TC 15",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3309"
+    },
+    "TC20": {
+      "id": "TC20",
+      "names": [
+        {
+          "name": "TC 20",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10612"
+    },
+    "TC21": {
+      "id": "TC21",
+      "names": [
+        {
+          "name": "TC 21",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3310"
+    },
+    "TC21.1": {
+      "id": "TC21.1",
+      "names": [
+        {
+          "name": "TC 21.1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3311"
+    },
+    "TC21.2": {
+      "id": "TC21.2",
+      "names": [
+        {
+          "name": "TC 21.2",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3312"
+    },
+    "TC21.3": {
+      "id": "TC21.3",
+      "names": [
+        {
+          "name": "TC 21.3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10614"
+    },
+    "TC21.5": {
+      "id": "TC21.5",
+      "names": [
+        {
+          "name": "TC 21.5",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3313"
+    },
+    "TC21.6": {
+      "id": "TC21.6",
+      "names": [
+        {
+          "name": "TC 21.6",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3314"
+    },
+    "TC21.9": {
+      "id": "TC21.9",
+      "names": [
+        {
+          "name": "TC 21.9",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10615"
+    },
+    "TC25.5": {
+      "id": "TC25.5",
+      "names": [
+        {
+          "name": "TC 25.5",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3315"
+    }
+  }
 }

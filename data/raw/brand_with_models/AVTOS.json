@@ -1,411 +1,455 @@
 {
-    "id": "AVTOS",
-    "names": [
-        {
-            "name": "AVTOS",
-            "threshold": 0.97
-        },
-        {
-            "name": "АВТОС",
-            "threshold": 0.98
-        }
-    ],
-    "models": {
-        "A20M1B": {
-            "id": "A20M1B",
-            "names": [
-                {
-                    "name": "A20M1B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A25M1B": {
-            "id": "A25M1B",
-            "names": [
-                {
-                    "name": "A25M1B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A25M2B": {
-            "id": "A25M2B",
-            "names": [
-                {
-                    "name": "A25M2B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A25P1B": {
-            "id": "A25P1B",
-            "names": [
-                {
-                    "name": "A25P1B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A25P2B": {
-            "id": "A25P2B",
-            "names": [
-                {
-                    "name": "A25P2B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A28P1B": {
-            "id": "A28P1B",
-            "names": [
-                {
-                    "name": "A28P1B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A28P2B": {
-            "id": "A28P2B",
-            "names": [
-                {
-                    "name": "A28P2B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A30M1B": {
-            "id": "A30M1B",
-            "names": [
-                {
-                    "name": "A30M1B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A30M2B": {
-            "id": "A30M2B",
-            "names": [
-                {
-                    "name": "A30M2B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A30P1B": {
-            "id": "A30P1B",
-            "names": [
-                {
-                    "name": "A30P1B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A30P2B": {
-            "id": "A30P2B",
-            "names": [
-                {
-                    "name": "A30P2B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A35P1B": {
-            "id": "A35P1B",
-            "names": [
-                {
-                    "name": "A35P1B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A35P2B": {
-            "id": "A35P2B",
-            "names": [
-                {
-                    "name": "A35P2B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A35U1B": {
-            "id": "A35U1B",
-            "names": [
-                {
-                    "name": "A35U1B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A35U2B": {
-            "id": "A35U2B",
-            "names": [
-                {
-                    "name": "A35U2B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A35U2C": {
-            "id": "A35U2C",
-            "names": [
-                {
-                    "name": "A35U2C",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A40P1B": {
-            "id": "A40P1B",
-            "names": [
-                {
-                    "name": "A40P1B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A40P2B": {
-            "id": "A40P2B",
-            "names": [
-                {
-                    "name": "A40P2B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A40U1B": {
-            "id": "A40U1B",
-            "names": [
-                {
-                    "name": "A40U1B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A40U2B": {
-            "id": "A40U2B",
-            "names": [
-                {
-                    "name": "A40U2B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AC11AB": {
-            "id": "AC11AB",
-            "names": [
-                {
-                    "name": "AC11AB",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AC15AB": {
-            "id": "AC15AB",
-            "names": [
-                {
-                    "name": "AC15AB",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AC19AB": {
-            "id": "AC19AB",
-            "names": [
-                {
-                    "name": "AC19AB",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AC23AB": {
-            "id": "AC23AB",
-            "names": [
-                {
-                    "name": "AC23AB",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AF23AB": {
-            "id": "AF23AB",
-            "names": [
-                {
-                    "name": "AF23AB",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AF23NB": {
-            "id": "AF23NB",
-            "names": [
-                {
-                    "name": "AF23NB",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AF27AB": {
-            "id": "AF27AB",
-            "names": [
-                {
-                    "name": "AF27AB",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AF27NB": {
-            "id": "AF27NB",
-            "names": [
-                {
-                    "name": "AF27NB",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AF31AB": {
-            "id": "AF31AB",
-            "names": [
-                {
-                    "name": "AF31AB",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AF31NB": {
-            "id": "AF31NB",
-            "names": [
-                {
-                    "name": "AF31NB",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AF34AB": {
-            "id": "AF34AB",
-            "names": [
-                {
-                    "name": "AF34AB",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AF34NB": {
-            "id": "AF34NB",
-            "names": [
-                {
-                    "name": "AF34NB",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AF38AB": {
-            "id": "AF38AB",
-            "names": [
-                {
-                    "name": "AF38AB",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AF38NB": {
-            "id": "AF38NB",
-            "names": [
-                {
-                    "name": "AF38NB",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AL31AB": {
-            "id": "AL31AB",
-            "names": [
-                {
-                    "name": "AL31AB",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AL31NB": {
-            "id": "AL31NB",
-            "names": [
-                {
-                    "name": "AL31NB",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AL34AB": {
-            "id": "AL34AB",
-            "names": [
-                {
-                    "name": "AL34AB",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AL34NB": {
-            "id": "AL34NB",
-            "names": [
-                {
-                    "name": "AL34NB",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AL38NB": {
-            "id": "AL38NB",
-            "names": [
-                {
-                    "name": "AL38NB",
-                    "threshold": 1
-                }
-            ]
-        },
-        "B40M1B": {
-            "id": "B40M1B",
-            "names": [
-                {
-                    "name": "B40M1B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "B65P2B": {
-            "id": "B65P2B",
-            "names": [
-                {
-                    "name": "B65P2B",
-                    "threshold": 1
-                }
-            ]
-        },
-        "HB38AA": {
-            "id": "HB38AA",
-            "names": [
-                {
-                    "name": "HB38AA",
-                    "threshold": 1
-                }
-            ]
-        },
-        "HB48AA": {
-            "id": "HB48AA",
-            "names": [
-                {
-                    "name": "HB48AA",
-                    "threshold": 1
-                }
-            ]
-        },
-        "HF53AA": {
-            "id": "HF53AA",
-            "names": [
-                {
-                    "name": "HF53AA",
-                    "threshold": 1
-                }
-            ]
-        }
+  "id": "AVTOS",
+  "names": [
+    {
+      "name": "AVTOS",
+      "threshold": 0.97
+    },
+    {
+      "name": "АВТОС",
+      "threshold": 0.98
     }
+  ],
+  "models": {
+    "A20M1B": {
+      "id": "A20M1B",
+      "names": [
+        {
+          "name": "A20M1B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16085"
+    },
+    "A25M1B": {
+      "id": "A25M1B",
+      "names": [
+        {
+          "name": "A25M1B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16092"
+    },
+    "A25M2B": {
+      "id": "A25M2B",
+      "names": [
+        {
+          "name": "A25M2B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18502"
+    },
+    "A25P1B": {
+      "id": "A25P1B",
+      "names": [
+        {
+          "name": "A25P1B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16090"
+    },
+    "A25P2B": {
+      "id": "A25P2B",
+      "names": [
+        {
+          "name": "A25P2B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18505"
+    },
+    "A28P1B": {
+      "id": "A28P1B",
+      "names": [
+        {
+          "name": "A28P1B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18498"
+    },
+    "A28P2B": {
+      "id": "A28P2B",
+      "names": [
+        {
+          "name": "A28P2B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18506"
+    },
+    "A30M1B": {
+      "id": "A30M1B",
+      "names": [
+        {
+          "name": "A30M1B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18496"
+    },
+    "A30M2B": {
+      "id": "A30M2B",
+      "names": [
+        {
+          "name": "A30M2B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18503"
+    },
+    "A30P1B": {
+      "id": "A30P1B",
+      "names": [
+        {
+          "name": "A30P1B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16082"
+    },
+    "A30P2B": {
+      "id": "A30P2B",
+      "names": [
+        {
+          "name": "A30P2B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16089"
+    },
+    "A35P1B": {
+      "id": "A35P1B",
+      "names": [
+        {
+          "name": "A35P1B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16084"
+    },
+    "A35P2B": {
+      "id": "A35P2B",
+      "names": [
+        {
+          "name": "A35P2B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16103"
+    },
+    "A35U1B": {
+      "id": "A35U1B",
+      "names": [
+        {
+          "name": "A35U1B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18499"
+    },
+    "A35U2B": {
+      "id": "A35U2B",
+      "names": [
+        {
+          "name": "A35U2B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18510"
+    },
+    "A35U2C": {
+      "id": "A35U2C",
+      "names": [
+        {
+          "name": "A35U2C",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18507"
+    },
+    "A40P1B": {
+      "id": "A40P1B",
+      "names": [
+        {
+          "name": "A40P1B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18497"
+    },
+    "A40P2B": {
+      "id": "A40P2B",
+      "names": [
+        {
+          "name": "A40P2B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18504"
+    },
+    "A40U1B": {
+      "id": "A40U1B",
+      "names": [
+        {
+          "name": "A40U1B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18500"
+    },
+    "A40U2B": {
+      "id": "A40U2B",
+      "names": [
+        {
+          "name": "A40U2B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18508"
+    },
+    "AC11AB": {
+      "id": "AC11AB",
+      "names": [
+        {
+          "name": "AC11AB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18511"
+    },
+    "AC15AB": {
+      "id": "AC15AB",
+      "names": [
+        {
+          "name": "AC15AB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15648"
+    },
+    "AC19AB": {
+      "id": "AC19AB",
+      "names": [
+        {
+          "name": "AC19AB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15649"
+    },
+    "AC23AB": {
+      "id": "AC23AB",
+      "names": [
+        {
+          "name": "AC23AB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15650"
+    },
+    "AF23AB": {
+      "id": "AF23AB",
+      "names": [
+        {
+          "name": "AF23AB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15651"
+    },
+    "AF23NB": {
+      "id": "AF23NB",
+      "names": [
+        {
+          "name": "AF23NB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15652"
+    },
+    "AF27AB": {
+      "id": "AF27AB",
+      "names": [
+        {
+          "name": "AF27AB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15653"
+    },
+    "AF27NB": {
+      "id": "AF27NB",
+      "names": [
+        {
+          "name": "AF27NB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15654"
+    },
+    "AF31AB": {
+      "id": "AF31AB",
+      "names": [
+        {
+          "name": "AF31AB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15655"
+    },
+    "AF31NB": {
+      "id": "AF31NB",
+      "names": [
+        {
+          "name": "AF31NB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15656"
+    },
+    "AF34AB": {
+      "id": "AF34AB",
+      "names": [
+        {
+          "name": "AF34AB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15657"
+    },
+    "AF34NB": {
+      "id": "AF34NB",
+      "names": [
+        {
+          "name": "AF34NB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15658"
+    },
+    "AF38AB": {
+      "id": "AF38AB",
+      "names": [
+        {
+          "name": "AF38AB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15659"
+    },
+    "AF38NB": {
+      "id": "AF38NB",
+      "names": [
+        {
+          "name": "AF38NB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15660"
+    },
+    "AL31AB": {
+      "id": "AL31AB",
+      "names": [
+        {
+          "name": "AL31AB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15662"
+    },
+    "AL31NB": {
+      "id": "AL31NB",
+      "names": [
+        {
+          "name": "AL31NB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15663"
+    },
+    "AL34AB": {
+      "id": "AL34AB",
+      "names": [
+        {
+          "name": "AL34AB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15664"
+    },
+    "AL34NB": {
+      "id": "AL34NB",
+      "names": [
+        {
+          "name": "AL34NB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15665"
+    },
+    "AL38NB": {
+      "id": "AL38NB",
+      "names": [
+        {
+          "name": "AL38NB",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15661"
+    },
+    "B40M1B": {
+      "id": "B40M1B",
+      "names": [
+        {
+          "name": "B40M1B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18501"
+    },
+    "B65P2B": {
+      "id": "B65P2B",
+      "names": [
+        {
+          "name": "B65P2B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18509"
+    },
+    "HB38AA": {
+      "id": "HB38AA",
+      "names": [
+        {
+          "name": "HB38AA",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15666"
+    },
+    "HB48AA": {
+      "id": "HB48AA",
+      "names": [
+        {
+          "name": "HB48AA",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15667"
+    },
+    "HF53AA": {
+      "id": "HF53AA",
+      "names": [
+        {
+          "name": "HF53AA",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15668"
+    }
+  }
 }

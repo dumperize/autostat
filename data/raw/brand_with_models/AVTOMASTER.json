@@ -1,1 +1,95 @@
-{"id": "AVTOMASTER", "names": [{"name": "AVTOMASTER", "threshold": 0.85}, {"name": "АВТОМАСТЕР", "threshold": 0.85}], "models": {"844703": {"id": "844703", "names": [{"name": "8447 03", "threshold": 1}]}, "85651": {"id": "85651", "names": [{"name": "85651", "threshold": 1}]}, "8565101": {"id": "8565101", "names": [{"name": "85651 01", "threshold": 1}]}, "8565101A": {"id": "8565101A", "names": [{"name": "85651 01A", "threshold": 1}]}, "8565120": {"id": "8565120", "names": [{"name": "85651 20", "threshold": 1}]}, "8565130": {"id": "8565130", "names": [{"name": "85651 30", "threshold": 1}]}, "8565140": {"id": "8565140", "names": [{"name": "85651 40", "threshold": 1}]}, "9083": {"id": "9083", "names": [{"name": "9083", "threshold": 1}]}}}
+{
+  "id": "AVTOMASTER",
+  "names": [
+    {
+      "name": "AVTOMASTER",
+      "threshold": 0.85
+    },
+    {
+      "name": "АВТОМАСТЕР",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "844703": {
+      "id": "844703",
+      "names": [
+        {
+          "name": "8447 03",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10536"
+    },
+    "85651": {
+      "id": "85651",
+      "names": [
+        {
+          "name": "85651",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10537"
+    },
+    "8565101": {
+      "id": "8565101",
+      "names": [
+        {
+          "name": "85651 01",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10538"
+    },
+    "8565101A": {
+      "id": "8565101A",
+      "names": [
+        {
+          "name": "85651 01A",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15634"
+    },
+    "8565120": {
+      "id": "8565120",
+      "names": [
+        {
+          "name": "85651 20",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10542"
+    },
+    "8565130": {
+      "id": "8565130",
+      "names": [
+        {
+          "name": "85651 30",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10543"
+    },
+    "8565140": {
+      "id": "8565140",
+      "names": [
+        {
+          "name": "85651 40",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10544"
+    },
+    "9083": {
+      "id": "9083",
+      "names": [
+        {
+          "name": "9083",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10545"
+    }
+  }
+}

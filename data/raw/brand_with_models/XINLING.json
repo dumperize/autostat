@@ -1,1 +1,77 @@
-{"id": "XINLING", "names": [{"name": "XINLING", "threshold": 0.85}, {"name": "XИНЛИНГ", "threshold": 0.85}], "models": {"APACHE": {"id": "APACHE", "names": [{"name": "APACHE", "threshold": 0.85}, {"name": "АПАЦХЕ", "threshold": 0.85}]}, "COBRACROSSFIRE": {"id": "COBRACROSSFIRE", "names": [{"name": "COBRA CROSSFIRE", "threshold": 0.85}, {"name": "ЦОБРА ЦРОССФИРЕ", "threshold": 0.85}]}, "GXR250": {"id": "GXR250", "names": [{"name": "GX R250", "threshold": 1}]}, "MATRIX": {"id": "MATRIX", "names": [{"name": "MATRIX", "threshold": 0.85}, {"name": "МАТРИX", "threshold": 0.85}]}, "XL150ZH": {"id": "XL150ZH", "names": [{"name": "XL150ZH", "threshold": 1}]}}}
+{
+  "id": "XINLING",
+  "names": [
+    {
+      "name": "XINLING",
+      "threshold": 0.85
+    },
+    {
+      "name": "XИНЛИНГ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "APACHE": {
+      "id": "APACHE",
+      "names": [
+        {
+          "name": "APACHE",
+          "threshold": 0.85
+        },
+        {
+          "name": "АПАЦХЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8962"
+    },
+    "COBRACROSSFIRE": {
+      "id": "COBRACROSSFIRE",
+      "names": [
+        {
+          "name": "COBRA CROSSFIRE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦОБРА ЦРОССФИРЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8963"
+    },
+    "GXR250": {
+      "id": "GXR250",
+      "names": [
+        {
+          "name": "GX R250",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8964"
+    },
+    "MATRIX": {
+      "id": "MATRIX",
+      "names": [
+        {
+          "name": "MATRIX",
+          "threshold": 0.85
+        },
+        {
+          "name": "МАТРИX",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8965"
+    },
+    "XL150ZH": {
+      "id": "XL150ZH",
+      "names": [
+        {
+          "name": "XL150ZH",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8966"
+    }
+  }
+}

@@ -1,1 +1,25 @@
-{"id": "ATLANT", "names": [{"name": "ATLANT", "threshold": 0.85}, {"name": "АТЛАНТ", "threshold": 0.85}], "models": {"CXM150": {"id": "CXM150", "names": [{"name": "CXM150", "threshold": 1}]}}}
+{
+  "id": "ATLANT",
+  "names": [
+    {
+      "name": "ATLANT",
+      "threshold": 0.85
+    },
+    {
+      "name": "АТЛАНТ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "CXM150": {
+      "id": "CXM150",
+      "names": [
+        {
+          "name": "CXM150",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8756"
+    }
+  }
+}

@@ -1,1 +1,67 @@
-{"id": "GILERA", "names": [{"name": "GILERA", "threshold": 0.85}, {"name": "ГИЛЕРА", "threshold": 0.85}], "models": {"FUOCO": {"id": "FUOCO", "names": [{"name": "FUOCO", "threshold": 0.85}, {"name": "ФУОЦО", "threshold": 0.85}]}, "GP800": {"id": "GP800", "names": [{"name": "GP800", "threshold": 1}]}, "NEXUS": {"id": "NEXUS", "names": [{"name": "NEXUS", "threshold": 0.85}, {"name": "НЕXУС", "threshold": 0.85}]}, "RUNNER": {"id": "RUNNER", "names": [{"name": "RUNNER", "threshold": 0.85}, {"name": "РУННЕР", "threshold": 0.85}]}}}
+{
+  "id": "GILERA",
+  "names": [
+    {
+      "name": "GILERA",
+      "threshold": 0.85
+    },
+    {
+      "name": "ГИЛЕРА",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "FUOCO": {
+      "id": "FUOCO",
+      "names": [
+        {
+          "name": "FUOCO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ФУОЦО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2733"
+    },
+    "GP800": {
+      "id": "GP800",
+      "names": [
+        {
+          "name": "GP800",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2734"
+    },
+    "NEXUS": {
+      "id": "NEXUS",
+      "names": [
+        {
+          "name": "NEXUS",
+          "threshold": 0.85
+        },
+        {
+          "name": "НЕXУС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2735"
+    },
+    "RUNNER": {
+      "id": "RUNNER",
+      "names": [
+        {
+          "name": "RUNNER",
+          "threshold": 0.85
+        },
+        {
+          "name": "РУННЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2737"
+    }
+  }
+}

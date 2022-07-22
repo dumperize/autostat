@@ -1,1 +1,25 @@
-{"id": "ELAZ", "names": [{"name": "ELAZ", "threshold": 0.93}, {"name": "ЕЛАЗ", "threshold": 0.93}], "models": {"AC32": {"id": "AC32", "names": [{"name": "AC 32", "threshold": 1}]}}}
+{
+  "id": "ELAZ",
+  "names": [
+    {
+      "name": "ELAZ",
+      "threshold": 0.93
+    },
+    {
+      "name": "ЕЛАЗ",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "AC32": {
+      "id": "AC32",
+      "names": [
+        {
+          "name": "AC 32",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15352"
+    }
+  }
+}

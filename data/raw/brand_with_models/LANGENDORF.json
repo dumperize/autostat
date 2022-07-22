@@ -1,1 +1,57 @@
-{"id": "LANGENDORF", "names": [{"name": "LANGENDORF", "threshold": 0.85}, {"name": "ЛАНГЕНДОРФ", "threshold": 0.85}], "models": {"SAT": {"id": "SAT", "names": [{"name": "SAT", "threshold": 0.97}, {"name": "САТ", "threshold": 0.97}]}, "SKA": {"id": "SKA", "names": [{"name": "SKA", "threshold": 0.97}, {"name": "СКА", "threshold": 0.97}]}, "SKS": {"id": "SKS", "names": [{"name": "SKS", "threshold": 0.97}, {"name": "СКС", "threshold": 0.97}]}}}
+{
+  "id": "LANGENDORF",
+  "names": [
+    {
+      "name": "LANGENDORF",
+      "threshold": 0.85
+    },
+    {
+      "name": "ЛАНГЕНДОРФ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "SAT": {
+      "id": "SAT",
+      "names": [
+        {
+          "name": "SAT",
+          "threshold": 0.97
+        },
+        {
+          "name": "САТ",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "3503"
+    },
+    "SKA": {
+      "id": "SKA",
+      "names": [
+        {
+          "name": "SKA",
+          "threshold": 0.97
+        },
+        {
+          "name": "СКА",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "3504"
+    },
+    "SKS": {
+      "id": "SKS",
+      "names": [
+        {
+          "name": "SKS",
+          "threshold": 0.97
+        },
+        {
+          "name": "СКС",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "3505"
+    }
+  }
+}

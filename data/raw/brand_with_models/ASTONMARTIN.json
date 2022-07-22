@@ -1,112 +1,121 @@
 {
-    "id": "ASTONMARTIN",
-    "names": [
-        {
-            "name": "ASTON MARTIN",
-            "threshold": 0.85
-        },
-        {
-            "name": "АСТОН МАРТИН",
-            "threshold": 0.85
-        }
-    ],
-    "models": {
-        "DB11": {
-            "id": "DB11",
-            "names": [
-                {
-                    "name": "DB11",
-                    "threshold": 1
-                }
-            ]
-        },
-        "DB7": {
-            "id": "DB7",
-            "names": [
-                {
-                    "name": "DB7",
-                    "threshold": 1
-                }
-            ]
-        },
-        "DB9": {
-            "id": "DB9",
-            "names": [
-                {
-                    "name": "DB9",
-                    "threshold": 1
-                }
-            ]
-        },
-        "DBS": {
-            "id": "DBS",
-            "names": [
-                {
-                    "name": "DBS",
-                    "threshold": 0.97
-                },
-                {
-                    "name": "ДБС",
-                    "threshold": 0.97
-                }
-            ]
-        },
-        "DBX": {
-            "id": "DBX",
-            "names": [
-                {
-                    "name": "DBX",
-                    "threshold": 0.97
-                },
-                {
-                    "name": "ДБX",
-                    "threshold": 0.97
-                }
-            ]
-        },
-        "RAPIDE": {
-            "id": "RAPIDE",
-            "names": [
-                {
-                    "name": "RAPIDE",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "РАПИДЕ",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "V12": {
-            "id": "V12",
-            "names": [
-                {
-                    "name": "V12",
-                    "threshold": 1
-                }
-            ]
-        },
-        "V8": {
-            "id": "V8",
-            "names": [
-                {
-                    "name": "V8",
-                    "threshold": 1
-                }
-            ]
-        },
-        "VANTAGE": {
-            "id": "VANTAGE",
-            "names": [
-                {
-                    "name": "VANTAGE",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ВАНТАГЕ",
-                    "threshold": 0.85
-                }
-            ]
-        }
+  "id": "ASTONMARTIN",
+  "names": [
+    {
+      "name": "ASTON MARTIN",
+      "threshold": 0.85
+    },
+    {
+      "name": "АСТОН МАРТИН",
+      "threshold": 0.85
     }
+  ],
+  "models": {
+    "DB11": {
+      "id": "DB11",
+      "names": [
+        {
+          "name": "DB11",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15319"
+    },
+    "DB7": {
+      "id": "DB7",
+      "names": [
+        {
+          "name": "DB7",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "985"
+    },
+    "DB9": {
+      "id": "DB9",
+      "names": [
+        {
+          "name": "DB9",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "986"
+    },
+    "DBS": {
+      "id": "DBS",
+      "names": [
+        {
+          "name": "DBS",
+          "threshold": 0.97
+        },
+        {
+          "name": "ДБС",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "987"
+    },
+    "DBX": {
+      "id": "DBX",
+      "names": [
+        {
+          "name": "DBX",
+          "threshold": 0.97
+        },
+        {
+          "name": "ДБX",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "18664"
+    },
+    "RAPIDE": {
+      "id": "RAPIDE",
+      "names": [
+        {
+          "name": "RAPIDE",
+          "threshold": 0.85
+        },
+        {
+          "name": "РАПИДЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "15230"
+    },
+    "V12": {
+      "id": "V12",
+      "names": [
+        {
+          "name": "V12",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "989"
+    },
+    "V8": {
+      "id": "V8",
+      "names": [
+        {
+          "name": "V8",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "990"
+    },
+    "VANTAGE": {
+      "id": "VANTAGE",
+      "names": [
+        {
+          "name": "VANTAGE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ВАНТАГЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17251"
+    }
+  }
 }

@@ -1,1 +1,25 @@
-{"id": "OZTASTRAILER", "names": [{"name": "OZTAS TRAILER", "threshold": 0.85}, {"name": "ОЗТАС ТРАИЛЕР", "threshold": 0.85}], "models": {"BNM3M": {"id": "BNM3M", "names": [{"name": "BNM3M", "threshold": 1}]}}}
+{
+  "id": "OZTASTRAILER",
+  "names": [
+    {
+      "name": "OZTAS TRAILER",
+      "threshold": 0.85
+    },
+    {
+      "name": "ОЗТАС ТРАИЛЕР",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "BNM3M": {
+      "id": "BNM3M",
+      "names": [
+        {
+          "name": "BNM3M",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15426"
+    }
+  }
+}

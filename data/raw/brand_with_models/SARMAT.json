@@ -1,1 +1,85 @@
-{"id": "SARMAT", "names": [{"name": "SARMAT", "threshold": 0.85}, {"name": "САРМАТ", "threshold": 0.85}], "models": {"8232": {"id": "8232", "names": [{"name": "8232", "threshold": 1}]}, "85264": {"id": "85264", "names": [{"name": "85264", "threshold": 1}]}, "8589": {"id": "8589", "names": [{"name": "8589", "threshold": 1}]}, "8603": {"id": "8603", "names": [{"name": "8603", "threshold": 1}]}, "8802": {"id": "8802", "names": [{"name": "8802", "threshold": 1}]}, "96401": {"id": "96401", "names": [{"name": "96401", "threshold": 1}]}, "96402": {"id": "96402", "names": [{"name": "96402", "threshold": 1}]}}}
+{
+  "id": "SARMAT",
+  "names": [
+    {
+      "name": "SARMAT",
+      "threshold": 0.85
+    },
+    {
+      "name": "САРМАТ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "8232": {
+      "id": "8232",
+      "names": [
+        {
+          "name": "8232",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3099"
+    },
+    "85264": {
+      "id": "85264",
+      "names": [
+        {
+          "name": "85264",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3100"
+    },
+    "8589": {
+      "id": "8589",
+      "names": [
+        {
+          "name": "8589",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3101"
+    },
+    "8603": {
+      "id": "8603",
+      "names": [
+        {
+          "name": "8603",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3102"
+    },
+    "8802": {
+      "id": "8802",
+      "names": [
+        {
+          "name": "8802",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3103"
+    },
+    "96401": {
+      "id": "96401",
+      "names": [
+        {
+          "name": "96401",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3104"
+    },
+    "96402": {
+      "id": "96402",
+      "names": [
+        {
+          "name": "96402",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3105"
+    }
+  }
+}

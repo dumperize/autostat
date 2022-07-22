@@ -1,1 +1,649 @@
-{"id": "HARLEYDAVIDSON", "names": [{"name": "HARLEY DAVIDSON", "threshold": 0.85}, {"name": "ХАРЛЕЫ ДАВИДСОН", "threshold": 0.85}], "models": {"1200SPORTSTER": {"id": "1200SPORTSTER", "names": [{"name": "1200 SPORTSTER", "threshold": 1}]}, "883SPORTSTER": {"id": "883SPORTSTER", "names": [{"name": "883 SPORTSTER", "threshold": 1}]}, "BLACKLINE": {"id": "BLACKLINE", "names": [{"name": "BLACKLINE", "threshold": 0.85}, {"name": "БЛАЦКЛИНЕ", "threshold": 0.85}]}, "BREAKOUT": {"id": "BREAKOUT", "names": [{"name": "BREAKOUT", "threshold": 0.85}, {"name": "БРЕАКОУТ", "threshold": 0.85}]}, "CROSSBONES": {"id": "CROSSBONES", "names": [{"name": "CROSS BONES", "threshold": 0.85}, {"name": "ЦРОСС БОНЕС", "threshold": 0.85}]}, "CVOLIMITED": {"id": "CVOLIMITED", "names": [{"name": "CVO LIMITED", "threshold": 0.85}, {"name": "ЦВО ЛИМИТЕД", "threshold": 0.85}]}, "CVOSOFTAIL": {"id": "CVOSOFTAIL", "names": [{"name": "CVO SOFTAIL", "threshold": 0.85}, {"name": "ЦВО СОФТАИЛ", "threshold": 0.85}]}, "DYNA": {"id": "DYNA", "names": [{"name": "DYNA", "threshold": 0.93}, {"name": "ДЫНА", "threshold": 0.93}]}, "DYNACVO": {"id": "DYNACVO", "names": [{"name": "DYNA CVO", "threshold": 0.85}, {"name": "ДЫНА ЦВО", "threshold": 0.85}]}, "DYNAFATBOB": {"id": "DYNAFATBOB", "names": [{"name": "DYNA FAT BOB", "threshold": 0.85}, {"name": "ДЫНА ФАТ БОБ", "threshold": 0.85}]}, "DYNALOWRIDER": {"id": "DYNALOWRIDER", "names": [{"name": "DYNA LOW RIDER", "threshold": 0.85}, {"name": "ДЫНА ЛОW РИДЕР", "threshold": 0.85}]}, "DYNASTREETBOB": {"id": "DYNASTREETBOB", "names": [{"name": "DYNA STREET BOB", "threshold": 0.85}, {"name": "ДЫНА СТРЕЕТ БОБ", "threshold": 0.85}]}, "DYNASUPERGLIDE": {"id": "DYNASUPERGLIDE", "names": [{"name": "DYNA SUPER GLIDE", "threshold": 0.85}, {"name": "ДЫНА СУПЕР ГЛИДЕ", "threshold": 0.85}]}, "DYNASWITCHBACK": {"id": "DYNASWITCHBACK", "names": [{"name": "DYNA SWITCHBACK", "threshold": 0.85}, {"name": "ДЫНА СWИТЦХБАЦК", "threshold": 0.85}]}, "DYNAWIDEGLIDE": {"id": "DYNAWIDEGLIDE", "names": [{"name": "DYNA WIDE GLIDE", "threshold": 0.85}, {"name": "ДЫНА WИДЕ ГЛИДЕ", "threshold": 0.85}]}, "ELECTRAGLIDE": {"id": "ELECTRAGLIDE", "names": [{"name": "ELECTRA GLIDE", "threshold": 0.85}, {"name": "ЕЛЕЦТРА ГЛИДЕ", "threshold": 0.85}]}, "FATBOY": {"id": "FATBOY", "names": [{"name": "FAT BOY", "threshold": 0.85}, {"name": "ФАТ БОЫ", "threshold": 0.85}]}, "FREEWHEELER": {"id": "FREEWHEELER", "names": [{"name": "FREEWHEELER", "threshold": 0.85}, {"name": "ФРЕЕWХЕЕЛЕР", "threshold": 0.85}]}, "FXDR114": {"id": "FXDR114", "names": [{"name": "FXDR 114", "threshold": 1}]}, "HERITAGE": {"id": "HERITAGE", "names": [{"name": "HERITAGE", "threshold": 0.85}, {"name": "ХЕРИТАГЕ", "threshold": 0.85}]}, "NIGHTTRAIN": {"id": "NIGHTTRAIN", "names": [{"name": "NIGHT TRAIN", "threshold": 0.85}, {"name": "НИГХТ ТРАИН", "threshold": 0.85}]}, "OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}, "ROADGLIDE": {"id": "ROADGLIDE", "names": [{"name": "ROAD GLIDE", "threshold": 0.85}, {"name": "РОАД ГЛИДЕ", "threshold": 0.85}]}, "ROADKING": {"id": "ROADKING", "names": [{"name": "ROAD KING", "threshold": 0.85}, {"name": "РОАД КИНГ", "threshold": 0.85}]}, "ROCKER": {"id": "ROCKER", "names": [{"name": "ROCKER", "threshold": 0.85}, {"name": "РОЦКЕР", "threshold": 0.85}]}, "SOFTAIL": {"id": "SOFTAIL", "names": [{"name": "SOFTAIL", "threshold": 0.85}, {"name": "СОФТАИЛ", "threshold": 0.85}]}, "SOFTAILCUSTOM": {"id": "SOFTAILCUSTOM", "names": [{"name": "SOFTAIL CUSTOM", "threshold": 0.85}, {"name": "СОФТАИЛ ЦУСТОМ", "threshold": 0.85}]}, "SOFTAILDELUXE": {"id": "SOFTAILDELUXE", "names": [{"name": "SOFTAIL DELUXE", "threshold": 0.85}, {"name": "СОФТАИЛ ДЕЛУXЕ", "threshold": 0.85}]}, "SOFTAILDEUCE": {"id": "SOFTAILDEUCE", "names": [{"name": "SOFTAIL DEUCE", "threshold": 0.85}, {"name": "СОФТАИЛ ДЕУЦЕ", "threshold": 0.85}]}, "SOFTAILFATBOB": {"id": "SOFTAILFATBOB", "names": [{"name": "SOFTAIL FAT BOB", "threshold": 0.85}, {"name": "СОФТАИЛ ФАТ БОБ", "threshold": 0.85}]}, "SOFTAILLOWRIDER": {"id": "SOFTAILLOWRIDER", "names": [{"name": "SOFTAIL LOW RIDER", "threshold": 0.85}, {"name": "СОФТАИЛ ЛОW РИДЕР", "threshold": 0.85}]}, "SOFTAILSLIM": {"id": "SOFTAILSLIM", "names": [{"name": "SOFTAIL SLIM", "threshold": 0.85}, {"name": "СОФТАИЛ СЛИМ", "threshold": 0.85}]}, "SOFTAILSPORTGLIDE": {"id": "SOFTAILSPORTGLIDE", "names": [{"name": "SOFTAIL SPORT GLIDE", "threshold": 0.85}, {"name": "СОФТАИЛ СПОРТ ГЛИДЕ", "threshold": 0.85}]}, "SOFTAILSPRINGER": {"id": "SOFTAILSPRINGER", "names": [{"name": "SOFTAIL SPRINGER", "threshold": 0.85}, {"name": "СОФТАИЛ СПРИНГЕР", "threshold": 0.85}]}, "SOFTAILSTANDARD": {"id": "SOFTAILSTANDARD", "names": [{"name": "SOFTAIL STANDARD", "threshold": 0.85}, {"name": "СОФТАИЛ СТАНДАРД", "threshold": 0.85}]}, "SOFTAILSTREETBOB": {"id": "SOFTAILSTREETBOB", "names": [{"name": "SOFTAIL STREET BOB", "threshold": 0.85}, {"name": "СОФТАИЛ СТРЕЕТ БОБ", "threshold": 0.85}]}, "STREETGLIDE": {"id": "STREETGLIDE", "names": [{"name": "STREET GLIDE", "threshold": 0.85}, {"name": "СТРЕЕТ ГЛИДЕ", "threshold": 0.85}]}, "TRIGLIDE": {"id": "TRIGLIDE", "names": [{"name": "TRI GLIDE", "threshold": 0.85}, {"name": "ТРИ ГЛИДЕ", "threshold": 0.85}]}, "ULTRALIMITED": {"id": "ULTRALIMITED", "names": [{"name": "ULTRA LIMITED", "threshold": 0.85}, {"name": "УЛТРА ЛИМИТЕД", "threshold": 0.85}]}, "VROD": {"id": "VROD", "names": [{"name": "V ROD", "threshold": 0.85}, {"name": "В РОД", "threshold": 0.85}]}, "VRODMUSCLE": {"id": "VRODMUSCLE", "names": [{"name": "V ROD MUSCLE", "threshold": 0.85}, {"name": "В РОД МУСЦЛЕ", "threshold": 0.85}]}, "VRSC": {"id": "VRSC", "names": [{"name": "VRSC", "threshold": 0.93}, {"name": "ВРСЦ", "threshold": 0.93}]}, "VRSCA": {"id": "VRSCA", "names": [{"name": "VRSCA", "threshold": 0.85}, {"name": "ВРСЦА", "threshold": 0.85}]}, "VRSCB": {"id": "VRSCB", "names": [{"name": "VRSCB", "threshold": 0.85}, {"name": "ВРСЦБ", "threshold": 0.85}]}, "XG500": {"id": "XG500", "names": [{"name": "XG500", "threshold": 1}]}, "XG750": {"id": "XG750", "names": [{"name": "XG750", "threshold": 1}]}, "XR1200": {"id": "XR1200", "names": [{"name": "XR1200", "threshold": 1}]}}}
+{
+  "id": "HARLEYDAVIDSON",
+  "names": [
+    {
+      "name": "HARLEY DAVIDSON",
+      "threshold": 0.85
+    },
+    {
+      "name": "ХАРЛЕЙ ДАВИДСОН",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "1200SPORTSTER": {
+      "id": "1200SPORTSTER",
+      "names": [
+        {
+          "name": "1200 SPORTSTER",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2545"
+    },
+    "883SPORTSTER": {
+      "id": "883SPORTSTER",
+      "names": [
+        {
+          "name": "883 SPORTSTER",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2546"
+    },
+    "BLACKLINE": {
+      "id": "BLACKLINE",
+      "names": [
+        {
+          "name": "BLACKLINE",
+          "threshold": 0.85
+        },
+        {
+          "name": "БЛАЦКЛИНЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17314"
+    },
+    "BREAKOUT": {
+      "id": "BREAKOUT",
+      "names": [
+        {
+          "name": "BREAKOUT",
+          "threshold": 0.85
+        },
+        {
+          "name": "БРЕАКОУТ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17315"
+    },
+    "CROSSBONES": {
+      "id": "CROSSBONES",
+      "names": [
+        {
+          "name": "CROSS BONES",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦРОСС БОНЕС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17316"
+    },
+    "CVOLIMITED": {
+      "id": "CVOLIMITED",
+      "names": [
+        {
+          "name": "CVO LIMITED",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦВО ЛИМИТЕД",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17233"
+    },
+    "CVOSOFTAIL": {
+      "id": "CVOSOFTAIL",
+      "names": [
+        {
+          "name": "CVO SOFTAIL",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦВО СОФТАИЛ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17317"
+    },
+    "DYNA": {
+      "id": "DYNA",
+      "names": [
+        {
+          "name": "DYNA",
+          "threshold": 0.93
+        },
+        {
+          "name": "ДЫНЯ",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "2547"
+    },
+    "DYNACVO": {
+      "id": "DYNACVO",
+      "names": [
+        {
+          "name": "DYNA CVO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДЫНА ЦВО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17318"
+    },
+    "DYNAFATBOB": {
+      "id": "DYNAFATBOB",
+      "names": [
+        {
+          "name": "DYNA FAT BOB",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДЫНА ФАТ БОБ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17319"
+    },
+    "DYNALOWRIDER": {
+      "id": "DYNALOWRIDER",
+      "names": [
+        {
+          "name": "DYNA LOW RIDER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДЫНА ЛОW РИДЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17320"
+    },
+    "DYNASTREETBOB": {
+      "id": "DYNASTREETBOB",
+      "names": [
+        {
+          "name": "DYNA STREET BOB",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДЫНА СТРЕЕТ БОБ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17321"
+    },
+    "DYNASUPERGLIDE": {
+      "id": "DYNASUPERGLIDE",
+      "names": [
+        {
+          "name": "DYNA SUPER GLIDE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДЫНА СУПЕР ГЛИДЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2548"
+    },
+    "DYNASWITCHBACK": {
+      "id": "DYNASWITCHBACK",
+      "names": [
+        {
+          "name": "DYNA SWITCHBACK",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДЫНА СWИТЦХБАЦК",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17322"
+    },
+    "DYNAWIDEGLIDE": {
+      "id": "DYNAWIDEGLIDE",
+      "names": [
+        {
+          "name": "DYNA WIDE GLIDE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДЫНА WИДЕ ГЛИДЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17323"
+    },
+    "ELECTRAGLIDE": {
+      "id": "ELECTRAGLIDE",
+      "names": [
+        {
+          "name": "ELECTRA GLIDE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЕЛЕЦТРА ГЛИДЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2549"
+    },
+    "FATBOY": {
+      "id": "FATBOY",
+      "names": [
+        {
+          "name": "FAT BOY",
+          "threshold": 0.85
+        },
+        {
+          "name": "ФАТ БОЙ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2550"
+    },
+    "FREEWHEELER": {
+      "id": "FREEWHEELER",
+      "names": [
+        {
+          "name": "FREEWHEELER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ФРЕЕWХЕЕЛЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17324"
+    },
+    "FXDR114": {
+      "id": "FXDR114",
+      "names": [
+        {
+          "name": "FXDR 114",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17325"
+    },
+    "HERITAGE": {
+      "id": "HERITAGE",
+      "names": [
+        {
+          "name": "HERITAGE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ХЕРИТАГЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2551"
+    },
+    "NIGHTTRAIN": {
+      "id": "NIGHTTRAIN",
+      "names": [
+        {
+          "name": "NIGHT TRAIN",
+          "threshold": 0.85
+        },
+        {
+          "name": "НИГХТ ТРАИН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2552"
+    },
+    "OTHER": {
+      "id": "OTHER",
+      "names": [
+        {
+          "name": "OTHER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОТХЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2553"
+    },
+    "ROADGLIDE": {
+      "id": "ROADGLIDE",
+      "names": [
+        {
+          "name": "ROAD GLIDE",
+          "threshold": 0.85
+        },
+        {
+          "name": "РОАД ГЛИДЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17326"
+    },
+    "ROADKING": {
+      "id": "ROADKING",
+      "names": [
+        {
+          "name": "ROAD KING",
+          "threshold": 0.85
+        },
+        {
+          "name": "РОАД КИНГ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2554"
+    },
+    "ROCKER": {
+      "id": "ROCKER",
+      "names": [
+        {
+          "name": "ROCKER",
+          "threshold": 0.85
+        },
+        {
+          "name": "РОЦКЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17327"
+    },
+    "SOFTAIL": {
+      "id": "SOFTAIL",
+      "names": [
+        {
+          "name": "SOFTAIL",
+          "threshold": 0.85
+        },
+        {
+          "name": "СОФТАИЛ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2555"
+    },
+    "SOFTAILCUSTOM": {
+      "id": "SOFTAILCUSTOM",
+      "names": [
+        {
+          "name": "SOFTAIL CUSTOM",
+          "threshold": 0.85
+        },
+        {
+          "name": "СОФТАИЛ ЦУСТОМ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17328"
+    },
+    "SOFTAILDELUXE": {
+      "id": "SOFTAILDELUXE",
+      "names": [
+        {
+          "name": "SOFTAIL DELUXE",
+          "threshold": 0.85
+        },
+        {
+          "name": "СОФТАИЛ ДЕЛУXЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17329"
+    },
+    "SOFTAILDEUCE": {
+      "id": "SOFTAILDEUCE",
+      "names": [
+        {
+          "name": "SOFTAIL DEUCE",
+          "threshold": 0.85
+        },
+        {
+          "name": "СОФТАИЛ ДЕУЦЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17330"
+    },
+    "SOFTAILFATBOB": {
+      "id": "SOFTAILFATBOB",
+      "names": [
+        {
+          "name": "SOFTAIL FAT BOB",
+          "threshold": 0.85
+        },
+        {
+          "name": "СОФТАИЛ ФАТ БОБ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17236"
+    },
+    "SOFTAILLOWRIDER": {
+      "id": "SOFTAILLOWRIDER",
+      "names": [
+        {
+          "name": "SOFTAIL LOW RIDER",
+          "threshold": 0.85
+        },
+        {
+          "name": "СОФТАИЛ ЛОW РИДЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17331"
+    },
+    "SOFTAILSLIM": {
+      "id": "SOFTAILSLIM",
+      "names": [
+        {
+          "name": "SOFTAIL SLIM",
+          "threshold": 0.85
+        },
+        {
+          "name": "СОФТАИЛ СЛИМ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17332"
+    },
+    "SOFTAILSPORTGLIDE": {
+      "id": "SOFTAILSPORTGLIDE",
+      "names": [
+        {
+          "name": "SOFTAIL SPORT GLIDE",
+          "threshold": 0.85
+        },
+        {
+          "name": "СОФТАИЛ СПОРТ ГЛИДЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17234"
+    },
+    "SOFTAILSPRINGER": {
+      "id": "SOFTAILSPRINGER",
+      "names": [
+        {
+          "name": "SOFTAIL SPRINGER",
+          "threshold": 0.85
+        },
+        {
+          "name": "СОФТАИЛ СПРИНГЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17333"
+    },
+    "SOFTAILSTANDARD": {
+      "id": "SOFTAILSTANDARD",
+      "names": [
+        {
+          "name": "SOFTAIL STANDARD",
+          "threshold": 0.85
+        },
+        {
+          "name": "СОФТАИЛ СТАНДАРД",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17334"
+    },
+    "SOFTAILSTREETBOB": {
+      "id": "SOFTAILSTREETBOB",
+      "names": [
+        {
+          "name": "SOFTAIL STREET BOB",
+          "threshold": 0.85
+        },
+        {
+          "name": "СОФТАИЛ СТРЕЕТ БОБ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17335"
+    },
+    "STREETGLIDE": {
+      "id": "STREETGLIDE",
+      "names": [
+        {
+          "name": "STREET GLIDE",
+          "threshold": 0.85
+        },
+        {
+          "name": "СТРЕЕТ ГЛИДЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17249"
+    },
+    "TRIGLIDE": {
+      "id": "TRIGLIDE",
+      "names": [
+        {
+          "name": "TRI GLIDE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ТРИ ГЛИДЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17336"
+    },
+    "ULTRALIMITED": {
+      "id": "ULTRALIMITED",
+      "names": [
+        {
+          "name": "ULTRA LIMITED",
+          "threshold": 0.85
+        },
+        {
+          "name": "УЛТРА ЛИМИТЕД",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17337"
+    },
+    "VROD": {
+      "id": "VROD",
+      "names": [
+        {
+          "name": "V ROD",
+          "threshold": 0.85
+        },
+        {
+          "name": "В РОД",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17338"
+    },
+    "VRODMUSCLE": {
+      "id": "VRODMUSCLE",
+      "names": [
+        {
+          "name": "V ROD MUSCLE",
+          "threshold": 0.85
+        },
+        {
+          "name": "В РОД МУСЦЛЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "17339"
+    },
+    "VRSC": {
+      "id": "VRSC",
+      "names": [
+        {
+          "name": "VRSC",
+          "threshold": 0.93
+        },
+        {
+          "name": "ВРСЦ",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "2557"
+    },
+    "VRSCA": {
+      "id": "VRSCA",
+      "names": [
+        {
+          "name": "VRSCA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ВРСЦА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2558"
+    },
+    "VRSCB": {
+      "id": "VRSCB",
+      "names": [
+        {
+          "name": "VRSCB",
+          "threshold": 0.85
+        },
+        {
+          "name": "ВРСЦБ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2559"
+    },
+    "XG500": {
+      "id": "XG500",
+      "names": [
+        {
+          "name": "XG500",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17341"
+    },
+    "XG750": {
+      "id": "XG750",
+      "names": [
+        {
+          "name": "XG750",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17237"
+    },
+    "XR1200": {
+      "id": "XR1200",
+      "names": [
+        {
+          "name": "XR1200",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17342"
+    }
+  }
+}

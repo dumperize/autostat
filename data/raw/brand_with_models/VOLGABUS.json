@@ -1,1 +1,115 @@
-{"id": "VOLGABUS", "names": [{"name": "VOLGABUS", "threshold": 0.85}, {"name": "ВОЛГАБУС", "threshold": 0.85}], "models": {"3290": {"id": "3290", "names": [{"name": "3290", "threshold": 1}]}, "4298": {"id": "4298", "names": [{"name": "4298", "threshold": 1}]}, "5270": {"id": "5270", "names": [{"name": "5270", "threshold": 1}]}, "52701": {"id": "52701", "names": [{"name": "52701", "threshold": 1}]}, "52702": {"id": "52702", "names": [{"name": "52702", "threshold": 1}]}, "5270G": {"id": "5270G", "names": [{"name": "5270G", "threshold": 1}]}, "5285": {"id": "5285", "names": [{"name": "5285", "threshold": 1}]}, "6216": {"id": "6216", "names": [{"name": "6216", "threshold": 1}]}, "6270": {"id": "6270", "names": [{"name": "6270", "threshold": 1}]}, "6271": {"id": "6271", "names": [{"name": "6271", "threshold": 1}]}}}
+{
+  "id": "VOLGABUS",
+  "names": [
+    {
+      "name": "VOLGABUS",
+      "threshold": 0.85
+    },
+    {
+      "name": "ВОЛГАБУС",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "3290": {
+      "id": "3290",
+      "names": [
+        {
+          "name": "3290",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2256"
+    },
+    "4298": {
+      "id": "4298",
+      "names": [
+        {
+          "name": "4298",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2257"
+    },
+    "5270": {
+      "id": "5270",
+      "names": [
+        {
+          "name": "5270",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2258"
+    },
+    "52701": {
+      "id": "52701",
+      "names": [
+        {
+          "name": "52701",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2260"
+    },
+    "52702": {
+      "id": "52702",
+      "names": [
+        {
+          "name": "52702",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2261"
+    },
+    "5270G": {
+      "id": "5270G",
+      "names": [
+        {
+          "name": "5270G",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14908"
+    },
+    "5285": {
+      "id": "5285",
+      "names": [
+        {
+          "name": "5285",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2262"
+    },
+    "6216": {
+      "id": "6216",
+      "names": [
+        {
+          "name": "6216",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2263"
+    },
+    "6270": {
+      "id": "6270",
+      "names": [
+        {
+          "name": "6270",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2264"
+    },
+    "6271": {
+      "id": "6271",
+      "names": [
+        {
+          "name": "6271",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2265"
+    }
+  }
+}

@@ -1,1 +1,165 @@
-{"id": "KZAP", "names": [{"name": "KZAP", "threshold": 0.93}, {"name": "КЗАП", "threshold": 0.93}], "models": {"81021": {"id": "81021", "names": [{"name": "81021", "threshold": 1}]}, "8140": {"id": "8140", "names": [{"name": "8140", "threshold": 1}]}, "85241": {"id": "85241", "names": [{"name": "85241", "threshold": 1}]}, "8527": {"id": "8527", "names": [{"name": "8527", "threshold": 1}]}, "8994": {"id": "8994", "names": [{"name": "8994", "threshold": 1}]}, "9020": {"id": "9020", "names": [{"name": "9020", "threshold": 1}]}, "9324": {"id": "9324", "names": [{"name": "9324", "threshold": 1}]}, "9370": {"id": "9370", "names": [{"name": "9370", "threshold": 1}]}, "9385": {"id": "9385", "names": [{"name": "9385", "threshold": 1}]}, "938520": {"id": "938520", "names": [{"name": "9385 20", "threshold": 1}]}, "938530": {"id": "938530", "names": [{"name": "9385 30", "threshold": 1}]}, "9514": {"id": "9514", "names": [{"name": "9514", "threshold": 1}]}, "9516": {"id": "9516", "names": [{"name": "9516", "threshold": 1}]}, "9772": {"id": "9772", "names": [{"name": "9772", "threshold": 1}]}, "9982": {"id": "9982", "names": [{"name": "9982", "threshold": 1}]}}}
+{
+  "id": "KZAP",
+  "names": [
+    {
+      "name": "KZAP",
+      "threshold": 0.93
+    },
+    {
+      "name": "КЗАП",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "81021": {
+      "id": "81021",
+      "names": [
+        {
+          "name": "81021",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3072"
+    },
+    "8140": {
+      "id": "8140",
+      "names": [
+        {
+          "name": "8140",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3076"
+    },
+    "85241": {
+      "id": "85241",
+      "names": [
+        {
+          "name": "85241",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "9960"
+    },
+    "8527": {
+      "id": "8527",
+      "names": [
+        {
+          "name": "8527",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3078"
+    },
+    "8994": {
+      "id": "8994",
+      "names": [
+        {
+          "name": "8994",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3079"
+    },
+    "9020": {
+      "id": "9020",
+      "names": [
+        {
+          "name": "9020",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3080"
+    },
+    "9324": {
+      "id": "9324",
+      "names": [
+        {
+          "name": "9324",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3081"
+    },
+    "9370": {
+      "id": "9370",
+      "names": [
+        {
+          "name": "9370",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3082"
+    },
+    "9385": {
+      "id": "9385",
+      "names": [
+        {
+          "name": "9385",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3083"
+    },
+    "938520": {
+      "id": "938520",
+      "names": [
+        {
+          "name": "9385 20",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "9961"
+    },
+    "938530": {
+      "id": "938530",
+      "names": [
+        {
+          "name": "9385 30",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "9962"
+    },
+    "9514": {
+      "id": "9514",
+      "names": [
+        {
+          "name": "9514",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3084"
+    },
+    "9516": {
+      "id": "9516",
+      "names": [
+        {
+          "name": "9516",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3085"
+    },
+    "9772": {
+      "id": "9772",
+      "names": [
+        {
+          "name": "9772",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3086"
+    },
+    "9982": {
+      "id": "9982",
+      "names": [
+        {
+          "name": "9982",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3087"
+    }
+  }
+}

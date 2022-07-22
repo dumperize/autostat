@@ -1,1 +1,75 @@
-{"id": "IZHAVTOPRICEP", "names": [{"name": "IZH AVTOPRICEP", "threshold": 0.85}, {"name": "ИЗХ АВТОПРИЦЕП", "threshold": 0.85}], "models": {"719010": {"id": "719010", "names": [{"name": "719010", "threshold": 1}]}, "719011": {"id": "719011", "names": [{"name": "719011", "threshold": 1}]}, "719012": {"id": "719012", "names": [{"name": "719012", "threshold": 1}]}, "719013": {"id": "719013", "names": [{"name": "719013", "threshold": 1}]}, "719014": {"id": "719014", "names": [{"name": "719014", "threshold": 1}]}, "719015": {"id": "719015", "names": [{"name": "719015", "threshold": 1}]}}}
+{
+  "id": "IZHAVTOPRICEP",
+  "names": [
+    {
+      "name": "IZH AVTOPRICEP",
+      "threshold": 0.85
+    },
+    {
+      "name": "ИЗХ АВТОПРИЦЕП",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "719010": {
+      "id": "719010",
+      "names": [
+        {
+          "name": "719010",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15711"
+    },
+    "719011": {
+      "id": "719011",
+      "names": [
+        {
+          "name": "719011",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15712"
+    },
+    "719012": {
+      "id": "719012",
+      "names": [
+        {
+          "name": "719012",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15713"
+    },
+    "719013": {
+      "id": "719013",
+      "names": [
+        {
+          "name": "719013",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15714"
+    },
+    "719014": {
+      "id": "719014",
+      "names": [
+        {
+          "name": "719014",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15715"
+    },
+    "719015": {
+      "id": "719015",
+      "names": [
+        {
+          "name": "719015",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15716"
+    }
+  }
+}

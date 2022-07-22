@@ -1,1 +1,151 @@
-{"id": "MASERATI", "names": [{"name": "MASERATI", "threshold": 0.85}, {"name": "МАСЕРАТИ", "threshold": 0.85}], "models": {"3200GT": {"id": "3200GT", "names": [{"name": "3200 GT", "threshold": 1}]}, "BITURBO": {"id": "BITURBO", "names": [{"name": "BITURBO", "threshold": 0.85}, {"name": "БИТУРБО", "threshold": 0.85}]}, "COUPE": {"id": "COUPE", "names": [{"name": "COUPE", "threshold": 0.85}, {"name": "ЦОУПЕ", "threshold": 0.85}]}, "GHIBLI": {"id": "GHIBLI", "names": [{"name": "GHIBLI", "threshold": 0.85}, {"name": "ГХИБЛИ", "threshold": 0.85}]}, "GRANCABRIO": {"id": "GRANCABRIO", "names": [{"name": "GRANCABRIO", "threshold": 0.85}, {"name": "ГРАНЦАБРИО", "threshold": 0.85}]}, "GRANSPORT": {"id": "GRANSPORT", "names": [{"name": "GRANSPORT", "threshold": 0.85}, {"name": "ГРАНСПОРТ", "threshold": 0.85}]}, "GRANTURISMO": {"id": "GRANTURISMO", "names": [{"name": "GRANTURISMO", "threshold": 0.85}, {"name": "ГРАНТУРИСМО", "threshold": 0.85}]}, "LEVANTE": {"id": "LEVANTE", "names": [{"name": "LEVANTE", "threshold": 0.85}, {"name": "ЛЕВАНТЕ", "threshold": 0.85}]}, "QUATTROPORTE": {"id": "QUATTROPORTE", "names": [{"name": "QUATTROPORTE", "threshold": 0.85}, {"name": "QУАТТРОПОРТЕ", "threshold": 0.85}]}, "SPYDER": {"id": "SPYDER", "names": [{"name": "SPYDER", "threshold": 0.85}, {"name": "СПЫДЕР", "threshold": 0.85}]}}}
+{
+  "id": "MASERATI",
+  "names": [
+    {
+      "name": "MASERATI",
+      "threshold": 0.85
+    },
+    {
+      "name": "МАСЕРАТИ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "3200GT": {
+      "id": "3200GT",
+      "names": [
+        {
+          "name": "3200 GT",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1268"
+    },
+    "BITURBO": {
+      "id": "BITURBO",
+      "names": [
+        {
+          "name": "BITURBO",
+          "threshold": 0.85
+        },
+        {
+          "name": "БИТУРБО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1271"
+    },
+    "COUPE": {
+      "id": "COUPE",
+      "names": [
+        {
+          "name": "COUPE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦОУПЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1273"
+    },
+    "GHIBLI": {
+      "id": "GHIBLI",
+      "names": [
+        {
+          "name": "GHIBLI",
+          "threshold": 0.85
+        },
+        {
+          "name": "ГХИБЛИ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1274"
+    },
+    "GRANCABRIO": {
+      "id": "GRANCABRIO",
+      "names": [
+        {
+          "name": "GRANCABRIO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ГРАНЦАБРИО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1275"
+    },
+    "GRANSPORT": {
+      "id": "GRANSPORT",
+      "names": [
+        {
+          "name": "GRANSPORT",
+          "threshold": 0.85
+        },
+        {
+          "name": "ГРАНСПОРТ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1276"
+    },
+    "GRANTURISMO": {
+      "id": "GRANTURISMO",
+      "names": [
+        {
+          "name": "GRANTURISMO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ГРАНТУРИСМО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1277"
+    },
+    "LEVANTE": {
+      "id": "LEVANTE",
+      "names": [
+        {
+          "name": "LEVANTE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЛЕВАНТЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "15229"
+    },
+    "QUATTROPORTE": {
+      "id": "QUATTROPORTE",
+      "names": [
+        {
+          "name": "QUATTROPORTE",
+          "threshold": 0.85
+        },
+        {
+          "name": "QУАТТРОПОРТЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1279"
+    },
+    "SPYDER": {
+      "id": "SPYDER",
+      "names": [
+        {
+          "name": "SPYDER",
+          "threshold": 0.85
+        },
+        {
+          "name": "СПАЙДЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1281"
+    }
+  }
+}

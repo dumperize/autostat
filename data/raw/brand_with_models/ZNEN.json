@@ -1,1 +1,77 @@
-{"id": "ZNEN", "names": [{"name": "ZNEN", "threshold": 0.93}, {"name": "ЗНЕН", "threshold": 0.93}], "models": {"CLASSIC": {"id": "CLASSIC", "names": [{"name": "CLASSIC", "threshold": 0.85}, {"name": "ЦЛАССИЦ", "threshold": 0.85}]}, "FALCON": {"id": "FALCON", "names": [{"name": "FALCON", "threshold": 0.85}, {"name": "ФАЛЦОН", "threshold": 0.85}]}, "ROAR": {"id": "ROAR", "names": [{"name": "ROAR", "threshold": 0.93}, {"name": "РОАР", "threshold": 0.93}]}, "ZN125": {"id": "ZN125", "names": [{"name": "ZN125", "threshold": 1}]}, "ZN150": {"id": "ZN150", "names": [{"name": "ZN150", "threshold": 1}]}}}
+{
+  "id": "ZNEN",
+  "names": [
+    {
+      "name": "ZNEN",
+      "threshold": 0.93
+    },
+    {
+      "name": "ЗНЕН",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "CLASSIC": {
+      "id": "CLASSIC",
+      "names": [
+        {
+          "name": "CLASSIC",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦЛАССИЦ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8987"
+    },
+    "FALCON": {
+      "id": "FALCON",
+      "names": [
+        {
+          "name": "FALCON",
+          "threshold": 0.85
+        },
+        {
+          "name": "ФАЛЦОН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8988"
+    },
+    "ROAR": {
+      "id": "ROAR",
+      "names": [
+        {
+          "name": "ROAR",
+          "threshold": 0.93
+        },
+        {
+          "name": "РОАР",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "8990"
+    },
+    "ZN125": {
+      "id": "ZN125",
+      "names": [
+        {
+          "name": "ZN125",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8991"
+    },
+    "ZN150": {
+      "id": "ZN150",
+      "names": [
+        {
+          "name": "ZN150",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8992"
+    }
+  }
+}

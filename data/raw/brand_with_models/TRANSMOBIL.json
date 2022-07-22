@@ -1,1 +1,55 @@
-{"id": "TRANSMOBIL", "names": [{"name": "TRANS MOBIL", "threshold": 0.85}, {"name": "ТРАНС МОБИЛ", "threshold": 0.85}], "models": {"905800": {"id": "905800", "names": [{"name": "905800", "threshold": 1}]}, "905801": {"id": "905801", "names": [{"name": "905801", "threshold": 1}]}, "905809": {"id": "905809", "names": [{"name": "905809", "threshold": 1}]}, "905814": {"id": "905814", "names": [{"name": "905814", "threshold": 1}]}}}
+{
+  "id": "TRANSMOBIL",
+  "names": [
+    {
+      "name": "TRANS MOBIL",
+      "threshold": 0.85
+    },
+    {
+      "name": "ТРАНС МОБИЛ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "905800": {
+      "id": "905800",
+      "names": [
+        {
+          "name": "905800",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12758"
+    },
+    "905801": {
+      "id": "905801",
+      "names": [
+        {
+          "name": "905801",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12759"
+    },
+    "905809": {
+      "id": "905809",
+      "names": [
+        {
+          "name": "905809",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16056"
+    },
+    "905814": {
+      "id": "905814",
+      "names": [
+        {
+          "name": "905814",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16057"
+    }
+  }
+}

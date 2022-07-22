@@ -1,1 +1,43 @@
-{"id": "WORLDMOTORS", "names": [{"name": "WORLD MOTORS", "threshold": 0.85}, {"name": "WОРЛД МОТОРС", "threshold": 0.85}], "models": {"ERMAK": {"id": "ERMAK", "names": [{"name": "ERMAK", "threshold": 0.85}, {"name": "ЕРМАК", "threshold": 0.85}]}, "OPTIMUS": {"id": "OPTIMUS", "names": [{"name": "OPTIMUS", "threshold": 0.85}, {"name": "ОПТИМУС", "threshold": 0.85}]}}}
+{
+  "id": "WORLDMOTORS",
+  "names": [
+    {
+      "name": "WORLD MOTORS",
+      "threshold": 0.85
+    },
+    {
+      "name": "WОРЛД МОТОРС",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "ERMAK": {
+      "id": "ERMAK",
+      "names": [
+        {
+          "name": "ERMAK",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЕРМАК",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8957"
+    },
+    "OPTIMUS": {
+      "id": "OPTIMUS",
+      "names": [
+        {
+          "name": "OPTIMUS",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОПТИМУС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8959"
+    }
+  }
+}

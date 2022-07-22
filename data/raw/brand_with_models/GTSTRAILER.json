@@ -1,1 +1,65 @@
-{"id": "GTSTRAILER", "names": [{"name": "GTS TRAILER", "threshold": 0.85}, {"name": "ГТС ТРАИЛЕР", "threshold": 0.85}], "models": {"714910": {"id": "714910", "names": [{"name": "7149 10", "threshold": 1}]}, "71491001": {"id": "71491001", "names": [{"name": "7149 10 01", "threshold": 1}]}, "71491002": {"id": "71491002", "names": [{"name": "7149 10 02", "threshold": 1}]}, "7149011002": {"id": "7149011002", "names": [{"name": "714901 10 02", "threshold": 1}]}, "714911001": {"id": "714911001", "names": [{"name": "71491 10 01", "threshold": 1}]}}}
+{
+  "id": "GTSTRAILER",
+  "names": [
+    {
+      "name": "GTS TRAILER",
+      "threshold": 0.85
+    },
+    {
+      "name": "ГТС ТРАИЛЕР",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "714910": {
+      "id": "714910",
+      "names": [
+        {
+          "name": "7149 10",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16098"
+    },
+    "71491001": {
+      "id": "71491001",
+      "names": [
+        {
+          "name": "7149 10 01",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16100"
+    },
+    "71491002": {
+      "id": "71491002",
+      "names": [
+        {
+          "name": "7149 10 02",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16097"
+    },
+    "7149011002": {
+      "id": "7149011002",
+      "names": [
+        {
+          "name": "714901 10 02",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16101"
+    },
+    "714911001": {
+      "id": "714911001",
+      "names": [
+        {
+          "name": "71491 10 01",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16099"
+    }
+  }
+}

@@ -1,42 +1,45 @@
 {
-    "id": "ALASKA",
-    "names": [
-        {
-            "name": "ALASKA",
-            "threshold": 0.85
-        },
-        {
-            "name": "АЛАСКА",
-            "threshold": 0.85
-        }
-    ],
-    "models": {
-        "7143": {
-            "id": "7143",
-            "names": [
-                {
-                    "name": "7143",
-                    "threshold": 1
-                }
-            ]
-        },
-        "71432": {
-            "id": "71432",
-            "names": [
-                {
-                    "name": "71432",
-                    "threshold": 1
-                }
-            ]
-        },
-        "71433": {
-            "id": "71433",
-            "names": [
-                {
-                    "name": "71433",
-                    "threshold": 1
-                }
-            ]
-        }
+  "id": "ALASKA",
+  "names": [
+    {
+      "name": "ALASKA",
+      "threshold": 0.85
+    },
+    {
+      "name": "АЛАСКА",
+      "threshold": 0.85
     }
+  ],
+  "models": {
+    "7143": {
+      "id": "7143",
+      "names": [
+        {
+          "name": "7143",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "11988"
+    },
+    "71432": {
+      "id": "71432",
+      "names": [
+        {
+          "name": "71432",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "11989"
+    },
+    "71433": {
+      "id": "71433",
+      "names": [
+        {
+          "name": "71433",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15612"
+    }
+  }
 }

@@ -1,1 +1,43 @@
-{"id": "GEON", "names": [{"name": "GEON", "threshold": 0.93}, {"name": "ГЕОН", "threshold": 0.93}], "models": {"INVADER": {"id": "INVADER", "names": [{"name": "INVADER", "threshold": 0.85}, {"name": "ИНВАДЕР", "threshold": 0.85}]}, "PANTERA": {"id": "PANTERA", "names": [{"name": "PANTERA", "threshold": 0.85}, {"name": "ПАНТЕРА", "threshold": 0.85}]}}}
+{
+  "id": "GEON",
+  "names": [
+    {
+      "name": "GEON",
+      "threshold": 0.93
+    },
+    {
+      "name": "ГЕОН",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "INVADER": {
+      "id": "INVADER",
+      "names": [
+        {
+          "name": "INVADER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ИНВАДЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "4983"
+    },
+    "PANTERA": {
+      "id": "PANTERA",
+      "names": [
+        {
+          "name": "PANTERA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ПАНТЕРА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "4986"
+    }
+  }
+}

@@ -1,1 +1,29 @@
-{"id": "MZKT", "names": [{"name": "MZKT", "threshold": 0.93}, {"name": "МЗКТ", "threshold": 0.93}], "models": {"OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}}}
+{
+  "id": "MZKT",
+  "names": [
+    {
+      "name": "MZKT",
+      "threshold": 0.93
+    },
+    {
+      "name": "МЗКТ",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "OTHER": {
+      "id": "OTHER",
+      "names": [
+        {
+          "name": "OTHER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОТХЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1721"
+    }
+  }
+}

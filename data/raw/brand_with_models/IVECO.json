@@ -1,137 +1,147 @@
 {
-    "id": "IVECO",
-    "names": [
-        {
-            "name": "IVECO",
-            "threshold": 0.85
-        },
-        {
-            "name": "ИВЕКО",
-            "threshold": 0.85
-        }
-    ],
-    "models": {
-        "DAILY": {
-            "id": "DAILY",
-            "names": [
-                {
-                    "name": "DAILY",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ДАЙЛИ",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "EUROCARGO": {
-            "id": "EUROCARGO",
-            "names": [
-                {
-                    "name": "EUROCARGO",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ЕВРОКАРГО",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "EUROSTAR": {
-            "id": "EUROSTAR",
-            "names": [
-                {
-                    "name": "EUROSTAR",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ЕВРОСТАР",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "EUROTECH": {
-            "id": "EUROTECH",
-            "names": [
-                {
-                    "name": "EUROTECH",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ЕВРОТЕЧ",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "EUROTRAKKER": {
-            "id": "EUROTRAKKER",
-            "names": [
-                {
-                    "name": "EUROTRAKKER",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ЕУРОТРЭККЕР",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "PEGASO": {
-            "id": "PEGASO",
-            "names": [
-                {
-                    "name": "PEGASO",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ПЕГАСО",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "SFR160": {
-            "id": "SFR160",
-            "names": [
-                {
-                    "name": "SFR 160",
-                    "threshold": 1
-                }
-            ]
-        },
-        "SFR210": {
-            "id": "SFR210",
-            "names": [
-                {
-                    "name": "SFR 210",
-                    "threshold": 1
-                }
-            ]
-        },
-        "STRALIS": {
-            "id": "STRALIS",
-            "names": [
-                {
-                    "name": "STRALIS",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "СТРАЛИС",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "TRAKKER": {
-            "id": "TRAKKER",
-            "names": [
-                {
-                    "name": "TRAKKER",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ТРЭККЕР",
-                    "threshold": 0.85
-                }
-            ]
-        }
+  "id": "IVECO",
+  "names": [
+    {
+      "name": "IVECO",
+      "threshold": 0.85
+    },
+    {
+      "name": "ИВЕКО",
+      "threshold": 0.85
     }
+  ],
+  "models": {
+    "DAILY": {
+      "id": "DAILY",
+      "names": [
+        {
+          "name": "DAILY",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДАЙЛИ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1667"
+    },
+    "EUROCARGO": {
+      "id": "EUROCARGO",
+      "names": [
+        {
+          "name": "EUROCARGO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЕВРОКАРГО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2005"
+    },
+    "EUROSTAR": {
+      "id": "EUROSTAR",
+      "names": [
+        {
+          "name": "EUROSTAR",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЕВРОСТАР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2006"
+    },
+    "EUROTECH": {
+      "id": "EUROTECH",
+      "names": [
+        {
+          "name": "EUROTECH",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЕВРОТЕЧ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2007"
+    },
+    "EUROTRAKKER": {
+      "id": "EUROTRAKKER",
+      "names": [
+        {
+          "name": "EUROTRAKKER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЕУРОТРЭККЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2008"
+    },
+    "PEGASO": {
+      "id": "PEGASO",
+      "names": [
+        {
+          "name": "PEGASO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ПЕГАСО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "3872"
+    },
+    "SFR160": {
+      "id": "SFR160",
+      "names": [
+        {
+          "name": "SFR 160",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2355"
+    },
+    "SFR210": {
+      "id": "SFR210",
+      "names": [
+        {
+          "name": "SFR 210",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3873"
+    },
+    "STRALIS": {
+      "id": "STRALIS",
+      "names": [
+        {
+          "name": "STRALIS",
+          "threshold": 0.85
+        },
+        {
+          "name": "СТРАЛИС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2010"
+    },
+    "TRAKKER": {
+      "id": "TRAKKER",
+      "names": [
+        {
+          "name": "TRAKKER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ТРЭККЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "16032"
+    }
+  }
 }

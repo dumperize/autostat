@@ -1,1 +1,25 @@
-{"id": "FORSAGE", "names": [{"name": "FORSAGE", "threshold": 0.85}, {"name": "ФОРСАГЕ", "threshold": 0.85}], "models": {"450": {"id": "450", "names": [{"name": "450", "threshold": 1}]}}}
+{
+  "id": "FORSAGE",
+  "names": [
+    {
+      "name": "FORSAGE",
+      "threshold": 0.85
+    },
+    {
+      "name": "ФОРСАГЕ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "450": {
+      "id": "450",
+      "names": [
+        {
+          "name": "450",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8810"
+    }
+  }
+}

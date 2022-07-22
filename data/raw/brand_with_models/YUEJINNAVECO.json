@@ -1,1 +1,69 @@
-{"id": "YUEJIN/NAVECO", "names": [{"name": "YUEJIN/NAVECO", "threshold": 0.85}, {"name": "ЫУЕЙИН/НАВЕЦО", "threshold": 0.85}], "models": {"NJ1020": {"id": "NJ1020", "names": [{"name": "NJ1020", "threshold": 1}]}, "NJ1041": {"id": "NJ1041", "names": [{"name": "NJ1041", "threshold": 1}]}, "NJ1062": {"id": "NJ1062", "names": [{"name": "NJ1062", "threshold": 1}]}, "NJ1080": {"id": "NJ1080", "names": [{"name": "NJ1080", "threshold": 1}]}, "OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}}}
+{
+  "id": "YUEJIN/NAVECO",
+  "names": [
+    {
+      "name": "YUEJIN",
+      "threshold": 0.85
+    },
+    {
+      "name": "NAVECO",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "NJ1020": {
+      "id": "NJ1020",
+      "names": [
+        {
+          "name": "NJ1020",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1579"
+    },
+    "NJ1041": {
+      "id": "NJ1041",
+      "names": [
+        {
+          "name": "NJ1041",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1580"
+    },
+    "NJ1062": {
+      "id": "NJ1062",
+      "names": [
+        {
+          "name": "NJ1062",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "6593"
+    },
+    "NJ1080": {
+      "id": "NJ1080",
+      "names": [
+        {
+          "name": "NJ1080",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1805"
+    },
+    "OTHER": {
+      "id": "OTHER",
+      "names": [
+        {
+          "name": "OTHER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОТХЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1581"
+    }
+  }
+}

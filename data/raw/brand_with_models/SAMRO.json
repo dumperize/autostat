@@ -1,1 +1,245 @@
-{"id": "SAMRO", "names": [{"name": "SAMRO", "threshold": 0.85}, {"name": "САМРО", "threshold": 0.85}], "models": {"2EC16": {"id": "2EC16", "names": [{"name": "2EC16", "threshold": 1}]}, "2EC19": {"id": "2EC19", "names": [{"name": "2EC19", "threshold": 1}]}, "3EC24": {"id": "3EC24", "names": [{"name": "3EC24", "threshold": 1}]}, "C218RJ": {"id": "C218RJ", "names": [{"name": "C218RJ", "threshold": 1}]}, "CD18VJPA": {"id": "CD18VJPA", "names": [{"name": "CD18VJPA", "threshold": 1}]}, "R31724": {"id": "R31724", "names": [{"name": "R31724", "threshold": 1}]}, "RE219D": {"id": "RE219D", "names": [{"name": "RE219D", "threshold": 1}]}, "RE326": {"id": "RE326", "names": [{"name": "RE326", "threshold": 1}]}, "RE330DV": {"id": "RE330DV", "names": [{"name": "RE330DV", "threshold": 1}]}, "RT26R": {"id": "RT26R", "names": [{"name": "RT26R", "threshold": 1}]}, "S338DH": {"id": "S338DH", "names": [{"name": "S338DH", "threshold": 1}]}, "S338FH": {"id": "S338FH", "names": [{"name": "S338FH", "threshold": 1}]}, "S338RC": {"id": "S338RC", "names": [{"name": "S338RC", "threshold": 1}]}, "S338RH": {"id": "S338RH", "names": [{"name": "S338RH", "threshold": 1}]}, "S338RJ": {"id": "S338RJ", "names": [{"name": "S338RJ", "threshold": 1}]}, "S338SH": {"id": "S338SH", "names": [{"name": "S338SH", "threshold": 1}]}, "S338WH": {"id": "S338WH", "names": [{"name": "S338WH", "threshold": 1}]}, "SR334": {"id": "SR334", "names": [{"name": "SR334", "threshold": 1}]}, "SR338": {"id": "SR338", "names": [{"name": "SR338", "threshold": 1}]}, "ST39MH": {"id": "ST39MH", "names": [{"name": "ST39MH", "threshold": 1}]}, "ST39WG": {"id": "ST39WG", "names": [{"name": "ST39WG", "threshold": 1}]}, "ST39WH": {"id": "ST39WH", "names": [{"name": "ST39WH", "threshold": 1}]}, "ST39WK": {"id": "ST39WK", "names": [{"name": "ST39WK", "threshold": 1}]}}}
+{
+  "id": "SAMRO",
+  "names": [
+    {
+      "name": "SAMRO",
+      "threshold": 0.85
+    },
+    {
+      "name": "САМРО",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "2EC16": {
+      "id": "2EC16",
+      "names": [
+        {
+          "name": "2EC16",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3604"
+    },
+    "2EC19": {
+      "id": "2EC19",
+      "names": [
+        {
+          "name": "2EC19",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3605"
+    },
+    "3EC24": {
+      "id": "3EC24",
+      "names": [
+        {
+          "name": "3EC24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3607"
+    },
+    "C218RJ": {
+      "id": "C218RJ",
+      "names": [
+        {
+          "name": "C218RJ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3608"
+    },
+    "CD18VJPA": {
+      "id": "CD18VJPA",
+      "names": [
+        {
+          "name": "CD18VJPA",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3609"
+    },
+    "R31724": {
+      "id": "R31724",
+      "names": [
+        {
+          "name": "R31724",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3611"
+    },
+    "RE219D": {
+      "id": "RE219D",
+      "names": [
+        {
+          "name": "RE219D",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3612"
+    },
+    "RE326": {
+      "id": "RE326",
+      "names": [
+        {
+          "name": "RE326",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3613"
+    },
+    "RE330DV": {
+      "id": "RE330DV",
+      "names": [
+        {
+          "name": "RE330DV",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3614"
+    },
+    "RT26R": {
+      "id": "RT26R",
+      "names": [
+        {
+          "name": "RT26R",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3615"
+    },
+    "S338DH": {
+      "id": "S338DH",
+      "names": [
+        {
+          "name": "S338DH",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3616"
+    },
+    "S338FH": {
+      "id": "S338FH",
+      "names": [
+        {
+          "name": "S338FH",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3617"
+    },
+    "S338RC": {
+      "id": "S338RC",
+      "names": [
+        {
+          "name": "S338RC",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3618"
+    },
+    "S338RH": {
+      "id": "S338RH",
+      "names": [
+        {
+          "name": "S338RH",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3619"
+    },
+    "S338RJ": {
+      "id": "S338RJ",
+      "names": [
+        {
+          "name": "S338RJ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3620"
+    },
+    "S338SH": {
+      "id": "S338SH",
+      "names": [
+        {
+          "name": "S338SH",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3621"
+    },
+    "S338WH": {
+      "id": "S338WH",
+      "names": [
+        {
+          "name": "S338WH",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3622"
+    },
+    "SR334": {
+      "id": "SR334",
+      "names": [
+        {
+          "name": "SR334",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3623"
+    },
+    "SR338": {
+      "id": "SR338",
+      "names": [
+        {
+          "name": "SR338",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3624"
+    },
+    "ST39MH": {
+      "id": "ST39MH",
+      "names": [
+        {
+          "name": "ST39MH",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3625"
+    },
+    "ST39WG": {
+      "id": "ST39WG",
+      "names": [
+        {
+          "name": "ST39WG",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3626"
+    },
+    "ST39WH": {
+      "id": "ST39WH",
+      "names": [
+        {
+          "name": "ST39WH",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3627"
+    },
+    "ST39WK": {
+      "id": "ST39WK",
+      "names": [
+        {
+          "name": "ST39WK",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3628"
+    }
+  }
+}

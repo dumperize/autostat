@@ -1,1 +1,43 @@
-{"id": "MEILLER", "names": [{"name": "MEILLER", "threshold": 0.85}, {"name": "МЕИЛЛЕР", "threshold": 0.85}], "models": {"KIPPERMHKS": {"id": "KIPPERMHKS", "names": [{"name": "KIPPER MHKS", "threshold": 0.85}, {"name": "КИППЕР МХКС", "threshold": 0.85}]}, "KIPPERMHPS": {"id": "KIPPERMHPS", "names": [{"name": "KIPPER MHPS", "threshold": 0.85}, {"name": "КИППЕР МХПС", "threshold": 0.85}]}}}
+{
+  "id": "MEILLER",
+  "names": [
+    {
+      "name": "MEILLER",
+      "threshold": 0.85
+    },
+    {
+      "name": "МЕИЛЛЕР",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "KIPPERMHKS": {
+      "id": "KIPPERMHKS",
+      "names": [
+        {
+          "name": "KIPPER MHKS",
+          "threshold": 0.85
+        },
+        {
+          "name": "КИППЕР МХКС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "16147"
+    },
+    "KIPPERMHPS": {
+      "id": "KIPPERMHPS",
+      "names": [
+        {
+          "name": "KIPPER MHPS",
+          "threshold": 0.85
+        },
+        {
+          "name": "КИППЕР МХПС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "16148"
+    }
+  }
+}

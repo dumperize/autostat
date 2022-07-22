@@ -1,93 +1,99 @@
 {
-    "id": "ABM",
-    "names": [
-        {
-            "name": "ABM",
-            "threshold": 0.97
-        },
-        {
-            "name": "АБМ",
-            "threshold": 0.97
-        }
-    ],
-    "models": {
-        "ALFA": {
-            "id": "ALFA",
-            "names": [
-                {
-                    "name": "ALFA",
-                    "threshold": 0.93
-                },
-                {
-                    "name": "АЛФА",
-                    "threshold": 0.93
-                }
-            ]
-        },
-        "FAVORIT": {
-            "id": "FAVORIT",
-            "names": [
-                {
-                    "name": "FAVORIT",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ФАВОРИТ",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "FLASH": {
-            "id": "FLASH",
-            "names": [
-                {
-                    "name": "FLASH",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ФЛАСХ",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "HELPER": {
-            "id": "HELPER",
-            "names": [
-                {
-                    "name": "HELPER",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ХЕЛПЕР",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "PEGAS": {
-            "id": "PEGAS",
-            "names": [
-                {
-                    "name": "PEGAS",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ПЕГАС",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "VOLCAN": {
-            "id": "VOLCAN",
-            "names": [
-                {
-                    "name": "VOLCAN",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ВОЛЦАН",
-                    "threshold": 0.85
-                }
-            ]
-        }
+  "id": "ABM",
+  "names": [
+    {
+      "name": "ABM",
+      "threshold": 0.97
+    },
+    {
+      "name": "АБМ",
+      "threshold": 0.97
     }
+  ],
+  "models": {
+    "ALFA": {
+      "id": "ALFA",
+      "names": [
+        {
+          "name": "ALFA",
+          "threshold": 0.93
+        },
+        {
+          "name": "АЛФА",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "10856"
+    },
+    "FAVORIT": {
+      "id": "FAVORIT",
+      "names": [
+        {
+          "name": "FAVORIT",
+          "threshold": 0.85
+        },
+        {
+          "name": "ФАВОРИТ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "10857"
+    },
+    "FLASH": {
+      "id": "FLASH",
+      "names": [
+        {
+          "name": "FLASH",
+          "threshold": 0.85
+        },
+        {
+          "name": "ФЛАСХ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8751"
+    },
+    "HELPER": {
+      "id": "HELPER",
+      "names": [
+        {
+          "name": "HELPER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ХЕЛПЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8752"
+    },
+    "PEGAS": {
+      "id": "PEGAS",
+      "names": [
+        {
+          "name": "PEGAS",
+          "threshold": 0.85
+        },
+        {
+          "name": "ПЕГАС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "10858"
+    },
+    "VOLCAN": {
+      "id": "VOLCAN",
+      "names": [
+        {
+          "name": "VOLCAN",
+          "threshold": 0.85
+        },
+        {
+          "name": "ВОЛЦАН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "10860"
+    }
+  }
 }

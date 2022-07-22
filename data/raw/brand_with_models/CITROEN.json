@@ -1,459 +1,499 @@
 {
-    "id": "CITROEN",
-    "names": [
-        {
-            "name": "CITROEN",
-            "threshold": 0.85
-        },
-        {
-            "name": "СИТРОЕН",
-            "threshold": 0.87
-        }
-    ],
-    "models": {
-        "2CV": {
-            "id": "2CV",
-            "names": [
-                {
-                    "name": "2CV",
-                    "threshold": 1
-                }
-            ]
-        },
-        "AX": {
-            "id": "AX",
-            "names": [
-                {
-                    "name": "AX",
-                    "threshold": 1
-                },
-                {
-                    "name": "АX",
-                    "threshold": 1
-                }
-            ]
-        },
-        "BERLINGOVP": {
-            "id": "BERLINGOVP",
-            "names": [
-                {
-                    "name": "BERLINGO VP",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "БЕРЛИНГО ВП",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "BERLINGOVU": {
-            "id": "BERLINGOVU",
-            "names": [
-                {
-                    "name": "BERLINGO VU",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "БЕРЛИНГО ВУ",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "BX": {
-            "id": "BX",
-            "names": [
-                {
-                    "name": "BX",
-                    "threshold": 1
-                },
-                {
-                    "name": "БX",
-                    "threshold": 1
-                }
-            ]
-        },
-        "CCROSSER": {
-            "id": "CROSSER",
-            "names": [
-                {
-                    "name": "CROSSER",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "КРОССЕР",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "CELYSEE": {
-            "id": "CELYSEE",
-            "names": [
-                {
-                    "name": "C ELYSEE",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "Ц ЕЛЫСЕЕ",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "C1": {
-            "id": "C1",
-            "names": [
-                {
-                    "name": "C1",
-                    "threshold": 1
-                }
-            ]
-        },
-        "C15": {
-            "id": "C15",
-            "names": [
-                {
-                    "name": "C15",
-                    "threshold": 1
-                }
-            ]
-        },
-        "C2": {
-            "id": "C2",
-            "names": [
-                {
-                    "name": "C2",
-                    "threshold": 1
-                }
-            ]
-        },
-        "C25": {
-            "id": "C25",
-            "names": [
-                {
-                    "name": "C25",
-                    "threshold": 1
-                }
-            ]
-        },
-        "C3": {
-            "id": "C3",
-            "names": [
-                {
-                    "name": "C3",
-                    "threshold": 1
-                }
-            ]
-        },
-        "C3AIRCROSS": {
-            "id": "C3AIRCROSS",
-            "names": [
-                {
-                    "name": "C3 AIRCROSS",
-                    "threshold": 1
-                }
-            ]
-        },
-        "C3PICASSO": {
-            "id": "C3PICASSO",
-            "names": [
-                {
-                    "name": "C3 PICASSO",
-                    "threshold": 1
-                }
-            ]
-        },
-        "C3PLURIEL": {
-            "id": "C3PLURIEL",
-            "names": [
-                {
-                    "name": "C3 PLURIEL",
-                    "threshold": 1
-                }
-            ]
-        },
-        "C4": {
-            "id": "C4",
-            "names": [
-                {
-                    "name": "C4",
-                    "threshold": 1
-                }
-            ]
-        },
-        "C4AIRCROSS": {
-            "id": "C4AIRCROSS",
-            "names": [
-                {
-                    "name": "C4 AIRCROSS",
-                    "threshold": 1
-                }
-            ]
-        },
-        "C4GRANDPICASSO": {
-            "id": "C4GRANDPICASSO",
-            "names": [
-                {
-                    "name": "C4 GRAND PICASSO",
-                    "threshold": 1
-                }
-            ]
-        },
-        "C4PICASSO": {
-            "id": "C4PICASSO",
-            "names": [
-                {
-                    "name": "C4 PICASSO",
-                    "threshold": 1
-                }
-            ]
-        },
-        "C5": {
-            "id": "C5",
-            "names": [
-                {
-                    "name": "C5",
-                    "threshold": 1
-                }
-            ]
-        },
-        "C5AIRCROSS": {
-            "id": "C5AIRCROSS",
-            "names": [
-                {
-                    "name": "C5 AIRCROSS",
-                    "threshold": 1
-                }
-            ]
-        },
-        "C6": {
-            "id": "C6",
-            "names": [
-                {
-                    "name": "C6",
-                    "threshold": 1
-                }
-            ]
-        },
-        "C8": {
-            "id": "C8",
-            "names": [
-                {
-                    "name": "C8",
-                    "threshold": 1
-                }
-            ]
-        },
-        "CX": {
-            "id": "CX",
-            "names": [
-                {
-                    "name": "CX",
-                    "threshold": 1
-                },
-                {
-                    "name": "ЦX",
-                    "threshold": 1
-                }
-            ]
-        },
-        "DS3": {
-            "id": "DS3",
-            "names": [
-                {
-                    "name": "DS3",
-                    "threshold": 1
-                }
-            ]
-        },
-        "DS4": {
-            "id": "DS4",
-            "names": [
-                {
-                    "name": "DS4",
-                    "threshold": 1
-                }
-            ]
-        },
-        "DS5": {
-            "id": "DS5",
-            "names": [
-                {
-                    "name": "DS5",
-                    "threshold": 1
-                }
-            ]
-        },
-        "EVASION": {
-            "id": "EVASION",
-            "names": [
-                {
-                    "name": "EVASION",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ЕВАСИОН",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "GS/GSA": {
-            "id": "GS/GSA",
-            "names": [
-                {
-                    "name": "GS",
-                    "threshold": 0.95
-                },
-                {
-                    "name": "GSA",
-                    "threshold": 0.95
-                },
-                {
-                    "name": "ГС",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "JUMPER": {
-            "id": "JUMPER",
-            "names": [
-                {
-                    "name": "JUMPER",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ДЖАМПЕР",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "JUMPY": {
-            "id": "JUMPY",
-            "names": [
-                {
-                    "name": "JUMPY",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ДЖАМПИ",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "NEMO": {
-            "id": "NEMO",
-            "names": [
-                {
-                    "name": "NEMO",
-                    "threshold": 0.93
-                },
-                {
-                    "name": "НЕМО",
-                    "threshold": 0.93
-                }
-            ]
-        },
-        "SAXO": {
-            "id": "SAXO",
-            "names": [
-                {
-                    "name": "SAXO",
-                    "threshold": 0.93
-                },
-                {
-                    "name": "САXО",
-                    "threshold": 0.93
-                }
-            ]
-        },
-        "SPACETOURER": {
-            "id": "SPACETOURER",
-            "names": [
-                {
-                    "name": "SPACETOURER",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "СПАЙСТОУРЕР",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "VISA": {
-            "id": "VISA",
-            "names": [
-                {
-                    "name": "VISA",
-                    "threshold": 0.93
-                },
-                {
-                    "name": "ВИСА",
-                    "threshold": 0.93
-                }
-            ]
-        },
-        "XANTIA": {
-            "id": "XANTIA",
-            "names": [
-                {
-                    "name": "XANTIA",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "XАНТИА",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "XM": {
-            "id": "XM",
-            "names": [
-                {
-                    "name": "XM",
-                    "threshold": 1
-                },
-                {
-                    "name": "XМ",
-                    "threshold": 1
-                }
-            ]
-        },
-        "XSARA": {
-            "id": "XSARA",
-            "names": [
-                {
-                    "name": "XSARA",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "XСАРА",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "XSARAPICASSO": {
-            "id": "XSARAPICASSO",
-            "names": [
-                {
-                    "name": "XSARA PICASSO",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "XСАРА ПИКАССО",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "ZX": {
-            "id": "ZX",
-            "names": [
-                {
-                    "name": "ZX",
-                    "threshold": 1
-                },
-                {
-                    "name": "ЗX",
-                    "threshold": 1
-                }
-            ]
-        }
+  "id": "CITROEN",
+  "names": [
+    {
+      "name": "CITROEN",
+      "threshold": 0.85
+    },
+    {
+      "name": "СИТРОЕН",
+      "threshold": 0.87
     }
+  ],
+  "models": {
+    "2CV": {
+      "id": "2CV",
+      "names": [
+        {
+          "name": "2CV",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "5146"
+    },
+    "AX": {
+      "id": "AX",
+      "names": [
+        {
+          "name": "AX",
+          "threshold": 1
+        },
+        {
+          "name": "АX",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "711"
+    },
+    "BERLINGOVP": {
+      "id": "BERLINGOVP",
+      "names": [
+        {
+          "name": "BERLINGO VP",
+          "threshold": 0.85
+        },
+        {
+          "name": "БЕРЛИНГО ВП",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "6179"
+    },
+    "BERLINGOVU": {
+      "id": "BERLINGOVU",
+      "names": [
+        {
+          "name": "BERLINGO VU",
+          "threshold": 0.85
+        },
+        {
+          "name": "БЕРЛИНГО ВУ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "6180"
+    },
+    "BX": {
+      "id": "BX",
+      "names": [
+        {
+          "name": "BX",
+          "threshold": 1
+        },
+        {
+          "name": "БX",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "712"
+    },
+    "CCROSSER": {
+      "id": "CROSSER",
+      "names": [
+        {
+          "name": "CROSSER",
+          "threshold": 0.85
+        },
+        {
+          "name": "КРОССЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "723"
+    },
+    "CELYSEE": {
+      "id": "CELYSEE",
+      "names": [
+        {
+          "name": "C ELYSEE",
+          "threshold": 0.85
+        },
+        {
+          "name": "Ц ЕЛИСИ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "724"
+    },
+    "C1": {
+      "id": "C1",
+      "names": [
+        {
+          "name": "C1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "713"
+    },
+    "C15": {
+      "id": "C15",
+      "names": [
+        {
+          "name": "C15",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1588"
+    },
+    "C2": {
+      "id": "C2",
+      "names": [
+        {
+          "name": "C2",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "714"
+    },
+    "C25": {
+      "id": "C25",
+      "names": [
+        {
+          "name": "C25",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1589"
+    },
+    "C3": {
+      "id": "C3",
+      "names": [
+        {
+          "name": "C3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "715"
+    },
+    "C3AIRCROSS": {
+      "id": "C3AIRCROSS",
+      "names": [
+        {
+          "name": "C3 AIRCROSS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16004"
+    },
+    "C3PICASSO": {
+      "id": "C3PICASSO",
+      "names": [
+        {
+          "name": "C3 PICASSO",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "716"
+    },
+    "C3PLURIEL": {
+      "id": "C3PLURIEL",
+      "names": [
+        {
+          "name": "C3 PLURIEL",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "5147"
+    },
+    "C4": {
+      "id": "C4",
+      "names": [
+        {
+          "name": "C4",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "717"
+    },
+    "C4AIRCROSS": {
+      "id": "C4AIRCROSS",
+      "names": [
+        {
+          "name": "C4 AIRCROSS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "718"
+    },
+    "C4GRANDPICASSO": {
+      "id": "C4GRANDPICASSO",
+      "names": [
+        {
+          "name": "C4 GRAND PICASSO",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "5148"
+    },
+    "C4PICASSO": {
+      "id": "C4PICASSO",
+      "names": [
+        {
+          "name": "C4 PICASSO",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "719"
+    },
+    "C5": {
+      "id": "C5",
+      "names": [
+        {
+          "name": "C5",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "720"
+    },
+    "C5AIRCROSS": {
+      "id": "C5AIRCROSS",
+      "names": [
+        {
+          "name": "C5 AIRCROSS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17273"
+    },
+    "C6": {
+      "id": "C6",
+      "names": [
+        {
+          "name": "C6",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "721"
+    },
+    "C8": {
+      "id": "C8",
+      "names": [
+        {
+          "name": "C8",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "722"
+    },
+    "CX": {
+      "id": "CX",
+      "names": [
+        {
+          "name": "CX",
+          "threshold": 1
+        },
+        {
+          "name": "ЦX",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "725"
+    },
+    "DS3": {
+      "id": "DS3",
+      "names": [
+        {
+          "name": "DS3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "726"
+    },
+    "DS4": {
+      "id": "DS4",
+      "names": [
+        {
+          "name": "DS4",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "727"
+    },
+    "DS5": {
+      "id": "DS5",
+      "names": [
+        {
+          "name": "DS5",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "728"
+    },
+    "EVASION": {
+      "id": "EVASION",
+      "names": [
+        {
+          "name": "EVASION",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЕВАСИОН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "730"
+    },
+    "GS/GSA": {
+      "id": "GS/GSA",
+      "names": [
+        {
+          "name": "GS",
+          "threshold": 0.95
+        },
+        {
+          "name": "GSA",
+          "threshold": 0.95
+        },
+        {
+          "name": "ГС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "731"
+    },
+    "JUMPER": {
+      "id": "JUMPER",
+      "names": [
+        {
+          "name": "JUMPER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДЖАМПЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1591"
+    },
+    "JUMPY": {
+      "id": "JUMPY",
+      "names": [
+        {
+          "name": "JUMPY",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДЖАМПИ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1592"
+    },
+    "NEMO": {
+      "id": "NEMO",
+      "names": [
+        {
+          "name": "NEMO",
+          "threshold": 0.93
+        },
+        {
+          "name": "НЕМО",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "5149"
+    },
+    "SAXO": {
+      "id": "SAXO",
+      "names": [
+        {
+          "name": "SAXO",
+          "threshold": 0.93
+        },
+        {
+          "name": "САXО",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "733"
+    },
+    "SPACETOURER": {
+      "id": "SPACETOURER",
+      "names": [
+        {
+          "name": "SPACETOURER",
+          "threshold": 0.85
+        },
+        {
+          "name": "СПАЙСТОУРЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "15321"
+    },
+    "VISA": {
+      "id": "VISA",
+      "names": [
+        {
+          "name": "VISA",
+          "threshold": 0.93
+        },
+        {
+          "name": "ВИСА",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "734"
+    },
+    "XANTIA": {
+      "id": "XANTIA",
+      "names": [
+        {
+          "name": "XANTIA",
+          "threshold": 0.85
+        },
+        {
+          "name": "XАНТИА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "735"
+    },
+    "XM": {
+      "id": "XM",
+      "names": [
+        {
+          "name": "XM",
+          "threshold": 1
+        },
+        {
+          "name": "XМ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "736"
+    },
+    "XSARA": {
+      "id": "XSARA",
+      "names": [
+        {
+          "name": "XSARA",
+          "threshold": 0.85
+        },
+        {
+          "name": "XСАРА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "737"
+    },
+    "XSARAPICASSO": {
+      "id": "XSARAPICASSO",
+      "names": [
+        {
+          "name": "XSARA PICASSO",
+          "threshold": 0.85
+        },
+        {
+          "name": "XСАРА ПИКАССО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "738"
+    },
+    "ZX": {
+      "id": "ZX",
+      "names": [
+        {
+          "name": "ZX",
+          "threshold": 1
+        },
+        {
+          "name": "ЗX",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "739"
+    }
+  }
 }

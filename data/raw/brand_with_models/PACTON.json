@@ -1,1 +1,75 @@
-{"id": "PACTON", "names": [{"name": "PACTON", "threshold": 0.85}, {"name": "ПАЦТОН", "threshold": 0.85}], "models": {"3139": {"id": "3139", "names": [{"name": "3139", "threshold": 1}]}, "3142": {"id": "3142", "names": [{"name": "3142", "threshold": 1}]}, "T3001": {"id": "T3001", "names": [{"name": "T3 001", "threshold": 1}]}, "TXD339": {"id": "TXD339", "names": [{"name": "TXD 339", "threshold": 1}]}, "TXL339": {"id": "TXL339", "names": [{"name": "TXL 339", "threshold": 1}]}, "TXZ339": {"id": "TXZ339", "names": [{"name": "TXZ 339", "threshold": 1}]}}}
+{
+  "id": "PACTON",
+  "names": [
+    {
+      "name": "PACTON",
+      "threshold": 0.85
+    },
+    {
+      "name": "ПАЦТОН",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "3139": {
+      "id": "3139",
+      "names": [
+        {
+          "name": "3139",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3032"
+    },
+    "3142": {
+      "id": "3142",
+      "names": [
+        {
+          "name": "3142",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3033"
+    },
+    "T3001": {
+      "id": "T3001",
+      "names": [
+        {
+          "name": "T3 001",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3035"
+    },
+    "TXD339": {
+      "id": "TXD339",
+      "names": [
+        {
+          "name": "TXD 339",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3036"
+    },
+    "TXL339": {
+      "id": "TXL339",
+      "names": [
+        {
+          "name": "TXL 339",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3037"
+    },
+    "TXZ339": {
+      "id": "TXZ339",
+      "names": [
+        {
+          "name": "TXZ 339",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3038"
+    }
+  }
+}

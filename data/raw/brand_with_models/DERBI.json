@@ -1,1 +1,39 @@
-{"id": "DERBI", "names": [{"name": "DERBI", "threshold": 0.85}, {"name": "ДЕРБИ", "threshold": 0.85}], "models": {"GP1": {"id": "GP1", "names": [{"name": "GP 1", "threshold": 1}]}, "MULHACEN": {"id": "MULHACEN", "names": [{"name": "MULHACEN", "threshold": 0.85}, {"name": "МУЛХАЦЕН", "threshold": 0.85}]}}}
+{
+  "id": "DERBI",
+  "names": [
+    {
+      "name": "DERBI",
+      "threshold": 0.85
+    },
+    {
+      "name": "ДЕРБИ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "GP1": {
+      "id": "GP1",
+      "names": [
+        {
+          "name": "GP 1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2710"
+    },
+    "MULHACEN": {
+      "id": "MULHACEN",
+      "names": [
+        {
+          "name": "MULHACEN",
+          "threshold": 0.85
+        },
+        {
+          "name": "МУЛХАЦЕН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2711"
+    }
+  }
+}

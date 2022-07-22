@@ -1,37 +1,39 @@
 {
-    "id": "BELAZ",
-    "names": [
-        {
-            "name": "BELAZ",
-            "threshold": 0.95
-        },
-        {
-            "name": "БЕЛАЗ",
-            "threshold": 0.95
-        }
-    ],
-    "models": {
-        "81201": {
-            "id": "81201",
-            "names": [
-                {
-                    "name": "81201",
-                    "threshold": 1
-                }
-            ]
-        },
-        "LUBLIN": {
-            "id": "LUBLIN",
-            "names": [
-                {
-                    "name": "LUBLIN",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ЛУБЛИН",
-                    "threshold": 0.85
-                }
-            ]
-        }
+  "id": "BELAZ",
+  "names": [
+    {
+      "name": "BELAZ",
+      "threshold": 0.95
+    },
+    {
+      "name": "БЕЛАЗ",
+      "threshold": 0.95
     }
+  ],
+  "models": {
+    "81201": {
+      "id": "81201",
+      "names": [
+        {
+          "name": "81201",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "16093"
+    },
+    "LUBLIN": {
+      "id": "LUBLIN",
+      "names": [
+        {
+          "name": "LUBLIN",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЛУБЛИН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1502"
+    }
+  }
 }

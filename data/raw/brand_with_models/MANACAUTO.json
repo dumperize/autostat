@@ -1,1 +1,45 @@
-{"id": "MANACAUTO", "names": [{"name": "MANAC AUTO", "threshold": 0.85}, {"name": "МАНАЦ АУТО", "threshold": 0.85}], "models": {"946831": {"id": "946831", "names": [{"name": "946831", "threshold": 1}]}, "946832": {"id": "946832", "names": [{"name": "946832", "threshold": 1}]}, "946833": {"id": "946833", "names": [{"name": "946833", "threshold": 1}]}}}
+{
+  "id": "MANACAUTO",
+  "names": [
+    {
+      "name": "MANAC AUTO",
+      "threshold": 0.85
+    },
+    {
+      "name": "МАНАЦ АУТО",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "946831": {
+      "id": "946831",
+      "names": [
+        {
+          "name": "946831",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "13870"
+    },
+    "946832": {
+      "id": "946832",
+      "names": [
+        {
+          "name": "946832",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "13871"
+    },
+    "946833": {
+      "id": "946833",
+      "names": [
+        {
+          "name": "946833",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "13872"
+    }
+  }
+}

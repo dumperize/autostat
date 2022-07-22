@@ -1,1 +1,25 @@
-{"id": "ASP", "names": [{"name": "ASP", "threshold": 0.97}, {"name": "АСП", "threshold": 0.97}], "models": {"25": {"id": "25", "names": [{"name": "25", "threshold": 1}]}}}
+{
+  "id": "ASP",
+  "names": [
+    {
+      "name": "ASP",
+      "threshold": 0.97
+    },
+    {
+      "name": "АСП",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "25": {
+      "id": "25",
+      "names": [
+        {
+          "name": "25",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3255"
+    }
+  }
+}

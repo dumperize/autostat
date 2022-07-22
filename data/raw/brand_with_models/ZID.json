@@ -1,1 +1,57 @@
-{"id": "ZID", "names": [{"name": "ZID", "threshold": 0.97}, {"name": "ЗИД", "threshold": 0.97}], "models": {"FERMER": {"id": "FERMER", "names": [{"name": "FERMER", "threshold": 0.85}, {"name": "ФЕРМЕР", "threshold": 0.85}]}, "SOVA": {"id": "SOVA", "names": [{"name": "SOVA", "threshold": 0.93}, {"name": "СОВА", "threshold": 0.93}]}, "VOSHOD": {"id": "VOSHOD", "names": [{"name": "VOSHOD", "threshold": 0.85}, {"name": "ВОСХОД", "threshold": 0.85}]}}}
+{
+  "id": "ZID",
+  "names": [
+    {
+      "name": "ZID",
+      "threshold": 0.97
+    },
+    {
+      "name": "ЗИД",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "FERMER": {
+      "id": "FERMER",
+      "names": [
+        {
+          "name": "FERMER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ФЕРМЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2870"
+    },
+    "SOVA": {
+      "id": "SOVA",
+      "names": [
+        {
+          "name": "SOVA",
+          "threshold": 0.93
+        },
+        {
+          "name": "СОВА",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "2873"
+    },
+    "VOSHOD": {
+      "id": "VOSHOD",
+      "names": [
+        {
+          "name": "VOSHOD",
+          "threshold": 0.85
+        },
+        {
+          "name": "ВОСХОД",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2874"
+    }
+  }
+}

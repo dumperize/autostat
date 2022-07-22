@@ -1,1 +1,75 @@
-{"id": "MARZ", "names": [{"name": "MARZ", "threshold": 0.93}, {"name": "МАРЗ", "threshold": 0.93}], "models": {"42191": {"id": "42191", "names": [{"name": "42191", "threshold": 1}]}, "4219101": {"id": "4219101", "names": [{"name": "42191 01", "threshold": 1}]}, "425101": {"id": "425101", "names": [{"name": "4251 01", "threshold": 1}]}, "5266": {"id": "5266", "names": [{"name": "5266", "threshold": 1}]}, "5277": {"id": "5277", "names": [{"name": "5277", "threshold": 1}]}, "527701": {"id": "527701", "names": [{"name": "5277 01", "threshold": 1}]}}}
+{
+  "id": "MARZ",
+  "names": [
+    {
+      "name": "MARZ",
+      "threshold": 0.93
+    },
+    {
+      "name": "МАРЗ",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "42191": {
+      "id": "42191",
+      "names": [
+        {
+          "name": "42191",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2419"
+    },
+    "4219101": {
+      "id": "4219101",
+      "names": [
+        {
+          "name": "42191 01",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2420"
+    },
+    "425101": {
+      "id": "425101",
+      "names": [
+        {
+          "name": "4251 01",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2421"
+    },
+    "5266": {
+      "id": "5266",
+      "names": [
+        {
+          "name": "5266",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2422"
+    },
+    "5277": {
+      "id": "5277",
+      "names": [
+        {
+          "name": "5277",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2423"
+    },
+    "527701": {
+      "id": "527701",
+      "names": [
+        {
+          "name": "5277 01",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2424"
+    }
+  }
+}

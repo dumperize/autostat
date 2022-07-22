@@ -1,1 +1,45 @@
-{"id": "LOHR", "names": [{"name": "LOHR", "threshold": 0.93}, {"name": "ЛОХР", "threshold": 0.93}], "models": {"C2H99M": {"id": "C2H99M", "names": [{"name": "C2H99M", "threshold": 1}]}, "EUROLOHR100": {"id": "EUROLOHR100", "names": [{"name": "EUROLOHR 100", "threshold": 1}]}, "S2M52X": {"id": "S2M52X", "names": [{"name": "S2M52X", "threshold": 1}]}}}
+{
+  "id": "LOHR",
+  "names": [
+    {
+      "name": "LOHR",
+      "threshold": 0.93
+    },
+    {
+      "name": "ЛОХР",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "C2H99M": {
+      "id": "C2H99M",
+      "names": [
+        {
+          "name": "C2H99M",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2931"
+    },
+    "EUROLOHR100": {
+      "id": "EUROLOHR100",
+      "names": [
+        {
+          "name": "EUROLOHR 100",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2933"
+    },
+    "S2M52X": {
+      "id": "S2M52X",
+      "names": [
+        {
+          "name": "S2M52X",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2936"
+    }
+  }
+}

@@ -1,1 +1,247 @@
-{"id": "IRBIS", "names": [{"name": "IRBIS", "threshold": 0.85}, {"name": "ИРБИС", "threshold": 0.85}], "models": {"ALPHA": {"id": "ALPHA", "names": [{"name": "ALPHA", "threshold": 0.85}, {"name": "АЛПХА", "threshold": 0.85}]}, "BWS": {"id": "BWS", "names": [{"name": "BWS", "threshold": 0.97}, {"name": "БWС", "threshold": 0.97}]}, "GARPIA": {"id": "GARPIA", "names": [{"name": "GARPIA", "threshold": 0.85}, {"name": "ГАРПИА", "threshold": 0.85}]}, "GR": {"id": "GR", "names": [{"name": "GR", "threshold": 1}, {"name": "ГР", "threshold": 1}]}, "GRACE": {"id": "GRACE", "names": [{"name": "GRACE", "threshold": 0.85}, {"name": "ГРАЦЕ", "threshold": 0.85}]}, "GS": {"id": "GS", "names": [{"name": "GS", "threshold": 1}, {"name": "ГС", "threshold": 1}]}, "GS200": {"id": "GS200", "names": [{"name": "GS200", "threshold": 1}]}, "IROKEZ": {"id": "IROKEZ", "names": [{"name": "IROKEZ", "threshold": 0.85}, {"name": "ИРОКЕЗ", "threshold": 0.85}]}, "LXGTR": {"id": "LXGTR", "names": [{"name": "LX GTR", "threshold": 0.85}, {"name": "ЛX ГТР", "threshold": 0.85}]}, "NIRVANA": {"id": "NIRVANA", "names": [{"name": "NIRVANA", "threshold": 0.85}, {"name": "НИРВАНА", "threshold": 0.85}]}, "PROMETEY": {"id": "PROMETEY", "names": [{"name": "PROMETEY", "threshold": 0.85}, {"name": "ПРОМЕТЕЫ", "threshold": 0.85}]}, "RZR": {"id": "RZR", "names": [{"name": "RZR", "threshold": 0.97}, {"name": "РЗР", "threshold": 0.97}]}, "TTR250": {"id": "TTR250", "names": [{"name": "TTR250", "threshold": 1}]}, "TTR250R": {"id": "TTR250R", "names": [{"name": "TTR250R", "threshold": 1}]}, "VIRAGO": {"id": "VIRAGO", "names": [{"name": "VIRAGO", "threshold": 0.85}, {"name": "ВИРАГО", "threshold": 0.85}]}, "VJ": {"id": "VJ", "names": [{"name": "VJ", "threshold": 1}, {"name": "ВЙ", "threshold": 1}]}, "VR1": {"id": "VR1", "names": [{"name": "VR 1", "threshold": 1}]}, "XR250R": {"id": "XR250R", "names": [{"name": "XR250R", "threshold": 1}]}}}
+{
+  "id": "IRBIS",
+  "names": [
+    {
+      "name": "IRBIS",
+      "threshold": 0.85
+    },
+    {
+      "name": "ИРБИС",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "ALPHA": {
+      "id": "ALPHA",
+      "names": [
+        {
+          "name": "ALPHA",
+          "threshold": 0.85
+        },
+        {
+          "name": "АЛПХА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "10892"
+    },
+    "BWS": {
+      "id": "BWS",
+      "names": [
+        {
+          "name": "BWS",
+          "threshold": 0.97
+        },
+        {
+          "name": "БWС",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "8827"
+    },
+    "GARPIA": {
+      "id": "GARPIA",
+      "names": [
+        {
+          "name": "GARPIA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ГАРПИА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8828"
+    },
+    "GR": {
+      "id": "GR",
+      "names": [
+        {
+          "name": "GR",
+          "threshold": 1
+        },
+        {
+          "name": "ГР",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8829"
+    },
+    "GRACE": {
+      "id": "GRACE",
+      "names": [
+        {
+          "name": "GRACE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ГРАЦЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "10893"
+    },
+    "GS": {
+      "id": "GS",
+      "names": [
+        {
+          "name": "GS",
+          "threshold": 1
+        },
+        {
+          "name": "ГС",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10896"
+    },
+    "GS200": {
+      "id": "GS200",
+      "names": [
+        {
+          "name": "GS200",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10898"
+    },
+    "IROKEZ": {
+      "id": "IROKEZ",
+      "names": [
+        {
+          "name": "IROKEZ",
+          "threshold": 0.85
+        },
+        {
+          "name": "ИРОКЕЗ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "10900"
+    },
+    "LXGTR": {
+      "id": "LXGTR",
+      "names": [
+        {
+          "name": "LX GTR",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЛX ГТР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "10901"
+    },
+    "NIRVANA": {
+      "id": "NIRVANA",
+      "names": [
+        {
+          "name": "NIRVANA",
+          "threshold": 0.85
+        },
+        {
+          "name": "НИРВАНА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8830"
+    },
+    "PROMETEY": {
+      "id": "PROMETEY",
+      "names": [
+        {
+          "name": "PROMETEY",
+          "threshold": 0.85
+        },
+        {
+          "name": "ПРОМЕТЕЙ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8831"
+    },
+    "RZR": {
+      "id": "RZR",
+      "names": [
+        {
+          "name": "RZR",
+          "threshold": 0.97
+        },
+        {
+          "name": "РЗР",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "8832"
+    },
+    "TTR250": {
+      "id": "TTR250",
+      "names": [
+        {
+          "name": "TTR250",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10903"
+    },
+    "TTR250R": {
+      "id": "TTR250R",
+      "names": [
+        {
+          "name": "TTR250R",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10904"
+    },
+    "VIRAGO": {
+      "id": "VIRAGO",
+      "names": [
+        {
+          "name": "VIRAGO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ВИРАГО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8833"
+    },
+    "VJ": {
+      "id": "VJ",
+      "names": [
+        {
+          "name": "VJ",
+          "threshold": 1
+        },
+        {
+          "name": "ВЙ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10905"
+    },
+    "VR1": {
+      "id": "VR1",
+      "names": [
+        {
+          "name": "VR 1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8834"
+    },
+    "XR250R": {
+      "id": "XR250R",
+      "names": [
+        {
+          "name": "XR250R",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8835"
+    }
+  }
+}

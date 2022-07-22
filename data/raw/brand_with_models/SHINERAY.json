@@ -1,42 +1,45 @@
 {
-    "id": "SHINERAY",
-    "names": [
-        {
-            "name": "SHINERAY",
-            "threshold": 0.93
-        },
-        {
-            "name": "СХИНЕРЕЙ",
-            "threshold": 0.95
-        }
-    ],
-    "models": {
-        "XY125": {
-            "id": "XY125",
-            "names": [
-                {
-                    "name": "XY125",
-                    "threshold": 1
-                }
-            ]
-        },
-        "XY250": {
-            "id": "XY250",
-            "names": [
-                {
-                    "name": "XY250",
-                    "threshold": 1
-                }
-            ]
-        },
-        "XY350": {
-            "id": "XY350",
-            "names": [
-                {
-                    "name": "XY350",
-                    "threshold": 1
-                }
-            ]
-        }
+  "id": "SHINERAY",
+  "names": [
+    {
+      "name": "SHINERAY",
+      "threshold": 0.93
+    },
+    {
+      "name": "СХИНЕРЕЙ",
+      "threshold": 0.95
     }
+  ],
+  "models": {
+    "XY125": {
+      "id": "XY125",
+      "names": [
+        {
+          "name": "XY125",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8921"
+    },
+    "XY250": {
+      "id": "XY250",
+      "names": [
+        {
+          "name": "XY250",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "5068"
+    },
+    "XY350": {
+      "id": "XY350",
+      "names": [
+        {
+          "name": "XY350",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8922"
+    }
+  }
 }

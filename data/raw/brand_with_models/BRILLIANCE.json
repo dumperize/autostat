@@ -1,1 +1,75 @@
-{"id": "BRILLIANCE", "names": [{"name": "BRILLIANCE", "threshold": 0.85}, {"name": "БРИЛЛИАНЦЕ", "threshold": 0.85}], "models": {"H230": {"id": "H230", "names": [{"name": "H230", "threshold": 1}]}, "H530": {"id": "H530", "names": [{"name": "H530", "threshold": 1}]}, "M1": {"id": "M1", "names": [{"name": "M1", "threshold": 1}]}, "M2": {"id": "M2", "names": [{"name": "M2", "threshold": 1}]}, "V3": {"id": "V3", "names": [{"name": "V3", "threshold": 1}]}, "V5": {"id": "V5", "names": [{"name": "V5", "threshold": 1}]}}}
+{
+  "id": "BRILLIANCE",
+  "names": [
+    {
+      "name": "BRILLIANCE",
+      "threshold": 0.85
+    },
+    {
+      "name": "БРИЛЛИАНЦЕ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "H230": {
+      "id": "H230",
+      "names": [
+        {
+          "name": "H230",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "14893"
+    },
+    "H530": {
+      "id": "H530",
+      "names": [
+        {
+          "name": "H530",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "9015"
+    },
+    "M1": {
+      "id": "M1",
+      "names": [
+        {
+          "name": "M1",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "469"
+    },
+    "M2": {
+      "id": "M2",
+      "names": [
+        {
+          "name": "M2",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "470"
+    },
+    "V3": {
+      "id": "V3",
+      "names": [
+        {
+          "name": "V3",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17277"
+    },
+    "V5": {
+      "id": "V5",
+      "names": [
+        {
+          "name": "V5",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8698"
+    }
+  }
+}

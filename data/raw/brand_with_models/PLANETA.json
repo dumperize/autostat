@@ -1,1 +1,65 @@
-{"id": "PLANETA", "names": [{"name": "PLANETA", "threshold": 0.85}, {"name": "ПЛАНЕТА", "threshold": 0.85}], "models": {"852900": {"id": "852900", "names": [{"name": "852900", "threshold": 1}]}, "852901": {"id": "852901", "names": [{"name": "852901", "threshold": 1}]}, "852910": {"id": "852910", "names": [{"name": "852910", "threshold": 1}]}, "852911A": {"id": "852911A", "names": [{"name": "852911A", "threshold": 1}]}, "852911B": {"id": "852911B", "names": [{"name": "852911B", "threshold": 1}]}}}
+{
+  "id": "PLANETA",
+  "names": [
+    {
+      "name": "PLANETA",
+      "threshold": 0.85
+    },
+    {
+      "name": "ПЛАНЕТА",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "852900": {
+      "id": "852900",
+      "names": [
+        {
+          "name": "852900",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "13810"
+    },
+    "852901": {
+      "id": "852901",
+      "names": [
+        {
+          "name": "852901",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "13857"
+    },
+    "852910": {
+      "id": "852910",
+      "names": [
+        {
+          "name": "852910",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15751"
+    },
+    "852911A": {
+      "id": "852911A",
+      "names": [
+        {
+          "name": "852911A",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "13858"
+    },
+    "852911B": {
+      "id": "852911B",
+      "names": [
+        {
+          "name": "852911B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15752"
+    }
+  }
+}

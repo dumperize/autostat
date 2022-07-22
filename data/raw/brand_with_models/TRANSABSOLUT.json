@@ -1,1 +1,45 @@
-{"id": "TRANSABSOLUT", "names": [{"name": "TRANS ABSOLUT", "threshold": 0.85}, {"name": "ТРАНС АБСОЛУТ", "threshold": 0.85}], "models": {"843111": {"id": "843111", "names": [{"name": "843111", "threshold": 1}]}, "843112": {"id": "843112", "names": [{"name": "843112", "threshold": 1}]}, "843113": {"id": "843113", "names": [{"name": "843113", "threshold": 1}]}}}
+{
+  "id": "TRANSABSOLUT",
+  "names": [
+    {
+      "name": "TRANS ABSOLUT",
+      "threshold": 0.85
+    },
+    {
+      "name": "ТРАНС АБСОЛЮТ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "843111": {
+      "id": "843111",
+      "names": [
+        {
+          "name": "843111",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12754"
+    },
+    "843112": {
+      "id": "843112",
+      "names": [
+        {
+          "name": "843112",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12755"
+    },
+    "843113": {
+      "id": "843113",
+      "names": [
+        {
+          "name": "843113",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12756"
+    }
+  }
+}

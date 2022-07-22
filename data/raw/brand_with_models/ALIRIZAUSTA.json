@@ -1,46 +1,49 @@
 {
-    "id": "ALIRIZAUSTA",
-    "names": [
-        {
-            "name": "ALI RIZA USTA",
-            "threshold": 0.85
-        },
-        {
-            "name": "АЛИ РИЗА УСТА",
-            "threshold": 0.85
-        }
-    ],
-    "models": {
-        "A3TY": {
-            "id": "A3TY",
-            "names": [
-                {
-                    "name": "A3TY",
-                    "threshold": 1
-                }
-            ]
-        },
-        "A3YY": {
-            "id": "A3YY",
-            "names": [
-                {
-                    "name": "A3YY",
-                    "threshold": 1
-                }
-            ]
-        },
-        "ARUMB": {
-            "id": "ARUMB",
-            "names": [
-                {
-                    "name": "ARU MB",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "АРУ МБ",
-                    "threshold": 0.85
-                }
-            ]
-        }
+  "id": "ALIRIZAUSTA",
+  "names": [
+    {
+      "name": "ALI RIZA USTA",
+      "threshold": 0.85
+    },
+    {
+      "name": "АЛИ РИЗА УСТА",
+      "threshold": 0.85
     }
+  ],
+  "models": {
+    "A3TY": {
+      "id": "A3TY",
+      "names": [
+        {
+          "name": "A3TY",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "13811"
+    },
+    "A3YY": {
+      "id": "A3YY",
+      "names": [
+        {
+          "name": "A3YY",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15619"
+    },
+    "ARUMB": {
+      "id": "ARUMB",
+      "names": [
+        {
+          "name": "ARU MB",
+          "threshold": 0.85
+        },
+        {
+          "name": "АРУ МБ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "13812"
+    }
+  }
 }

@@ -1,1 +1,43 @@
-{"id": "CHITUMA", "names": [{"name": "CHITUMA", "threshold": 0.85}, {"name": "ЦХИТУМА", "threshold": 0.85}], "models": {"BRIARSTREETFIRE": {"id": "BRIARSTREETFIRE", "names": [{"name": "BRIAR STREETFIRE", "threshold": 0.85}, {"name": "БРИАР СТРЕЕТФИРЕ", "threshold": 0.85}]}, "FALCONSPEEDFIRE": {"id": "FALCONSPEEDFIRE", "names": [{"name": "FALCON SPEEDFIRE", "threshold": 0.85}, {"name": "ФАЛЦОН СПЕЕДФИРЕ", "threshold": 0.85}]}}}
+{
+  "id": "CHITUMA",
+  "names": [
+    {
+      "name": "CHITUMA",
+      "threshold": 0.85
+    },
+    {
+      "name": "ЦХИТУМА",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "BRIARSTREETFIRE": {
+      "id": "BRIARSTREETFIRE",
+      "names": [
+        {
+          "name": "BRIAR STREETFIRE",
+          "threshold": 0.85
+        },
+        {
+          "name": "БРИАР СТРЕЕТФИРЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "10874"
+    },
+    "FALCONSPEEDFIRE": {
+      "id": "FALCONSPEEDFIRE",
+      "names": [
+        {
+          "name": "FALCON SPEEDFIRE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ФАЛЦОН СПЕЕДФИРЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "11949"
+    }
+  }
+}

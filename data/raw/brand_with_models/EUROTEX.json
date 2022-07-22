@@ -1,1 +1,45 @@
-{"id": "EUROTEX", "names": [{"name": "EUROTEX", "threshold": 0.85}, {"name": "ЕУРОТЕX", "threshold": 0.85}], "models": {"GW125": {"id": "GW125", "names": [{"name": "GW125", "threshold": 1}]}, "GW150": {"id": "GW150", "names": [{"name": "GW150", "threshold": 1}]}, "GW200": {"id": "GW200", "names": [{"name": "GW200", "threshold": 1}]}}}
+{
+  "id": "EUROTEX",
+  "names": [
+    {
+      "name": "EUROTEX",
+      "threshold": 0.85
+    },
+    {
+      "name": "ЕУРОТЕX",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "GW125": {
+      "id": "GW125",
+      "names": [
+        {
+          "name": "GW125",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8796"
+    },
+    "GW150": {
+      "id": "GW150",
+      "names": [
+        {
+          "name": "GW150",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8797"
+    },
+    "GW200": {
+      "id": "GW200",
+      "names": [
+        {
+          "name": "GW200",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8798"
+    }
+  }
+}

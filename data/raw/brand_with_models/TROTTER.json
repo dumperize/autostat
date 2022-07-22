@@ -1,1 +1,35 @@
-{"id": "TROTTER", "names": [{"name": "TROTTER", "threshold": 0.85}, {"name": "ТРОТТЕР", "threshold": 0.85}], "models": {"954110": {"id": "954110", "names": [{"name": "9541 10", "threshold": 1}]}, "966010": {"id": "966010", "names": [{"name": "9660 10", "threshold": 1}]}}}
+{
+  "id": "TROTTER",
+  "names": [
+    {
+      "name": "TROTTER",
+      "threshold": 0.85
+    },
+    {
+      "name": "ТРОТТЕР",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "954110": {
+      "id": "954110",
+      "names": [
+        {
+          "name": "9541 10",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10402"
+    },
+    "966010": {
+      "id": "966010",
+      "names": [
+        {
+          "name": "9660 10",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10403"
+    }
+  }
+}

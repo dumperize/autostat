@@ -1,1 +1,115 @@
-{"id": "VENTO", "names": [{"name": "VENTO", "threshold": 0.85}, {"name": "ВЕНТО", "threshold": 0.85}], "models": {"DF150": {"id": "DF150", "names": [{"name": "DF150", "threshold": 1}]}, "GLADIATOR": {"id": "GLADIATOR", "names": [{"name": "GLADIATOR", "threshold": 0.85}, {"name": "ГЛАДИАТОР", "threshold": 0.85}]}, "MOUNTRACK": {"id": "MOUNTRACK", "names": [{"name": "MOUNTRACK", "threshold": 0.85}, {"name": "МОУНТРАЦК", "threshold": 0.85}]}, "PHANTERA": {"id": "PHANTERA", "names": [{"name": "PHANTERA", "threshold": 0.85}, {"name": "ПХАНТЕРА", "threshold": 0.85}]}, "PHANTOMR4I": {"id": "PHANTOMR4I", "names": [{"name": "PHANTOM R4I", "threshold": 1}]}, "RANGER2": {"id": "RANGER2", "names": [{"name": "RANGER 2", "threshold": 1}]}, "VERSO": {"id": "VERSO", "names": [{"name": "VERSO", "threshold": 0.85}, {"name": "ВЕРСО", "threshold": 0.85}]}, "WORKMAN": {"id": "WORKMAN", "names": [{"name": "WORKMAN", "threshold": 0.85}, {"name": "WОРКМАН", "threshold": 0.85}]}}}
+{
+  "id": "VENTO",
+  "names": [
+    {
+      "name": "VENTO",
+      "threshold": 0.85
+    },
+    {
+      "name": "ВЕНТО",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "DF150": {
+      "id": "DF150",
+      "names": [
+        {
+          "name": "DF150",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8940"
+    },
+    "GLADIATOR": {
+      "id": "GLADIATOR",
+      "names": [
+        {
+          "name": "GLADIATOR",
+          "threshold": 0.85
+        },
+        {
+          "name": "ГЛАДИАТОР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8941"
+    },
+    "MOUNTRACK": {
+      "id": "MOUNTRACK",
+      "names": [
+        {
+          "name": "MOUNTRACK",
+          "threshold": 0.85
+        },
+        {
+          "name": "МОУНТРАЦК",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8943"
+    },
+    "PHANTERA": {
+      "id": "PHANTERA",
+      "names": [
+        {
+          "name": "PHANTERA",
+          "threshold": 0.85
+        },
+        {
+          "name": "ПХАНТЕРА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "9001"
+    },
+    "PHANTOMR4I": {
+      "id": "PHANTOMR4I",
+      "names": [
+        {
+          "name": "PHANTOM R4I",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8946"
+    },
+    "RANGER2": {
+      "id": "RANGER2",
+      "names": [
+        {
+          "name": "RANGER 2",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8947"
+    },
+    "VERSO": {
+      "id": "VERSO",
+      "names": [
+        {
+          "name": "VERSO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ВЕРСО",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8948"
+    },
+    "WORKMAN": {
+      "id": "WORKMAN",
+      "names": [
+        {
+          "name": "WORKMAN",
+          "threshold": 0.85
+        },
+        {
+          "name": "WОРКМАН",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "8949"
+    }
+  }
+}

@@ -1,1 +1,29 @@
-{"id": "HYOSUNG", "names": [{"name": "HYOSUNG", "threshold": 0.85}, {"name": "ХЫОСУНГ", "threshold": 0.85}], "models": {"GV": {"id": "GV", "names": [{"name": "GV", "threshold": 1}, {"name": "ГВ", "threshold": 1}]}}}
+{
+  "id": "HYOSUNG",
+  "names": [
+    {
+      "name": "HYOSUNG",
+      "threshold": 0.85
+    },
+    {
+      "name": "ХОСУНГ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "GV": {
+      "id": "GV",
+      "names": [
+        {
+          "name": "GV",
+          "threshold": 1
+        },
+        {
+          "name": "ГВ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "6425"
+    }
+  }
+}

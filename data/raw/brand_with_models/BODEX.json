@@ -1,1 +1,25 @@
-{"id": "BODEX", "names": [{"name": "BODEX", "threshold": 0.85}, {"name": "БОДЕX", "threshold": 0.85}], "models": {"KIS3WS": {"id": "KIS3WS", "names": [{"name": "KIS 3WS", "threshold": 1}]}}}
+{
+  "id": "BODEX",
+  "names": [
+    {
+      "name": "BODEX",
+      "threshold": 0.85
+    },
+    {
+      "name": "БОДЕX",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "KIS3WS": {
+      "id": "KIS3WS",
+      "names": [
+        {
+          "name": "KIS 3WS",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15450"
+    }
+  }
+}

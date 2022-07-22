@@ -1,1 +1,25 @@
-{"id": "MARS", "names": [{"name": "MARS", "threshold": 0.93}, {"name": "МАРС", "threshold": 0.93}], "models": {"DF150": {"id": "DF150", "names": [{"name": "DF150", "threshold": 1}]}}}
+{
+  "id": "MARS",
+  "names": [
+    {
+      "name": "MARS",
+      "threshold": 0.93
+    },
+    {
+      "name": "МАРС",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "DF150": {
+      "id": "DF150",
+      "names": [
+        {
+          "name": "DF150",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8866"
+    }
+  }
+}

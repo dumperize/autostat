@@ -1,1 +1,373 @@
-{"id": "GAZ", "names": [{"name": "GAZ", "threshold": 0.97}, {"name": "ГАЗ", "threshold": 0.97}], "models": {"14": {"id": "14", "names": [{"name": "14", "threshold": 1}]}, "1731": {"id": "1731", "names": [{"name": "1731", "threshold": 1}]}, "2217": {"id": "2217", "names": [{"name": "2217", "threshold": 1}]}, "2310": {"id": "2310", "names": [{"name": "2310", "threshold": 1}]}, "2330": {"id": "2330", "names": [{"name": "2330", "threshold": 1}]}, "24": {"id": "24", "names": [{"name": "24", "threshold": 1}]}, "2705": {"id": "2705", "names": [{"name": "2705", "threshold": 1}]}, "2752": {"id": "2752", "names": [{"name": "2752", "threshold": 1}]}, "3102": {"id": "3102", "names": [{"name": "3102", "threshold": 1}]}, "3110": {"id": "3110", "names": [{"name": "3110", "threshold": 1}]}, "3111": {"id": "3111", "names": [{"name": "3111", "threshold": 1}]}, "3221": {"id": "3221", "names": [{"name": "3221", "threshold": 1}]}, "3302": {"id": "3302", "names": [{"name": "3302", "threshold": 1}]}, "3306": {"id": "3306", "names": [{"name": "3306", "threshold": 1}]}, "3307": {"id": "3307", "names": [{"name": "3307", "threshold": 1}]}, "3308": {"id": "3308", "names": [{"name": "3308", "threshold": 1}]}, "3309": {"id": "3309", "names": [{"name": "3309", "threshold": 1}]}, "3310": {"id": "3310", "names": [{"name": "3310", "threshold": 1}]}, "4301": {"id": "4301", "names": [{"name": "4301", "threshold": 1}]}, "51": {"id": "51", "names": [{"name": "51", "threshold": 1}]}, "52": {"id": "52", "names": [{"name": "52", "threshold": 1}]}, "53": {"id": "53", "names": [{"name": "53", "threshold": 1}]}, "63": {"id": "63", "names": [{"name": "63", "threshold": 1}]}, "66": {"id": "66", "names": [{"name": "66", "threshold": 1}]}, "69": {"id": "69", "names": [{"name": "69", "threshold": 1}]}, "GAZELLENEXT": {"id": "GAZELLENEXT", "names": [{"name": "GAZELLE NEXT", "threshold": 0.85}, {"name": "ГАЗЕЛЛЕ НЕXТ", "threshold": 0.85}]}, "GAZONNEXT": {"id": "GAZONNEXT", "names": [{"name": "GAZON NEXT", "threshold": 0.85}, {"name": "ГАЗОН НЕXТ", "threshold": 0.85}]}, "M21": {"id": "M21", "names": [{"name": "M21", "threshold": 1}]}, "MARSHAL": {"id": "MARSHAL", "names": [{"name": "MARSHAL", "threshold": 0.85}, {"name": "МАРСХАЛ", "threshold": 0.85}]}, "OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}, "SADKONEXT": {"id": "SADKONEXT", "names": [{"name": "SADKO NEXT", "threshold": 0.85}, {"name": "САДКО НЕXТ", "threshold": 0.85}]}, "VALDAINEXT": {"id": "VALDAINEXT", "names": [{"name": "VALDAI NEXT", "threshold": 0.85}, {"name": "ВАЛДАИ НЕXТ", "threshold": 0.85}]}, "VOLGASIBER": {"id": "VOLGASIBER", "names": [{"name": "VOLGA SIBER", "threshold": 0.85}, {"name": "ВОЛГА СИБЕР", "threshold": 0.85}]}}}
+{
+  "id": "GAZ",
+  "names": [
+    {
+      "name": "GAZ",
+      "threshold": 0.97
+    },
+    {
+      "name": "ГАЗ",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "14": {
+      "id": "14",
+      "names": [
+        {
+          "name": "14",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "949"
+    },
+    "1731": {
+      "id": "1731",
+      "names": [
+        {
+          "name": "1731",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1646"
+    },
+    "2217": {
+      "id": "2217",
+      "names": [
+        {
+          "name": "2217",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1647"
+    },
+    "2310": {
+      "id": "2310",
+      "names": [
+        {
+          "name": "2310",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1648"
+    },
+    "2330": {
+      "id": "2330",
+      "names": [
+        {
+          "name": "2330",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1649"
+    },
+    "24": {
+      "id": "24",
+      "names": [
+        {
+          "name": "24",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "951"
+    },
+    "2705": {
+      "id": "2705",
+      "names": [
+        {
+          "name": "2705",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1650"
+    },
+    "2752": {
+      "id": "2752",
+      "names": [
+        {
+          "name": "2752",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1651"
+    },
+    "3102": {
+      "id": "3102",
+      "names": [
+        {
+          "name": "3102",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "952"
+    },
+    "3110": {
+      "id": "3110",
+      "names": [
+        {
+          "name": "3110",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "953"
+    },
+    "3111": {
+      "id": "3111",
+      "names": [
+        {
+          "name": "3111",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "954"
+    },
+    "3221": {
+      "id": "3221",
+      "names": [
+        {
+          "name": "3221",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1652"
+    },
+    "3302": {
+      "id": "3302",
+      "names": [
+        {
+          "name": "3302",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1653"
+    },
+    "3306": {
+      "id": "3306",
+      "names": [
+        {
+          "name": "3306",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1943"
+    },
+    "3307": {
+      "id": "3307",
+      "names": [
+        {
+          "name": "3307",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1944"
+    },
+    "3308": {
+      "id": "3308",
+      "names": [
+        {
+          "name": "3308",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1945"
+    },
+    "3309": {
+      "id": "3309",
+      "names": [
+        {
+          "name": "3309",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1946"
+    },
+    "3310": {
+      "id": "3310",
+      "names": [
+        {
+          "name": "3310",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1947"
+    },
+    "4301": {
+      "id": "4301",
+      "names": [
+        {
+          "name": "4301",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1948"
+    },
+    "51": {
+      "id": "51",
+      "names": [
+        {
+          "name": "51",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1949"
+    },
+    "52": {
+      "id": "52",
+      "names": [
+        {
+          "name": "52",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1950"
+    },
+    "53": {
+      "id": "53",
+      "names": [
+        {
+          "name": "53",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1951"
+    },
+    "63": {
+      "id": "63",
+      "names": [
+        {
+          "name": "63",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1952"
+    },
+    "66": {
+      "id": "66",
+      "names": [
+        {
+          "name": "66",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "1953"
+    },
+    "69": {
+      "id": "69",
+      "names": [
+        {
+          "name": "69",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "956"
+    },
+    "GAZELLENEXT": {
+      "id": "GAZELLENEXT",
+      "names": [
+        {
+          "name": "GAZELLE NEXT",
+          "threshold": 0.85
+        },
+        {
+          "name": "ГАЗЕЛЛЕ НЕXТ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "5133"
+    },
+    "GAZONNEXT": {
+      "id": "GAZONNEXT",
+      "names": [
+        {
+          "name": "GAZON NEXT",
+          "threshold": 0.85
+        },
+        {
+          "name": "ГАЗОН НЕXТ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "10741"
+    },
+    "M21": {
+      "id": "M21",
+      "names": [
+        {
+          "name": "M21",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "958"
+    },
+    "MARSHAL": {
+      "id": "MARSHAL",
+      "names": [
+        {
+          "name": "MARSHAL",
+          "threshold": 0.85
+        },
+        {
+          "name": "МАРСХАЛ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "959"
+    },
+    "OTHER": {
+      "id": "OTHER",
+      "names": [
+        {
+          "name": "OTHER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОТХЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1954"
+    },
+    "SADKONEXT": {
+      "id": "SADKONEXT",
+      "names": [
+        {
+          "name": "SADKO NEXT",
+          "threshold": 0.85
+        },
+        {
+          "name": "САДКО НЕXТ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "18563"
+    },
+    "VALDAINEXT": {
+      "id": "VALDAINEXT",
+      "names": [
+        {
+          "name": "VALDAI NEXT",
+          "threshold": 0.85
+        },
+        {
+          "name": "ВАЛДАИ НЕXТ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "18665"
+    },
+    "VOLGASIBER": {
+      "id": "VOLGASIBER",
+      "names": [
+        {
+          "name": "VOLGA SIBER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ВОЛГА СИБЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "961"
+    }
+  }
+}

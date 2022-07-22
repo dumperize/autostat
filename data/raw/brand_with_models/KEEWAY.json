@@ -1,1 +1,85 @@
-{"id": "KEEWAY", "names": [{"name": "KEEWAY", "threshold": 0.85}, {"name": "КЕЕWАЫ", "threshold": 0.85}], "models": {"CRUISER": {"id": "CRUISER", "names": [{"name": "CRUISER", "threshold": 0.85}, {"name": "ЦРУИСЕР", "threshold": 0.85}]}, "LANDCRUISER": {"id": "LANDCRUISER", "names": [{"name": "LANDCRUISER", "threshold": 0.85}, {"name": "ЛАНДЦРУИСЕР", "threshold": 0.85}]}, "SPEED": {"id": "SPEED", "names": [{"name": "SPEED", "threshold": 0.85}, {"name": "СПЕЕД", "threshold": 0.85}]}, "SUPERLIGHT": {"id": "SUPERLIGHT", "names": [{"name": "SUPERLIGHT", "threshold": 0.85}, {"name": "СУПЕРЛИГХТ", "threshold": 0.85}]}, "SUPERSHADOW": {"id": "SUPERSHADOW", "names": [{"name": "SUPERSHADOW", "threshold": 0.85}, {"name": "СУПЕРСХАДОW", "threshold": 0.85}]}}}
+{
+  "id": "KEEWAY",
+  "names": [
+    {
+      "name": "KEEWAY",
+      "threshold": 0.85
+    },
+    {
+      "name": "КИВЭЙ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "CRUISER": {
+      "id": "CRUISER",
+      "names": [
+        {
+          "name": "CRUISER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦРУИСЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2766"
+    },
+    "LANDCRUISER": {
+      "id": "LANDCRUISER",
+      "names": [
+        {
+          "name": "LANDCRUISER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЛАНДЦРУИСЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2768"
+    },
+    "SPEED": {
+      "id": "SPEED",
+      "names": [
+        {
+          "name": "SPEED",
+          "threshold": 0.85
+        },
+        {
+          "name": "СПЕЕД",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2770"
+    },
+    "SUPERLIGHT": {
+      "id": "SUPERLIGHT",
+      "names": [
+        {
+          "name": "SUPERLIGHT",
+          "threshold": 0.85
+        },
+        {
+          "name": "СУПЕРЛИГХТ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2771"
+    },
+    "SUPERSHADOW": {
+      "id": "SUPERSHADOW",
+      "names": [
+        {
+          "name": "SUPERSHADOW",
+          "threshold": 0.85
+        },
+        {
+          "name": "СУПЕРСХАДОW",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2772"
+    }
+  }
+}

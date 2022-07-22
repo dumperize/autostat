@@ -1,1 +1,35 @@
-{"id": "NEMAN", "names": [{"name": "NEMAN", "threshold": 0.85}, {"name": "НЕМАН", "threshold": 0.85}], "models": {"4202": {"id": "4202", "names": [{"name": "4202", "threshold": 1}]}, "5201": {"id": "5201", "names": [{"name": "5201", "threshold": 1}]}}}
+{
+  "id": "NEMAN",
+  "names": [
+    {
+      "name": "NEMAN",
+      "threshold": 0.85
+    },
+    {
+      "name": "НЕМАН",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "4202": {
+      "id": "4202",
+      "names": [
+        {
+          "name": "4202",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10755"
+    },
+    "5201": {
+      "id": "5201",
+      "names": [
+        {
+          "name": "5201",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10756"
+    }
+  }
+}

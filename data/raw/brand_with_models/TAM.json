@@ -1,1 +1,55 @@
-{"id": "TAM", "names": [{"name": "TAM", "threshold": 0.97}, {"name": "ТАМ", "threshold": 0.97}], "models": {"190": {"id": "190", "names": [{"name": "190", "threshold": 1}]}, "222": {"id": "222", "names": [{"name": "222", "threshold": 1}]}, "260": {"id": "260", "names": [{"name": "260", "threshold": 1}]}, "80": {"id": "80", "names": [{"name": "80", "threshold": 1}]}}}
+{
+  "id": "TAM",
+  "names": [
+    {
+      "name": "TAM",
+      "threshold": 0.97
+    },
+    {
+      "name": "ТАМ",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "190": {
+      "id": "190",
+      "names": [
+        {
+          "name": "190",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2241"
+    },
+    "222": {
+      "id": "222",
+      "names": [
+        {
+          "name": "222",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2242"
+    },
+    "260": {
+      "id": "260",
+      "names": [
+        {
+          "name": "260",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2243"
+    },
+    "80": {
+      "id": "80",
+      "names": [
+        {
+          "name": "80",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2244"
+    }
+  }
+}

@@ -1,1 +1,219 @@
-{"id": "SHACMAN(SHAANXI)", "names": [{"name": "SHACMAN (SHAANXI)", "threshold": 0.85}, {"name": "СХАЦМАН (СХААНXИ)", "threshold": 0.85}], "models": {"OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}, "SX3251": {"id": "SX3251", "names": [{"name": "SX3251", "threshold": 1}]}, "SX3254": {"id": "SX3254", "names": [{"name": "SX3254", "threshold": 1}]}, "SX3255": {"id": "SX3255", "names": [{"name": "SX3255", "threshold": 1}]}, "SX3256": {"id": "SX3256", "names": [{"name": "SX3256", "threshold": 1}]}, "SX3257": {"id": "SX3257", "names": [{"name": "SX3257", "threshold": 1}]}, "SX3258": {"id": "SX3258", "names": [{"name": "SX3258", "threshold": 1}]}, "SX3315": {"id": "SX3315", "names": [{"name": "SX3315", "threshold": 1}]}, "SX3316": {"id": "SX3316", "names": [{"name": "SX3316", "threshold": 1}]}, "SX3317": {"id": "SX3317", "names": [{"name": "SX3317", "threshold": 1}]}, "SX3318": {"id": "SX3318", "names": [{"name": "SX3318", "threshold": 1}]}, "SX4254": {"id": "SX4254", "names": [{"name": "SX4254", "threshold": 1}]}, "SX4255": {"id": "SX4255", "names": [{"name": "SX4255", "threshold": 1}]}, "SX4256": {"id": "SX4256", "names": [{"name": "SX4256", "threshold": 1}]}, "SX4257": {"id": "SX4257", "names": [{"name": "SX4257", "threshold": 1}]}, "SX4258": {"id": "SX4258", "names": [{"name": "SX4258", "threshold": 1}]}, "SX5256": {"id": "SX5256", "names": [{"name": "SX5256", "threshold": 1}]}, "SX5258": {"id": "SX5258", "names": [{"name": "SX5258", "threshold": 1}]}, "SX5316": {"id": "SX5316", "names": [{"name": "SX5316", "threshold": 1}]}, "SX5318": {"id": "SX5318", "names": [{"name": "SX5318", "threshold": 1}]}}}
+{
+  "id": "SHACMAN(SHAANXI)",
+  "names": [
+    {
+      "name": "SHACMAN (SHAANXI)",
+      "threshold": 0.85
+    },
+    {
+      "name": "СХАЦМАН (СХААНXИ)",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "OTHER": {
+      "id": "OTHER",
+      "names": [
+        {
+          "name": "OTHER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОТХЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1750"
+    },
+    "SX3251": {
+      "id": "SX3251",
+      "names": [
+        {
+          "name": "SX3251",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18542"
+    },
+    "SX3254": {
+      "id": "SX3254",
+      "names": [
+        {
+          "name": "SX3254",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18543"
+    },
+    "SX3255": {
+      "id": "SX3255",
+      "names": [
+        {
+          "name": "SX3255",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18544"
+    },
+    "SX3256": {
+      "id": "SX3256",
+      "names": [
+        {
+          "name": "SX3256",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18545"
+    },
+    "SX3257": {
+      "id": "SX3257",
+      "names": [
+        {
+          "name": "SX3257",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18546"
+    },
+    "SX3258": {
+      "id": "SX3258",
+      "names": [
+        {
+          "name": "SX3258",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18547"
+    },
+    "SX3315": {
+      "id": "SX3315",
+      "names": [
+        {
+          "name": "SX3315",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18548"
+    },
+    "SX3316": {
+      "id": "SX3316",
+      "names": [
+        {
+          "name": "SX3316",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18549"
+    },
+    "SX3317": {
+      "id": "SX3317",
+      "names": [
+        {
+          "name": "SX3317",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18550"
+    },
+    "SX3318": {
+      "id": "SX3318",
+      "names": [
+        {
+          "name": "SX3318",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18551"
+    },
+    "SX4254": {
+      "id": "SX4254",
+      "names": [
+        {
+          "name": "SX4254",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18552"
+    },
+    "SX4255": {
+      "id": "SX4255",
+      "names": [
+        {
+          "name": "SX4255",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18553"
+    },
+    "SX4256": {
+      "id": "SX4256",
+      "names": [
+        {
+          "name": "SX4256",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18554"
+    },
+    "SX4257": {
+      "id": "SX4257",
+      "names": [
+        {
+          "name": "SX4257",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18555"
+    },
+    "SX4258": {
+      "id": "SX4258",
+      "names": [
+        {
+          "name": "SX4258",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18556"
+    },
+    "SX5256": {
+      "id": "SX5256",
+      "names": [
+        {
+          "name": "SX5256",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18557"
+    },
+    "SX5258": {
+      "id": "SX5258",
+      "names": [
+        {
+          "name": "SX5258",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18558"
+    },
+    "SX5316": {
+      "id": "SX5316",
+      "names": [
+        {
+          "name": "SX5316",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18559"
+    },
+    "SX5318": {
+      "id": "SX5318",
+      "names": [
+        {
+          "name": "SX5318",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18560"
+    }
+  }
+}

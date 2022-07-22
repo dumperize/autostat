@@ -1,1 +1,65 @@
-{"id": "RUSICH", "names": [{"name": "RUSICH", "threshold": 0.85}, {"name": "РУСИЦХ", "threshold": 0.85}], "models": {"71920A": {"id": "71920A", "names": [{"name": "71920A", "threshold": 1}]}, "71920B": {"id": "71920B", "names": [{"name": "71920B", "threshold": 1}]}, "71930C": {"id": "71930C", "names": [{"name": "71930C", "threshold": 1}]}, "71930D": {"id": "71930D", "names": [{"name": "71930D", "threshold": 1}]}, "71930M": {"id": "71930M", "names": [{"name": "71930M", "threshold": 1}]}}}
+{
+  "id": "RUSICH",
+  "names": [
+    {
+      "name": "RUSICH",
+      "threshold": 0.85
+    },
+    {
+      "name": "РУСИЦХ",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "71920A": {
+      "id": "71920A",
+      "names": [
+        {
+          "name": "71920A",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15460"
+    },
+    "71920B": {
+      "id": "71920B",
+      "names": [
+        {
+          "name": "71920B",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15461"
+    },
+    "71930C": {
+      "id": "71930C",
+      "names": [
+        {
+          "name": "71930C",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15462"
+    },
+    "71930D": {
+      "id": "71930D",
+      "names": [
+        {
+          "name": "71930D",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15463"
+    },
+    "71930M": {
+      "id": "71930M",
+      "names": [
+        {
+          "name": "71930M",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15464"
+    }
+  }
+}

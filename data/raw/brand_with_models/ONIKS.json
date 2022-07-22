@@ -1,1 +1,45 @@
-{"id": "ONIKS", "names": [{"name": "ONIKS", "threshold": 0.85}, {"name": "ОНИКС", "threshold": 0.85}], "models": {"8256": {"id": "8256", "names": [{"name": "8256", "threshold": 1}]}, "825601": {"id": "825601", "names": [{"name": "825601", "threshold": 1}]}, "825602": {"id": "825602", "names": [{"name": "825602", "threshold": 1}]}}}
+{
+  "id": "ONIKS",
+  "names": [
+    {
+      "name": "ONIKS",
+      "threshold": 0.85
+    },
+    {
+      "name": "ОНИКС",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "8256": {
+      "id": "8256",
+      "names": [
+        {
+          "name": "8256",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12668"
+    },
+    "825601": {
+      "id": "825601",
+      "names": [
+        {
+          "name": "825601",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12669"
+    },
+    "825602": {
+      "id": "825602",
+      "names": [
+        {
+          "name": "825602",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "12670"
+    }
+  }
+}

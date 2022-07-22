@@ -1,1 +1,111 @@
-{"id": "YUTONG", "names": [{"name": "YUTONG", "threshold": 0.85}, {"name": "ЫУТОНГ", "threshold": 0.85}], "models": {"ZK6118HGA": {"id": "ZK6118HGA", "names": [{"name": "ZK6118HGA", "threshold": 1}]}, "ZK6119HA": {"id": "ZK6119HA", "names": [{"name": "ZK6119HA", "threshold": 1}]}, "ZK6121HQ": {"id": "ZK6121HQ", "names": [{"name": "ZK6121HQ", "threshold": 1}]}, "ZK6122H9": {"id": "ZK6122H9", "names": [{"name": "ZK6122H9", "threshold": 1}]}, "ZK6129H": {"id": "ZK6129H", "names": [{"name": "ZK6129H", "threshold": 1}]}, "ZK6737D": {"id": "ZK6737D", "names": [{"name": "ZK6737D", "threshold": 1}]}, "ZK6831H": {"id": "ZK6831H", "names": [{"name": "ZK6831H", "threshold": 1}]}, "ZK6852HG": {"id": "ZK6852HG", "names": [{"name": "ZK6852HG", "threshold": 1}]}, "ZK6899HA": {"id": "ZK6899HA", "names": [{"name": "ZK6899HA", "threshold": 1}]}, "ZK6938HB9": {"id": "ZK6938HB9", "names": [{"name": "ZK6938HB9", "threshold": 1}]}}}
+{
+  "id": "YUTONG",
+  "names": [
+    {
+      "name": "YUTONG",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "ZK6118HGA": {
+      "id": "ZK6118HGA",
+      "names": [
+        {
+          "name": "ZK6118HGA",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2271"
+    },
+    "ZK6119HA": {
+      "id": "ZK6119HA",
+      "names": [
+        {
+          "name": "ZK6119HA",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2272"
+    },
+    "ZK6121HQ": {
+      "id": "ZK6121HQ",
+      "names": [
+        {
+          "name": "ZK6121HQ",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17393"
+    },
+    "ZK6122H9": {
+      "id": "ZK6122H9",
+      "names": [
+        {
+          "name": "ZK6122H9",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18442"
+    },
+    "ZK6129H": {
+      "id": "ZK6129H",
+      "names": [
+        {
+          "name": "ZK6129H",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2273"
+    },
+    "ZK6737D": {
+      "id": "ZK6737D",
+      "names": [
+        {
+          "name": "ZK6737D",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2274"
+    },
+    "ZK6831H": {
+      "id": "ZK6831H",
+      "names": [
+        {
+          "name": "ZK6831H",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2275"
+    },
+    "ZK6852HG": {
+      "id": "ZK6852HG",
+      "names": [
+        {
+          "name": "ZK6852HG",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "10757"
+    },
+    "ZK6899HA": {
+      "id": "ZK6899HA",
+      "names": [
+        {
+          "name": "ZK6899HA",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "2276"
+    },
+    "ZK6938HB9": {
+      "id": "ZK6938HB9",
+      "names": [
+        {
+          "name": "ZK6938HB9",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15576"
+    }
+  }
+}

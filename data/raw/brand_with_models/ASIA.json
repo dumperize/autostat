@@ -1,1 +1,99 @@
-{"id": "ASIA", "names": [{"name": "ASIA", "threshold": 0.93}, {"name": "АСИА", "threshold": 0.93}], "models": {"COMBI": {"id": "COMBI", "names": [{"name": "COMBI", "threshold": 0.85}, {"name": "ЦОМБИ", "threshold": 0.85}]}, "COSMOS": {"id": "COSMOS", "names": [{"name": "COSMOS", "threshold": 0.85}, {"name": "ЦОСМОС", "threshold": 0.85}]}, "OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}, "ROCSTA": {"id": "ROCSTA", "names": [{"name": "ROCSTA", "threshold": 0.85}, {"name": "РОЦСТА", "threshold": 0.85}]}, "TOPIC": {"id": "TOPIC", "names": [{"name": "TOPIC", "threshold": 0.85}, {"name": "ТОПИЦ", "threshold": 0.85}]}, "TOWNER": {"id": "TOWNER", "names": [{"name": "TOWNER", "threshold": 0.85}, {"name": "ТОWНЕР", "threshold": 0.85}]}}}
+{
+  "id": "ASIA",
+  "names": [
+    {
+      "name": "ASIA",
+      "threshold": 0.93
+    },
+    {
+      "name": "АСИА",
+      "threshold": 0.93
+    }
+  ],
+  "models": {
+    "COMBI": {
+      "id": "COMBI",
+      "names": [
+        {
+          "name": "COMBI",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦОМБИ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2299"
+    },
+    "COSMOS": {
+      "id": "COSMOS",
+      "names": [
+        {
+          "name": "COSMOS",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦОСМОС",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2300"
+    },
+    "OTHER": {
+      "id": "OTHER",
+      "names": [
+        {
+          "name": "OTHER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОТХЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2301"
+    },
+    "ROCSTA": {
+      "id": "ROCSTA",
+      "names": [
+        {
+          "name": "ROCSTA",
+          "threshold": 0.85
+        },
+        {
+          "name": "РОЦСТА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "946"
+    },
+    "TOPIC": {
+      "id": "TOPIC",
+      "names": [
+        {
+          "name": "TOPIC",
+          "threshold": 0.85
+        },
+        {
+          "name": "ТОПИЦ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1643"
+    },
+    "TOWNER": {
+      "id": "TOWNER",
+      "names": [
+        {
+          "name": "TOWNER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ТОWНЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1644"
+    }
+  }
+}

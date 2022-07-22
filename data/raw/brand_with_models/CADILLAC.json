@@ -1,228 +1,245 @@
 {
-    "id": "CADILLAC",
-    "names": [
-        {
-            "name": "CADILLAC",
-            "threshold": 0.85
-        },
-        {
-            "name": "КАДИЛАК",
-            "threshold": 0.85
-        }
-    ],
-    "models": {
-        "ATS": {
-            "id": "ATS",
-            "names": [
-                {
-                    "name": "ATS",
-                    "threshold": 0.97
-                },
-                {
-                    "name": "АТС",
-                    "threshold": 0.97
-                }
-            ]
-        },
-        "BLS": {
-            "id": "BLS",
-            "names": [
-                {
-                    "name": "BLS",
-                    "threshold": 0.97
-                },
-                {
-                    "name": "БЛС",
-                    "threshold": 0.97
-                }
-            ]
-        },
-        "BROUGHAM": {
-            "id": "BROUGHAM",
-            "names": [
-                {
-                    "name": "BROUGHAM",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "БРОУГХАМ",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "CATERA": {
-            "id": "CATERA",
-            "names": [
-                {
-                    "name": "CATERA",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "КАТЕРА",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "CT6": {
-            "id": "CT6",
-            "names": [
-                {
-                    "name": "CT6",
-                    "threshold": 1
-                }
-            ]
-        },
-        "CTS": {
-            "id": "CTS",
-            "names": [
-                {
-                    "name": "CTS",
-                    "threshold": 0.97
-                },
-                {
-                    "name": "ЦТС",
-                    "threshold": 0.97
-                }
-            ]
-        },
-        "DEVILLE": {
-            "id": "DEVILLE",
-            "names": [
-                {
-                    "name": "DEVILLE",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ДЕВИЛЛЕ",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "DTS": {
-            "id": "DTS",
-            "names": [
-                {
-                    "name": "DTS",
-                    "threshold": 0.97
-                },
-                {
-                    "name": "ДТС",
-                    "threshold": 0.97
-                }
-            ]
-        },
-        "ELDORADO": {
-            "id": "ELDORADO",
-            "names": [
-                {
-                    "name": "ELDORADO",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ЕЛЬДОРАДО",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "GMT 926",
-                    "threshold": 1
-                }
-            ]
-        },
-        "ESCALADE": {
-            "id": "ESCALADE",
-            "names": [
-                {
-                    "name": "ESCALADE",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ЕСКАЛАД",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "FLEETWOOD": {
-            "id": "FLEETWOOD",
-            "names": [
-                {
-                    "name": "FLEETWOOD",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ФЛИТВУД",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "SEVILLE": {
-            "id": "SEVILLE",
-            "names": [
-                {
-                    "name": "SEVILLE",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "СЕВИЛЛЕ",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "SRX": {
-            "id": "SRX",
-            "names": [
-                {
-                    "name": "SRX",
-                    "threshold": 0.97
-                },
-                {
-                    "name": "СРX",
-                    "threshold": 0.97
-                },
-                {
-                    "name": "GMT 265",
-                    "threshold": 1
-                }
-            ]
-        },
-        "STS": {
-            "id": "STS",
-            "names": [
-                {
-                    "name": "STS",
-                    "threshold": 0.97
-                },
-                {
-                    "name": "СТС",
-                    "threshold": 0.97
-                }
-            ]
-        },
-        "XT4": {
-            "id": "XT4",
-            "names": [
-                {
-                    "name": "XT4",
-                    "threshold": 1
-                }
-            ]
-        },
-        "XT5": {
-            "id": "XT5",
-            "names": [
-                {
-                    "name": "XT5",
-                    "threshold": 1
-                }
-            ]
-        },
-        "XT6": {
-            "id": "XT6",
-            "names": [
-                {
-                    "name": "XT6",
-                    "threshold": 1
-                }
-            ]
-        }
+  "id": "CADILLAC",
+  "names": [
+    {
+      "name": "CADILLAC",
+      "threshold": 0.85
+    },
+    {
+      "name": "КАДИЛАК",
+      "threshold": 0.85
     }
+  ],
+  "models": {
+    "ATS": {
+      "id": "ATS",
+      "names": [
+        {
+          "name": "ATS",
+          "threshold": 0.97
+        },
+        {
+          "name": "АТС",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "8727"
+    },
+    "BLS": {
+      "id": "BLS",
+      "names": [
+        {
+          "name": "BLS",
+          "threshold": 0.97
+        },
+        {
+          "name": "БЛС",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "551"
+    },
+    "BROUGHAM": {
+      "id": "BROUGHAM",
+      "names": [
+        {
+          "name": "BROUGHAM",
+          "threshold": 0.85
+        },
+        {
+          "name": "БРОУГХАМ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "552"
+    },
+    "CATERA": {
+      "id": "CATERA",
+      "names": [
+        {
+          "name": "CATERA",
+          "threshold": 0.85
+        },
+        {
+          "name": "КАТЕРА",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "553"
+    },
+    "CT6": {
+      "id": "CT6",
+      "names": [
+        {
+          "name": "CT6",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15580"
+    },
+    "CTS": {
+      "id": "CTS",
+      "names": [
+        {
+          "name": "CTS",
+          "threshold": 0.97
+        },
+        {
+          "name": "ЦТС",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "554"
+    },
+    "DEVILLE": {
+      "id": "DEVILLE",
+      "names": [
+        {
+          "name": "DEVILLE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ДЕВИЛЛЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "555"
+    },
+    "DTS": {
+      "id": "DTS",
+      "names": [
+        {
+          "name": "DTS",
+          "threshold": 0.97
+        },
+        {
+          "name": "ДТС",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "556"
+    },
+    "ELDORADO": {
+      "id": "ELDORADO",
+      "names": [
+        {
+          "name": "ELDORADO",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЕЛЬДОРАДО",
+          "threshold": 0.85
+        },
+        {
+          "name": "GMT 926",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "557"
+    },
+    "ESCALADE": {
+      "id": "ESCALADE",
+      "names": [
+        {
+          "name": "ESCALADE",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЕСКАЛАД",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "558"
+    },
+    "FLEETWOOD": {
+      "id": "FLEETWOOD",
+      "names": [
+        {
+          "name": "FLEETWOOD",
+          "threshold": 0.85
+        },
+        {
+          "name": "ФЛИТВУД",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "559"
+    },
+    "SEVILLE": {
+      "id": "SEVILLE",
+      "names": [
+        {
+          "name": "SEVILLE",
+          "threshold": 0.85
+        },
+        {
+          "name": "СЕВИЛЛЕ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "561"
+    },
+    "SRX": {
+      "id": "SRX",
+      "names": [
+        {
+          "name": "SRX",
+          "threshold": 0.97
+        },
+        {
+          "name": "СРX",
+          "threshold": 0.97
+        },
+        {
+          "name": "GMT 265",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "562"
+    },
+    "STS": {
+      "id": "STS",
+      "names": [
+        {
+          "name": "STS",
+          "threshold": 0.97
+        },
+        {
+          "name": "СТС",
+          "threshold": 0.97
+        }
+      ],
+      "sql_id": "563"
+    },
+    "XT4": {
+      "id": "XT4",
+      "names": [
+        {
+          "name": "XT4",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "18582"
+    },
+    "XT5": {
+      "id": "XT5",
+      "names": [
+        {
+          "name": "XT5",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15227"
+    },
+    "XT6": {
+      "id": "XT6",
+      "names": [
+        {
+          "name": "XT6",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "17433"
+    }
+  }
 }

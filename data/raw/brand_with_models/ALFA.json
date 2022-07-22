@@ -1,24 +1,25 @@
 {
-    "id": "ALFA",
-    "names": [
-        {
-            "name": "ALFA",
-            "threshold": 0.93
-        },
-        {
-            "name": "АЛФА",
-            "threshold": 0.93
-        }
-    ],
-    "models": {
-        "WJ50": {
-            "id": "WJ50",
-            "names": [
-                {
-                    "name": "WJ50",
-                    "threshold": 1
-                }
-            ]
-        }
+  "id": "ALFA",
+  "names": [
+    {
+      "name": "ALFA",
+      "threshold": 0.93
+    },
+    {
+      "name": "АЛФА",
+      "threshold": 0.93
     }
+  ],
+  "models": {
+    "WJ50": {
+      "id": "WJ50",
+      "names": [
+        {
+          "name": "WJ50",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "8755"
+    }
+  }
 }

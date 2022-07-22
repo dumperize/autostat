@@ -1,67 +1,71 @@
 {
-    "id": "MITSUBISHIFUSO",
-    "names": [
-        {
-            "name": "MITSUBISHI FUSO",
-            "threshold": 0.85
-        },
-        {
-            "name": "МИТСУБИСХИ ФУСО",
-            "threshold": 0.85
-        }
-    ],
-    "models": {
-        "CANTER": {
-            "id": "CANTER",
-            "names": [
-                {
-                    "name": "CANTER",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ЦАНТЕР",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "CANTERMINI": {
-            "id": "CANTERMINI",
-            "names": [
-                {
-                    "name": "CANTER MINI",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ЦАНТЕР МИНИ",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "FIGHTER": {
-            "id": "FIGHTER",
-            "names": [
-                {
-                    "name": "FIGHTER",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ФИГХТЕР",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "ROSA": {
-            "id": "ROSA",
-            "names": [
-                {
-                    "name": "ROSA",
-                    "threshold": 0.93
-                },
-                {
-                    "name": "РОСА",
-                    "threshold": 0.93
-                }
-            ]
-        }
+  "id": "MITSUBISHIFUSO",
+  "names": [
+    {
+      "name": "MITSUBISHI FUSO",
+      "threshold": 0.85
+    },
+    {
+      "name": "МИТСУБИСХИ ФУСО",
+      "threshold": 0.85
     }
+  ],
+  "models": {
+    "CANTER": {
+      "id": "CANTER",
+      "names": [
+        {
+          "name": "CANTER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦАНТЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2153"
+    },
+    "CANTERMINI": {
+      "id": "CANTERMINI",
+      "names": [
+        {
+          "name": "CANTER MINI",
+          "threshold": 0.85
+        },
+        {
+          "name": "ЦАНТЕР МИНИ",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "1714"
+    },
+    "FIGHTER": {
+      "id": "FIGHTER",
+      "names": [
+        {
+          "name": "FIGHTER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ФИГХТЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "2154"
+    },
+    "ROSA": {
+      "id": "ROSA",
+      "names": [
+        {
+          "name": "ROSA",
+          "threshold": 0.93
+        },
+        {
+          "name": "РОСА",
+          "threshold": 0.93
+        }
+      ],
+      "sql_id": "2439"
+    }
+  }
 }

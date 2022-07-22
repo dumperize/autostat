@@ -1,1 +1,29 @@
-{"id": "VESPA", "names": [{"name": "VESPA", "threshold": 0.85}, {"name": "ВЕСПА", "threshold": 0.85}], "models": {"OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}}}
+{
+  "id": "VESPA",
+  "names": [
+    {
+      "name": "VESPA",
+      "threshold": 0.85
+    },
+    {
+      "name": "ВЕСПА",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "OTHER": {
+      "id": "OTHER",
+      "names": [
+        {
+          "name": "OTHER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОТХЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "11942"
+    }
+  }
+}

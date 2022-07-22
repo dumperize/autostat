@@ -1,1 +1,25 @@
-{"id": "KOLUMAN", "names": [{"name": "KOLUMAN", "threshold": 0.85}, {"name": "КОЛУМАН", "threshold": 0.85}], "models": {"P400HUCKEPACK": {"id": "P400HUCKEPACK", "names": [{"name": "P400 HUCKEPACK", "threshold": 1}]}}}
+{
+  "id": "KOLUMAN",
+  "names": [
+    {
+      "name": "KOLUMAN",
+      "threshold": 0.85
+    },
+    {
+      "name": "КОЛУМАН",
+      "threshold": 0.85
+    }
+  ],
+  "models": {
+    "P400HUCKEPACK": {
+      "id": "P400HUCKEPACK",
+      "names": [
+        {
+          "name": "P400 HUCKEPACK",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "15447"
+    }
+  }
+}

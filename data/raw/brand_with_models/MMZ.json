@@ -1,1 +1,69 @@
-{"id": "MMZ", "names": [{"name": "MMZ", "threshold": 0.97}, {"name": "ММЗ", "threshold": 0.97}], "models": {"81021": {"id": "81021", "names": [{"name": "81021", "threshold": 1}]}, "81024": {"id": "81024", "names": [{"name": "81024", "threshold": 1}]}, "8113": {"id": "8113", "names": [{"name": "8113", "threshold": 1}]}, "8176": {"id": "8176", "names": [{"name": "8176", "threshold": 1}]}, "OTHER": {"id": "OTHER", "names": [{"name": "OTHER", "threshold": 0.85}, {"name": "ОТХЕР", "threshold": 0.85}]}}}
+{
+  "id": "MMZ",
+  "names": [
+    {
+      "name": "MMZ",
+      "threshold": 0.97
+    },
+    {
+      "name": "ММЗ",
+      "threshold": 0.97
+    }
+  ],
+  "models": {
+    "81021": {
+      "id": "81021",
+      "names": [
+        {
+          "name": "81021",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3528"
+    },
+    "81024": {
+      "id": "81024",
+      "names": [
+        {
+          "name": "81024",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3529"
+    },
+    "8113": {
+      "id": "8113",
+      "names": [
+        {
+          "name": "8113",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3531"
+    },
+    "8176": {
+      "id": "8176",
+      "names": [
+        {
+          "name": "8176",
+          "threshold": 1
+        }
+      ],
+      "sql_id": "3532"
+    },
+    "OTHER": {
+      "id": "OTHER",
+      "names": [
+        {
+          "name": "OTHER",
+          "threshold": 0.85
+        },
+        {
+          "name": "ОТХЕР",
+          "threshold": 0.85
+        }
+      ],
+      "sql_id": "3533"
+    }
+  }
+}
