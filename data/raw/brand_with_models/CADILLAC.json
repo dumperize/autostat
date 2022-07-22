@@ -83,10 +83,6 @@
         {
           "name": "CTS",
           "threshold": 0.97
-        },
-        {
-          "name": "ЦТС",
-          "threshold": 0.97
         }
       ],
       "sql_id": "554"

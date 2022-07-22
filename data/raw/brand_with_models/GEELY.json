@@ -187,10 +187,6 @@
         {
           "name": "LC",
           "threshold": 1
-        },
-        {
-          "name": "ЛЦ",
-          "threshold": 1
         }
       ],
       "sql_id": "6406"

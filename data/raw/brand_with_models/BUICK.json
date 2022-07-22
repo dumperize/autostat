@@ -6,7 +6,7 @@
       "threshold": 0.85
     },
     {
-      "name": "БУИЦК",
+      "name": "БУИК",
       "threshold": 0.85
     }
   ],
@@ -33,7 +33,7 @@
           "threshold": 0.85
         },
         {
-          "name": "ЕЛЕЦТРА",
+          "name": "ЕЛЕКТРА",
           "threshold": 0.85
         }
       ],
@@ -47,7 +47,7 @@
           "threshold": 0.85
         },
         {
-          "name": "ЕНЦЛАВЕ",
+          "name": "ЕНКЛАВЕ",
           "threshold": 0.85
         }
       ],

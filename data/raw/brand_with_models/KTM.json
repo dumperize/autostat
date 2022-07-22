@@ -43,7 +43,7 @@
           "threshold": 0.85
         },
         {
-          "name": "ДЕСЕРТ РАЦИНГ",
+          "name": "ДЕСЕРТ РАЙСИНГ",
           "threshold": 0.85
         }
       ],
@@ -83,10 +83,6 @@
         {
           "name": "EXC",
           "threshold": 0.97
-        },
-        {
-          "name": "ЕXЦ",
-          "threshold": 0.97
         }
       ],
       "sql_id": "2571"
@@ -121,10 +117,6 @@
         {
           "name": "SMC",
           "threshold": 0.97
-        },
-        {
-          "name": "СМЦ",
-          "threshold": 0.97
         }
       ],
       "sql_id": "11953"
@@ -134,10 +126,6 @@
       "names": [
         {
           "name": "SMC R",
-          "threshold": 0.85
-        },
-        {
-          "name": "СМЦ Р",
           "threshold": 0.85
         }
       ],
@@ -179,7 +167,7 @@
           "threshold": 0.85
         },
         {
-          "name": "СУПЕР ЦОМПЕТИТИОН",
+          "name": "СУПЕР КОМПЕТИТИОН",
           "threshold": 0.85
         }
       ],

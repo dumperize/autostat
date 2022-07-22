@@ -133,7 +133,7 @@
           "threshold": 0.85
         },
         {
-          "name": "БАРЦХЕТТА",
+          "name": "БАРЧЕТТА",
           "threshold": 0.85
         }
       ],
@@ -173,10 +173,6 @@
         {
           "name": "CINQUECENTO",
           "threshold": 0.85
-        },
-        {
-          "name": "ЦИНQУЕЦЕНТО",
-          "threshold": 0.85
         }
       ],
       "sql_id": "863"
@@ -189,7 +185,7 @@
           "threshold": 0.85
         },
         {
-          "name": "ЦОУПЕ",
+          "name": "КОУПЕ",
           "threshold": 0.85
         }
       ],
@@ -203,7 +199,7 @@
           "threshold": 0.85
         },
         {
-          "name": "ЦРОМА",
+          "name": "КРОМА",
           "threshold": 0.85
         }
       ],
@@ -231,7 +227,7 @@
           "threshold": 0.85
         },
         {
-          "name": "ДОБЛО ЦАРГО",
+          "name": "ДОБЛО КАРГО",
           "threshold": 0.85
         }
       ],
@@ -245,7 +241,7 @@
           "threshold": 0.85
         },
         {
-          "name": "ДУЦАТО",
+          "name": "ДУКАТО",
           "threshold": 0.85
         }
       ],
@@ -301,7 +297,7 @@
           "threshold": 0.85
         },
         {
-          "name": "ФУЛЛБАЦК",
+          "name": "ФУЛЛБАК",
           "threshold": 0.85
         }
       ],
@@ -469,7 +465,7 @@
           "threshold": 0.85
         },
         {
-          "name": "СЦУДО",
+          "name": "СКУДО",
           "threshold": 0.85
         }
       ],

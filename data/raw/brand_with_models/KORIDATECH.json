@@ -4,10 +4,6 @@
     {
       "name": "KORIDA TECH",
       "threshold": 0.85
-    },
-    {
-      "name": "КОРИДА ТЕЦХ",
-      "threshold": 0.85
     }
   ],
   "models": {

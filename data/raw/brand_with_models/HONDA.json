@@ -101,10 +101,6 @@
         {
           "name": "CB",
           "threshold": 1
-        },
-        {
-          "name": "ЦБ",
-          "threshold": 1
         }
       ],
       "sql_id": "2595"
@@ -114,10 +110,6 @@
       "names": [
         {
           "name": "CBF",
-          "threshold": 0.97
-        },
-        {
-          "name": "ЦБФ",
           "threshold": 0.97
         }
       ],
@@ -129,10 +121,6 @@
         {
           "name": "CBR",
           "threshold": 0.97
-        },
-        {
-          "name": "ЦБР",
-          "threshold": 0.97
         }
       ],
       "sql_id": "2597"
@@ -142,10 +130,6 @@
       "names": [
         {
           "name": "CBX",
-          "threshold": 0.97
-        },
-        {
-          "name": "ЦБX",
           "threshold": 0.97
         }
       ],
@@ -185,10 +169,6 @@
         {
           "name": "CL",
           "threshold": 1
-        },
-        {
-          "name": "ЦЛ",
-          "threshold": 1
         }
       ],
       "sql_id": "2601"
@@ -212,10 +192,6 @@
       "names": [
         {
           "name": "CMX",
-          "threshold": 0.97
-        },
-        {
-          "name": "ЦМX",
           "threshold": 0.97
         }
       ],
@@ -241,10 +217,6 @@
         {
           "name": "CR",
           "threshold": 1
-        },
-        {
-          "name": "ЦР",
-          "threshold": 1
         }
       ],
       "sql_id": "2604"
@@ -254,10 +226,6 @@
       "names": [
         {
           "name": "CR V",
-          "threshold": 0.93
-        },
-        {
-          "name": "ЦР В",
           "threshold": 0.93
         }
       ],
@@ -269,10 +237,6 @@
         {
           "name": "CR Z",
           "threshold": 0.93
-        },
-        {
-          "name": "ЦР З",
-          "threshold": 0.93
         }
       ],
       "sql_id": "15334"
@@ -282,10 +246,6 @@
       "names": [
         {
           "name": "CRF",
-          "threshold": 0.97
-        },
-        {
-          "name": "ЦРФ",
           "threshold": 0.97
         }
       ],
@@ -297,10 +257,6 @@
         {
           "name": "CRX",
           "threshold": 0.97
-        },
-        {
-          "name": "ЦРX",
-          "threshold": 0.97
         }
       ],
       "sql_id": "1004"
@@ -310,10 +266,6 @@
       "names": [
         {
           "name": "CTX",
-          "threshold": 0.97
-        },
-        {
-          "name": "ЦТX",
           "threshold": 0.97
         }
       ],
@@ -422,10 +374,6 @@
       "names": [
         {
           "name": "FR V",
-          "threshold": 0.93
-        },
-        {
-          "name": "ФР В",
           "threshold": 0.93
         }
       ],
@@ -577,10 +525,6 @@
         {
           "name": "MSX",
           "threshold": 0.97
-        },
-        {
-          "name": "МСX",
-          "threshold": 0.97
         }
       ],
       "sql_id": "17348"
@@ -590,10 +534,6 @@
       "names": [
         {
           "name": "NC",
-          "threshold": 1
-        },
-        {
-          "name": "НЦ",
           "threshold": 1
         }
       ],
@@ -605,10 +545,6 @@
         {
           "name": "NR",
           "threshold": 1
-        },
-        {
-          "name": "НР",
-          "threshold": 1
         }
       ],
       "sql_id": "2622"
@@ -618,10 +554,6 @@
       "names": [
         {
           "name": "NRX",
-          "threshold": 0.97
-        },
-        {
-          "name": "НРX",
           "threshold": 0.97
         }
       ],
@@ -633,10 +565,6 @@
         {
           "name": "NS",
           "threshold": 1
-        },
-        {
-          "name": "НС",
-          "threshold": 1
         }
       ],
       "sql_id": "2624"
@@ -646,10 +574,6 @@
       "names": [
         {
           "name": "NSR",
-          "threshold": 0.97
-        },
-        {
-          "name": "НСР",
           "threshold": 0.97
         }
       ],
@@ -661,10 +585,6 @@
         {
           "name": "NSX",
           "threshold": 0.97
-        },
-        {
-          "name": "НСX",
-          "threshold": 0.97
         }
       ],
       "sql_id": "1022"
@@ -674,10 +594,6 @@
       "names": [
         {
           "name": "NT",
-          "threshold": 1
-        },
-        {
-          "name": "НТ",
           "threshold": 1
         }
       ],
@@ -689,10 +605,6 @@
         {
           "name": "NV",
           "threshold": 1
-        },
-        {
-          "name": "НВ",
-          "threshold": 1
         }
       ],
       "sql_id": "2628"
@@ -702,10 +614,6 @@
       "names": [
         {
           "name": "NX",
-          "threshold": 1
-        },
-        {
-          "name": "НX",
           "threshold": 1
         }
       ],
@@ -745,10 +653,6 @@
         {
           "name": "PC",
           "threshold": 1
-        },
-        {
-          "name": "ПЦ",
-          "threshold": 1
         }
       ],
       "sql_id": "2631"
@@ -758,10 +662,6 @@
       "names": [
         {
           "name": "PCX",
-          "threshold": 0.97
-        },
-        {
-          "name": "ПЦX",
           "threshold": 0.97
         }
       ],

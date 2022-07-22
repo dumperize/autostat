@@ -99,7 +99,7 @@
           "threshold": 0.85
         },
         {
-          "name": "Ц ЕЛИСИ",
+          "name": "С ЕЛИСИ",
           "threshold": 0.85
         }
       ],
@@ -270,10 +270,6 @@
       "names": [
         {
           "name": "CX",
-          "threshold": 1
-        },
-        {
-          "name": "ЦX",
           "threshold": 1
         }
       ],

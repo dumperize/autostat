@@ -17,10 +17,6 @@
         {
           "name": "CF Z",
           "threshold": 0.93
-        },
-        {
-          "name": "ЦФ З",
-          "threshold": 0.93
         }
       ],
       "sql_id": "19134"

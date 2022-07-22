@@ -19,7 +19,7 @@
           "threshold": 0.85
         },
         {
-          "name": "ЦОМБИ",
+          "name": "КОМБИ",
           "threshold": 0.85
         }
       ],
@@ -33,7 +33,7 @@
           "threshold": 0.85
         },
         {
-          "name": "ЦОСМОС",
+          "name": "КОСМОС",
           "threshold": 0.85
         }
       ],
@@ -47,7 +47,7 @@
           "threshold": 0.85
         },
         {
-          "name": "РОЦСТА",
+          "name": "РОКСТА",
           "threshold": 0.85
         }
       ],
@@ -61,7 +61,7 @@
           "threshold": 0.85
         },
         {
-          "name": "ТОПИЦ",
+          "name": "ТОПИК",
           "threshold": 0.85
         }
       ],

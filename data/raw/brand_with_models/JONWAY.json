@@ -17,10 +17,6 @@
         {
           "name": "CJ",
           "threshold": 1
-        },
-        {
-          "name": "ЦЙ",
-          "threshold": 1
         }
       ],
       "sql_id": "8838"

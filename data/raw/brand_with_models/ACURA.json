@@ -6,7 +6,7 @@
       "threshold": 0.85
     },
     {
-      "name": "АЦУРА",
+      "name": "АКУРА",
       "threshold": 0.85
     }
   ],
@@ -16,10 +16,6 @@
       "names": [
         {
           "name": "CL",
-          "threshold": 1
-        },
-        {
-          "name": "ЦЛ",
           "threshold": 1
         }
       ],

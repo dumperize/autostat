@@ -45,10 +45,6 @@
         {
           "name": "F PACE",
           "threshold": 0.85
-        },
-        {
-          "name": "Ф ПАЦЕ",
-          "threshold": 0.85
         }
       ],
       "sql_id": "15197"
