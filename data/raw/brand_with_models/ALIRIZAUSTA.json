@@ -1,5 +1,5 @@
 {
-  "id": "ALIRIZAUSTA",
+  "id": "ALI RIZA USTA",
   "names": [
     {
       "name": "ALI RIZA USTA",
@@ -36,10 +36,6 @@
       "names": [
         {
           "name": "ARU MB",
-          "threshold": 0.85
-        },
-        {
-          "name": "АРУ МБ",
           "threshold": 0.85
         }
       ],
