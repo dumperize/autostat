@@ -12,7 +12,7 @@
   ],
   "models": {
     "EPACE": {
-      "id": "EPACE",
+      "id": "E-PACE",
       "names": [
         {
           "name": "E PACE",
@@ -26,7 +26,7 @@
       "sql_id": "15583"
     },
     "ETYPE": {
-      "id": "ETYPE",
+      "id": "E-TYPE",
       "names": [
         {
           "name": "E TYPE",
@@ -40,7 +40,7 @@
       "sql_id": "1153"
     },
     "FPACE": {
-      "id": "FPACE",
+      "id": "F-PACE",
       "names": [
         {
           "name": "F PACE",
@@ -54,7 +54,7 @@
       "sql_id": "15197"
     },
     "FTYPE": {
-      "id": "FTYPE",
+      "id": "F-TYPE",
       "names": [
         {
           "name": "F TYPE",
@@ -68,7 +68,7 @@
       "sql_id": "8703"
     },
     "IPACE": {
-      "id": "IPACE",
+      "id": "I-PACE",
       "names": [
         {
           "name": "I PACE",
@@ -82,7 +82,7 @@
       "sql_id": "16189"
     },
     "STYPE": {
-      "id": "STYPE",
+      "id": "S-TYPE",
       "names": [
         {
           "name": "S TYPE",
@@ -96,7 +96,7 @@
       "sql_id": "1155"
     },
     "XTYPE": {
-      "id": "XTYPE",
+      "id": "X-TYPE",
       "names": [
         {
           "name": "X TYPE",

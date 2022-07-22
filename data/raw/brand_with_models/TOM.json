@@ -10,20 +10,5 @@
       "threshold": 0.97
     }
   ],
-  "models": {
-    "OTHER": {
-      "id": "OTHER",
-      "names": [
-        {
-          "name": "OTHER",
-          "threshold": 0.85
-        },
-        {
-          "name": "ОТХЕР",
-          "threshold": 0.85
-        }
-      ],
-      "sql_id": "3726"
-    }
-  }
+  "models": {}
 }

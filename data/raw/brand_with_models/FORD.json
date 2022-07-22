@@ -40,7 +40,7 @@
       "sql_id": "888"
     },
     "CMAX": {
-      "id": "CMAX",
+      "id": "C-MAX",
       "names": [
         {
           "name": "C MAX",
@@ -82,7 +82,7 @@
       "sql_id": "1907"
     },
     "CLUBWAGON": {
-      "id": "CLUBWAGON",
+      "id": "CLUB WAGON",
       "names": [
         {
           "name": "CLUB WAGON",
@@ -138,7 +138,7 @@
       "sql_id": "1624"
     },
     "CROWNVICTORIA": {
-      "id": "CROWNVICTORIA",
+      "id": "CROWN VICTORIA",
       "names": [
         {
           "name": "CROWN VICTORIA",
@@ -152,7 +152,7 @@
       "sql_id": "896"
     },
     "E350": {
-      "id": "E350",
+      "id": "E 350",
       "names": [
         {
           "name": "E 350",
@@ -162,7 +162,7 @@
       "sql_id": "1625"
     },
     "ESERIES": {
-      "id": "ESERIES",
+      "id": "E SERIES",
       "names": [
         {
           "name": "E SERIES",
@@ -302,7 +302,7 @@
       "sql_id": "902"
     },
     "F100": {
-      "id": "F100",
+      "id": "F-100",
       "names": [
         {
           "name": "F 100",
@@ -312,7 +312,7 @@
       "sql_id": "903"
     },
     "F150": {
-      "id": "F150",
+      "id": "F-150",
       "names": [
         {
           "name": "F 150",
@@ -322,7 +322,7 @@
       "sql_id": "904"
     },
     "F250": {
-      "id": "F250",
+      "id": "F-250",
       "names": [
         {
           "name": "F 250",
@@ -332,7 +332,7 @@
       "sql_id": "905"
     },
     "F350": {
-      "id": "F350",
+      "id": "F-350",
       "names": [
         {
           "name": "F 350",
@@ -342,7 +342,7 @@
       "sql_id": "1629"
     },
     "F450": {
-      "id": "F450",
+      "id": "F-450",
       "names": [
         {
           "name": "F 450",
@@ -352,7 +352,7 @@
       "sql_id": "1630"
     },
     "F550": {
-      "id": "F550",
+      "id": "F-550",
       "names": [
         {
           "name": "F 550",
@@ -362,7 +362,7 @@
       "sql_id": "1631"
     },
     "F600": {
-      "id": "F600",
+      "id": "F-600",
       "names": [
         {
           "name": "F 600",
@@ -372,7 +372,7 @@
       "sql_id": "1632"
     },
     "F650": {
-      "id": "F650",
+      "id": "F-650",
       "names": [
         {
           "name": "F 650",
@@ -382,7 +382,7 @@
       "sql_id": "1633"
     },
     "F750": {
-      "id": "F750",
+      "id": "F-750",
       "names": [
         {
           "name": "F 750",
@@ -392,7 +392,7 @@
       "sql_id": "1634"
     },
     "FMAX": {
-      "id": "FMAX",
+      "id": "F-MAX",
       "names": [
         {
           "name": "F MAX",
@@ -434,7 +434,7 @@
       "sql_id": "911"
     },
     "FIVEHUNDRED": {
-      "id": "FIVEHUNDRED",
+      "id": "FIVE HUNDRED",
       "names": [
         {
           "name": "FIVE HUNDRED",
@@ -658,7 +658,7 @@
       "sql_id": "929"
     },
     "P100": {
-      "id": "P100",
+      "id": "P-100",
       "names": [
         {
           "name": "P 100",
@@ -710,7 +710,7 @@
       "sql_id": "934"
     },
     "SMAX": {
-      "id": "SMAX",
+      "id": "S-MAX",
       "names": [
         {
           "name": "S MAX",
@@ -818,7 +818,7 @@
       "sql_id": "1637"
     },
     "TOURNEOCONNECT": {
-      "id": "TOURNEOCONNECT",
+      "id": "TOURNEO CONNECT",
       "names": [
         {
           "name": "TOURNEO CONNECT",
@@ -832,7 +832,7 @@
       "sql_id": "1638"
     },
     "TOURNEOCUSTOM": {
-      "id": "TOURNEOCUSTOM",
+      "id": "TOURNEO CUSTOM",
       "names": [
         {
           "name": "TOURNEO CUSTOM",
@@ -860,7 +860,7 @@
       "sql_id": "1639"
     },
     "TRANSITCONNECT": {
-      "id": "TRANSITCONNECT",
+      "id": "TRANSIT CONNECT",
       "names": [
         {
           "name": "TRANSIT CONNECT",
@@ -874,7 +874,7 @@
       "sql_id": "1640"
     },
     "TRANSITCUSTOM": {
-      "id": "TRANSITCUSTOM",
+      "id": "TRANSIT CUSTOM",
       "names": [
         {
           "name": "TRANSIT CUSTOM",

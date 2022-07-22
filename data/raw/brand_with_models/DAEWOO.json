@@ -16,7 +16,7 @@
   ],
   "models": {
     "BCSERIES": {
-      "id": "BCSERIES",
+      "id": "BC SERIES",
       "names": [
         {
           "name": "BC SERIES",
@@ -30,7 +30,7 @@
       "sql_id": "2281"
     },
     "BFSERIES": {
-      "id": "BFSERIES",
+      "id": "BF SERIES",
       "names": [
         {
           "name": "BF SERIES",
@@ -44,7 +44,7 @@
       "sql_id": "2282"
     },
     "BHSERIES": {
-      "id": "BHSERIES",
+      "id": "BH SERIES",
       "names": [
         {
           "name": "BH SERIES",
@@ -58,7 +58,7 @@
       "sql_id": "2283"
     },
     "BMSERIES": {
-      "id": "BMSERIES",
+      "id": "BM SERIES",
       "names": [
         {
           "name": "BM SERIES",
@@ -72,7 +72,7 @@
       "sql_id": "2284"
     },
     "BSSERIES": {
-      "id": "BSSERIES",
+      "id": "BS SERIES",
       "names": [
         {
           "name": "BS SERIES",
@@ -86,7 +86,7 @@
       "sql_id": "2285"
     },
     "BVSERIES": {
-      "id": "BVSERIES",
+      "id": "BV SERIES",
       "names": [
         {
           "name": "BV SERIES",
@@ -100,7 +100,7 @@
       "sql_id": "2286"
     },
     "BXSERIES": {
-      "id": "BXSERIES",
+      "id": "BX SERIES",
       "names": [
         {
           "name": "BX SERIES",
@@ -254,7 +254,7 @@
       "sql_id": "752"
     },
     "LEMANS": {
-      "id": "LEMANS",
+      "id": "LE MANS",
       "names": [
         {
           "name": "LE MANS",
@@ -396,20 +396,6 @@
         }
       ],
       "sql_id": "759"
-    },
-    "OTHER": {
-      "id": "OTHER",
-      "names": [
-        {
-          "name": "OTHER",
-          "threshold": 0.85
-        },
-        {
-          "name": "ОТХЕР",
-          "threshold": 0.85
-        }
-      ],
-      "sql_id": "760"
     },
     "PRINCE": {
       "id": "PRINCE",

@@ -12,7 +12,7 @@
   ],
   "models": {
     "ANDARE1000": {
-      "id": "ANDARE1000",
+      "id": "ANDARE 1000",
       "names": [
         {
           "name": "ANDARE 1000",
@@ -22,7 +22,7 @@
       "sql_id": "2409"
     },
     "ANDARE850": {
-      "id": "ANDARE850",
+      "id": "ANDARE 850",
       "names": [
         {
           "name": "ANDARE 850",
@@ -32,7 +32,7 @@
       "sql_id": "2410"
     },
     "KAMAZ3297": {
-      "id": "KAMAZ3297",
+      "id": "KAMAZ 3297",
       "names": [
         {
           "name": "KAMAZ 3297",

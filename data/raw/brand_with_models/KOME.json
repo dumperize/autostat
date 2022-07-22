@@ -12,7 +12,7 @@
   ],
   "models": {
     "JPPV4": {
-      "id": "JPPV4",
+      "id": "JPPV-4",
       "names": [
         {
           "name": "JPPV 4",
@@ -22,7 +22,7 @@
       "sql_id": "16145"
     },
     "PPV4": {
-      "id": "PPV4",
+      "id": "PPV-4",
       "names": [
         {
           "name": "PPV 4",
@@ -32,7 +32,7 @@
       "sql_id": "16146"
     },
     "TPV3KPK": {
-      "id": "TPV3KPK",
+      "id": "TPV-3KPK",
       "names": [
         {
           "name": "TPV 3KPK",

@@ -12,7 +12,7 @@
   ],
   "models": {
     "1000GTR": {
-      "id": "1000GTR",
+      "id": "1000 GTR",
       "names": [
         {
           "name": "1000 GTR",
@@ -22,7 +22,7 @@
       "sql_id": "2656"
     },
     "1400GTR": {
-      "id": "1400GTR",
+      "id": "1400 GTR",
       "names": [
         {
           "name": "1400 GTR",
@@ -32,7 +32,7 @@
       "sql_id": "2657"
     },
     "DTRACKER": {
-      "id": "DTRACKER",
+      "id": "D-TRACKER",
       "names": [
         {
           "name": "D TRACKER",
@@ -46,7 +46,7 @@
       "sql_id": "2659"
     },
     "ELIMINATOREL": {
-      "id": "ELIMINATOREL",
+      "id": "ELIMINATOR EL",
       "names": [
         {
           "name": "ELIMINATOR EL",
@@ -60,7 +60,7 @@
       "sql_id": "2660"
     },
     "ELIMINATORZL1000": {
-      "id": "ELIMINATORZL1000",
+      "id": "ELIMINATOR ZL 1000",
       "names": [
         {
           "name": "ELIMINATOR ZL 1000",
@@ -70,7 +70,7 @@
       "sql_id": "2662"
     },
     "ELIMINATORZL600": {
-      "id": "ELIMINATORZL600",
+      "id": "ELIMINATOR ZL 600",
       "names": [
         {
           "name": "ELIMINATOR ZL 600",
@@ -80,7 +80,7 @@
       "sql_id": "2664"
     },
     "ELIMINATORZL900": {
-      "id": "ELIMINATORZL900",
+      "id": "ELIMINATOR ZL 900",
       "names": [
         {
           "name": "ELIMINATOR ZL 900",
@@ -90,7 +90,7 @@
       "sql_id": "2666"
     },
     "ER5": {
-      "id": "ER5",
+      "id": "ER 5",
       "names": [
         {
           "name": "ER 5",
@@ -100,7 +100,7 @@
       "sql_id": "2667"
     },
     "ER6": {
-      "id": "ER6",
+      "id": "ER 6",
       "names": [
         {
           "name": "ER 6",
@@ -162,7 +162,7 @@
       "sql_id": "2672"
     },
     "NINJA250": {
-      "id": "NINJA250",
+      "id": "NINJA 250",
       "names": [
         {
           "name": "NINJA 250",
@@ -172,7 +172,7 @@
       "sql_id": "17357"
     },
     "NINJA250R": {
-      "id": "NINJA250R",
+      "id": "NINJA 250R",
       "names": [
         {
           "name": "NINJA 250R",
@@ -182,7 +182,7 @@
       "sql_id": "2673"
     },
     "NINJA300": {
-      "id": "NINJA300",
+      "id": "NINJA 300",
       "names": [
         {
           "name": "NINJA 300",
@@ -192,7 +192,7 @@
       "sql_id": "15183"
     },
     "NINJA400R": {
-      "id": "NINJA400R",
+      "id": "NINJA 400R",
       "names": [
         {
           "name": "NINJA 400R",
@@ -202,7 +202,7 @@
       "sql_id": "2674"
     },
     "NINJA500R": {
-      "id": "NINJA500R",
+      "id": "NINJA 500R",
       "names": [
         {
           "name": "NINJA 500R",
@@ -212,7 +212,7 @@
       "sql_id": "2675"
     },
     "NINJA650": {
-      "id": "NINJA650",
+      "id": "NINJA 650",
       "names": [
         {
           "name": "NINJA 650",
@@ -222,7 +222,7 @@
       "sql_id": "17390"
     },
     "NINJA650R": {
-      "id": "NINJA650R",
+      "id": "NINJA 650R",
       "names": [
         {
           "name": "NINJA 650R",
@@ -232,7 +232,7 @@
       "sql_id": "2676"
     },
     "NINJAH2": {
-      "id": "NINJAH2",
+      "id": "NINJA H2",
       "names": [
         {
           "name": "NINJA H2",
@@ -242,7 +242,7 @@
       "sql_id": "17358"
     },
     "NINJAZX1000": {
-      "id": "NINJAZX1000",
+      "id": "NINJA ZX-1000",
       "names": [
         {
           "name": "NINJA ZX 1000",
@@ -252,7 +252,7 @@
       "sql_id": "2677"
     },
     "NINJAZX1100": {
-      "id": "NINJAZX1100",
+      "id": "NINJA ZX-1100",
       "names": [
         {
           "name": "NINJA ZX 1100",
@@ -262,7 +262,7 @@
       "sql_id": "2678"
     },
     "NINJAZX1200": {
-      "id": "NINJAZX1200",
+      "id": "NINJA ZX-1200",
       "names": [
         {
           "name": "NINJA ZX 1200",
@@ -272,7 +272,7 @@
       "sql_id": "2679"
     },
     "NINJAZX1400": {
-      "id": "NINJAZX1400",
+      "id": "NINJA ZX-1400",
       "names": [
         {
           "name": "NINJA ZX 1400",
@@ -282,7 +282,7 @@
       "sql_id": "2680"
     },
     "NINJAZX6R": {
-      "id": "NINJAZX6R",
+      "id": "NINJA ZX-6R",
       "names": [
         {
           "name": "NINJA ZX 6R",
@@ -292,7 +292,7 @@
       "sql_id": "2682"
     },
     "NINJAZX7R": {
-      "id": "NINJAZX7R",
+      "id": "NINJA ZX-7R",
       "names": [
         {
           "name": "NINJA ZX 7R",
@@ -302,7 +302,7 @@
       "sql_id": "2683"
     },
     "NINJAZX9R": {
-      "id": "NINJAZX9R",
+      "id": "NINJA ZX-9R",
       "names": [
         {
           "name": "NINJA ZX 9R",
@@ -312,7 +312,7 @@
       "sql_id": "2684"
     },
     "SUPERSHERPA": {
-      "id": "SUPERSHERPA",
+      "id": "SUPER SHERPA",
       "names": [
         {
           "name": "SUPER SHERPA",
@@ -326,7 +326,7 @@
       "sql_id": "2686"
     },
     "VERSYS1000": {
-      "id": "VERSYS1000",
+      "id": "VERSYS 1000",
       "names": [
         {
           "name": "VERSYS 1000",
@@ -336,7 +336,7 @@
       "sql_id": "17360"
     },
     "VERSYS650": {
-      "id": "VERSYS650",
+      "id": "VERSYS 650",
       "names": [
         {
           "name": "VERSYS 650",
@@ -346,7 +346,7 @@
       "sql_id": "2687"
     },
     "VERSYSX300": {
-      "id": "VERSYSX300",
+      "id": "VERSYS-X 300",
       "names": [
         {
           "name": "VERSYS X 300",
@@ -356,7 +356,7 @@
       "sql_id": "17361"
     },
     "VULCANEN": {
-      "id": "VULCANEN",
+      "id": "VULCAN EN",
       "names": [
         {
           "name": "VULCAN EN",
@@ -370,7 +370,7 @@
       "sql_id": "2688"
     },
     "VULCANVN1500": {
-      "id": "VULCANVN1500",
+      "id": "VULCAN VN 1500",
       "names": [
         {
           "name": "VULCAN VN 1500",
@@ -380,7 +380,7 @@
       "sql_id": "2689"
     },
     "VULCANVN1600": {
-      "id": "VULCANVN1600",
+      "id": "VULCAN VN 1600",
       "names": [
         {
           "name": "VULCAN VN 1600",
@@ -390,7 +390,7 @@
       "sql_id": "2690"
     },
     "VULCANVN1700": {
-      "id": "VULCANVN1700",
+      "id": "VULCAN VN 1700",
       "names": [
         {
           "name": "VULCAN VN 1700",
@@ -400,7 +400,7 @@
       "sql_id": "2691"
     },
     "VULCANVN2000": {
-      "id": "VULCANVN2000",
+      "id": "VULCAN VN 2000",
       "names": [
         {
           "name": "VULCAN VN 2000",
@@ -410,7 +410,7 @@
       "sql_id": "2692"
     },
     "VULCANVN750": {
-      "id": "VULCANVN750",
+      "id": "VULCAN VN 750",
       "names": [
         {
           "name": "VULCAN VN 750",
@@ -420,7 +420,7 @@
       "sql_id": "2694"
     },
     "VULCANVN800": {
-      "id": "VULCANVN800",
+      "id": "VULCAN VN 800",
       "names": [
         {
           "name": "VULCAN VN 800",
@@ -430,7 +430,7 @@
       "sql_id": "2695"
     },
     "VULCANVN900": {
-      "id": "VULCANVN900",
+      "id": "VULCAN VN 900",
       "names": [
         {
           "name": "VULCAN VN 900",
@@ -450,7 +450,7 @@
       "sql_id": "2697"
     },
     "Z1000": {
-      "id": "Z1000",
+      "id": "Z 1000",
       "names": [
         {
           "name": "Z 1000",
@@ -460,7 +460,7 @@
       "sql_id": "2698"
     },
     "Z250": {
-      "id": "Z250",
+      "id": "Z 250",
       "names": [
         {
           "name": "Z 250",
@@ -470,7 +470,7 @@
       "sql_id": "15180"
     },
     "Z300": {
-      "id": "Z300",
+      "id": "Z 300",
       "names": [
         {
           "name": "Z 300",
@@ -480,7 +480,7 @@
       "sql_id": "15181"
     },
     "Z400": {
-      "id": "Z400",
+      "id": "Z 400",
       "names": [
         {
           "name": "Z 400",
@@ -490,7 +490,7 @@
       "sql_id": "17382"
     },
     "Z750": {
-      "id": "Z750",
+      "id": "Z 750",
       "names": [
         {
           "name": "Z 750",
@@ -500,7 +500,7 @@
       "sql_id": "2699"
     },
     "Z800": {
-      "id": "Z800",
+      "id": "Z 800",
       "names": [
         {
           "name": "Z 800",
@@ -510,7 +510,7 @@
       "sql_id": "15182"
     },
     "Z900": {
-      "id": "Z900",
+      "id": "Z 900",
       "names": [
         {
           "name": "Z 900",
@@ -520,7 +520,7 @@
       "sql_id": "17364"
     },
     "ZEPHYRZR1000": {
-      "id": "ZEPHYRZR1000",
+      "id": "ZEPHYR ZR 1000",
       "names": [
         {
           "name": "ZEPHYR ZR 1000",
@@ -530,7 +530,7 @@
       "sql_id": "2700"
     },
     "ZEPHYRZR1100": {
-      "id": "ZEPHYRZR1100",
+      "id": "ZEPHYR ZR 1100",
       "names": [
         {
           "name": "ZEPHYR ZR 1100",
@@ -540,7 +540,7 @@
       "sql_id": "2701"
     },
     "ZEPHYRZR550": {
-      "id": "ZEPHYRZR550",
+      "id": "ZEPHYR ZR 550",
       "names": [
         {
           "name": "ZEPHYR ZR 550",
@@ -550,7 +550,7 @@
       "sql_id": "2703"
     },
     "ZEPHYRZR750": {
-      "id": "ZEPHYRZR750",
+      "id": "ZEPHYR ZR 750",
       "names": [
         {
           "name": "ZEPHYR ZR 750",
@@ -570,7 +570,7 @@
       "sql_id": "17238"
     },
     "ZRX1100": {
-      "id": "ZRX1100",
+      "id": "ZRX 1100",
       "names": [
         {
           "name": "ZRX 1100",
@@ -580,7 +580,7 @@
       "sql_id": "2705"
     },
     "ZRX1200": {
-      "id": "ZRX1200",
+      "id": "ZRX 1200",
       "names": [
         {
           "name": "ZRX 1200",

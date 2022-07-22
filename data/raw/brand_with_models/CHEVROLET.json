@@ -212,7 +212,7 @@
       "sql_id": "612"
     },
     "CHEVYVAN": {
-      "id": "CHEVYVAN",
+      "id": "CHEVY VAN",
       "names": [
         {
           "name": "CHEVY VAN",
@@ -380,7 +380,7 @@
       "sql_id": "1583"
     },
     "GSERIES": {
-      "id": "GSERIES",
+      "id": "G SERIES",
       "names": [
         {
           "name": "G SERIES",
@@ -394,7 +394,7 @@
       "sql_id": "1584"
     },
     "GEOMETRO": {
-      "id": "GEOMETRO",
+      "id": "GEO METRO",
       "names": [
         {
           "name": "GEO METRO",
@@ -408,7 +408,7 @@
       "sql_id": "624"
     },
     "GEOPRIZM": {
-      "id": "GEOPRIZM",
+      "id": "GEO PRIZM",
       "names": [
         {
           "name": "GEO PRIZM",
@@ -422,7 +422,7 @@
       "sql_id": "625"
     },
     "GEOSTORM": {
-      "id": "GEOSTORM",
+      "id": "GEO STORM",
       "names": [
         {
           "name": "GEO STORM",
@@ -436,7 +436,7 @@
       "sql_id": "626"
     },
     "GEOTRACKER": {
-      "id": "GEOTRACKER",
+      "id": "GEO TRACKER",
       "names": [
         {
           "name": "GEO TRACKER",
@@ -594,7 +594,7 @@
       "sql_id": "639"
     },
     "MONTECARLO": {
-      "id": "MONTECARLO",
+      "id": "MONTE CARLO",
       "names": [
         {
           "name": "MONTE CARLO",
@@ -776,7 +776,7 @@
       "sql_id": "656"
     },
     "SPORTVAN": {
-      "id": "SPORTVAN",
+      "id": "SPORT VAN",
       "names": [
         {
           "name": "SPORT VAN",
@@ -902,7 +902,7 @@
       "sql_id": "667"
     },
     "TRANSSPORT": {
-      "id": "TRANSSPORT",
+      "id": "TRANS SPORT",
       "names": [
         {
           "name": "TRANS SPORT",

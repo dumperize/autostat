@@ -12,7 +12,7 @@
   ],
   "models": {
     "911CARRERA": {
-      "id": "911CARRERA",
+      "id": "911 CARRERA",
       "names": [
         {
           "name": "911 CARRERA",
@@ -22,7 +22,7 @@
       "sql_id": "190"
     },
     "911GT": {
-      "id": "911GT",
+      "id": "911 GT",
       "names": [
         {
           "name": "911 GT",
@@ -32,7 +32,7 @@
       "sql_id": "191"
     },
     "911TARGA": {
-      "id": "911TARGA",
+      "id": "911 TARGA",
       "names": [
         {
           "name": "911 TARGA",
@@ -42,7 +42,7 @@
       "sql_id": "192"
     },
     "911TURBO": {
-      "id": "911TURBO",
+      "id": "911 TURBO",
       "names": [
         {
           "name": "911 TURBO",

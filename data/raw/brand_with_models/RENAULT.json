@@ -80,7 +80,7 @@
       "sql_id": "17256"
     },
     "CSERIES": {
-      "id": "CSERIES",
+      "id": "C-SERIES",
       "names": [
         {
           "name": "C SERIES",
@@ -108,7 +108,7 @@
       "sql_id": "230"
     },
     "DOKKERVP": {
-      "id": "DOKKERVP",
+      "id": "DOKKER VP",
       "names": [
         {
           "name": "DOKKER",
@@ -178,7 +178,7 @@
       "sql_id": "233"
     },
     "KSERIES": {
-      "id": "KSERIES",
+      "id": "K-SERIES",
       "names": [
         {
           "name": "K SERIES",
@@ -206,7 +206,7 @@
       "sql_id": "15302"
     },
     "KANGOOVP": {
-      "id": "KANGOOVP",
+      "id": "KANGOO VP",
       "names": [
         {
           "name": "KANGOO",
@@ -500,7 +500,7 @@
       "sql_id": "243"
     },
     "TSERIES": {
-      "id": "TSERIES",
+      "id": "T-SERIES",
       "names": [
         {
           "name": "T SERIES",
@@ -570,7 +570,7 @@
       "sql_id": "7667"
     },
     "VELSATIS": {
-      "id": "VELSATIS",
+      "id": "VEL SATIS",
       "names": [
         {
           "name": "VEL SATIS",

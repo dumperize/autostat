@@ -12,7 +12,7 @@
   ],
   "models": {
     "MODEL3": {
-      "id": "MODEL3",
+      "id": "MODEL 3",
       "names": [
         {
           "name": "MODEL 3",
@@ -22,7 +22,7 @@
       "sql_id": "17254"
     },
     "MODELS": {
-      "id": "MODELS",
+      "id": "MODEL S",
       "names": [
         {
           "name": "MODEL S",
@@ -36,7 +36,7 @@
       "sql_id": "15195"
     },
     "MODELX": {
-      "id": "MODELX",
+      "id": "MODEL X",
       "names": [
         {
           "name": "MODEL X",
@@ -50,7 +50,7 @@
       "sql_id": "15196"
     },
     "MODELY": {
-      "id": "MODELY",
+      "id": "MODEL Y",
       "names": [
         {
           "name": "MODEL Y",

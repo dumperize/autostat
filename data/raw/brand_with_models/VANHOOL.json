@@ -121,20 +121,6 @@
       ],
       "sql_id": "2918"
     },
-    "OTHER": {
-      "id": "OTHER",
-      "names": [
-        {
-          "name": "OTHER",
-          "threshold": 0.85
-        },
-        {
-          "name": "ОТХЕР",
-          "threshold": 0.85
-        }
-      ],
-      "sql_id": "2919"
-    },
     "S": {
       "id": "S",
       "names": [
@@ -170,7 +156,7 @@
       "sql_id": "2252"
     },
     "VHL02012AA": {
-      "id": "VHL02012AA",
+      "id": "VHL0-2012AA",
       "names": [
         {
           "name": "VHL0 2012AA",

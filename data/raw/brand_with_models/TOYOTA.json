@@ -134,7 +134,7 @@
       "sql_id": "359"
     },
     "CHR": {
-      "id": "CHR",
+      "id": "C-HR",
       "names": [
         {
           "name": "C HR",
@@ -284,7 +284,7 @@
       "sql_id": "375"
     },
     "COROLLASPACIO": {
-      "id": "COROLLASPACIO",
+      "id": "COROLLA SPACIO",
       "names": [
         {
           "name": "COROLLA SPACIO",
@@ -382,7 +382,7 @@
       "sql_id": "384"
     },
     "FJCRUISER": {
-      "id": "FJCRUISER",
+      "id": "FJ CRUISER",
       "names": [
         {
           "name": "FJ CRUISER",
@@ -538,7 +538,7 @@
       "sql_id": "397"
     },
     "LANDCRUISER": {
-      "id": "LANDCRUISER",
+      "id": "LAND CRUISER",
       "names": [
         {
           "name": "LAND CRUISER",
@@ -552,7 +552,7 @@
       "sql_id": "399"
     },
     "LANDCRUISER100": {
-      "id": "LANDCRUISER100",
+      "id": "LAND CRUISER 100",
       "names": [
         {
           "name": "LAND CRUISER 100",
@@ -562,7 +562,7 @@
       "sql_id": "15285"
     },
     "LANDCRUISER105": {
-      "id": "LANDCRUISER105",
+      "id": "LAND CRUISER 105",
       "names": [
         {
           "name": "LAND CRUISER 105",
@@ -572,7 +572,7 @@
       "sql_id": "15297"
     },
     "LANDCRUISER200": {
-      "id": "LANDCRUISER200",
+      "id": "LAND CRUISER 200",
       "names": [
         {
           "name": "LAND CRUISER 200",
@@ -582,7 +582,7 @@
       "sql_id": "15286"
     },
     "LANDCRUISER40": {
-      "id": "LANDCRUISER40",
+      "id": "LAND CRUISER 40",
       "names": [
         {
           "name": "LAND CRUISER 40",
@@ -592,7 +592,7 @@
       "sql_id": "15281"
     },
     "LANDCRUISER60": {
-      "id": "LANDCRUISER60",
+      "id": "LAND CRUISER 60",
       "names": [
         {
           "name": "LAND CRUISER 60",
@@ -602,7 +602,7 @@
       "sql_id": "15282"
     },
     "LANDCRUISER70": {
-      "id": "LANDCRUISER70",
+      "id": "LAND CRUISER 70",
       "names": [
         {
           "name": "LAND CRUISER 70",
@@ -612,7 +612,7 @@
       "sql_id": "15283"
     },
     "LANDCRUISER80": {
-      "id": "LANDCRUISER80",
+      "id": "LAND CRUISER 80",
       "names": [
         {
           "name": "LAND CRUISER 80",
@@ -622,7 +622,7 @@
       "sql_id": "15284"
     },
     "LANDCRUISERPRADO": {
-      "id": "LANDCRUISERPRADO",
+      "id": "LAND CRUISER PRADO",
       "names": [
         {
           "name": "LAND CRUISER PRADO",
@@ -636,7 +636,7 @@
       "sql_id": "400"
     },
     "LANDCRUISERPRADO120": {
-      "id": "LANDCRUISERPRADO120",
+      "id": "LAND CRUISER PRADO 120",
       "names": [
         {
           "name": "LAND CRUISER PRADO 120",
@@ -646,7 +646,7 @@
       "sql_id": "15289"
     },
     "LANDCRUISERPRADO150": {
-      "id": "LANDCRUISERPRADO150",
+      "id": "LAND CRUISER PRADO 150",
       "names": [
         {
           "name": "LAND CRUISER PRADO 150",
@@ -656,7 +656,7 @@
       "sql_id": "15290"
     },
     "LANDCRUISERPRADO70": {
-      "id": "LANDCRUISERPRADO70",
+      "id": "LAND CRUISER PRADO 70",
       "names": [
         {
           "name": "LAND CRUISER PRADO 70",
@@ -666,7 +666,7 @@
       "sql_id": "15287"
     },
     "LANDCRUISERPRADO90": {
-      "id": "LANDCRUISERPRADO90",
+      "id": "LAND CRUISER PRADO 90",
       "names": [
         {
           "name": "LAND CRUISER PRADO 90",
@@ -718,7 +718,7 @@
       "sql_id": "403"
     },
     "MODELF": {
-      "id": "MODELF",
+      "id": "MODEL F",
       "names": [
         {
           "name": "MODEL F",
@@ -990,7 +990,7 @@
       "sql_id": "437"
     },
     "SPRINTERCARIB": {
-      "id": "SPRINTERCARIB",
+      "id": "SPRINTER CARIB",
       "names": [
         {
           "name": "SPRINTER CARIB",
@@ -1116,7 +1116,7 @@
       "sql_id": "443"
     },
     "URBANCRUISER": {
-      "id": "URBANCRUISER",
+      "id": "URBAN CRUISER",
       "names": [
         {
           "name": "URBAN CRUISER",

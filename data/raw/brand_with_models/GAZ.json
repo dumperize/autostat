@@ -262,7 +262,7 @@
       "sql_id": "956"
     },
     "GAZELLENEXT": {
-      "id": "GAZELLENEXT",
+      "id": "GAZELLE NEXT",
       "names": [
         {
           "name": "GAZELLE NEXT",
@@ -276,7 +276,7 @@
       "sql_id": "5133"
     },
     "GAZONNEXT": {
-      "id": "GAZONNEXT",
+      "id": "GAZON NEXT",
       "names": [
         {
           "name": "GAZON NEXT",
@@ -313,22 +313,8 @@
       ],
       "sql_id": "959"
     },
-    "OTHER": {
-      "id": "OTHER",
-      "names": [
-        {
-          "name": "OTHER",
-          "threshold": 0.85
-        },
-        {
-          "name": "ОТХЕР",
-          "threshold": 0.85
-        }
-      ],
-      "sql_id": "1954"
-    },
     "SADKONEXT": {
-      "id": "SADKONEXT",
+      "id": "SADKO NEXT",
       "names": [
         {
           "name": "SADKO NEXT",
@@ -342,7 +328,7 @@
       "sql_id": "18563"
     },
     "VALDAINEXT": {
-      "id": "VALDAINEXT",
+      "id": "VALDAI NEXT",
       "names": [
         {
           "name": "VALDAI NEXT",
@@ -356,7 +342,7 @@
       "sql_id": "18665"
     },
     "VOLGASIBER": {
-      "id": "VOLGASIBER",
+      "id": "VOLGA SIBER",
       "names": [
         {
           "name": "VOLGA SIBER",

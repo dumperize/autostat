@@ -12,7 +12,7 @@
   ],
   "models": {
     "200SERIES": {
-      "id": "200SERIES",
+      "id": "200 SERIES",
       "names": [
         {
           "name": "200 SERIES",
@@ -26,7 +26,7 @@
       "sql_id": "500"
     },
     "300SERIES": {
-      "id": "300SERIES",
+      "id": "300 SERIES",
       "names": [
         {
           "name": "300 SERIES",
@@ -40,7 +40,7 @@
       "sql_id": "501"
     },
     "400SERIES": {
-      "id": "400SERIES",
+      "id": "400 SERIES",
       "names": [
         {
           "name": "400 SERIES",
@@ -54,7 +54,7 @@
       "sql_id": "502"
     },
     "700SERIES": {
-      "id": "700SERIES",
+      "id": "700 SERIES",
       "names": [
         {
           "name": "700 SERIES",
@@ -68,7 +68,7 @@
       "sql_id": "503"
     },
     "800SERIES": {
-      "id": "800SERIES",
+      "id": "800 SERIES",
       "names": [
         {
           "name": "800 SERIES",
@@ -82,7 +82,7 @@
       "sql_id": "504"
     },
     "900SERIES": {
-      "id": "900SERIES",
+      "id": "900 SERIES",
       "names": [
         {
           "name": "900 SERIES",

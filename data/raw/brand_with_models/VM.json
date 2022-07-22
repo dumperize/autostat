@@ -21,22 +21,8 @@
       ],
       "sql_id": "15963"
     },
-    "OTHER": {
-      "id": "OTHER",
-      "names": [
-        {
-          "name": "OTHER",
-          "threshold": 0.85
-        },
-        {
-          "name": "ОТХЕР",
-          "threshold": 0.85
-        }
-      ],
-      "sql_id": "10844"
-    },
     "YADISHVM8357/912801": {
-      "id": "YADISHVM8357/912801",
+      "id": "YADISH-VM-8357/912801",
       "names": [
         {
           "name": "YADISH VM 8357/912801",

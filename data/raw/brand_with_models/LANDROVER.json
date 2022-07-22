@@ -40,7 +40,7 @@
       "sql_id": "1230"
     },
     "DISCOVERYSPORT": {
-      "id": "DISCOVERYSPORT",
+      "id": "DISCOVERY SPORT",
       "names": [
         {
           "name": "DISCOVERY SPORT",
@@ -88,7 +88,7 @@
       "sql_id": "1233"
     },
     "RANGEROVER": {
-      "id": "RANGEROVER",
+      "id": "RANGE ROVER",
       "names": [
         {
           "name": "RANGE ROVER",
@@ -102,7 +102,7 @@
       "sql_id": "1235"
     },
     "RANGEROVEREVOQUE": {
-      "id": "RANGEROVEREVOQUE",
+      "id": "RANGE ROVER EVOQUE",
       "names": [
         {
           "name": "RANGE ROVER EVOQUE",
@@ -116,7 +116,7 @@
       "sql_id": "1236"
     },
     "RANGEROVERSPORT": {
-      "id": "RANGEROVERSPORT",
+      "id": "RANGE ROVER SPORT",
       "names": [
         {
           "name": "RANGE ROVER SPORT",
@@ -130,7 +130,7 @@
       "sql_id": "1237"
     },
     "RANGEROVERVELAR": {
-      "id": "RANGEROVERVELAR",
+      "id": "RANGE ROVER VELAR",
       "names": [
         {
           "name": "RANGE ROVER VELAR",

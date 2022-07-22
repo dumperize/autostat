@@ -12,7 +12,7 @@
   ],
   "models": {
     "100NX": {
-      "id": "100NX",
+      "id": "100 NX",
       "names": [
         {
           "name": "100 NX",
@@ -22,7 +22,7 @@
       "sql_id": "17"
     },
     "200SX": {
-      "id": "200SX",
+      "id": "200 SX",
       "names": [
         {
           "name": "200 SX",
@@ -32,7 +32,7 @@
       "sql_id": "19"
     },
     "240SX": {
-      "id": "240SX",
+      "id": "240 SX",
       "names": [
         {
           "name": "240 SX",
@@ -42,7 +42,7 @@
       "sql_id": "20"
     },
     "300ZX": {
-      "id": "300ZX",
+      "id": "300 ZX",
       "names": [
         {
           "name": "300 ZX",
@@ -52,7 +52,7 @@
       "sql_id": "21"
     },
     "350Z": {
-      "id": "350Z",
+      "id": "350 Z",
       "names": [
         {
           "name": "350 Z",
@@ -90,7 +90,7 @@
       "sql_id": "24"
     },
     "ALMERACLASSIC": {
-      "id": "ALMERACLASSIC",
+      "id": "ALMERA CLASSIC",
       "names": [
         {
           "name": "ALMERA CLASSIC",
@@ -104,7 +104,7 @@
       "sql_id": "18655"
     },
     "ALMERATINO": {
-      "id": "ALMERATINO",
+      "id": "ALMERA TINO",
       "names": [
         {
           "name": "ALMERA TINO",
@@ -342,7 +342,7 @@
       "sql_id": "43"
     },
     "GTR": {
-      "id": "GTR",
+      "id": "GT-R",
       "names": [
         {
           "name": "GT R",
@@ -384,7 +384,7 @@
       "sql_id": "46"
     },
     "KINGCAB": {
-      "id": "KINGCAB",
+      "id": "KING CAB",
       "names": [
         {
           "name": "KING CAB",
@@ -906,7 +906,7 @@
       "sql_id": "1511"
     },
     "XTRAIL": {
-      "id": "XTRAIL",
+      "id": "X-TRAIL",
       "names": [
         {
           "name": "X TRAIL",

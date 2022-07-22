@@ -12,7 +12,7 @@
   ],
   "models": {
     "LK150T7": {
-      "id": "LK150T7",
+      "id": "LK150T-7",
       "names": [
         {
           "name": "LK150T 7",
@@ -22,7 +22,7 @@
       "sql_id": "8888"
     },
     "LK180GY2": {
-      "id": "LK180GY2",
+      "id": "LK180GY-2",
       "names": [
         {
           "name": "LK180GY 2",

@@ -30,20 +30,6 @@
         }
       ],
       "sql_id": "2089"
-    },
-    "OTHER": {
-      "id": "OTHER",
-      "names": [
-        {
-          "name": "OTHER",
-          "threshold": 0.85
-        },
-        {
-          "name": "ОТХЕР",
-          "threshold": 0.85
-        }
-      ],
-      "sql_id": "2090"
     }
   }
 }

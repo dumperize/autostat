@@ -12,7 +12,7 @@
   ],
   "models": {
     "AG24": {
-      "id": "AG24",
+      "id": "AG-24",
       "names": [
         {
           "name": "AG 24",
@@ -22,7 +22,7 @@
       "sql_id": "10206"
     },
     "AK32": {
-      "id": "AK32",
+      "id": "AK-32",
       "names": [
         {
           "name": "AK 32",
@@ -32,7 +32,7 @@
       "sql_id": "10207"
     },
     "AK48": {
-      "id": "AK48",
+      "id": "AK-48",
       "names": [
         {
           "name": "AK 48",
@@ -42,7 +42,7 @@
       "sql_id": "10208"
     },
     "AP27PR": {
-      "id": "AP27PR",
+      "id": "AP-27PR",
       "names": [
         {
           "name": "AP 27PR",
@@ -52,7 +52,7 @@
       "sql_id": "10209"
     },
     "AP36PR": {
-      "id": "AP36PR",
+      "id": "AP-36PR",
       "names": [
         {
           "name": "AP 36PR",
@@ -62,7 +62,7 @@
       "sql_id": "10210"
     },
     "AW27": {
-      "id": "AW27",
+      "id": "AW-27",
       "names": [
         {
           "name": "AW 27",
@@ -71,22 +71,8 @@
       ],
       "sql_id": "10211"
     },
-    "OTHER": {
-      "id": "OTHER",
-      "names": [
-        {
-          "name": "OTHER",
-          "threshold": 0.85
-        },
-        {
-          "name": "ОТХЕР",
-          "threshold": 0.85
-        }
-      ],
-      "sql_id": "10212"
-    },
     "SG240FN": {
-      "id": "SG240FN",
+      "id": "SG-240FN",
       "names": [
         {
           "name": "SG 240FN",
@@ -96,7 +82,7 @@
       "sql_id": "10213"
     },
     "SG240ST": {
-      "id": "SG240ST",
+      "id": "SG-240ST",
       "names": [
         {
           "name": "SG 240ST",
@@ -106,7 +92,7 @@
       "sql_id": "10214"
     },
     "SG240TK": {
-      "id": "SG240TK",
+      "id": "SG-240TK",
       "names": [
         {
           "name": "SG 240TK",
@@ -116,7 +102,7 @@
       "sql_id": "10215"
     },
     "SK24": {
-      "id": "SK24",
+      "id": "SK-24",
       "names": [
         {
           "name": "SK 24",
@@ -126,7 +112,7 @@
       "sql_id": "10216"
     },
     "SP240": {
-      "id": "SP240",
+      "id": "SP-240",
       "names": [
         {
           "name": "SP 240",
@@ -136,7 +122,7 @@
       "sql_id": "10217"
     },
     "SP240PR": {
-      "id": "SP240PR",
+      "id": "SP-240PR",
       "names": [
         {
           "name": "SP 240PR",
@@ -146,7 +132,7 @@
       "sql_id": "10218"
     },
     "SW240GRKR": {
-      "id": "SW240GRKR",
+      "id": "SW-240GRKR",
       "names": [
         {
           "name": "SW 240GRKR",
@@ -156,7 +142,7 @@
       "sql_id": "10220"
     },
     "SW240H": {
-      "id": "SW240H",
+      "id": "SW-240H",
       "names": [
         {
           "name": "SW 240H",
@@ -166,7 +152,7 @@
       "sql_id": "10221"
     },
     "SW24H": {
-      "id": "SW24H",
+      "id": "SW-24H",
       "names": [
         {
           "name": "SW 24H",
@@ -176,7 +162,7 @@
       "sql_id": "10222"
     },
     "ZG18": {
-      "id": "ZG18",
+      "id": "ZG-18",
       "names": [
         {
           "name": "ZG 18",
@@ -186,7 +172,7 @@
       "sql_id": "10223"
     },
     "ZP18": {
-      "id": "ZP18",
+      "id": "ZP-18",
       "names": [
         {
           "name": "ZP 18",
@@ -196,7 +182,7 @@
       "sql_id": "10224"
     },
     "ZW18": {
-      "id": "ZW18",
+      "id": "ZW-18",
       "names": [
         {
           "name": "ZW 18",

@@ -12,7 +12,7 @@
   ],
   "models": {
     "1SERIES": {
-      "id": "1SERIES",
+      "id": "1 SERIES",
       "names": [
         {
           "name": "1 SERIES",
@@ -26,7 +26,7 @@
       "sql_id": "215"
     },
     "2SERIES": {
-      "id": "2SERIES",
+      "id": "2 SERIES",
       "names": [
         {
           "name": "2 SERIES",
@@ -40,7 +40,7 @@
       "sql_id": "7665"
     },
     "2SERIESACTIVETOURER": {
-      "id": "2SERIESACTIVETOURER",
+      "id": "2 SERIES ACTIVE TOURER",
       "names": [
         {
           "name": "2 SERIES ACTIVE TOURER",
@@ -50,7 +50,7 @@
       "sql_id": "18590"
     },
     "3GT": {
-      "id": "3GT",
+      "id": "3 GT",
       "names": [
         {
           "name": "3 GT",
@@ -60,7 +60,7 @@
       "sql_id": "8708"
     },
     "3SERIES": {
-      "id": "3SERIES",
+      "id": "3 SERIES",
       "names": [
         {
           "name": "3 SERIES",
@@ -74,7 +74,7 @@
       "sql_id": "216"
     },
     "4SERIES": {
-      "id": "4SERIES",
+      "id": "4 SERIES",
       "names": [
         {
           "name": "4 SERIES",
@@ -88,7 +88,7 @@
       "sql_id": "6201"
     },
     "5GT": {
-      "id": "5GT",
+      "id": "5 GT",
       "names": [
         {
           "name": "5 GT",
@@ -98,7 +98,7 @@
       "sql_id": "210"
     },
     "5SERIES": {
-      "id": "5SERIES",
+      "id": "5 SERIES",
       "names": [
         {
           "name": "5 SERIES",
@@ -112,7 +112,7 @@
       "sql_id": "217"
     },
     "6GT": {
-      "id": "6GT",
+      "id": "6 GT",
       "names": [
         {
           "name": "6 GT",
@@ -122,7 +122,7 @@
       "sql_id": "16107"
     },
     "6SERIES": {
-      "id": "6SERIES",
+      "id": "6 SERIES",
       "names": [
         {
           "name": "6 SERIES",
@@ -136,7 +136,7 @@
       "sql_id": "218"
     },
     "7SERIES": {
-      "id": "7SERIES",
+      "id": "7 SERIES",
       "names": [
         {
           "name": "7 SERIES",
@@ -150,7 +150,7 @@
       "sql_id": "219"
     },
     "8SERIES": {
-      "id": "8SERIES",
+      "id": "8 SERIES",
       "names": [
         {
           "name": "8 SERIES",
@@ -164,7 +164,7 @@
       "sql_id": "220"
     },
     "CEVOLUTION": {
-      "id": "CEVOLUTION",
+      "id": "C EVOLUTION",
       "names": [
         {
           "name": "C EVOLUTION",
@@ -178,7 +178,7 @@
       "sql_id": "17303"
     },
     "C1": {
-      "id": "C1",
+      "id": "C-1",
       "names": [
         {
           "name": "C 1",
@@ -188,7 +188,7 @@
       "sql_id": "2444"
     },
     "C600SPORT": {
-      "id": "C600SPORT",
+      "id": "C600 SPORT",
       "names": [
         {
           "name": "C600 SPORT",
@@ -198,7 +198,7 @@
       "sql_id": "17286"
     },
     "C650SPORT": {
-      "id": "C650SPORT",
+      "id": "C650 SPORT",
       "names": [
         {
           "name": "C650 SPORT",
@@ -597,22 +597,8 @@
       ],
       "sql_id": "18440"
     },
-    "OTHER": {
-      "id": "OTHER",
-      "names": [
-        {
-          "name": "OTHER",
-          "threshold": 0.85
-        },
-        {
-          "name": "ОТХЕР",
-          "threshold": 0.85
-        }
-      ],
-      "sql_id": "214"
-    },
     "RNINET": {
-      "id": "RNINET",
+      "id": "R NINE T",
       "names": [
         {
           "name": "R NINE T",

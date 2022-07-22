@@ -39,20 +39,6 @@
       ],
       "sql_id": "2300"
     },
-    "OTHER": {
-      "id": "OTHER",
-      "names": [
-        {
-          "name": "OTHER",
-          "threshold": 0.85
-        },
-        {
-          "name": "ОТХЕР",
-          "threshold": 0.85
-        }
-      ],
-      "sql_id": "2301"
-    },
     "ROCSTA": {
       "id": "ROCSTA",
       "names": [

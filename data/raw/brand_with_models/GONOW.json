@@ -12,7 +12,7 @@
   ],
   "models": {
     "AOOSEDG5": {
-      "id": "AOOSEDG5",
+      "id": "AOOSED G5",
       "names": [
         {
           "name": "AOOSED G5",
@@ -22,7 +22,7 @@
       "sql_id": "15216"
     },
     "TROY100": {
-      "id": "TROY100",
+      "id": "TROY 100",
       "names": [
         {
           "name": "TROY 100",
@@ -32,7 +32,7 @@
       "sql_id": "15218"
     },
     "WAYM1": {
-      "id": "WAYM1",
+      "id": "WAY M1",
       "names": [
         {
           "name": "WAY M1",
@@ -42,7 +42,7 @@
       "sql_id": "15219"
     },
     "WAYM2": {
-      "id": "WAYM2",
+      "id": "WAY M2",
       "names": [
         {
           "name": "WAY M2",
@@ -52,7 +52,7 @@
       "sql_id": "15220"
     },
     "WAYV1": {
-      "id": "WAYV1",
+      "id": "WAY V1",
       "names": [
         {
           "name": "WAY V1",

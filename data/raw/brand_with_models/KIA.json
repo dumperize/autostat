@@ -166,7 +166,7 @@
       "sql_id": "1180"
     },
     "KSERIES": {
-      "id": "KSERIES",
+      "id": "K-SERIES",
       "names": [
         {
           "name": "K SERIES",
@@ -486,7 +486,7 @@
       "sql_id": "1193"
     },
     "SPORTAGE1": {
-      "id": "SPORTAGE1",
+      "id": "SPORTAGE 1",
       "names": [
         {
           "name": "SPORTAGE 1",
@@ -496,7 +496,7 @@
       "sql_id": "15291"
     },
     "SPORTAGE2": {
-      "id": "SPORTAGE2",
+      "id": "SPORTAGE 2",
       "names": [
         {
           "name": "SPORTAGE 2",
@@ -506,7 +506,7 @@
       "sql_id": "15292"
     },
     "SPORTAGE3": {
-      "id": "SPORTAGE3",
+      "id": "SPORTAGE 3",
       "names": [
         {
           "name": "SPORTAGE 3",
@@ -516,7 +516,7 @@
       "sql_id": "15293"
     },
     "SPORTAGE4": {
-      "id": "SPORTAGE4",
+      "id": "SPORTAGE 4",
       "names": [
         {
           "name": "SPORTAGE 4",

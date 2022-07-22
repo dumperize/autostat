@@ -12,7 +12,7 @@
   ],
   "models": {
     "BESTURNB50": {
-      "id": "BESTURNB50",
+      "id": "BESTURN B50",
       "names": [
         {
           "name": "BESTURN B50",
@@ -22,7 +22,7 @@
       "sql_id": "826"
     },
     "BESTURNX40": {
-      "id": "BESTURNX40",
+      "id": "BESTURN X40",
       "names": [
         {
           "name": "BESTURN X40",
@@ -32,7 +32,7 @@
       "sql_id": "17272"
     },
     "BESTURNX80": {
-      "id": "BESTURNX80",
+      "id": "BESTURN X80",
       "names": [
         {
           "name": "BESTURN X80",
@@ -306,7 +306,7 @@
       "sql_id": "8712"
     },
     "TIGERV": {
-      "id": "TIGERV",
+      "id": "TIGER V",
       "names": [
         {
           "name": "TIGER V",

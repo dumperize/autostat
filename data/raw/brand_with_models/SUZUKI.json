@@ -110,7 +110,7 @@
       "sql_id": "325"
     },
     "DLVSTROM": {
-      "id": "DLVSTROM",
+      "id": "DL V-STROM",
       "names": [
         {
           "name": "DL V STROM",
@@ -138,7 +138,7 @@
       "sql_id": "2498"
     },
     "DRZ": {
-      "id": "DRZ",
+      "id": "DR-Z",
       "names": [
         {
           "name": "DR Z",
@@ -194,7 +194,7 @@
       "sql_id": "2499"
     },
     "GRANDVITARA": {
-      "id": "GRANDVITARA",
+      "id": "GRAND VITARA",
       "names": [
         {
           "name": "GRAND VITARA",
@@ -389,20 +389,6 @@
       ],
       "sql_id": "330"
     },
-    "OTHER": {
-      "id": "OTHER",
-      "names": [
-        {
-          "name": "OTHER",
-          "threshold": 0.85
-        },
-        {
-          "name": "ОТХЕР",
-          "threshold": 0.85
-        }
-      ],
-      "sql_id": "331"
-    },
     "RF": {
       "id": "RF",
       "names": [
@@ -446,7 +432,7 @@
       "sql_id": "2513"
     },
     "SFV650": {
-      "id": "SFV650",
+      "id": "SFV 650",
       "names": [
         {
           "name": "SFV 650",
@@ -508,7 +494,7 @@
       "sql_id": "334"
     },
     "TL1000": {
-      "id": "TL1000",
+      "id": "TL 1000",
       "names": [
         {
           "name": "TL 1000",
@@ -518,7 +504,7 @@
       "sql_id": "2518"
     },
     "TR50SD": {
-      "id": "TR50SD",
+      "id": "TR 50 SD",
       "names": [
         {
           "name": "TR 50 SD",
@@ -528,7 +514,7 @@
       "sql_id": "2519"
     },
     "TU250": {
-      "id": "TU250",
+      "id": "TU 250",
       "names": [
         {
           "name": "TU 250",
@@ -552,7 +538,7 @@
       "sql_id": "18642"
     },
     "VITARA/GRANDVITARA": {
-      "id": "VITARA/GRANDVITARA",
+      "id": "VITARA/GRAND VITARA",
       "names": [
         {
           "name": "VITARA/GRAND VITARA",
@@ -594,7 +580,7 @@
       "sql_id": "2524"
     },
     "VX800": {
-      "id": "VX800",
+      "id": "VX 800",
       "names": [
         {
           "name": "VX 800",
@@ -632,7 +618,7 @@
       "sql_id": "2527"
     },
     "WAGONR": {
-      "id": "WAGONR",
+      "id": "WAGON R",
       "names": [
         {
           "name": "WAGON R",
@@ -646,7 +632,7 @@
       "sql_id": "336"
     },
     "XF650": {
-      "id": "XF650",
+      "id": "XF 650",
       "names": [
         {
           "name": "XF 650",
@@ -656,7 +642,7 @@
       "sql_id": "2528"
     },
     "XL7": {
-      "id": "XL7",
+      "id": "XL-7",
       "names": [
         {
           "name": "XL 7",

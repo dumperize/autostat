@@ -40,7 +40,7 @@
       "sql_id": "1254"
     },
     "CONTINENTALMARKSERIES": {
-      "id": "CONTINENTALMARKSERIES",
+      "id": "CONTINENTAL MARK SERIES",
       "names": [
         {
           "name": "CONTINENTAL MARK SERIES",
@@ -68,7 +68,7 @@
       "sql_id": "1256"
     },
     "MARKLT": {
-      "id": "MARKLT",
+      "id": "MARK LT",
       "names": [
         {
           "name": "MARK LT",
@@ -138,7 +138,7 @@
       "sql_id": "1261"
     },
     "TOWNCAR": {
-      "id": "TOWNCAR",
+      "id": "TOWN CAR",
       "names": [
         {
           "name": "TOWN CAR",

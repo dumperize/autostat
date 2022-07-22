@@ -12,7 +12,7 @@
   ],
   "models": {
     "CTA10": {
-      "id": "CTA10",
+      "id": "CTA-10",
       "names": [
         {
           "name": "CTA 10",
@@ -22,7 +22,7 @@
       "sql_id": "16125"
     },
     "CTA15": {
-      "id": "CTA15",
+      "id": "CTA-15",
       "names": [
         {
           "name": "CTA 15",
@@ -32,7 +32,7 @@
       "sql_id": "10551"
     },
     "CTA20": {
-      "id": "CTA20",
+      "id": "CTA-20",
       "names": [
         {
           "name": "CTA 20",
@@ -42,7 +42,7 @@
       "sql_id": "16112"
     },
     "CZHU17.52.0": {
-      "id": "CZHU17.52.0",
+      "id": "CZHU-17.5-2.0",
       "names": [
         {
           "name": "CZHU 17.5 2.0",
@@ -52,7 +52,7 @@
       "sql_id": "10552"
     },
     "CZHU222.0": {
-      "id": "CZHU222.0",
+      "id": "CZHU-22-2.0",
       "names": [
         {
           "name": "CZHU 22 2.0",
@@ -62,7 +62,7 @@
       "sql_id": "10553"
     },
     "CZHY101.8": {
-      "id": "CZHY101.8",
+      "id": "CZHY-10-1.8",
       "names": [
         {
           "name": "CZHY 10 1.8",
@@ -72,7 +72,7 @@
       "sql_id": "10555"
     },
     "PC11": {
-      "id": "PC11",
+      "id": "PC-11",
       "names": [
         {
           "name": "PC 11",
@@ -82,7 +82,7 @@
       "sql_id": "16106"
     },
     "PC16": {
-      "id": "PC16",
+      "id": "PC-16",
       "names": [
         {
           "name": "PC 16",
@@ -92,7 +92,7 @@
       "sql_id": "10556"
     },
     "PC7": {
-      "id": "PC7",
+      "id": "PC-7",
       "names": [
         {
           "name": "PC 7",
@@ -102,7 +102,7 @@
       "sql_id": "10557"
     },
     "PPC18": {
-      "id": "PPC18",
+      "id": "PPC-18",
       "names": [
         {
           "name": "PPC 18",
@@ -112,7 +112,7 @@
       "sql_id": "3270"
     },
     "PPC20": {
-      "id": "PPC20",
+      "id": "PPC-20",
       "names": [
         {
           "name": "PPC 20",
@@ -122,7 +122,7 @@
       "sql_id": "3271"
     },
     "PPC209397": {
-      "id": "PPC209397",
+      "id": "PPC-20-9397",
       "names": [
         {
           "name": "PPC 20 9397",
@@ -132,7 +132,7 @@
       "sql_id": "10558"
     },
     "PPC22": {
-      "id": "PPC22",
+      "id": "PPC-22",
       "names": [
         {
           "name": "PPC 22",
@@ -142,7 +142,7 @@
       "sql_id": "3272"
     },
     "PPC24": {
-      "id": "PPC24",
+      "id": "PPC-24",
       "names": [
         {
           "name": "PPC 24",
@@ -152,7 +152,7 @@
       "sql_id": "3273"
     },
     "PPC2493866": {
-      "id": "PPC2493866",
+      "id": "PPC-24-93866",
       "names": [
         {
           "name": "PPC 24 93866",
@@ -162,7 +162,7 @@
       "sql_id": "10559"
     },
     "PPC26": {
-      "id": "PPC26",
+      "id": "PPC-26",
       "names": [
         {
           "name": "PPC 26",
@@ -172,7 +172,7 @@
       "sql_id": "3274"
     },
     "PPC28": {
-      "id": "PPC28",
+      "id": "PPC-28",
       "names": [
         {
           "name": "PPC 28",
@@ -182,7 +182,7 @@
       "sql_id": "3275"
     },
     "PPC30": {
-      "id": "PPC30",
+      "id": "PPC-30",
       "names": [
         {
           "name": "PPC 30",
@@ -192,7 +192,7 @@
       "sql_id": "3276"
     },
     "PPC33": {
-      "id": "PPC33",
+      "id": "PPC-33",
       "names": [
         {
           "name": "PPC 33",
@@ -202,7 +202,7 @@
       "sql_id": "3277"
     },
     "PPC3393892": {
-      "id": "PPC3393892",
+      "id": "PPC-33-93892",
       "names": [
         {
           "name": "PPC 33 93892",
@@ -212,7 +212,7 @@
       "sql_id": "10560"
     },
     "PPC37": {
-      "id": "PPC37",
+      "id": "PPC-37",
       "names": [
         {
           "name": "PPC 37",
@@ -222,7 +222,7 @@
       "sql_id": "3278"
     },
     "PPC40": {
-      "id": "PPC40",
+      "id": "PPC-40",
       "names": [
         {
           "name": "PPC 40",
@@ -232,7 +232,7 @@
       "sql_id": "3279"
     },
     "PPC45": {
-      "id": "PPC45",
+      "id": "PPC-45",
       "names": [
         {
           "name": "PPC 45",
@@ -242,7 +242,7 @@
       "sql_id": "3280"
     },
     "PPCT10.5": {
-      "id": "PPCT10.5",
+      "id": "PPCT-10.5",
       "names": [
         {
           "name": "PPCT 10.5",
@@ -252,7 +252,7 @@
       "sql_id": "10561"
     },
     "PPCT17.6": {
-      "id": "PPCT17.6",
+      "id": "PPCT-17.6",
       "names": [
         {
           "name": "PPCT 17.6",
@@ -262,7 +262,7 @@
       "sql_id": "10562"
     },
     "PPCT22": {
-      "id": "PPCT22",
+      "id": "PPCT-22",
       "names": [
         {
           "name": "PPCT 22",
@@ -272,7 +272,7 @@
       "sql_id": "10563"
     },
     "PPCT27": {
-      "id": "PPCT27",
+      "id": "PPCT-27",
       "names": [
         {
           "name": "PPCT 27",
@@ -282,7 +282,7 @@
       "sql_id": "10564"
     },
     "PPCT36": {
-      "id": "PPCT36",
+      "id": "PPCT-36",
       "names": [
         {
           "name": "PPCT 36",
@@ -292,7 +292,7 @@
       "sql_id": "10565"
     },
     "PPCT46.5": {
-      "id": "PPCT46.5",
+      "id": "PPCT-46.5",
       "names": [
         {
           "name": "PPCT 46.5",

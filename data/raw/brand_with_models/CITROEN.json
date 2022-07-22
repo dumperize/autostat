@@ -36,7 +36,7 @@
       "sql_id": "711"
     },
     "BERLINGOVP": {
-      "id": "BERLINGOVP",
+      "id": "BERLINGO VP",
       "names": [
         {
           "name": "BERLINGO VP",
@@ -50,7 +50,7 @@
       "sql_id": "6179"
     },
     "BERLINGOVU": {
-      "id": "BERLINGOVU",
+      "id": "BERLINGO VU",
       "names": [
         {
           "name": "BERLINGO VU",
@@ -78,7 +78,7 @@
       "sql_id": "712"
     },
     "CCROSSER": {
-      "id": "CROSSER",
+      "id": "C-CROSSER",
       "names": [
         {
           "name": "CROSSER",
@@ -92,7 +92,7 @@
       "sql_id": "723"
     },
     "CELYSEE": {
-      "id": "CELYSEE",
+      "id": "C-ELYSEE",
       "names": [
         {
           "name": "C ELYSEE",
@@ -156,7 +156,7 @@
       "sql_id": "715"
     },
     "C3AIRCROSS": {
-      "id": "C3AIRCROSS",
+      "id": "C3 AIRCROSS",
       "names": [
         {
           "name": "C3 AIRCROSS",
@@ -166,7 +166,7 @@
       "sql_id": "16004"
     },
     "C3PICASSO": {
-      "id": "C3PICASSO",
+      "id": "C3 PICASSO",
       "names": [
         {
           "name": "C3 PICASSO",
@@ -176,7 +176,7 @@
       "sql_id": "716"
     },
     "C3PLURIEL": {
-      "id": "C3PLURIEL",
+      "id": "C3 PLURIEL",
       "names": [
         {
           "name": "C3 PLURIEL",
@@ -196,7 +196,7 @@
       "sql_id": "717"
     },
     "C4AIRCROSS": {
-      "id": "C4AIRCROSS",
+      "id": "C4 AIRCROSS",
       "names": [
         {
           "name": "C4 AIRCROSS",
@@ -206,7 +206,7 @@
       "sql_id": "718"
     },
     "C4GRANDPICASSO": {
-      "id": "C4GRANDPICASSO",
+      "id": "C4 GRAND PICASSO",
       "names": [
         {
           "name": "C4 GRAND PICASSO",
@@ -216,7 +216,7 @@
       "sql_id": "5148"
     },
     "C4PICASSO": {
-      "id": "C4PICASSO",
+      "id": "C4 PICASSO",
       "names": [
         {
           "name": "C4 PICASSO",
@@ -236,7 +236,7 @@
       "sql_id": "720"
     },
     "C5AIRCROSS": {
-      "id": "C5AIRCROSS",
+      "id": "C5 AIRCROSS",
       "names": [
         {
           "name": "C5 AIRCROSS",
@@ -468,7 +468,7 @@
       "sql_id": "737"
     },
     "XSARAPICASSO": {
-      "id": "XSARAPICASSO",
+      "id": "XSARA PICASSO",
       "names": [
         {
           "name": "XSARA PICASSO",

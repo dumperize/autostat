@@ -16,7 +16,7 @@
   ],
   "models": {
     "3000GT": {
-      "id": "3000GT",
+      "id": "3000 GT",
       "names": [
         {
           "name": "3000 GT",
@@ -264,7 +264,7 @@
       "sql_id": "1461"
     },
     "IMIEV": {
-      "id": "IMIEV",
+      "id": "I-MIEV",
       "names": [
         {
           "name": "I MIEV",
@@ -336,7 +336,7 @@
       "sql_id": "1468"
     },
     "MIGHTYMAX": {
-      "id": "MIGHTYMAX",
+      "id": "MIGHTY MAX",
       "names": [
         {
           "name": "MIGHTY MAX",
@@ -364,7 +364,7 @@
       "sql_id": "1472"
     },
     "MIRAGEDINGO": {
-      "id": "MIRAGEDINGO",
+      "id": "MIRAGE DINGO",
       "names": [
         {
           "name": "MIRAGE DINGO",
@@ -490,7 +490,7 @@
       "sql_id": "1490"
     },
     "SPACERUNNER": {
-      "id": "SPACERUNNER",
+      "id": "SPACE RUNNER",
       "names": [
         {
           "name": "SPACE RUNNER",
@@ -504,7 +504,7 @@
       "sql_id": "1492"
     },
     "SPACESTAR": {
-      "id": "SPACESTAR",
+      "id": "SPACE STAR",
       "names": [
         {
           "name": "SPACE STAR",
@@ -518,7 +518,7 @@
       "sql_id": "1493"
     },
     "SPACEWAGON": {
-      "id": "SPACEWAGON",
+      "id": "SPACE WAGON",
       "names": [
         {
           "name": "SPACE WAGON",

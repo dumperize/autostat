@@ -54,7 +54,7 @@
       "sql_id": "1137"
     },
     "CSERIES": {
-      "id": "CSERIES",
+      "id": "C SERIES",
       "names": [
         {
           "name": "C SERIES",
@@ -68,7 +68,7 @@
       "sql_id": "1997"
     },
     "DMAX": {
-      "id": "DMAX",
+      "id": "D-MAX",
       "names": [
         {
           "name": "D MAX",
@@ -82,7 +82,7 @@
       "sql_id": "1138"
     },
     "ESERIES": {
-      "id": "ESERIES",
+      "id": "E SERIES",
       "names": [
         {
           "name": "E SERIES",

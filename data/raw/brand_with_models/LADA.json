@@ -20,7 +20,7 @@
   ],
   "models": {
     "1117KALINAWAGON": {
-      "id": "1117KALINAWAGON",
+      "id": "1117 KALINA WAGON",
       "names": [
         {
           "name": "1117 KALINA WAGON",
@@ -34,7 +34,7 @@
       "sql_id": "1195"
     },
     "1118KALINASEDAN": {
-      "id": "1118KALINASEDAN",
+      "id": "1118 KALINA SEDAN",
       "names": [
         {
           "name": "1118 KALINA SEDAN",
@@ -56,7 +56,7 @@
       "sql_id": "1196"
     },
     "1119KALINAHATCHBACK": {
-      "id": "1119KALINAHATCHBACK",
+      "id": "1119 KALINA HATCHBACK",
       "names": [
         {
           "name": "1119 KALINA HATCHBACK",
@@ -70,7 +70,7 @@
       "sql_id": "1197"
     },
     "2101CLASSIC": {
-      "id": "2101CLASSIC",
+      "id": "2101 CLASSIC",
       "names": [
         {
           "name": "2101 CLASSIC",
@@ -84,7 +84,7 @@
       "sql_id": "1198"
     },
     "2102CLASSIC": {
-      "id": "2102CLASSIC",
+      "id": "2102 CLASSIC",
       "names": [
         {
           "name": "2102 CLASSIC",
@@ -98,7 +98,7 @@
       "sql_id": "1199"
     },
     "2103CLASSIC": {
-      "id": "2103CLASSIC",
+      "id": "2103 CLASSIC",
       "names": [
         {
           "name": "2103 CLASSIC",
@@ -112,7 +112,7 @@
       "sql_id": "1200"
     },
     "2104CLASSIC": {
-      "id": "2104CLASSIC",
+      "id": "2104 CLASSIC",
       "names": [
         {
           "name": "2104 CLASSIC",
@@ -126,7 +126,7 @@
       "sql_id": "1201"
     },
     "2105CLASSIC": {
-      "id": "2105CLASSIC",
+      "id": "2105 CLASSIC",
       "names": [
         {
           "name": "2105 CLASSIC",
@@ -140,7 +140,7 @@
       "sql_id": "1202"
     },
     "2106CLASSIC": {
-      "id": "2106CLASSIC",
+      "id": "2106 CLASSIC",
       "names": [
         {
           "name": "2106 CLASSIC",
@@ -154,7 +154,7 @@
       "sql_id": "1203"
     },
     "2107CLASSIC": {
-      "id": "2107CLASSIC",
+      "id": "2107 CLASSIC",
       "names": [
         {
           "name": "2107 CLASSIC",
@@ -168,7 +168,7 @@
       "sql_id": "1204"
     },
     "2108SAMARA": {
-      "id": "2108SAMARA",
+      "id": "2108 SAMARA",
       "names": [
         {
           "name": "2108 SAMARA",
@@ -182,7 +182,7 @@
       "sql_id": "1205"
     },
     "2109SAMARA": {
-      "id": "2109SAMARA",
+      "id": "2109 SAMARA",
       "names": [
         {
           "name": "2109 SAMARA",
@@ -196,7 +196,7 @@
       "sql_id": "1206"
     },
     "21099SAMARA": {
-      "id": "21099SAMARA",
+      "id": "21099 SAMARA",
       "names": [
         {
           "name": "21099 SAMARA",
@@ -210,7 +210,7 @@
       "sql_id": "1207"
     },
     "2110SEDAN": {
-      "id": "2110SEDAN",
+      "id": "2110 SEDAN",
       "names": [
         {
           "name": "2110 SEDAN",
@@ -224,7 +224,7 @@
       "sql_id": "1208"
     },
     "2111WAGON": {
-      "id": "2111WAGON",
+      "id": "2111 WAGON",
       "names": [
         {
           "name": "2111 WAGON",
@@ -238,7 +238,7 @@
       "sql_id": "1209"
     },
     "2112HATCHBACK": {
-      "id": "2112HATCHBACK",
+      "id": "2112 HATCHBACK",
       "names": [
         {
           "name": "2112 HATCHBACK",
@@ -252,7 +252,7 @@
       "sql_id": "1210"
     },
     "2113SAMARA2": {
-      "id": "2113SAMARA2",
+      "id": "2113 SAMARA 2",
       "names": [
         {
           "name": "2113 SAMARA 2",
@@ -266,7 +266,7 @@
       "sql_id": "1211"
     },
     "2114SAMARA2": {
-      "id": "2114SAMARA2",
+      "id": "2114 SAMARA 2",
       "names": [
         {
           "name": "2114 SAMARA 2",
@@ -280,7 +280,7 @@
       "sql_id": "1212"
     },
     "2115SAMARA2": {
-      "id": "2115SAMARA2",
+      "id": "2115 SAMARA 2",
       "names": [
         {
           "name": "2115 SAMARA 2",
@@ -294,7 +294,7 @@
       "sql_id": "1213"
     },
     "2120NADEZHDA": {
-      "id": "2120NADEZHDA",
+      "id": "2120 NADEZHDA",
       "names": [
         {
           "name": "2120 NADEZHDA",
@@ -308,7 +308,7 @@
       "sql_id": "1214"
     },
     "2170PRIORASEDAN": {
-      "id": "2170PRIORASEDAN",
+      "id": "2170 PRIORA SEDAN",
       "names": [
         {
           "name": "2170 PRIORA SEDAN",
@@ -322,7 +322,7 @@
       "sql_id": "1215"
     },
     "2171PRIORAWAGON": {
-      "id": "2171PRIORAWAGON",
+      "id": "2171 PRIORA WAGON",
       "names": [
         {
           "name": "2171 PRIORA WAGON",
@@ -336,7 +336,7 @@
       "sql_id": "1216"
     },
     "2172PRIORAHATCHBACK": {
-      "id": "2172PRIORAHATCHBACK",
+      "id": "2172 PRIORA HATCHBACK",
       "names": [
         {
           "name": "2172 PRIORA HATCHBACK",
@@ -350,7 +350,7 @@
       "sql_id": "1217"
     },
     "2190GRANTA2SEDAN": {
-      "id": "2190GRANTA2SEDAN",
+      "id": "2190 GRANTA 2 SEDAN",
       "names": [
         {
           "name": "2190 GRANTA 2 SEDAN",
@@ -372,7 +372,7 @@
       "sql_id": "16023"
     },
     "2190GRANTASEDAN": {
-      "id": "2190GRANTASEDAN",
+      "id": "2190 GRANTA SEDAN",
       "names": [
         {
           "name": "2190 GRANTA SEDAN",
@@ -386,7 +386,7 @@
       "sql_id": "1218"
     },
     "2191GRANTA2LIFTBACK": {
-      "id": "2191GRANTA2LIFTBACK",
+      "id": "2191 GRANTA 2 LIFTBACK",
       "names": [
         {
           "name": "2191 GRANTA 2 LIFTBACK",
@@ -400,7 +400,7 @@
       "sql_id": "16024"
     },
     "2191GRANTALIFTBACK": {
-      "id": "2191GRANTALIFTBACK",
+      "id": "2191 GRANTA LIFTBACK",
       "names": [
         {
           "name": "2191 GRANTA LIFTBACK",
@@ -410,7 +410,7 @@
       "sql_id": "8691"
     },
     "2192GRANTA2HATCHBACK": {
-      "id": "2192GRANTA2HATCHBACK",
+      "id": "2192 GRANTA 2 HATCHBACK",
       "names": [
         {
           "name": "2192 GRANTA 2 HATCHBACK",
@@ -424,7 +424,7 @@
       "sql_id": "16025"
     },
     "2192KALINA2HATCHBACK": {
-      "id": "2192KALINA2HATCHBACK",
+      "id": "2192 KALINA 2 HATCHBACK",
       "names": [
         {
           "name": "2192 KALINA 2 HATCHBACK",
@@ -434,7 +434,7 @@
       "sql_id": "5134"
     },
     "2194GRANTA2WAGON": {
-      "id": "2194GRANTA2WAGON",
+      "id": "2194 GRANTA 2 WAGON",
       "names": [
         {
           "name": "2194 GRANTA 2 WAGON",
@@ -448,7 +448,7 @@
       "sql_id": "16026"
     },
     "2194KALINA2WAGON": {
-      "id": "2194KALINA2WAGON",
+      "id": "2194 KALINA 2 WAGON",
       "names": [
         {
           "name": "2194 KALINA 2 WAGON",
@@ -468,7 +468,7 @@
       "sql_id": "1220"
     },
     "4X45DOOR": {
-      "id": "4X45DOOR",
+      "id": "4X4 5-DOOR",
       "names": [
         {
           "name": "4X4 5 DOOR",
@@ -478,7 +478,7 @@
       "sql_id": "8705"
     },
     "4X4VU": {
-      "id": "4X4VU",
+      "id": "4X4 VU",
       "names": [
         {
           "name": "4X4 VU",
@@ -502,7 +502,7 @@
       "sql_id": "18577"
     },
     "SAMARAVU": {
-      "id": "SAMARAVU",
+      "id": "SAMARA VU",
       "names": [
         {
           "name": "SAMARA VU",
@@ -516,7 +516,7 @@
       "sql_id": "15241"
     },
     "VESTASEDAN": {
-      "id": "VESTASEDAN",
+      "id": "VESTA SEDAN",
       "names": [
         {
           "name": "VESTA SEDAN",
@@ -530,7 +530,7 @@
       "sql_id": "15126"
     },
     "VESTASW": {
-      "id": "VESTASW",
+      "id": "VESTA SW",
       "names": [
         {
           "name": "VESTA SW",

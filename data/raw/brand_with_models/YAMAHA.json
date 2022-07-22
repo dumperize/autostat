@@ -26,7 +26,7 @@
       "sql_id": "6584"
     },
     "FJ1100": {
-      "id": "FJ1100",
+      "id": "FJ 1100",
       "names": [
         {
           "name": "FJ 1100",
@@ -36,7 +36,7 @@
       "sql_id": "2815"
     },
     "FJ1200": {
-      "id": "FJ1200",
+      "id": "FJ 1200",
       "names": [
         {
           "name": "FJ 1200",
@@ -46,7 +46,7 @@
       "sql_id": "2816"
     },
     "FJR1300": {
-      "id": "FJR1300",
+      "id": "FJR 1300",
       "names": [
         {
           "name": "FJR 1300",
@@ -112,7 +112,7 @@
       "sql_id": "2822"
     },
     "GTS1000": {
-      "id": "GTS1000",
+      "id": "GTS 1000",
       "names": [
         {
           "name": "GTS 1000",
@@ -136,7 +136,7 @@
       "sql_id": "2824"
     },
     "MT01": {
-      "id": "MT01",
+      "id": "MT-01",
       "names": [
         {
           "name": "MT 01",
@@ -146,7 +146,7 @@
       "sql_id": "2826"
     },
     "MT07": {
-      "id": "MT07",
+      "id": "MT-07",
       "names": [
         {
           "name": "MT 07",
@@ -156,7 +156,7 @@
       "sql_id": "17372"
     },
     "MT09": {
-      "id": "MT09",
+      "id": "MT-09",
       "names": [
         {
           "name": "MT 09",
@@ -166,7 +166,7 @@
       "sql_id": "17373"
     },
     "MT10": {
-      "id": "MT10",
+      "id": "MT-10",
       "names": [
         {
           "name": "MT 10",
@@ -218,7 +218,7 @@
       "sql_id": "11968"
     },
     "TMAX": {
-      "id": "TMAX",
+      "id": "T-MAX",
       "names": [
         {
           "name": "T MAX",
@@ -260,7 +260,7 @@
       "sql_id": "2841"
     },
     "TRX850": {
-      "id": "TRX850",
+      "id": "TRX 850",
       "names": [
         {
           "name": "TRX 850",
@@ -336,7 +336,7 @@
       "sql_id": "2854"
     },
     "XJ600": {
-      "id": "XJ600",
+      "id": "XJ 600",
       "names": [
         {
           "name": "XJ 600",
@@ -346,7 +346,7 @@
       "sql_id": "17405"
     },
     "XJ700MAXIM": {
-      "id": "XJ700MAXIM",
+      "id": "XJ 700 MAXIM",
       "names": [
         {
           "name": "XJ 700 MAXIM",
@@ -356,7 +356,7 @@
       "sql_id": "17407"
     },
     "XJ750": {
-      "id": "XJ750",
+      "id": "XJ 750",
       "names": [
         {
           "name": "XJ 750",
@@ -366,7 +366,7 @@
       "sql_id": "17408"
     },
     "XJ900": {
-      "id": "XJ900",
+      "id": "XJ 900",
       "names": [
         {
           "name": "XJ 900",
@@ -432,7 +432,7 @@
       "sql_id": "2859"
     },
     "XT1200ZSUPERTENERE": {
-      "id": "XT1200ZSUPERTENERE",
+      "id": "XT 1200Z SUPER TENERE",
       "names": [
         {
           "name": "XT 1200Z SUPER TENERE",
@@ -442,7 +442,7 @@
       "sql_id": "17411"
     },
     "XT225": {
-      "id": "XT225",
+      "id": "XT 225",
       "names": [
         {
           "name": "XT 225",
@@ -452,7 +452,7 @@
       "sql_id": "17413"
     },
     "XT250": {
-      "id": "XT250",
+      "id": "XT 250",
       "names": [
         {
           "name": "XT 250",
@@ -462,7 +462,7 @@
       "sql_id": "17414"
     },
     "XT600": {
-      "id": "XT600",
+      "id": "XT 600",
       "names": [
         {
           "name": "XT 600",
@@ -472,7 +472,7 @@
       "sql_id": "17419"
     },
     "XTZ750SUPERTENERE": {
-      "id": "XTZ750SUPERTENERE",
+      "id": "XTZ 750 SUPER TENERE",
       "names": [
         {
           "name": "XTZ 750 SUPER TENERE",
@@ -534,7 +534,7 @@
       "sql_id": "2865"
     },
     "YBR125": {
-      "id": "YBR125",
+      "id": "YBR 125",
       "names": [
         {
           "name": "YBR 125",

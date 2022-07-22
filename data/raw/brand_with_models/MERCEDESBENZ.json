@@ -20,7 +20,7 @@
   ],
   "models": {
     "ACLASS": {
-      "id": "ACLASS",
+      "id": "A-CLASS",
       "names": [
         {
           "name": "A CLASS",
@@ -48,7 +48,7 @@
       "sql_id": "2136"
     },
     "AMGGT": {
-      "id": "AMGGT",
+      "id": "AMG GT",
       "names": [
         {
           "name": "AMG GT",
@@ -104,7 +104,7 @@
       "sql_id": "2140"
     },
     "BCLASS": {
-      "id": "BCLASS",
+      "id": "B-CLASS",
       "names": [
         {
           "name": "B CLASS",
@@ -132,7 +132,7 @@
       "sql_id": "2436"
     },
     "CCLASS": {
-      "id": "CCLASS",
+      "id": "C-CLASS",
       "names": [
         {
           "name": "C CLASS",
@@ -160,7 +160,7 @@
       "sql_id": "4909"
     },
     "CLCLASS": {
-      "id": "CLCLASS",
+      "id": "CL-CLASS",
       "names": [
         {
           "name": "CL CLASS",
@@ -174,7 +174,7 @@
       "sql_id": "1341"
     },
     "CLACLASS": {
-      "id": "CLACLASS",
+      "id": "CLA-CLASS",
       "names": [
         {
           "name": "CLA CLASS",
@@ -188,7 +188,7 @@
       "sql_id": "4908"
     },
     "CLKCLASS": {
-      "id": "CLKCLASS",
+      "id": "CLK-CLASS",
       "names": [
         {
           "name": "CLK CLASS",
@@ -202,7 +202,7 @@
       "sql_id": "1342"
     },
     "CLSCLASS": {
-      "id": "CLSCLASS",
+      "id": "CLS-CLASS",
       "names": [
         {
           "name": "CLS CLASS",
@@ -230,7 +230,7 @@
       "sql_id": "18443"
     },
     "ECLASS": {
-      "id": "ECLASS",
+      "id": "E-CLASS",
       "names": [
         {
           "name": "E CLASS",
@@ -268,7 +268,7 @@
       "sql_id": "18591"
     },
     "GCLASS": {
-      "id": "GCLASS",
+      "id": "G-CLASS",
       "names": [
         {
           "name": "G CLASS",
@@ -282,7 +282,7 @@
       "sql_id": "1345"
     },
     "GLCLASS": {
-      "id": "GLCLASS",
+      "id": "GL-CLASS",
       "names": [
         {
           "name": "GL CLASS",
@@ -296,7 +296,7 @@
       "sql_id": "1346"
     },
     "GLACLASS": {
-      "id": "GLACLASS",
+      "id": "GLA-CLASS",
       "names": [
         {
           "name": "GLA CLASS",
@@ -310,7 +310,7 @@
       "sql_id": "7688"
     },
     "GLBCLASS": {
-      "id": "GLBCLASS",
+      "id": "GLB-CLASS",
       "names": [
         {
           "name": "GLB CLASS",
@@ -324,7 +324,7 @@
       "sql_id": "18562"
     },
     "GLCCLASS": {
-      "id": "GLCCLASS",
+      "id": "GLC-CLASS",
       "names": [
         {
           "name": "GLC CLASS",
@@ -338,7 +338,7 @@
       "sql_id": "14925"
     },
     "GLECLASS": {
-      "id": "GLECLASS",
+      "id": "GLE-CLASS",
       "names": [
         {
           "name": "GLE CLASS",
@@ -352,7 +352,7 @@
       "sql_id": "14902"
     },
     "GLKCLASS": {
-      "id": "GLKCLASS",
+      "id": "GLK-CLASS",
       "names": [
         {
           "name": "GLK CLASS",
@@ -366,7 +366,7 @@
       "sql_id": "1347"
     },
     "GLSCLASS": {
-      "id": "GLSCLASS",
+      "id": "GLS-CLASS",
       "names": [
         {
           "name": "GLS CLASS",
@@ -404,7 +404,7 @@
       "sql_id": "2144"
     },
     "MCLASS": {
-      "id": "MCLASS",
+      "id": "M-CLASS",
       "names": [
         {
           "name": "M CLASS",
@@ -432,7 +432,7 @@
       "sql_id": "1348"
     },
     "MB100": {
-      "id": "MB100",
+      "id": "MB 100",
       "names": [
         {
           "name": "MB 100",
@@ -539,22 +539,8 @@
       ],
       "sql_id": "4871"
     },
-    "OTHER": {
-      "id": "OTHER",
-      "names": [
-        {
-          "name": "OTHER",
-          "threshold": 0.85
-        },
-        {
-          "name": "ОТХЕР",
-          "threshold": 0.85
-        }
-      ],
-      "sql_id": "1350"
-    },
     "RCLASS": {
-      "id": "RCLASS",
+      "id": "R-CLASS",
       "names": [
         {
           "name": "R CLASS",
@@ -568,7 +554,7 @@
       "sql_id": "1351"
     },
     "SCLASS": {
-      "id": "SCLASS",
+      "id": "S-CLASS",
       "names": [
         {
           "name": "S CLASS",
@@ -596,7 +582,7 @@
       "sql_id": "2151"
     },
     "SLCLASS": {
-      "id": "SLCLASS",
+      "id": "SL-CLASS",
       "names": [
         {
           "name": "SL CLASS",
@@ -610,7 +596,7 @@
       "sql_id": "1421"
     },
     "SLCCLASS": {
-      "id": "SLCCLASS",
+      "id": "SLC-CLASS",
       "names": [
         {
           "name": "SLC CLASS",
@@ -624,7 +610,7 @@
       "sql_id": "15207"
     },
     "SLKCLASS": {
-      "id": "SLKCLASS",
+      "id": "SLK-CLASS",
       "names": [
         {
           "name": "SLK CLASS",
@@ -638,7 +624,7 @@
       "sql_id": "1422"
     },
     "SLRCLASS": {
-      "id": "SLRCLASS",
+      "id": "SLR-CLASS",
       "names": [
         {
           "name": "SLR CLASS",
@@ -652,7 +638,7 @@
       "sql_id": "1423"
     },
     "SLSCLASS": {
-      "id": "SLSCLASS",
+      "id": "SLS-CLASS",
       "names": [
         {
           "name": "SLS CLASS",
@@ -680,7 +666,7 @@
       "sql_id": "1701"
     },
     "SPRINTERCLASSIC": {
-      "id": "SPRINTERCLASSIC",
+      "id": "SPRINTER CLASSIC",
       "names": [
         {
           "name": "SPRINTER CLASSIC",
@@ -756,7 +742,7 @@
       "sql_id": "2152"
     },
     "VCLASS": {
-      "id": "VCLASS",
+      "id": "V-CLASS",
       "names": [
         {
           "name": "V CLASS",
@@ -826,7 +812,7 @@
       "sql_id": "1710"
     },
     "XCLASS": {
-      "id": "XCLASS",
+      "id": "X-CLASS",
       "names": [
         {
           "name": "X CLASS",

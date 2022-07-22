@@ -120,7 +120,7 @@
       "sql_id": "1292"
     },
     "BSERIES": {
-      "id": "BSERIES",
+      "id": "B-SERIES",
       "names": [
         {
           "name": "B SERIES",
@@ -148,7 +148,7 @@
       "sql_id": "1694"
     },
     "BT50": {
-      "id": "BT50",
+      "id": "BT-50",
       "names": [
         {
           "name": "BT 50",
@@ -172,7 +172,7 @@
       "sql_id": "1299"
     },
     "CX3": {
-      "id": "CX3",
+      "id": "CX-3",
       "names": [
         {
           "name": "CX 3",
@@ -182,7 +182,7 @@
       "sql_id": "16211"
     },
     "CX30": {
-      "id": "CX30",
+      "id": "CX-30",
       "names": [
         {
           "name": "CX 30",
@@ -192,7 +192,7 @@
       "sql_id": "18659"
     },
     "CX5": {
-      "id": "CX5",
+      "id": "CX-5",
       "names": [
         {
           "name": "CX 5",
@@ -202,7 +202,7 @@
       "sql_id": "1303"
     },
     "CX7": {
-      "id": "CX7",
+      "id": "CX-7",
       "names": [
         {
           "name": "CX 7",
@@ -212,7 +212,7 @@
       "sql_id": "1304"
     },
     "CX9": {
-      "id": "CX9",
+      "id": "CX-9",
       "names": [
         {
           "name": "CX 9",
@@ -236,7 +236,7 @@
       "sql_id": "1306"
     },
     "ESERIES": {
-      "id": "ESERIES",
+      "id": "E-SERIES",
       "names": [
         {
           "name": "E SERIES",
@@ -348,7 +348,7 @@
       "sql_id": "1316"
     },
     "MX3": {
-      "id": "MX3",
+      "id": "MX-3",
       "names": [
         {
           "name": "MX 3",
@@ -358,7 +358,7 @@
       "sql_id": "1320"
     },
     "MX5": {
-      "id": "MX5",
+      "id": "MX-5",
       "names": [
         {
           "name": "MX 5",
@@ -368,7 +368,7 @@
       "sql_id": "1321"
     },
     "MX6": {
-      "id": "MX6",
+      "id": "MX-6",
       "names": [
         {
           "name": "MX 6",
@@ -434,7 +434,7 @@
       "sql_id": "1330"
     },
     "RX7": {
-      "id": "RX7",
+      "id": "RX-7",
       "names": [
         {
           "name": "RX 7",
@@ -444,7 +444,7 @@
       "sql_id": "1332"
     },
     "RX8": {
-      "id": "RX8",
+      "id": "RX-8",
       "names": [
         {
           "name": "RX 8",
@@ -482,7 +482,7 @@
       "sql_id": "1337"
     },
     "XEDOS6": {
-      "id": "XEDOS6",
+      "id": "XEDOS 6",
       "names": [
         {
           "name": "XEDOS 6",
@@ -492,7 +492,7 @@
       "sql_id": "18653"
     },
     "XEDOS9": {
-      "id": "XEDOS9",
+      "id": "XEDOS 9",
       "names": [
         {
           "name": "XEDOS 9",

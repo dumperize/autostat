@@ -12,7 +12,7 @@
   ],
   "models": {
     "TRUCKS105SERIES": {
-      "id": "TRUCKS105SERIES",
+      "id": "TRUCKS 105 SERIES",
       "names": [
         {
           "name": "TRUCKS 105 SERIES",
@@ -22,7 +22,7 @@
       "sql_id": "1860"
     },
     "TRUCKS1700": {
-      "id": "TRUCKS1700",
+      "id": "TRUCKS 1700",
       "names": [
         {
           "name": "TRUCKS 1700",
@@ -32,7 +32,7 @@
       "sql_id": "1861"
     },
     "TRUCKS1900": {
-      "id": "TRUCKS1900",
+      "id": "TRUCKS 1900",
       "names": [
         {
           "name": "TRUCKS 1900",
@@ -42,7 +42,7 @@
       "sql_id": "1862"
     },
     "TRUCKS200": {
-      "id": "TRUCKS200",
+      "id": "TRUCKS 200",
       "names": [
         {
           "name": "TRUCKS 200",
@@ -52,7 +52,7 @@
       "sql_id": "1863"
     },
     "TRUCKS2100": {
-      "id": "TRUCKS2100",
+      "id": "TRUCKS 2100",
       "names": [
         {
           "name": "TRUCKS 2100",
@@ -62,7 +62,7 @@
       "sql_id": "1864"
     },
     "TRUCKS2300": {
-      "id": "TRUCKS2300",
+      "id": "TRUCKS 2300",
       "names": [
         {
           "name": "TRUCKS 2300",
@@ -72,7 +72,7 @@
       "sql_id": "1865"
     },
     "TRUCKS2500": {
-      "id": "TRUCKS2500",
+      "id": "TRUCKS 2500",
       "names": [
         {
           "name": "TRUCKS 2500",
@@ -82,7 +82,7 @@
       "sql_id": "1866"
     },
     "TRUCKS3300": {
-      "id": "TRUCKS3300",
+      "id": "TRUCKS 3300",
       "names": [
         {
           "name": "TRUCKS 3300",
@@ -92,7 +92,7 @@
       "sql_id": "1867"
     },
     "TRUCKS400": {
-      "id": "TRUCKS400",
+      "id": "TRUCKS 400",
       "names": [
         {
           "name": "TRUCKS 400",
@@ -102,7 +102,7 @@
       "sql_id": "1868"
     },
     "TRUCKS45SERIES": {
-      "id": "TRUCKS45SERIES",
+      "id": "TRUCKS 45 SERIES",
       "names": [
         {
           "name": "TRUCKS 45 SERIES",
@@ -112,7 +112,7 @@
       "sql_id": "1869"
     },
     "TRUCKS50SERIES": {
-      "id": "TRUCKS50SERIES",
+      "id": "TRUCKS 50 SERIES",
       "names": [
         {
           "name": "TRUCKS 50 SERIES",
@@ -122,7 +122,7 @@
       "sql_id": "1870"
     },
     "TRUCKS55SERIES": {
-      "id": "TRUCKS55SERIES",
+      "id": "TRUCKS 55 SERIES",
       "names": [
         {
           "name": "TRUCKS 55 SERIES",
@@ -132,7 +132,7 @@
       "sql_id": "1871"
     },
     "TRUCKS60SERIES": {
-      "id": "TRUCKS60SERIES",
+      "id": "TRUCKS 60 SERIES",
       "names": [
         {
           "name": "TRUCKS 60 SERIES",
@@ -142,7 +142,7 @@
       "sql_id": "1872"
     },
     "TRUCKS65SERIES": {
-      "id": "TRUCKS65SERIES",
+      "id": "TRUCKS 65 SERIES",
       "names": [
         {
           "name": "TRUCKS 65 SERIES",
@@ -152,7 +152,7 @@
       "sql_id": "1873"
     },
     "TRUCKS70SERIES": {
-      "id": "TRUCKS70SERIES",
+      "id": "TRUCKS 70 SERIES",
       "names": [
         {
           "name": "TRUCKS 70 SERIES",
@@ -162,7 +162,7 @@
       "sql_id": "1874"
     },
     "TRUCKS75SERIES": {
-      "id": "TRUCKS75SERIES",
+      "id": "TRUCKS 75 SERIES",
       "names": [
         {
           "name": "TRUCKS 75 SERIES",
@@ -172,7 +172,7 @@
       "sql_id": "1875"
     },
     "TRUCKS85SERIES": {
-      "id": "TRUCKS85SERIES",
+      "id": "TRUCKS 85 SERIES",
       "names": [
         {
           "name": "TRUCKS 85 SERIES",
@@ -182,7 +182,7 @@
       "sql_id": "1876"
     },
     "TRUCKS95SERIES": {
-      "id": "TRUCKS95SERIES",
+      "id": "TRUCKS 95 SERIES",
       "names": [
         {
           "name": "TRUCKS 95 SERIES",
@@ -192,7 +192,7 @@
       "sql_id": "1877"
     },
     "TRUCKSCFSERIES": {
-      "id": "TRUCKSCFSERIES",
+      "id": "TRUCKS CF SERIES",
       "names": [
         {
           "name": "TRUCKS CF SERIES",
@@ -206,7 +206,7 @@
       "sql_id": "1878"
     },
     "TRUCKSLFSERIES": {
-      "id": "TRUCKSLFSERIES",
+      "id": "TRUCKS LF SERIES",
       "names": [
         {
           "name": "TRUCKS LF SERIES",
@@ -220,7 +220,7 @@
       "sql_id": "1879"
     },
     "TRUCKSXFSERIES": {
-      "id": "TRUCKSXFSERIES",
+      "id": "TRUCKS XF SERIES",
       "names": [
         {
           "name": "TRUCKS XF SERIES",

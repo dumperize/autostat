@@ -12,7 +12,7 @@
   ],
   "models": {
     "HEAVYDUTY300": {
-      "id": "HEAVYDUTY300",
+      "id": "HEAVY DUTY 300",
       "names": [
         {
           "name": "HEAVY DUTY 300",
@@ -22,7 +22,7 @@
       "sql_id": "16050"
     },
     "HEAVYDUTY400": {
-      "id": "HEAVYDUTY400",
+      "id": "HEAVY DUTY 400",
       "names": [
         {
           "name": "HEAVY DUTY 400",
@@ -32,7 +32,7 @@
       "sql_id": "16051"
     },
     "HEAVYDUTY500": {
-      "id": "HEAVYDUTY500",
+      "id": "HEAVY DUTY 500",
       "names": [
         {
           "name": "HEAVY DUTY 500",
@@ -42,7 +42,7 @@
       "sql_id": "12646"
     },
     "SMARTTRAILER300": {
-      "id": "SMARTTRAILER300",
+      "id": "SMART TRAILER 300",
       "names": [
         {
           "name": "SMART TRAILER 300",
@@ -52,7 +52,7 @@
       "sql_id": "12648"
     },
     "SMARTTRAILER750": {
-      "id": "SMARTTRAILER750",
+      "id": "SMART TRAILER 750",
       "names": [
         {
           "name": "SMART TRAILER 750",
