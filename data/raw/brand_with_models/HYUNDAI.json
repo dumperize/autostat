@@ -15,15 +15,6 @@
         }
     ],
     "models": {
-        "15G7M": {
-            "id": "15G7M",
-            "names": [
-                {
-                    "name": "15G7M",
-                    "threshold": 1
-                }
-            ]
-        },
         "ACCENT": {
             "id": "ACCENT",
             "names": [
@@ -698,15 +689,6 @@
                 },
                 {
                     "name": "H 100",
-                    "threshold": 1
-                }
-            ]
-        },
-        "R160LC": {
-            "id": "R160LC",
-            "names": [
-                {
-                    "name": "R160LC",
                     "threshold": 1
                 }
             ]

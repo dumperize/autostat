@@ -384,32 +384,6 @@
                 }
             ]
         },
-        "SEPHIA": {
-            "id": "SEPHIA",
-            "names": [
-                {
-                    "name": "SEPHIA",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "СЕПХИА",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "SHUMA": {
-            "id": "SHUMA",
-            "names": [
-                {
-                    "name": "SHUMA",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "СХУМА",
-                    "threshold": 0.85
-                }
-            ]
-        },
         "SORENTO": {
             "id": "SORENTO",
             "names": [
@@ -436,8 +410,8 @@
                 }
             ]
         },
-        "SPECTRA": {
-            "id": "SPECTRA",
+        "SPECTRA/SEPHIA/SHUMA": {
+            "id": "SPECTRA/SEPHIA/SHUMA",
             "names": [
                 {
                     "name": "SPECTRA",
@@ -446,22 +420,17 @@
                 {
                     "name": "СПЕКТРА",
                     "threshold": 0.85
-                }
-            ]
-        },
-        "SEPHIA/SHUMA": {
-            "id": "SEPHIA/SHUMA",
-            "names": [
+                },
                 {
                     "name": "SEPHIA",
                     "threshold": 0.85
                 },
                 {
-                    "name": "SHUMA",
+                    "name": "СЕПХИА",
                     "threshold": 0.85
                 },
                 {
-                    "name": "СЕПХИА",
+                    "name": "SHUMA",
                     "threshold": 0.85
                 },
                 {

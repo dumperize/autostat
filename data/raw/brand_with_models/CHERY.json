@@ -23,7 +23,7 @@
                     "threshold": 1
                 },
                 {
-                    "name": "BONUS/VERY",
+                    "name": "BONUS",
                     "threshold": 1
                 },
                 {
@@ -190,19 +190,6 @@
                 },
                 {
                     "name": "S21",
-                    "threshold": 1
-                }
-            ]
-        },
-        "SUV": {
-            "id": "SUV",
-            "names": [
-                {
-                    "name": "SUV",
-                    "threshold": 0.93
-                },
-                {
-                    "name": "T11",
                     "threshold": 1
                 }
             ]

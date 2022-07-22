@@ -99,8 +99,8 @@
                 }
             ]
         },
-        "DOKKER": {
-            "id": "DOKKER",
+        "DOKKERVP": {
+            "id": "DOKKERVP",
             "names": [
                 {
                     "name": "DOKKER",
@@ -190,8 +190,8 @@
                 }
             ]
         },
-        "KANGOO": {
-            "id": "KANGOO",
+        "KANGOOVP": {
+            "id": "KANGOOVP",
             "names": [
                 {
                     "name": "KANGOO",

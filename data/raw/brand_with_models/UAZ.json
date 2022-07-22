@@ -105,8 +105,20 @@
             "id": "3163PATRIOT",
             "names": [
                 {
+                    "name": "3163",
+                    "threshold": 1
+                },
+                {
                     "name": "3163 PATRIOT",
                     "threshold": 1
+                },
+                {
+                    "name": "PATRIOT",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ПАТРИОТ",
+                    "threshold": 0.85
                 }
             ]
         },
@@ -231,19 +243,6 @@
                 },
                 {
                     "name": "ПРОФИ",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "PATRIOT": {
-            "id": "PATRIOT",
-            "names": [
-                {
-                    "name": "PATRIOT",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ПАТРИОТ",
                     "threshold": 0.85
                 }
             ]

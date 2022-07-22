@@ -13,7 +13,6 @@ fastapi
 python-multipart
 boto3
 python-Levenshtein
-dotenv
 transliterate
 sklearn
 openpyxl

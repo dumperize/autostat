@@ -42,6 +42,14 @@
                 {
                     "name": "1118",
                     "threshold": 1
+                },
+                {
+                    "name": "KALINA",
+                    "threshold": 0.93
+                },
+                {
+                    "name": "КАЛИНА",
+                    "threshold": 0.93
                 }
             ]
         },
@@ -328,6 +336,14 @@
                 {
                     "name": "2190",
                     "threshold": 1
+                },
+                {
+                    "name": "GRANTA",
+                    "threshold": 0.85
+                },
+                {
+                    "name": "ГРАНТА",
+                    "threshold": 0.85
                 }
             ]
         },
@@ -437,41 +453,6 @@
                 }
             ]
         },
-        "GRANTA": {
-            "id": "GRANTA",
-            "names": [
-                {
-                    "name": "GRANTA",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ГРАНТА",
-                    "threshold": 0.85
-                }
-            ]
-        },
-        "KALINA": {
-            "id": "KALINA",
-            "names": [
-                {
-                    "name": "KALINA",
-                    "threshold": 0.93
-                }
-            ]
-        },
-        "LARGUS": {
-            "id": "LARGUS",
-            "names": [
-                {
-                    "name": "LARGUS",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ЛАРГУС",
-                    "threshold": 0.85
-                }
-            ]
-        },
         "NIVA": {
             "id": "NIVA",
             "names": [
@@ -521,12 +502,7 @@
                 {
                     "name": "ВЕСТА СW",
                     "threshold": 0.85
-                }
-            ]
-        },
-        "VESTA": {
-            "id": "VESTA",
-            "names": [
+                },
                 {
                     "name": "VESTA",
                     "threshold": 0.85

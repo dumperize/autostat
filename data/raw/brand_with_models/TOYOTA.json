@@ -302,19 +302,6 @@
                 }
             ]
         },
-        "CRESTA": {
-            "id": "CRESTA",
-            "names": [
-                {
-                    "name": "CRESTA",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "КРЕСТА",
-                    "threshold": 0.85
-                }
-            ]
-        },
         "CRESSIDA": {
             "id": "CRESSIDA",
             "names": [
@@ -399,19 +386,6 @@
                 {
                     "name": "ФАНКАРГО",
                     "threshold": 0.85
-                }
-            ]
-        },
-        "GAIA": {
-            "id": "GAIA",
-            "names": [
-                {
-                    "name": "GAIA",
-                    "threshold": 0.93
-                },
-                {
-                    "name": "ГАЙЯ",
-                    "threshold": 0.93
                 }
             ]
         },
@@ -859,19 +833,6 @@
                 {
                     "name": "RAV4",
                     "threshold": 0.93
-                }
-            ]
-        },
-        "REGIUS": {
-            "id": "REGIUS",
-            "names": [
-                {
-                    "name": "REGIUS",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "РЕГУС",
-                    "threshold": 0.85
                 }
             ]
         },

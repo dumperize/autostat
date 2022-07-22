@@ -416,19 +416,6 @@
                 }
             ]
         },
-        "TITAN": {
-            "id": "TITAN",
-            "names": [
-                {
-                    "name": "TITAN",
-                    "threshold": 0.85
-                },
-                {
-                    "name": "ТИТАН",
-                    "threshold": 0.85
-                }
-            ]
-        },
         "TRIBUTE": {
             "id": "TRIBUTE",
             "names": [
